@@ -1,0 +1,292 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 5236,
+                        "errorMessage": "",
+                        "functionName": "size",
+                        "line": 25
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 173,
+                        "errorMessage": "",
+                        "functionName": "_reticleSpacing",
+                        "line": 27
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 135,
+                        "errorMessage": "",
+                        "functionName": "_reticleSlot",
+                        "line": 28
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 112,
+                        "errorMessage": "",
+                        "functionName": "_longDash",
+                        "line": 29
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 122,
+                        "errorMessage": "",
+                        "functionName": "_shortDash",
+                        "line": 30
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 169,
+                        "errorMessage": "",
+                        "functionName": "_fontSize",
+                        "line": 31
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 13,
+                        "durationMicroseconds": 57,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 33
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 13,
+                        "durationMicroseconds": 52,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 34
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 31,
+                        "durationMicroseconds": 179,
+                        "errorMessage": "",
+                        "functionName": "horizontalCenter",
+                        "line": 35
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 31,
+                        "durationMicroseconds": 151,
+                        "errorMessage": "",
+                        "functionName": "verticalCenter",
+                        "line": 36
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 17,
+                        "durationMicroseconds": 108,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 39
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 17,
+                        "durationMicroseconds": 109,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 40
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 22,
+                        "durationMicroseconds": 50,
+                        "errorMessage": "Cannot access value for name _reticleSpacing",
+                        "functionName": "spacing",
+                        "line": 44
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 39,
+                        "durationMicroseconds": 169,
+                        "errorMessage": "",
+                        "functionName": "horizontalCenter",
+                        "line": 42
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 39,
+                        "durationMicroseconds": 156,
+                        "errorMessage": "",
+                        "functionName": "verticalCenter",
+                        "line": 43
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 42,
+                        "durationMicroseconds": 333,
+                        "errorMessage": "Cannot access value for name modelData",
+                        "functionName": "_pitch",
+                        "line": 48
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 28,
+                        "durationMicroseconds": 98,
+                        "errorMessage": "Cannot access value for name _longDash",
+                        "functionName": "width",
+                        "line": 50
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 44,
+                        "errorMessage": "Cannot access value for name _reticleHeight",
+                        "functionName": "height",
+                        "line": 51
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 47,
+                        "durationMicroseconds": 179,
+                        "errorMessage": "",
+                        "functionName": "horizontalCenter",
+                        "line": 49
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 31,
+                        "durationMicroseconds": 45,
+                        "errorMessage": "Cannot access value for name _pitch",
+                        "functionName": "text",
+                        "line": 62
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 34,
+                        "durationMicroseconds": 35,
+                        "errorMessage": "Cannot access value for name _pitch",
+                        "functionName": "visible",
+                        "line": 64
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 51,
+                        "durationMicroseconds": 165,
+                        "errorMessage": "",
+                        "functionName": "horizontalCenter",
+                        "line": 56
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 57,
+                        "durationMicroseconds": 48,
+                        "errorMessage": "Cannot access value for name _longDash",
+                        "functionName": "horizontalCenterOffset",
+                        "line": 57
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 162,
+                        "errorMessage": "",
+                        "functionName": "verticalCenter",
+                        "line": 58
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 44,
+                        "errorMessage": "Cannot access value for name _fontSize",
+                        "functionName": "pointSize",
+                        "line": 61
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 31,
+                        "durationMicroseconds": 36,
+                        "errorMessage": "Cannot access value for name _pitch",
+                        "functionName": "text",
+                        "line": 73
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 34,
+                        "durationMicroseconds": 51,
+                        "errorMessage": "Cannot access value for name _pitch",
+                        "functionName": "visible",
+                        "line": 75
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 51,
+                        "durationMicroseconds": 190,
+                        "errorMessage": "",
+                        "functionName": "horizontalCenter",
+                        "line": 67
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 57,
+                        "durationMicroseconds": 46,
+                        "errorMessage": "Cannot access value for name _longDash",
+                        "functionName": "horizontalCenterOffset",
+                        "line": 68
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 187,
+                        "errorMessage": "",
+                        "functionName": "verticalCenter",
+                        "line": 69
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 43,
+                        "errorMessage": "Cannot access value for name _fontSize",
+                        "functionName": "pointSize",
+                        "line": 72
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 20,
+                        "durationMicroseconds": 38,
+                        "errorMessage": "Cannot access value for name pitchAngle",
+                        "functionName": "y",
+                        "line": 81
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 23,
+                        "durationMicroseconds": 27,
+                        "errorMessage": "Cannot access value for name rollAngle",
+                        "functionName": "angle",
+                        "line": 88
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 23,
+                        "durationMicroseconds": 26,
+                        "errorMessage": "Cannot access value for name width",
+                        "functionName": "x",
+                        "line": 86
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 23,
+                        "durationMicroseconds": 21,
+                        "errorMessage": "Cannot access value for name height",
+                        "functionName": "y",
+                        "line": 87
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/FlightMap/Widgets/QGCPitchIndicator.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.FlightMap(FlightMapModule)"
+    }
+]

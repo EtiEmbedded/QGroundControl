@@ -1,0 +1,132 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 27,
+                        "durationMicroseconds": 396,
+                        "errorMessage": "",
+                        "functionName": "fillMode",
+                        "line": 45
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 38,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"checkedChanged\".",
+                        "functionName": "onCheckedChanged",
+                        "line": 74
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 30,
+                        "durationMicroseconds": 141,
+                        "errorMessage": "",
+                        "functionName": "fillMode",
+                        "line": 93
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 32,
+                        "durationMicroseconds": 47,
+                        "errorMessage": "Cannot access value for name s",
+                        "functionName": "x",
+                        "line": 128
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 32,
+                        "durationMicroseconds": 30,
+                        "errorMessage": "Cannot access value for name s",
+                        "functionName": "y",
+                        "line": 129
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 36,
+                        "durationMicroseconds": 17,
+                        "errorMessage": "Cannot access value for name s",
+                        "functionName": "width",
+                        "line": 130
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 17,
+                        "errorMessage": "Cannot access value for name s",
+                        "functionName": "height",
+                        "line": 131
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 28,
+                        "errorMessage": "Cannot access value for name height",
+                        "functionName": "radius",
+                        "line": 132
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 32,
+                        "durationMicroseconds": 32,
+                        "errorMessage": "Cannot access value for name s",
+                        "functionName": "y",
+                        "line": 140
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 32,
+                        "durationMicroseconds": 24,
+                        "errorMessage": "Cannot access value for name s",
+                        "functionName": "x",
+                        "line": 141
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 43,
+                        "durationMicroseconds": 125,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 281
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 31,
+                        "durationMicroseconds": 135,
+                        "errorMessage": "",
+                        "functionName": "fillMode",
+                        "line": 290
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 43,
+                        "durationMicroseconds": 88,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 310
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 31,
+                        "durationMicroseconds": 653,
+                        "errorMessage": "",
+                        "functionName": "fillMode",
+                        "line": 319
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 27,
+                        "durationMicroseconds": 202,
+                        "errorMessage": "",
+                        "functionName": "fillMode",
+                        "line": 347
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/UI/SideMenu_Motors.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.MainWindow(MainWindowModule)"
+    }
+]

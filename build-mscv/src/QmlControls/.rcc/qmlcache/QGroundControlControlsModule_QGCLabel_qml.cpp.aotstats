@@ -1,0 +1,44 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 21,
+                        "durationMicroseconds": 532,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 11
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 21,
+                        "durationMicroseconds": 8339,
+                        "errorMessage": "",
+                        "functionName": "pointSize",
+                        "line": 9
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 21,
+                        "durationMicroseconds": 188,
+                        "errorMessage": "",
+                        "functionName": "family",
+                        "line": 10
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 63,
+                        "errorMessage": "Cannot access value for name enabled",
+                        "functionName": "colorGroupEnabled",
+                        "line": 14
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/QmlControls/QGCLabel.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.Controls(QGroundControlControlsModule)"
+    }
+]

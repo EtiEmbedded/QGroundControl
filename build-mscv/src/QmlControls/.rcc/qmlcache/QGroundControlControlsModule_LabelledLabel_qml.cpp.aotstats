@@ -1,0 +1,28 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 14,
+                        "durationMicroseconds": 8144,
+                        "errorMessage": "",
+                        "functionName": "spacing",
+                        "line": 22
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 87,
+                        "errorMessage": "Cannot access value for name labelPreferredWidth",
+                        "functionName": "preferredWidth",
+                        "line": 31
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/QmlControls/LabelledLabel.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.Controls(QGroundControlControlsModule)"
+    }
+]

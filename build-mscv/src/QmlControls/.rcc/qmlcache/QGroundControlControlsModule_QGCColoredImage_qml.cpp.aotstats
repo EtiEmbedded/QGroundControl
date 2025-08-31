@@ -1,0 +1,76 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 13,
+                        "durationMicroseconds": 694,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 25
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 13,
+                        "durationMicroseconds": 209,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 26
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 219,
+                        "errorMessage": "",
+                        "functionName": "fillMode",
+                        "line": 34
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 172,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 35
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 144,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 36
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 174,
+                        "errorMessage": "",
+                        "functionName": "source",
+                        "line": 41
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 181,
+                        "errorMessage": "Cannot load property color from (component in C:/Users/User/qgroundcontrol/src/QmlControls/QGCColoredImage.qml)::parent with type QQuickItem.",
+                        "functionName": "color",
+                        "line": 42
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 162,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 40
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/QmlControls/QGCColoredImage.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.Controls(QGroundControlControlsModule)"
+    }
+]

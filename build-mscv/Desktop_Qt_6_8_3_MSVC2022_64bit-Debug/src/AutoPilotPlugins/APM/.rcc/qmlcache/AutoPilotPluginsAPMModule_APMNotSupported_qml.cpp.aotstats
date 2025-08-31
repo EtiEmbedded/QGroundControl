@@ -1,0 +1,36 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 282,
+                        "errorMessage": "",
+                        "functionName": "horizontalAlignment",
+                        "line": 19
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 116,
+                        "errorMessage": "",
+                        "functionName": "verticalAlignment",
+                        "line": 20
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 174,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 17
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/AutoPilotPlugins/APM/APMNotSupported.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.AutoPilotPlugins.APM(AutoPilotPluginsAPMModule)"
+    }
+]

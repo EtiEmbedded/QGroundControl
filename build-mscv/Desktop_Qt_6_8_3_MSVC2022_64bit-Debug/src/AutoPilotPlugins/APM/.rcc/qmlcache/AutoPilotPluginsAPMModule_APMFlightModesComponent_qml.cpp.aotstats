@@ -1,0 +1,636 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 21,
+                        "durationMicroseconds": 305,
+                        "errorMessage": "",
+                        "functionName": "pageComponent",
+                        "line": 25
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 44,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: controller",
+                        "functionName": "_modeChannelParam",
+                        "line": 27
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 22,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: controller",
+                        "functionName": "_modeParamPrefix",
+                        "line": 28
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 534,
+                        "errorMessage": "Cannot generate efficient code for storing an array in a non-sequence type",
+                        "functionName": "_pwmStrings",
+                        "line": 29
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 4924,
+                        "errorMessage": "",
+                        "functionName": "_margins",
+                        "line": 31
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 48,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: controller",
+                        "functionName": "_fltmodeChExists",
+                        "line": 33
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Cannot resolve property type Fact for binding on _fltmodeCh.",
+                        "functionName": "_fltmodeCh",
+                        "line": 34
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 25,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: controller",
+                        "functionName": "_ch7OptAvailable",
+                        "line": 35
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 180,
+                        "errorMessage": "",
+                        "functionName": "_rcOptionStart",
+                        "line": 36
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 129,
+                        "errorMessage": "",
+                        "functionName": "_rcOptionStop",
+                        "line": 37
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 26,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: controller",
+                        "functionName": "_customSimpleMode",
+                        "line": 38
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 50,
+                        "errorMessage": "Cannot access value for name availableWidth",
+                        "functionName": "width",
+                        "line": 51
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 26,
+                        "durationMicroseconds": 22,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "spacing",
+                        "line": 52
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 26,
+                        "durationMicroseconds": 29,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "spacing",
+                        "line": 55
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 78,
+                        "errorMessage": "Cannot access value for name _fltmodeChExists",
+                        "functionName": "text",
+                        "line": 59
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 72,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "width",
+                        "line": 65
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 352,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 66
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 38,
+                        "errorMessage": "Cannot access value for name qgcPal",
+                        "functionName": "color",
+                        "line": 67
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 108,
+                        "errorMessage": "",
+                        "functionName": "spacing",
+                        "line": 74
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 101,
+                        "errorMessage": "",
+                        "functionName": "margins",
+                        "line": 71
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 192,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 72
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 177,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 73
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 50,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "spacing",
+                        "line": 77
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 40,
+                        "errorMessage": "Cannot access value for name _fltmodeChExists",
+                        "functionName": "visible",
+                        "line": 78
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 168,
+                        "errorMessage": "",
+                        "functionName": "baseline",
+                        "line": 82
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 193,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 88
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 1167,
+                        "errorMessage": "Cannot generate efficient code for storing an array in a non-sequence type",
+                        "functionName": "model",
+                        "line": 89
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 77,
+                        "errorMessage": "Cannot access value for name _fltmodeCh",
+                        "functionName": "currentIndex",
+                        "line": 93
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 47,
+                        "durationMicroseconds": 41,
+                        "errorMessage": "Cannot access value for name _fltmodeCh",
+                        "functionName": "onActivated",
+                        "line": 94
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 47,
+                        "durationMicroseconds": 67,
+                        "errorMessage": "",
+                        "functionName": "onActivated",
+                        "line": 94
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 52,
+                        "errorMessage": "Cannot access value for name _customSimpleMode",
+                        "functionName": "rows",
+                        "line": 99
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 154,
+                        "errorMessage": "",
+                        "functionName": "flow",
+                        "line": 100
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 59,
+                        "durationMicroseconds": 40,
+                        "errorMessage": "Cannot access value for name _customSimpleMode",
+                        "functionName": "visible",
+                        "line": 102
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 257,
+                        "errorMessage": "",
+                        "functionName": "text",
+                        "line": 107
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 52,
+                        "errorMessage": "Cannot access value for name controller",
+                        "functionName": "color",
+                        "line": 108
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 57,
+                        "durationMicroseconds": 553,
+                        "errorMessage": "Cannot access value for name modelData",
+                        "functionName": "index",
+                        "line": 110
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 59,
+                        "durationMicroseconds": 40,
+                        "errorMessage": "Cannot access value for name _customSimpleMode",
+                        "functionName": "visible",
+                        "line": 114
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 61,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Cannot resolve property type Fact for binding on fact.",
+                        "functionName": "fact",
+                        "line": 120
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 57,
+                        "durationMicroseconds": 671,
+                        "errorMessage": "Cannot access value for name modelData",
+                        "functionName": "index",
+                        "line": 123
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 61,
+                        "durationMicroseconds": 255,
+                        "errorMessage": "",
+                        "functionName": "preferredWidth",
+                        "line": 119
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 51,
+                        "errorMessage": "Cannot access value for name _customSimpleMode",
+                        "functionName": "visible",
+                        "line": 130
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 96,
+                        "errorMessage": "",
+                        "functionName": "pointSize",
+                        "line": 129
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 42,
+                        "errorMessage": "Cannot access value for name controller",
+                        "functionName": "model",
+                        "line": 133
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 57,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"visible\".",
+                        "functionName": "visible",
+                        "line": 136
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 57,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"checked\".",
+                        "functionName": "checked",
+                        "line": 137
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 57,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"clicked\".",
+                        "functionName": "onClicked",
+                        "line": 138
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 57,
+                        "durationMicroseconds": 126,
+                        "errorMessage": "",
+                        "functionName": "alignment",
+                        "line": 135
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 44,
+                        "errorMessage": "Cannot access value for name _customSimpleMode",
+                        "functionName": "visible",
+                        "line": 145
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 94,
+                        "errorMessage": "",
+                        "functionName": "pointSize",
+                        "line": 144
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 38,
+                        "errorMessage": "Cannot access value for name controller",
+                        "functionName": "model",
+                        "line": 148
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 57,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"visible\".",
+                        "functionName": "visible",
+                        "line": 151
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 57,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"checked\".",
+                        "functionName": "checked",
+                        "line": 152
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 57,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"clicked\".",
+                        "functionName": "onClicked",
+                        "line": 153
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 57,
+                        "durationMicroseconds": 102,
+                        "errorMessage": "",
+                        "functionName": "alignment",
+                        "line": 150
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 59,
+                        "durationMicroseconds": 40,
+                        "errorMessage": "Cannot access value for name _customSimpleMode",
+                        "functionName": "visible",
+                        "line": 157
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 50,
+                        "durationMicroseconds": 37,
+                        "errorMessage": "Cannot access value for name _pwmStrings",
+                        "functionName": "text",
+                        "line": 161
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 38,
+                        "durationMicroseconds": 35,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "spacing",
+                        "line": 166
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 38,
+                        "durationMicroseconds": 33,
+                        "errorMessage": "Cannot access value for name controller",
+                        "functionName": "visible",
+                        "line": 167
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 51,
+                        "errorMessage": "Cannot access value for name controller",
+                        "functionName": "model",
+                        "line": 172
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 33,
+                        "errorMessage": "Cannot access value for name controller",
+                        "functionName": "currentIndex",
+                        "line": 173
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 47,
+                        "durationMicroseconds": 38,
+                        "errorMessage": "Cannot access value for name controller",
+                        "functionName": "onActivated",
+                        "line": 174
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 47,
+                        "durationMicroseconds": 63,
+                        "errorMessage": "",
+                        "functionName": "onActivated",
+                        "line": 174
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 26,
+                        "durationMicroseconds": 28,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "spacing",
+                        "line": 182
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 57,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "width",
+                        "line": 192
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 316,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 193
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 35,
+                        "errorMessage": "Cannot access value for name qgcPal",
+                        "functionName": "color",
+                        "line": 194
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 93,
+                        "errorMessage": "",
+                        "functionName": "spacing",
+                        "line": 201
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 105,
+                        "errorMessage": "",
+                        "functionName": "margins",
+                        "line": 198
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 148,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 199
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 127,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 200
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 36,
+                        "durationMicroseconds": 38,
+                        "errorMessage": "Cannot access value for name _rcOptionStop",
+                        "functionName": "model",
+                        "line": 204
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 42,
+                        "durationMicroseconds": 89,
+                        "errorMessage": "",
+                        "functionName": "spacing",
+                        "line": 207
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 395,
+                        "errorMessage": "Cannot access value for name modelData",
+                        "functionName": "index",
+                        "line": 209
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 57,
+                        "durationMicroseconds": 74,
+                        "errorMessage": "Cannot access value for name index",
+                        "functionName": "text",
+                        "line": 214
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 57,
+                        "durationMicroseconds": 43,
+                        "errorMessage": "Cannot access value for name controller",
+                        "functionName": "color",
+                        "line": 215
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 57,
+                        "durationMicroseconds": 183,
+                        "errorMessage": "",
+                        "functionName": "baseline",
+                        "line": 213
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 185,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 220
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Cannot resolve property type Fact for binding on fact.",
+                        "functionName": "fact",
+                        "line": 221
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/AutoPilotPlugins/APM/APMFlightModesComponent.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.AutoPilotPlugins.APM(AutoPilotPluginsAPMModule)"
+    }
+]

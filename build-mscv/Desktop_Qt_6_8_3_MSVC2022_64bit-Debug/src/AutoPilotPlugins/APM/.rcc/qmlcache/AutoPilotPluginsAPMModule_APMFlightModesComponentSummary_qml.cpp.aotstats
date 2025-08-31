@@ -1,0 +1,140 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 107,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: controller",
+                        "functionName": "_vehicle",
+                        "line": 15
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 32,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: controller",
+                        "functionName": "_roverFirmware",
+                        "line": 16
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 32,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Cannot resolve property type Fact for binding on flightMode1.",
+                        "functionName": "flightMode1",
+                        "line": 18
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 32,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Cannot resolve property type Fact for binding on flightMode2.",
+                        "functionName": "flightMode2",
+                        "line": 19
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 32,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Cannot resolve property type Fact for binding on flightMode3.",
+                        "functionName": "flightMode3",
+                        "line": 20
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 32,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Cannot resolve property type Fact for binding on flightMode4.",
+                        "functionName": "flightMode4",
+                        "line": 21
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 32,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Cannot resolve property type Fact for binding on flightMode5.",
+                        "functionName": "flightMode5",
+                        "line": 22
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 32,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Cannot resolve property type Fact for binding on flightMode6.",
+                        "functionName": "flightMode6",
+                        "line": 23
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 21,
+                        "durationMicroseconds": 210,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 11
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 79,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 26
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 24,
+                        "durationMicroseconds": 52,
+                        "errorMessage": "Cannot access value for name flightMode1",
+                        "functionName": "valueText",
+                        "line": 30
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 24,
+                        "durationMicroseconds": 27,
+                        "errorMessage": "Cannot access value for name flightMode2",
+                        "functionName": "valueText",
+                        "line": 35
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 24,
+                        "durationMicroseconds": 23,
+                        "errorMessage": "Cannot access value for name flightMode3",
+                        "functionName": "valueText",
+                        "line": 40
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 24,
+                        "durationMicroseconds": 23,
+                        "errorMessage": "Cannot access value for name flightMode4",
+                        "functionName": "valueText",
+                        "line": 45
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 24,
+                        "durationMicroseconds": 23,
+                        "errorMessage": "Cannot access value for name flightMode5",
+                        "functionName": "valueText",
+                        "line": 50
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 24,
+                        "durationMicroseconds": 23,
+                        "errorMessage": "Cannot access value for name flightMode6",
+                        "functionName": "valueText",
+                        "line": 55
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/AutoPilotPlugins/APM/APMFlightModesComponentSummary.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.AutoPilotPlugins.APM(AutoPilotPluginsAPMModule)"
+    }
+]

@@ -1,0 +1,156 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 13,
+                        "durationMicroseconds": 1256,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 21
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 13,
+                        "durationMicroseconds": 511,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 22
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 13,
+                        "durationMicroseconds": 280,
+                        "errorMessage": "",
+                        "functionName": "z",
+                        "line": 23
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 7809,
+                        "errorMessage": "",
+                        "functionName": "_radius",
+                        "line": 27
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 272,
+                        "errorMessage": "",
+                        "functionName": "_margins",
+                        "line": 28
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 28,
+                        "durationMicroseconds": 1117,
+                        "errorMessage": "Type conversion to QVariant does not have a property parent for writing",
+                        "functionName": "onCompleted",
+                        "line": 30
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 78,
+                        "errorMessage": "Cannot access value for name _radius",
+                        "functionName": "radius",
+                        "line": 45
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 417,
+                        "errorMessage": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: QGCPalette::toolbarBackground with type QColor (stored as QVariant) -> QGCPalette::toolbarBackground with type QColor (stored as QVariant)",
+                        "functionName": "color",
+                        "line": 46
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 26,
+                        "durationMicroseconds": 119,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 44
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 270,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 55
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 183,
+                        "errorMessage": "",
+                        "functionName": "flickableDirection",
+                        "line": 57
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 161,
+                        "errorMessage": "",
+                        "functionName": "contentWidth",
+                        "line": 58
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 65,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "margins",
+                        "line": 51
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 264,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 52
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 233,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 53
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 226,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 54
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 51,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "spacing",
+                        "line": 62
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 1113,
+                        "errorMessage": "Cannot access value for name _instructionText",
+                        "functionName": "text",
+                        "line": 71
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/QmlControls/PlanEditToolbar.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.Controls(QGroundControlControlsModule)"
+    }
+]

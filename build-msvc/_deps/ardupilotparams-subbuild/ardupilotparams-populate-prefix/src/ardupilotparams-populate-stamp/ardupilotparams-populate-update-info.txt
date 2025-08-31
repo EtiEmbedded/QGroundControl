@@ -1,0 +1,7 @@
+# This is a generated file and its contents are an internal implementation detail.
+# The patch step will be re-executed if anything in this file changes.
+# No other meaning or use of this file is supported.
+
+command (connected)=C:/Qt/Tools/CMake_64/bin/cmake.exe;-Dcan_fetch=YES;-DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE;-P;C:/Users/User/qgroundcontrol/build-msvc/_deps/ardupilotparams-subbuild/ardupilotparams-populate-prefix/tmp/ardupilotparams-populate-gitupdate.cmake
+command (disconnected)=C:/Qt/Tools/CMake_64/bin/cmake.exe;-Dcan_fetch=NO;-DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE;-P;C:/Users/User/qgroundcontrol/build-msvc/_deps/ardupilotparams-subbuild/ardupilotparams-populate-prefix/tmp/ardupilotparams-populate-gitupdate.cmake
+work_dir=C:/Users/User/qgroundcontrol/build-msvc/cpm_modules/ardupilotparams/99f31686265f851862b674590cdea924986f3f8b

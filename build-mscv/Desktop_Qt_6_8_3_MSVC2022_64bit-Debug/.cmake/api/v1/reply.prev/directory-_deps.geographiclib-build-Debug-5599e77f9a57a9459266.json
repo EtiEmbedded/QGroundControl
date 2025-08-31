@@ -1,0 +1,70 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install",
+			"include"
+		],
+		"files" : 
+		[
+			"C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/InstallRequiredSystemLibraries.cmake",
+			"build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/cpm_modules/geographiclib/51aa4b8613d10fb7df90868d67906d2da5631520/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 511,
+				"parent" : 0
+			},
+			{
+				"file" : 0,
+				"parent" : 1
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 798,
+				"parent" : 2
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"destination" : "bin",
+			"paths" : 
+			[
+				"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Redist/MSVC/14.44.35112/x64/Microsoft.VC143.CRT/msvcp140.dll",
+				"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Redist/MSVC/14.44.35112/x64/Microsoft.VC143.CRT/msvcp140_1.dll",
+				"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Redist/MSVC/14.44.35112/x64/Microsoft.VC143.CRT/msvcp140_2.dll",
+				"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Redist/MSVC/14.44.35112/x64/Microsoft.VC143.CRT/msvcp140_atomic_wait.dll",
+				"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Redist/MSVC/14.44.35112/x64/Microsoft.VC143.CRT/msvcp140_codecvt_ids.dll",
+				"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Redist/MSVC/14.44.35112/x64/Microsoft.VC143.CRT/vcruntime140_1.dll",
+				"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Redist/MSVC/14.44.35112/x64/Microsoft.VC143.CRT/vcruntime140.dll",
+				"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Redist/MSVC/14.44.35112/x64/Microsoft.VC143.CRT/concrt140.dll",
+				"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Redist/MSVC/14.44.35112/Debug_NonRedist/x64/Microsoft.VC143.DebugCRT/msvcp140d.dll",
+				"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Redist/MSVC/14.44.35112/Debug_NonRedist/x64/Microsoft.VC143.DebugCRT/msvcp140_1d.dll",
+				"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Redist/MSVC/14.44.35112/Debug_NonRedist/x64/Microsoft.VC143.DebugCRT/msvcp140_2d.dll",
+				"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Redist/MSVC/14.44.35112/Debug_NonRedist/x64/Microsoft.VC143.DebugCRT/msvcp140d_atomic_wait.dll",
+				"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Redist/MSVC/14.44.35112/Debug_NonRedist/x64/Microsoft.VC143.DebugCRT/msvcp140d_codecvt_ids.dll",
+				"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Redist/MSVC/14.44.35112/Debug_NonRedist/x64/Microsoft.VC143.DebugCRT/vcruntime140_1d.dll",
+				"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Redist/MSVC/14.44.35112/Debug_NonRedist/x64/Microsoft.VC143.DebugCRT/vcruntime140d.dll",
+				"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Redist/MSVC/14.44.35112/Debug_NonRedist/x64/Microsoft.VC143.DebugCRT/concrt140d.dll"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "_deps/geographiclib-build",
+		"source" : "build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/cpm_modules/geographiclib/51aa4b8613d10fb7df90868d67906d2da5631520"
+	}
+}

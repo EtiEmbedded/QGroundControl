@@ -1,0 +1,100 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 32787,
+                        "errorMessage": "Cannot load property fakeMobile from ScreenTools stored as QQuickItem.",
+                        "functionName": "_enabled",
+                        "line": 21
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 5,
+                        "durationMicroseconds": 2190,
+                        "errorMessage": "",
+                        "functionName": "_setDefaultDesktopWindowSize",
+                        "line": 34
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 710,
+                        "errorMessage": "Cannot access value for name ApplicationWindow",
+                        "functionName": "saveSettings",
+                        "line": 78
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 28,
+                        "durationMicroseconds": 1175,
+                        "errorMessage": "Cannot load property fakeMobile from ScreenTools stored as QQuickItem.",
+                        "functionName": "onCompleted",
+                        "line": 39
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 65,
+                        "errorMessage": "Cannot access value for name window",
+                        "functionName": "target",
+                        "line": 63
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 9,
+                        "durationMicroseconds": 61,
+                        "errorMessage": "Cannot access value for name _enabled",
+                        "functionName": "onXChanged",
+                        "line": 64
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 9,
+                        "durationMicroseconds": 47,
+                        "errorMessage": "Cannot access value for name _enabled",
+                        "functionName": "onYChanged",
+                        "line": 65
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 9,
+                        "durationMicroseconds": 59,
+                        "errorMessage": "Cannot access value for name _enabled",
+                        "functionName": "onWidthChanged",
+                        "line": 66
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 9,
+                        "durationMicroseconds": 37,
+                        "errorMessage": "Cannot access value for name _enabled",
+                        "functionName": "onHeightChanged",
+                        "line": 67
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 9,
+                        "durationMicroseconds": 44,
+                        "errorMessage": "Cannot access value for name _enabled",
+                        "functionName": "onVisibilityChanged",
+                        "line": 68
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 190,
+                        "errorMessage": "method saveSettings cannot be resolved.",
+                        "functionName": "onTriggered",
+                        "line": 75
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/QmlControls/MainWindowSavedState.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.Controls(QGroundControlControlsModule)"
+    }
+]

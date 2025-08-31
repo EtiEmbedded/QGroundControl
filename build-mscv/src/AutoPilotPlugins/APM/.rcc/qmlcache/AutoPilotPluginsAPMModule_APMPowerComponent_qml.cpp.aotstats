@@ -1,0 +1,1316 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 21,
+                        "durationMicroseconds": 288,
+                        "errorMessage": "",
+                        "functionName": "pageComponent",
+                        "line": 25
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 79,
+                        "errorMessage": "Cannot access value for name availableWidth",
+                        "functionName": "width",
+                        "line": 36
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 35,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "spacing",
+                        "line": 37
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 47,
+                        "errorMessage": "Cannot access value for name controller",
+                        "functionName": "_batt1Monitor",
+                        "line": 39
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 39,
+                        "errorMessage": "Cannot access value for name controller",
+                        "functionName": "_batt2Monitor",
+                        "line": 40
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 48,
+                        "errorMessage": "Cannot access value for name controller",
+                        "functionName": "_batt2MonitorAvailable",
+                        "line": 41
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 372,
+                        "errorMessage": "",
+                        "functionName": "_batt1MonitorEnabled",
+                        "line": 42
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 365,
+                        "errorMessage": "",
+                        "functionName": "_batt2MonitorEnabled",
+                        "line": 43
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 54,
+                        "errorMessage": "Cannot access value for name controller",
+                        "functionName": "_batt1ParamsAvailable",
+                        "line": 44
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 46,
+                        "errorMessage": "Cannot access value for name controller",
+                        "functionName": "_batt2ParamsAvailable",
+                        "line": 45
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 165,
+                        "errorMessage": "",
+                        "functionName": "_showBatt1Reboot",
+                        "line": 46
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 145,
+                        "errorMessage": "",
+                        "functionName": "_showBatt2Reboot",
+                        "line": 47
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 43,
+                        "errorMessage": "Cannot access value for name controller",
+                        "functionName": "_escCalibrationAvailable",
+                        "line": 48
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 46,
+                        "errorMessage": "Cannot access value for name controller",
+                        "functionName": "_escCalibration",
+                        "line": 49
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 26,
+                        "durationMicroseconds": 33,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "spacing",
+                        "line": 57
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 26,
+                        "durationMicroseconds": 26,
+                        "errorMessage": "Cannot access value for name _batt1MonitorEnabled",
+                        "functionName": "visible",
+                        "line": 58
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 87,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "width",
+                        "line": 66
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 93,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "height",
+                        "line": 67
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 169,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 68
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 5340,
+                        "errorMessage": "",
+                        "functionName": "spacing",
+                        "line": 75
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 74,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "margins",
+                        "line": 72
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 207,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 73
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 151,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 74
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 105,
+                        "errorMessage": "",
+                        "functionName": "spacing",
+                        "line": 79
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 61,
+                        "errorMessage": "Cannot access value for name _batt1Monitor",
+                        "functionName": "fact",
+                        "line": 84
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 35,
+                        "errorMessage": "Cannot access value for name _restartRequired",
+                        "functionName": "text",
+                        "line": 91
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 31,
+                        "errorMessage": "Cannot access value for name _showBatt1Reboot",
+                        "functionName": "visible",
+                        "line": 92
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"visible\".",
+                        "functionName": "visible",
+                        "line": 97
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"clicked\".",
+                        "functionName": "onClicked",
+                        "line": 98
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 35,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "spacing",
+                        "line": 107
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 44,
+                        "errorMessage": "Cannot access value for name _batt1MonitorEnabled",
+                        "functionName": "visible",
+                        "line": 108
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 97,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "width",
+                        "line": 116
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 75,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "height",
+                        "line": 117
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 177,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 118
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 93,
+                        "errorMessage": "Cannot access value for name powerSetupComponent",
+                        "functionName": "sourceComponent",
+                        "line": 125
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 57,
+                        "durationMicroseconds": 60,
+                        "errorMessage": "Cannot access value for name controller",
+                        "functionName": "armVoltMin",
+                        "line": 127
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 57,
+                        "durationMicroseconds": 40,
+                        "errorMessage": "Cannot access value for name controller",
+                        "functionName": "battAmpPerVolt",
+                        "line": 128
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 57,
+                        "durationMicroseconds": 41,
+                        "errorMessage": "Cannot access value for name controller",
+                        "functionName": "battAmpOffset",
+                        "line": 129
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 57,
+                        "durationMicroseconds": 42,
+                        "errorMessage": "Cannot access value for name controller",
+                        "functionName": "battCapacity",
+                        "line": 130
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 57,
+                        "durationMicroseconds": 52,
+                        "errorMessage": "Cannot access value for name controller",
+                        "functionName": "battCurrPin",
+                        "line": 131
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 57,
+                        "durationMicroseconds": 56,
+                        "errorMessage": "Cannot access value for name controller",
+                        "functionName": "battMonitor",
+                        "line": 132
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 57,
+                        "durationMicroseconds": 44,
+                        "errorMessage": "Cannot access value for name controller",
+                        "functionName": "battVoltMult",
+                        "line": 133
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 57,
+                        "durationMicroseconds": 46,
+                        "errorMessage": "Cannot access value for name controller",
+                        "functionName": "battVoltPin",
+                        "line": 134
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 65,
+                        "durationMicroseconds": 76,
+                        "errorMessage": "Cannot access value for name controller",
+                        "functionName": "_batteryFactGroup",
+                        "line": 135
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 57,
+                        "durationMicroseconds": 136,
+                        "errorMessage": "Cannot load property voltage from (component in C:/Users/User/qgroundcontrol/src/AutoPilotPlugins/APM/APMPowerComponent.qml)::_batteryFactGroup with type FactGroup.",
+                        "functionName": "vehicleVoltage",
+                        "line": 136
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 57,
+                        "durationMicroseconds": 66,
+                        "errorMessage": "Cannot load property current from (component in C:/Users/User/qgroundcontrol/src/AutoPilotPlugins/APM/APMPowerComponent.qml)::_batteryFactGroup with type FactGroup.",
+                        "functionName": "vehicleCurrent",
+                        "line": 137
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 51,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "margins",
+                        "line": 122
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 276,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 123
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 172,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 124
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 26,
+                        "durationMicroseconds": 42,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "spacing",
+                        "line": 144
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 26,
+                        "durationMicroseconds": 30,
+                        "errorMessage": "Cannot access value for name _batt2MonitorEnabled",
+                        "functionName": "visible",
+                        "line": 145
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 167,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "width",
+                        "line": 153
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 81,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "height",
+                        "line": 154
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 265,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 155
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 121,
+                        "errorMessage": "",
+                        "functionName": "spacing",
+                        "line": 162
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 63,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "margins",
+                        "line": 159
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 156,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 160
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 210,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 161
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 112,
+                        "errorMessage": "",
+                        "functionName": "spacing",
+                        "line": 166
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 54,
+                        "errorMessage": "Cannot access value for name _batt2Monitor",
+                        "functionName": "fact",
+                        "line": 171
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 39,
+                        "errorMessage": "Cannot access value for name _restartRequired",
+                        "functionName": "text",
+                        "line": 178
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 30,
+                        "errorMessage": "Cannot access value for name _showBatt2Reboot",
+                        "functionName": "visible",
+                        "line": 179
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"visible\".",
+                        "functionName": "visible",
+                        "line": 184
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"clicked\".",
+                        "functionName": "onClicked",
+                        "line": 185
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 36,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "spacing",
+                        "line": 194
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 28,
+                        "errorMessage": "Cannot access value for name _batt2MonitorEnabled",
+                        "functionName": "visible",
+                        "line": 195
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 98,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "width",
+                        "line": 203
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 99,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "height",
+                        "line": 204
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 183,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 205
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 95,
+                        "errorMessage": "Cannot access value for name powerSetupComponent",
+                        "functionName": "sourceComponent",
+                        "line": 212
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 57,
+                        "durationMicroseconds": 55,
+                        "errorMessage": "Cannot access value for name controller",
+                        "functionName": "armVoltMin",
+                        "line": 214
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 57,
+                        "durationMicroseconds": 52,
+                        "errorMessage": "Cannot access value for name controller",
+                        "functionName": "battAmpPerVolt",
+                        "line": 215
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 57,
+                        "durationMicroseconds": 40,
+                        "errorMessage": "Cannot access value for name controller",
+                        "functionName": "battAmpOffset",
+                        "line": 216
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 57,
+                        "durationMicroseconds": 38,
+                        "errorMessage": "Cannot access value for name controller",
+                        "functionName": "battCapacity",
+                        "line": 217
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 57,
+                        "durationMicroseconds": 39,
+                        "errorMessage": "Cannot access value for name controller",
+                        "functionName": "battCurrPin",
+                        "line": 218
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 57,
+                        "durationMicroseconds": 47,
+                        "errorMessage": "Cannot access value for name controller",
+                        "functionName": "battMonitor",
+                        "line": 219
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 57,
+                        "durationMicroseconds": 38,
+                        "errorMessage": "Cannot access value for name controller",
+                        "functionName": "battVoltMult",
+                        "line": 220
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 57,
+                        "durationMicroseconds": 38,
+                        "errorMessage": "Cannot access value for name controller",
+                        "functionName": "battVoltPin",
+                        "line": 221
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 65,
+                        "durationMicroseconds": 91,
+                        "errorMessage": "Cannot access value for name controller",
+                        "functionName": "_batteryFactGroup",
+                        "line": 222
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 57,
+                        "durationMicroseconds": 95,
+                        "errorMessage": "Cannot load property voltage from (component in C:/Users/User/qgroundcontrol/src/AutoPilotPlugins/APM/APMPowerComponent.qml)::_batteryFactGroup with type FactGroup.",
+                        "functionName": "vehicleVoltage",
+                        "line": 223
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 57,
+                        "durationMicroseconds": 49,
+                        "errorMessage": "Cannot load property current from (component in C:/Users/User/qgroundcontrol/src/AutoPilotPlugins/APM/APMPowerComponent.qml)::_batteryFactGroup with type FactGroup.",
+                        "functionName": "vehicleCurrent",
+                        "line": 224
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 42,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "margins",
+                        "line": 209
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 198,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 210
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 135,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 211
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 38,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "spacing",
+                        "line": 230
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 28,
+                        "errorMessage": "Cannot access value for name _escCalibrationAvailable",
+                        "functionName": "visible",
+                        "line": 231
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 89,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "width",
+                        "line": 239
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 73,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "height",
+                        "line": 240
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 168,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 241
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 35,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "x",
+                        "line": 245
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 26,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "y",
+                        "line": 246
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 29,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "spacing",
+                        "line": 247
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 38,
+                        "durationMicroseconds": 30,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "spacing",
+                        "line": 250
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 40,
+                        "errorMessage": "Cannot access value for name qgcPal",
+                        "functionName": "color",
+                        "line": 254
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 42,
+                        "durationMicroseconds": 40,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "spacing",
+                        "line": 258
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"enabled\".",
+                        "functionName": "enabled",
+                        "line": 262
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"clicked\".",
+                        "functionName": "onClicked",
+                        "line": 263
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 46,
+                        "durationMicroseconds": 50,
+                        "errorMessage": "Cannot access value for name _escCalibration",
+                        "functionName": "enabled",
+                        "line": 267
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 56,
+                        "durationMicroseconds": 53,
+                        "errorMessage": "Cannot access value for name _escCalibration",
+                        "functionName": "text",
+                        "line": 268
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 22,
+                        "durationMicroseconds": 93,
+                        "errorMessage": "",
+                        "functionName": "spacing",
+                        "line": 290
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 203,
+                        "errorMessage": "",
+                        "functionName": "_margins",
+                        "line": 292
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 305,
+                        "errorMessage": "",
+                        "functionName": "_showAdvanced",
+                        "line": 293
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 185,
+                        "errorMessage": "",
+                        "functionName": "_fieldWidth",
+                        "line": 294
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 13,
+                        "durationMicroseconds": 642,
+                        "errorMessage": "Cannot access value for name battVoltPin",
+                        "functionName": "calcSensor",
+                        "line": 298
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 36,
+                        "durationMicroseconds": 117,
+                        "errorMessage": "",
+                        "functionName": "onCompleted",
+                        "line": 296
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 76,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "rowSpacing",
+                        "line": 370
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 50,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "columnSpacing",
+                        "line": 371
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 773,
+                        "errorMessage": "Cannot access value for name battMonitor",
+                        "functionName": "fact",
+                        "line": 377
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"width\".",
+                        "functionName": "width",
+                        "line": 390
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 151,
+                        "errorMessage": "Cannot access value for name battCapacity",
+                        "functionName": "fact",
+                        "line": 391
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"width\".",
+                        "functionName": "width",
+                        "line": 402
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 114,
+                        "errorMessage": "Cannot access value for name armVoltMin",
+                        "functionName": "fact",
+                        "line": 403
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 171,
+                        "errorMessage": "",
+                        "functionName": "model",
+                        "line": 415
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 35,
+                        "durationMicroseconds": 845,
+                        "errorMessage": "Cannot access value for name battVoltPin",
+                        "functionName": "onActivated",
+                        "line": 418
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 35,
+                        "durationMicroseconds": 95,
+                        "errorMessage": "",
+                        "functionName": "onActivated",
+                        "line": 418
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 42,
+                        "errorMessage": "Cannot access value for name _fieldWidth",
+                        "functionName": "minimumWidth",
+                        "line": 414
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 30,
+                        "errorMessage": "Cannot access value for name _showAdvanced",
+                        "functionName": "visible",
+                        "line": 435
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 745,
+                        "errorMessage": "Cannot access value for name battCurrPin",
+                        "functionName": "fact",
+                        "line": 440
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 44,
+                        "errorMessage": "Cannot access value for name _showAdvanced",
+                        "functionName": "visible",
+                        "line": 442
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 39,
+                        "errorMessage": "Cannot access value for name _fieldWidth",
+                        "functionName": "minimumWidth",
+                        "line": 439
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 30,
+                        "errorMessage": "Cannot access value for name _showAdvanced",
+                        "functionName": "visible",
+                        "line": 450
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 738,
+                        "errorMessage": "Cannot access value for name battVoltPin",
+                        "functionName": "fact",
+                        "line": 455
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 39,
+                        "errorMessage": "Cannot access value for name _showAdvanced",
+                        "functionName": "visible",
+                        "line": 457
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 28,
+                        "errorMessage": "Cannot access value for name _fieldWidth",
+                        "functionName": "minimumWidth",
+                        "line": 454
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 31,
+                        "errorMessage": "Cannot access value for name _showAdvanced",
+                        "functionName": "visible",
+                        "line": 465
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"width\".",
+                        "functionName": "width",
+                        "line": 469
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 116,
+                        "errorMessage": "Cannot access value for name battVoltMult",
+                        "functionName": "fact",
+                        "line": 470
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"visible\".",
+                        "functionName": "visible",
+                        "line": 471
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"visible\".",
+                        "functionName": "visible",
+                        "line": 476
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"clicked\".",
+                        "functionName": "onClicked",
+                        "line": 477
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 206,
+                        "errorMessage": "",
+                        "functionName": "wrapMode",
+                        "line": 484
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 41,
+                        "errorMessage": "Cannot access value for name _showAdvanced",
+                        "functionName": "visible",
+                        "line": 486
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 148,
+                        "errorMessage": "",
+                        "functionName": "pointSize",
+                        "line": 483
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 36,
+                        "errorMessage": "Cannot access value for name _showAdvanced",
+                        "functionName": "visible",
+                        "line": 491
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"width\".",
+                        "functionName": "width",
+                        "line": 495
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 134,
+                        "errorMessage": "Cannot access value for name battAmpPerVolt",
+                        "functionName": "fact",
+                        "line": 496
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"visible\".",
+                        "functionName": "visible",
+                        "line": 497
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"visible\".",
+                        "functionName": "visible",
+                        "line": 502
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"clicked\".",
+                        "functionName": "onClicked",
+                        "line": 503
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 160,
+                        "errorMessage": "",
+                        "functionName": "wrapMode",
+                        "line": 510
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 43,
+                        "errorMessage": "Cannot access value for name _showAdvanced",
+                        "functionName": "visible",
+                        "line": 512
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 116,
+                        "errorMessage": "",
+                        "functionName": "pointSize",
+                        "line": 509
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 27,
+                        "errorMessage": "Cannot access value for name _showAdvanced",
+                        "functionName": "visible",
+                        "line": 517
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"width\".",
+                        "functionName": "width",
+                        "line": 521
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 119,
+                        "errorMessage": "Cannot access value for name battAmpOffset",
+                        "functionName": "fact",
+                        "line": 522
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"visible\".",
+                        "functionName": "visible",
+                        "line": 523
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 140,
+                        "errorMessage": "",
+                        "functionName": "wrapMode",
+                        "line": 530
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 43,
+                        "errorMessage": "Cannot access value for name _showAdvanced",
+                        "functionName": "visible",
+                        "line": 532
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 112,
+                        "errorMessage": "",
+                        "functionName": "pointSize",
+                        "line": 529
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 125,
+                        "errorMessage": "Cannot access value for name Dialog",
+                        "functionName": "buttons",
+                        "line": 544
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 26,
+                        "durationMicroseconds": 105,
+                        "errorMessage": "",
+                        "functionName": "spacing",
+                        "line": 550
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 124,
+                        "errorMessage": "",
+                        "functionName": "wrapMode",
+                        "line": 554
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 170,
+                        "errorMessage": "",
+                        "functionName": "preferredWidth",
+                        "line": 553
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 39,
+                        "durationMicroseconds": 53,
+                        "errorMessage": "Cannot access value for name vehicleVoltageFact",
+                        "functionName": "fact",
+                        "line": 568
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 39,
+                        "durationMicroseconds": 36,
+                        "errorMessage": "Cannot access value for name battVoltMultFact",
+                        "functionName": "fact",
+                        "line": 571
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"clicked\".",
+                        "functionName": "onClicked",
+                        "line": 577
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 154,
+                        "errorMessage": "Cannot access value for name Dialog",
+                        "functionName": "buttons",
+                        "line": 597
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 26,
+                        "durationMicroseconds": 118,
+                        "errorMessage": "",
+                        "functionName": "spacing",
+                        "line": 603
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 111,
+                        "errorMessage": "",
+                        "functionName": "wrapMode",
+                        "line": 607
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 114,
+                        "errorMessage": "",
+                        "functionName": "preferredWidth",
+                        "line": 606
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 39,
+                        "durationMicroseconds": 45,
+                        "errorMessage": "Cannot access value for name vehicleCurrentFact",
+                        "functionName": "fact",
+                        "line": 621
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 39,
+                        "durationMicroseconds": 32,
+                        "errorMessage": "Cannot access value for name battAmpPerVoltFact",
+                        "functionName": "fact",
+                        "line": 624
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"clicked\".",
+                        "functionName": "onClicked",
+                        "line": 630
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/AutoPilotPlugins/APM/APMPowerComponent.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.AutoPilotPlugins.APM(AutoPilotPluginsAPMModule)"
+    }
+]

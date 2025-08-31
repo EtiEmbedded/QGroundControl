@@ -1,0 +1,260 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 21,
+                        "durationMicroseconds": 8851,
+                        "errorMessage": "",
+                        "functionName": "implicitWidth",
+                        "line": 10
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 21,
+                        "durationMicroseconds": 215,
+                        "errorMessage": "",
+                        "functionName": "implicitHeight",
+                        "line": 11
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 21,
+                        "durationMicroseconds": 689,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 12
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 465,
+                        "errorMessage": "",
+                        "functionName": "_margins",
+                        "line": 21
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 21,
+                        "durationMicroseconds": 644,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 13
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 72,
+                        "errorMessage": "Cannot access value for name enabled",
+                        "functionName": "colorGroupEnabled",
+                        "line": 23
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 207,
+                        "errorMessage": "",
+                        "functionName": "verticalAlignment",
+                        "line": 32
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 189,
+                        "errorMessage": "",
+                        "functionName": "horizontalAlignment",
+                        "line": 33
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 63,
+                        "errorMessage": "Cannot access value for name highlight",
+                        "functionName": "color",
+                        "line": 34
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 168,
+                        "errorMessage": "",
+                        "functionName": "elide",
+                        "line": 35
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 34,
+                        "durationMicroseconds": 55,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "margins",
+                        "line": 27
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 304,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 28
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 261,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 29
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 291,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 30
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 297,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 31
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 142,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 43
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 137,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 44
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 63,
+                        "errorMessage": "Cannot access value for name highlight",
+                        "functionName": "color",
+                        "line": 47
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 39,
+                        "durationMicroseconds": 363,
+                        "errorMessage": "",
+                        "functionName": "_hamburgerSize",
+                        "line": 49
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 54,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "rightMargin",
+                        "line": 40
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 271,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 41
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 257,
+                        "errorMessage": "",
+                        "functionName": "verticalCenter",
+                        "line": 42
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 203,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 45
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 294,
+                        "errorMessage": "Type (component in C:/Users/User/qgroundcontrol/src/QmlControls/FileButton.qml)::parent with type QQuickItem does not have a property clicked for calling",
+                        "functionName": "onClicked",
+                        "line": 54
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 138,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 53
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 382,
+                        "errorMessage": "Type (component in C:/Users/User/qgroundcontrol/src/QmlControls/FileButton.qml)::parent with type QQuickItem does not have a property hamburgerClicked for calling",
+                        "functionName": "onClicked",
+                        "line": 63
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 57,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "leftMargin",
+                        "line": 58
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 392,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 59
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 253,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 60
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 887,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 61
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 265,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 62
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/QmlControls/FileButton.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.Controls(QGroundControlControlsModule)"
+    }
+]

@@ -1,0 +1,60 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 12,
+                        "durationMicroseconds": 758,
+                        "errorMessage": "Cannot access value for name _rightPanelWidth",
+                        "functionName": "width",
+                        "line": 21
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 363,
+                        "errorMessage": "",
+                        "functionName": "alignment",
+                        "line": 24
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 722,
+                        "errorMessage": "Cannot access value for name _rightPanelWidth",
+                        "functionName": "preferredWidth",
+                        "line": 25
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 417,
+                        "errorMessage": "Cannot access value for name globals",
+                        "functionName": "sourceComponent",
+                        "line": 34
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 717,
+                        "errorMessage": "",
+                        "functionName": "rightEdgeCenterInset",
+                        "line": 36
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 378,
+                        "errorMessage": "",
+                        "functionName": "alignment",
+                        "line": 33
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/FlightDisplay/FlyViewTopRightColumnLayout.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.FlightDisplay(FlightDisplayModule)"
+    }
+]

@@ -1,0 +1,60 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 663,
+                        "errorMessage": "Cannot access value for name object",
+                        "functionName": "_currentItem",
+                        "line": 23
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 79,
+                        "errorMessage": "Cannot access value for name map",
+                        "functionName": "mapControl",
+                        "line": 27
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 485,
+                        "errorMessage": "Cannot access value for name object",
+                        "functionName": "mapPolyline",
+                        "line": 28
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 55,
+                        "errorMessage": "Cannot access value for name _currentItem",
+                        "functionName": "interactive",
+                        "line": 29
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 42,
+                        "errorMessage": "Cannot access value for name _currentItem",
+                        "functionName": "visible",
+                        "line": 32
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 469,
+                        "errorMessage": "",
+                        "functionName": "opacity",
+                        "line": 33
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/QmlControls/CorridorScanMapVisual.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.Controls(QGroundControlControlsModule)"
+    }
+]

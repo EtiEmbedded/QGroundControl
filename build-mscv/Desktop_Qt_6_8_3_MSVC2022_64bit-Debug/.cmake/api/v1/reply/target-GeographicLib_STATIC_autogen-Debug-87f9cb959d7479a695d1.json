@@ -1,0 +1,75 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/cpm_modules/geographiclib/51aa4b8613d10fb7df90868d67906d2da5631520/src/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"id" : "GeographicLib_STATIC_autogen_timestamp_deps::@dce13dc75a99617acf06"
+		}
+	],
+	"folder" : 
+	{
+		"name" : "QtInternalTargets"
+	},
+	"id" : "GeographicLib_STATIC_autogen::@dce13dc75a99617acf06",
+	"isGeneratorProvided" : true,
+	"name" : "GeographicLib_STATIC_autogen",
+	"paths" : 
+	{
+		"build" : "_deps/geographiclib-build/src",
+		"source" : "build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/cpm_modules/geographiclib/51aa4b8613d10fb7df90868d67906d2da5631520/src"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1,
+				2
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/_deps/geographiclib-build/src/CMakeFiles/GeographicLib_STATIC_autogen",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/_deps/geographiclib-build/src/CMakeFiles/GeographicLib_STATIC_autogen.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/_deps/geographiclib-build/src/GeographicLib_STATIC_autogen/timestamp.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}

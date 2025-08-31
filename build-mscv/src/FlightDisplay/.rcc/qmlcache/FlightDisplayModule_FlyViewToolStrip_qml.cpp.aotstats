@@ -1,0 +1,28 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 12,
+                        "durationMicroseconds": 555,
+                        "errorMessage": "",
+                        "functionName": "model",
+                        "line": 27
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 38,
+                        "durationMicroseconds": 258,
+                        "errorMessage": "",
+                        "functionName": "onDisplayPreFlightChecklist",
+                        "line": 24
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/FlightDisplay/FlyViewToolStrip.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.FlightDisplay(FlightDisplayModule)"
+    }
+]

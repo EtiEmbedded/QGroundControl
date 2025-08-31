@@ -1,0 +1,36 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 27,
+                        "durationMicroseconds": 139,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 11
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 31,
+                        "durationMicroseconds": 47,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 18
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 38,
+                        "durationMicroseconds": 38,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 27
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/UI/SlideMenu_Menu.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.MainWindow(MainWindowModule)"
+    }
+]

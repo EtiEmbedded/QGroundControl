@@ -1,0 +1,52 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 330,
+                        "errorMessage": "function without return type annotation returns QString. This may prevent proper compilation to Cpp.",
+                        "functionName": "getImage",
+                        "line": 15
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 28,
+                        "durationMicroseconds": 837,
+                        "errorMessage": "",
+                        "functionName": "onCompleted",
+                        "line": 31
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 310,
+                        "errorMessage": "",
+                        "functionName": "fillMode",
+                        "line": 40
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 8472,
+                        "errorMessage": "",
+                        "functionName": "margins",
+                        "line": 38
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 164,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 39
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/QmlControls/APMSubMotorDisplay.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.Controls(QGroundControlControlsModule)"
+    }
+]

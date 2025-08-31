@@ -1,0 +1,250 @@
+{
+	"backtrace" : 3,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_custom_target",
+			"_qt_internal_deferred_aotstats_setup"
+		],
+		"files" : 
+		[
+			"C:/Qt/6.8.3/msvc2022_64/lib/cmake/Qt6Qml/Qt6QmlMacros.cmake",
+			"C:/Qt/6.8.3/msvc2022_64/lib/cmake/Qt6Qml/Qt6QmlMacros.cmake:1105:EVAL",
+			"CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 2
+			},
+			{
+				"file" : 2,
+				"line" : -1,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 1,
+				"parent" : 1
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 1212,
+				"parent" : 2
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"id" : "module_AnalyzeViewModule_aotstats_target::@6890427a1f51a3e7e1df"
+		},
+		{
+			"id" : "module_AutoPilotPluginsPX4Module_aotstats_target::@6890427a1f51a3e7e1df"
+		},
+		{
+			"id" : "module_FactControlsModule_aotstats_target::@6890427a1f51a3e7e1df"
+		},
+		{
+			"id" : "module_AutoPilotPluginsCommonModule_aotstats_target::@6890427a1f51a3e7e1df"
+		},
+		{
+			"id" : "module_AutoPilotPluginsAPMModule_aotstats_target::@6890427a1f51a3e7e1df"
+		},
+		{
+			"id" : "module_UTMSPModule_aotstats_target::@6890427a1f51a3e7e1df"
+		},
+		{
+			"id" : "module_ScreenToolsModule_aotstats_target::@6890427a1f51a3e7e1df"
+		},
+		{
+			"id" : "module_AppSettingsModule_aotstats_target::@6890427a1f51a3e7e1df"
+		},
+		{
+			"id" : "module_ToolbarModule_aotstats_target::@6890427a1f51a3e7e1df"
+		},
+		{
+			"id" : "module_MainWindowModule_aotstats_target::@6890427a1f51a3e7e1df"
+		},
+		{
+			"id" : "module_FlightMapModule_aotstats_target::@6890427a1f51a3e7e1df"
+		},
+		{
+			"id" : "module_QGroundControlControlsModule_aotstats_target::@6890427a1f51a3e7e1df"
+		},
+		{
+			"id" : "module_FlightDisplayModule_aotstats_target::@6890427a1f51a3e7e1df"
+		},
+		{
+			"id" : "module_FirstRunPromptDialogsModule_aotstats_target::@6890427a1f51a3e7e1df"
+		},
+		{
+			"id" : "module_Viewer3DModule_aotstats_target::@6890427a1f51a3e7e1df"
+		},
+		{
+			"id" : "module_VehicleSetupModule_aotstats_target::@6890427a1f51a3e7e1df"
+		}
+	],
+	"id" : "all_aotstats::@6890427a1f51a3e7e1df",
+	"name" : "all_aotstats",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "build-mscv/RelWithDebInfo/CMakeFiles/all_aotstats",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/RelWithDebInfo/CMakeFiles/all_aotstats.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/RelWithDebInfo/.rcc/qmlcache/all_aotstats.aotstats.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/RelWithDebInfo/src/AnalyzeView/.rcc/qmlcache/module_AnalyzeViewModule.aotstats.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/RelWithDebInfo/src/AutoPilotPlugins/APM/.rcc/qmlcache/module_AutoPilotPluginsAPMModule.aotstats.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/RelWithDebInfo/src/AutoPilotPlugins/Common/.rcc/qmlcache/module_AutoPilotPluginsCommonModule.aotstats.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/RelWithDebInfo/src/AutoPilotPlugins/PX4/.rcc/qmlcache/module_AutoPilotPluginsPX4Module.aotstats.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/RelWithDebInfo/src/FactSystem/FactControls/.rcc/qmlcache/module_FactControlsModule.aotstats.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/RelWithDebInfo/src/FlightDisplay/.rcc/qmlcache/module_FlightDisplayModule.aotstats.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/RelWithDebInfo/src/FlightMap/.rcc/qmlcache/module_FlightMapModule.aotstats.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/RelWithDebInfo/src/QmlControls/.rcc/qmlcache/module_QGroundControlControlsModule.aotstats.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/RelWithDebInfo/src/QmlControls/.rcc/qmlcache/module_ScreenToolsModule.aotstats.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/RelWithDebInfo/src/UI/.rcc/qmlcache/module_MainWindowModule.aotstats.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/RelWithDebInfo/src/UI/AppSettings/.rcc/qmlcache/module_AppSettingsModule.aotstats.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/RelWithDebInfo/src/UI/FirstRunPromptDialogs/.rcc/qmlcache/module_FirstRunPromptDialogsModule.aotstats.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/RelWithDebInfo/src/UI/toolbar/.rcc/qmlcache/module_ToolbarModule.aotstats.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/RelWithDebInfo/src/UTMSP/.rcc/qmlcache/module_UTMSPModule.aotstats.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/RelWithDebInfo/src/Vehicle/VehicleSetup/.rcc/qmlcache/module_VehicleSetupModule.aotstats.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/RelWithDebInfo/src/Viewer3D/.rcc/qmlcache/module_Viewer3DModule.aotstats.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}

@@ -1,0 +1,45 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"build-mscv/cpm_modules/geographiclib/51aa4b8613d10fb7df90868d67906d2da5631520/src/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 163,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"_deps/geographiclib-build/lib/GeographicLib.lib"
+			],
+			"targetId" : "GeographicLib_STATIC::@dce13dc75a99617acf06",
+			"targetIndex" : 109,
+			"type" : "target"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "_deps/geographiclib-build/src",
+		"source" : "build-mscv/cpm_modules/geographiclib/51aa4b8613d10fb7df90868d67906d2da5631520/src"
+	}
+}

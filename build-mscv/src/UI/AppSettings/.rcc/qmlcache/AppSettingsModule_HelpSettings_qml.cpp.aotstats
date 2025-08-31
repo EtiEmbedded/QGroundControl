@@ -1,0 +1,164 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 21,
+                        "durationMicroseconds": 553,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 19
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 38,
+                        "durationMicroseconds": 7657,
+                        "errorMessage": "",
+                        "functionName": "_margins",
+                        "line": 22
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 21,
+                        "durationMicroseconds": 150,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 20
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 189,
+                        "errorMessage": "",
+                        "functionName": "contentWidth",
+                        "line": 29
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 7906,
+                        "errorMessage": "",
+                        "functionName": "contentHeight",
+                        "line": 30
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 116,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "margins",
+                        "line": 27
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 173,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 28
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 424,
+                        "errorMessage": "",
+                        "functionName": "linkColor",
+                        "line": 39
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 38,
+                        "durationMicroseconds": 633,
+                        "errorMessage": "",
+                        "functionName": "onLinkActivated",
+                        "line": 41
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 38,
+                        "durationMicroseconds": 496,
+                        "errorMessage": "",
+                        "functionName": "onLinkActivated",
+                        "line": 41
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 366,
+                        "errorMessage": "",
+                        "functionName": "linkColor",
+                        "line": 46
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 38,
+                        "durationMicroseconds": 656,
+                        "errorMessage": "",
+                        "functionName": "onLinkActivated",
+                        "line": 48
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 38,
+                        "durationMicroseconds": 143,
+                        "errorMessage": "",
+                        "functionName": "onLinkActivated",
+                        "line": 48
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 319,
+                        "errorMessage": "",
+                        "functionName": "linkColor",
+                        "line": 53
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 38,
+                        "durationMicroseconds": 330,
+                        "errorMessage": "",
+                        "functionName": "onLinkActivated",
+                        "line": 55
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 38,
+                        "durationMicroseconds": 120,
+                        "errorMessage": "",
+                        "functionName": "onLinkActivated",
+                        "line": 55
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 309,
+                        "errorMessage": "",
+                        "functionName": "linkColor",
+                        "line": 60
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 38,
+                        "durationMicroseconds": 340,
+                        "errorMessage": "",
+                        "functionName": "onLinkActivated",
+                        "line": 62
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 38,
+                        "durationMicroseconds": 130,
+                        "errorMessage": "",
+                        "functionName": "onLinkActivated",
+                        "line": 62
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/UI/AppSettings/HelpSettings.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.AppSettings(AppSettingsModule)"
+    }
+]

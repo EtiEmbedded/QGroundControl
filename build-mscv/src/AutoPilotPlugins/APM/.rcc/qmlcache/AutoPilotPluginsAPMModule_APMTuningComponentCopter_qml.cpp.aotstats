@@ -1,0 +1,1108 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 21,
+                        "durationMicroseconds": 429,
+                        "errorMessage": "",
+                        "functionName": "pageComponent",
+                        "line": 25
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 20,
+                        "durationMicroseconds": 182,
+                        "errorMessage": "Cannot access value for name availableWidth",
+                        "functionName": "width",
+                        "line": 31
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 21,
+                        "durationMicroseconds": 100,
+                        "errorMessage": "Cannot access value for name availableHeight",
+                        "functionName": "height",
+                        "line": 32
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 450,
+                        "errorMessage": "",
+                        "functionName": "_atcInputTCAvailable",
+                        "line": 36
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 390,
+                        "errorMessage": "",
+                        "functionName": "_atcInputTC",
+                        "line": 37
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 325,
+                        "errorMessage": "",
+                        "functionName": "_rateRollP",
+                        "line": 38
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 302,
+                        "errorMessage": "",
+                        "functionName": "_rateRollI",
+                        "line": 39
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 327,
+                        "errorMessage": "",
+                        "functionName": "_ratePitchP",
+                        "line": 40
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 298,
+                        "errorMessage": "",
+                        "functionName": "_ratePitchI",
+                        "line": 41
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 327,
+                        "errorMessage": "",
+                        "functionName": "_rateClimbP",
+                        "line": 42
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 371,
+                        "errorMessage": "",
+                        "functionName": "_rateClimbI",
+                        "line": 43
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 327,
+                        "errorMessage": "",
+                        "functionName": "_motSpinArm",
+                        "line": 44
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 298,
+                        "errorMessage": "",
+                        "functionName": "_motSpinMin",
+                        "line": 45
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 324,
+                        "errorMessage": "",
+                        "functionName": "_ch7Opt",
+                        "line": 47
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 295,
+                        "errorMessage": "",
+                        "functionName": "_ch8Opt",
+                        "line": 48
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 307,
+                        "errorMessage": "",
+                        "functionName": "_ch9Opt",
+                        "line": 49
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 294,
+                        "errorMessage": "",
+                        "functionName": "_ch10Opt",
+                        "line": 50
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 446,
+                        "errorMessage": "",
+                        "functionName": "_ch11Opt",
+                        "line": 51
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 281,
+                        "errorMessage": "",
+                        "functionName": "_ch12Opt",
+                        "line": 52
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 61,
+                        "durationMicroseconds": 311,
+                        "errorMessage": "",
+                        "functionName": "_autoTuneAxes",
+                        "line": 57
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 8141,
+                        "errorMessage": "",
+                        "functionName": "_margins",
+                        "line": 61
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 13,
+                        "durationMicroseconds": 4891,
+                        "errorMessage": "Cannot generate efficient code for incomparable types (component in C:/Users/User/qgroundcontrol/src/AutoPilotPlugins/APM/APMTuningComponentCopter.qml)::_autoTuneOption with type int and Fact::value with type QVariant",
+                        "functionName": "calcAutoTuneChannel",
+                        "line": 86
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 13,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "setChannelAutoTuneOption",
+                        "line": 98
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 36,
+                        "durationMicroseconds": 235,
+                        "errorMessage": "Cannot find name showAdvanced",
+                        "functionName": "onCompleted",
+                        "line": 65
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 35,
+                        "durationMicroseconds": 44,
+                        "errorMessage": "Cannot access value for name _ch7Opt",
+                        "functionName": "target",
+                        "line": 114
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 44,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "onValueChanged",
+                        "line": 114
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 35,
+                        "durationMicroseconds": 37,
+                        "errorMessage": "Cannot access value for name _ch8Opt",
+                        "functionName": "target",
+                        "line": 115
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 44,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "onValueChanged",
+                        "line": 115
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 35,
+                        "durationMicroseconds": 37,
+                        "errorMessage": "Cannot access value for name _ch9Opt",
+                        "functionName": "target",
+                        "line": 116
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 44,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "onValueChanged",
+                        "line": 116
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 35,
+                        "durationMicroseconds": 32,
+                        "errorMessage": "Cannot access value for name _ch10Opt",
+                        "functionName": "target",
+                        "line": 117
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "onValueChanged",
+                        "line": 117
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 35,
+                        "durationMicroseconds": 35,
+                        "errorMessage": "Cannot access value for name _ch11Opt",
+                        "functionName": "target",
+                        "line": 118
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "onValueChanged",
+                        "line": 118
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 35,
+                        "durationMicroseconds": 33,
+                        "errorMessage": "Cannot access value for name _ch12Opt",
+                        "functionName": "target",
+                        "line": 119
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "onValueChanged",
+                        "line": 119
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 53,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "spacing",
+                        "line": 124
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 46,
+                        "errorMessage": "Cannot access value for name advanced",
+                        "functionName": "visible",
+                        "line": 125
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 331,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 122
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 236,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 123
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 177,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "height",
+                        "line": 136
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 410,
+                        "errorMessage": "Cannot access value for name qgcPal",
+                        "functionName": "color",
+                        "line": 137
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 305,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 134
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 252,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 135
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 85,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "spacing",
+                        "line": 145
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 68,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "margins",
+                        "line": 141
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 271,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 142
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 271,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 143
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 242,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 144
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 262,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 148
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 241,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 149
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"valueChanged\".",
+                        "functionName": "onValueChanged",
+                        "line": 169
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"left\".",
+                        "functionName": "left",
+                        "line": 162
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"right\".",
+                        "functionName": "right",
+                        "line": 163
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 296,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 181
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 247,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 182
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"value\".",
+                        "functionName": "value",
+                        "line": 201
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"valueChanged\".",
+                        "functionName": "onValueChanged",
+                        "line": 203
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"left\".",
+                        "functionName": "left",
+                        "line": 195
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"right\".",
+                        "functionName": "right",
+                        "line": 196
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 83,
+                        "errorMessage": "Cannot access value for name _atcInputTCAvailable",
+                        "functionName": "visible",
+                        "line": 215
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 270,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 213
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 291,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 214
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"from\".",
+                        "functionName": "from",
+                        "line": 230
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 43,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"to\".",
+                        "functionName": "to",
+                        "line": 231
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"stepSize\".",
+                        "functionName": "stepSize",
+                        "line": 232
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"valueChanged\".",
+                        "functionName": "onValueChanged",
+                        "line": 235
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"left\".",
+                        "functionName": "left",
+                        "line": 228
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"right\".",
+                        "functionName": "right",
+                        "line": 229
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 260,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 244
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 222,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 245
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 43,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"to\".",
+                        "functionName": "to",
+                        "line": 260
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"value\".",
+                        "functionName": "value",
+                        "line": 263
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"valueChanged\".",
+                        "functionName": "onValueChanged",
+                        "line": 265
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"left\".",
+                        "functionName": "left",
+                        "line": 257
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"right\".",
+                        "functionName": "right",
+                        "line": 258
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 259,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 274
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 246,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 275
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 719,
+                        "errorMessage": "Cannot access value for name qgcPal",
+                        "functionName": "color",
+                        "line": 288
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 81,
+                        "errorMessage": "Cannot access value for name _motSpinMin",
+                        "functionName": "visible",
+                        "line": 289
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 43,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"to\".",
+                        "functionName": "to",
+                        "line": 296
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"value\".",
+                        "functionName": "value",
+                        "line": 299
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"valueChanged\".",
+                        "functionName": "onValueChanged",
+                        "line": 301
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"left\".",
+                        "functionName": "left",
+                        "line": 293
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"right\".",
+                        "functionName": "right",
+                        "line": 294
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 81,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "spacing",
+                        "line": 314
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 465,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 317
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 170,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 318
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 422,
+                        "errorMessage": "Cannot access value for name qgcPal",
+                        "functionName": "color",
+                        "line": 319
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 188,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "width",
+                        "line": 329
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 159,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "height",
+                        "line": 330
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 362,
+                        "errorMessage": "Cannot access value for name qgcPal",
+                        "functionName": "color",
+                        "line": 332
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 301,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 331
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 75,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "spacing",
+                        "line": 339
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 72,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "margins",
+                        "line": 336
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 266,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 337
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 471,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 338
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 46,
+                        "durationMicroseconds": 77,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "spacing",
+                        "line": 342
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 57,
+                        "durationMicroseconds": 67,
+                        "errorMessage": "Cannot access value for name _autoTuneAxes",
+                        "functionName": "fact",
+                        "line": 345
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 61,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "spacing",
+                        "line": 349
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 61,
+                        "durationMicroseconds": 649,
+                        "errorMessage": "",
+                        "functionName": "baseline",
+                        "line": 352
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 57,
+                        "durationMicroseconds": 443,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 358
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 57,
+                        "durationMicroseconds": 1891,
+                        "errorMessage": "Cannot generate efficient code for storing an array in a non-sequence type",
+                        "functionName": "model",
+                        "line": 359
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 57,
+                        "durationMicroseconds": 107,
+                        "errorMessage": "Cannot access value for name _autoTuneSwitchChannelIndex",
+                        "functionName": "currentIndex",
+                        "line": 360
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 55,
+                        "durationMicroseconds": 2125,
+                        "errorMessage": "method setChannelAutoTuneOption cannot be resolved.",
+                        "functionName": "onActivated",
+                        "line": 362
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 55,
+                        "durationMicroseconds": 161,
+                        "errorMessage": "",
+                        "functionName": "onActivated",
+                        "line": 362
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 617,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 377
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 219,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 378
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 449,
+                        "errorMessage": "Cannot access value for name qgcPal",
+                        "functionName": "color",
+                        "line": 379
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 204,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "width",
+                        "line": 389
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 11311,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 390
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 461,
+                        "errorMessage": "Cannot access value for name qgcPal",
+                        "functionName": "color",
+                        "line": 392
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 409,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 391
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 189,
+                        "errorMessage": "",
+                        "functionName": "spacing",
+                        "line": 399
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 218,
+                        "errorMessage": "",
+                        "functionName": "margins",
+                        "line": 396
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 275,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 397
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 263,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 398
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 46,
+                        "durationMicroseconds": 287,
+                        "errorMessage": "",
+                        "functionName": "spacing",
+                        "line": 402
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 61,
+                        "durationMicroseconds": 348,
+                        "errorMessage": "",
+                        "functionName": "baseline",
+                        "line": 406
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 363,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 413
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 394,
+                        "errorMessage": "",
+                        "functionName": "fact",
+                        "line": 414
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 46,
+                        "durationMicroseconds": 271,
+                        "errorMessage": "",
+                        "functionName": "spacing",
+                        "line": 420
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 61,
+                        "durationMicroseconds": 72,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: tuneMinField",
+                        "functionName": "baseline",
+                        "line": 424
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 61,
+                        "durationMicroseconds": 558,
+                        "errorMessage": "",
+                        "functionName": "fact",
+                        "line": 432
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 61,
+                        "durationMicroseconds": 74,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: tuneMaxField",
+                        "functionName": "baseline",
+                        "line": 436
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 61,
+                        "durationMicroseconds": 377,
+                        "errorMessage": "",
+                        "functionName": "fact",
+                        "line": 444
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 168,
+                        "errorMessage": "Cannot access value for name advanced",
+                        "functionName": "sourceComponent",
+                        "line": 456
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 313,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 454
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 267,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 455
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 187,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 465
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 259,
+                        "errorMessage": "",
+                        "functionName": "tuningMode",
+                        "line": 583
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 27,
+                        "durationMicroseconds": 595,
+                        "errorMessage": "Cannot generate efficient code for storing an array in a non-sequence type",
+                        "functionName": "axis",
+                        "line": 585
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 292,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 463
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 264,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 464
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 44,
+                        "durationMicroseconds": 160,
+                        "errorMessage": "Cannot access value for name globals",
+                        "functionName": "plot",
+                        "line": 469
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 44,
+                        "durationMicroseconds": 129,
+                        "errorMessage": "Cannot access value for name globals",
+                        "functionName": "plot",
+                        "line": 510
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 44,
+                        "durationMicroseconds": 140,
+                        "errorMessage": "Cannot access value for name globals",
+                        "functionName": "plot",
+                        "line": 551
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/AutoPilotPlugins/APM/APMTuningComponentCopter.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.AutoPilotPlugins.APM(AutoPilotPluginsAPMModule)"
+    }
+]

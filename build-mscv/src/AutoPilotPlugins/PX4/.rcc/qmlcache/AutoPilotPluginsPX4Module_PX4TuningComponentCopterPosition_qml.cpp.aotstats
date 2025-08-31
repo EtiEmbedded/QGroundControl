@@ -1,0 +1,108 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 790,
+                        "errorMessage": "Cannot access value for name availableHeight",
+                        "functionName": "_availableHeight",
+                        "line": 22
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 607,
+                        "errorMessage": "Cannot access value for name availableWidth",
+                        "functionName": "_availableWidth",
+                        "line": 23
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 487,
+                        "errorMessage": "Cannot access value for name controller",
+                        "functionName": "_mcPosMode",
+                        "line": 24
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 48,
+                        "errorMessage": "Cannot access value for name _mcPosMode",
+                        "functionName": "visible",
+                        "line": 31
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 41,
+                        "errorMessage": "Cannot access value for name _mcPosMode",
+                        "functionName": "fact",
+                        "line": 34
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 35,
+                        "errorMessage": "Cannot access value for name _mcPosMode",
+                        "functionName": "visible",
+                        "line": 36
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 41,
+                        "errorMessage": "Cannot access value for name _availableWidth",
+                        "functionName": "availableWidth",
+                        "line": 42
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 42,
+                        "errorMessage": "Cannot access value for name _availableHeight",
+                        "functionName": "availableHeight",
+                        "line": 43
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 21,
+                        "durationMicroseconds": 399,
+                        "errorMessage": "",
+                        "functionName": "tuningMode",
+                        "line": 81
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 15,
+                        "durationMicroseconds": 418,
+                        "errorMessage": "Cannot generate efficient code for storing an array in a non-sequence type",
+                        "functionName": "axis",
+                        "line": 83
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 32,
+                        "durationMicroseconds": 127,
+                        "errorMessage": "Cannot access value for name globals",
+                        "functionName": "plot",
+                        "line": 48
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 32,
+                        "durationMicroseconds": 95,
+                        "errorMessage": "Cannot access value for name globals",
+                        "functionName": "plot",
+                        "line": 65
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/AutoPilotPlugins/PX4/PX4TuningComponentCopterPosition.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.AutoPilotPlugins.PX4(AutoPilotPluginsPX4Module)"
+    }
+]

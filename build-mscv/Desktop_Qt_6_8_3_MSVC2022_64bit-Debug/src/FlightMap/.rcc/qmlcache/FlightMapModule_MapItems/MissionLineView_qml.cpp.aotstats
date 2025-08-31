@@ -1,0 +1,60 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 21,
+                        "durationMicroseconds": 443,
+                        "errorMessage": "Cannot access value for name QGroundControl",
+                        "functionName": "z",
+                        "line": 26
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 21,
+                        "durationMicroseconds": 202,
+                        "errorMessage": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: QVariant -> QList<QGeoCoordinate> stored as QVariant",
+                        "functionName": "path",
+                        "line": 27
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 196,
+                        "errorMessage": "Cannot access value for name object",
+                        "functionName": "_terrainCollision",
+                        "line": 29
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 190,
+                        "errorMessage": "Cannot access value for name object",
+                        "functionName": "_showSpecialVisual",
+                        "line": 30
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 9,
+                        "durationMicroseconds": 227,
+                        "errorMessage": "Cannot access value for name object",
+                        "functionName": "_calcMissionLinePath",
+                        "line": 34
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 21,
+                        "durationMicroseconds": 361,
+                        "errorMessage": "Cannot access value for name QGroundControl",
+                        "functionName": "color",
+                        "line": 23
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/FlightMap/MapItems/MissionLineView.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.FlightMap(FlightMapModule)"
+    }
+]

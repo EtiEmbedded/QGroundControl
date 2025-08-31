@@ -1,0 +1,228 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 8902,
+                        "errorMessage": "",
+                        "functionName": "offsetRadius",
+                        "line": 22
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "translateCenterToAngleX",
+                        "line": 24
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "translateCenterToAngleY",
+                        "line": 28
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 208,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 33
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 16,
+                        "durationMicroseconds": 255,
+                        "errorMessage": "method translateCenterToAngleX cannot be resolved.",
+                        "functionName": "x",
+                        "line": 37
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 16,
+                        "durationMicroseconds": 200,
+                        "errorMessage": "method translateCenterToAngleY cannot be resolved.",
+                        "functionName": "y",
+                        "line": 38
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 183,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 43
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 16,
+                        "durationMicroseconds": 223,
+                        "errorMessage": "method translateCenterToAngleX cannot be resolved.",
+                        "functionName": "x",
+                        "line": 47
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 16,
+                        "durationMicroseconds": 187,
+                        "errorMessage": "method translateCenterToAngleY cannot be resolved.",
+                        "functionName": "y",
+                        "line": 48
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 151,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 53
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 16,
+                        "durationMicroseconds": 214,
+                        "errorMessage": "method translateCenterToAngleX cannot be resolved.",
+                        "functionName": "x",
+                        "line": 57
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 16,
+                        "durationMicroseconds": 188,
+                        "errorMessage": "method translateCenterToAngleY cannot be resolved.",
+                        "functionName": "y",
+                        "line": 58
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 155,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 63
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 16,
+                        "durationMicroseconds": 267,
+                        "errorMessage": "method translateCenterToAngleX cannot be resolved.",
+                        "functionName": "x",
+                        "line": 67
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 16,
+                        "durationMicroseconds": 274,
+                        "errorMessage": "method translateCenterToAngleY cannot be resolved.",
+                        "functionName": "y",
+                        "line": 68
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 357,
+                        "errorMessage": "Cannot access value for name size",
+                        "functionName": "x",
+                        "line": 78
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 393,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 80
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 336,
+                        "errorMessage": "Cannot access value for name qgcPal",
+                        "functionName": "color",
+                        "line": 81
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 123,
+                        "errorMessage": "Cannot access value for name index",
+                        "functionName": "angle",
+                        "line": 86
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 83,
+                        "errorMessage": "Cannot access value for name size",
+                        "functionName": "y",
+                        "line": 85
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 300,
+                        "errorMessage": "Cannot access value for name size",
+                        "functionName": "x",
+                        "line": 97
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 154,
+                        "errorMessage": "",
+                        "functionName": "y",
+                        "line": 98
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 98,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 100
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 343,
+                        "errorMessage": "Cannot access value for name qgcPal",
+                        "functionName": "color",
+                        "line": 101
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 36,
+                        "durationMicroseconds": 6014,
+                        "errorMessage": "",
+                        "functionName": "_margin",
+                        "line": 103
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 233,
+                        "errorMessage": "Cannot access value for name index",
+                        "functionName": "angle",
+                        "line": 108
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 126,
+                        "errorMessage": "Cannot access value for name size",
+                        "functionName": "y",
+                        "line": 107
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/FlightMap/Widgets/CompassDial.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.FlightMap(FlightMapModule)"
+    }
+]

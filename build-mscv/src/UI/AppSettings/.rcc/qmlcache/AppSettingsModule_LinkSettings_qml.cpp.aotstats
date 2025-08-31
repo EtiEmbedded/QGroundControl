@@ -1,0 +1,532 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 2169,
+                        "errorMessage": "",
+                        "functionName": "_linkManager",
+                        "line": 22
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 1380,
+                        "errorMessage": "",
+                        "functionName": "_autoConnectSettings",
+                        "line": 23
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 81,
+                        "errorMessage": "Cannot access value for name _autoConnectSettings",
+                        "functionName": "visible",
+                        "line": 27
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 20,
+                        "durationMicroseconds": 66,
+                        "errorMessage": "Cannot access value for name _autoConnectSettings",
+                        "functionName": "model",
+                        "line": 32
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 2751,
+                        "errorMessage": "Cannot generate efficient code for storing an array in a non-sequence type",
+                        "functionName": "names",
+                        "line": 41
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"text\".",
+                        "functionName": "text",
+                        "line": 45
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 112,
+                        "errorMessage": "Cannot access value for name modelData",
+                        "functionName": "fact",
+                        "line": 46
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"visible\".",
+                        "functionName": "visible",
+                        "line": 47
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 18,
+                        "durationMicroseconds": 123,
+                        "errorMessage": "Cannot load property autoConnectNmeaPort from SettingsManager::autoConnectSettings with type QObject.",
+                        "functionName": "visible",
+                        "line": 54
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 27,
+                        "durationMicroseconds": 150,
+                        "errorMessage": "Cannot load property autoConnectNmeaPort from SettingsManager::autoConnectSettings with type QObject.",
+                        "functionName": "onActivated",
+                        "line": 62
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 27,
+                        "durationMicroseconds": 140,
+                        "errorMessage": "",
+                        "functionName": "onActivated",
+                        "line": 62
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 36,
+                        "durationMicroseconds": 1988,
+                        "errorMessage": "Cannot load property autoConnectNmeaPort from SettingsManager::autoConnectSettings with type QObject.",
+                        "functionName": "onCompleted",
+                        "line": 68
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 22,
+                        "durationMicroseconds": 656,
+                        "errorMessage": "",
+                        "functionName": "visible",
+                        "line": 90
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 20,
+                        "durationMicroseconds": 306,
+                        "errorMessage": "",
+                        "functionName": "model",
+                        "line": 92
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 27,
+                        "durationMicroseconds": 155,
+                        "errorMessage": "Cannot load property autoConnectNmeaBaud from SettingsManager::autoConnectSettings with type QObject.",
+                        "functionName": "onActivated",
+                        "line": 94
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 27,
+                        "durationMicroseconds": 108,
+                        "errorMessage": "",
+                        "functionName": "onActivated",
+                        "line": 94
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 36,
+                        "durationMicroseconds": 144,
+                        "errorMessage": "Cannot load property autoConnectNmeaBaud from SettingsManager::autoConnectSettings with type QObject.",
+                        "functionName": "onCompleted",
+                        "line": 100
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 22,
+                        "durationMicroseconds": 322,
+                        "errorMessage": "",
+                        "functionName": "visible",
+                        "line": 107
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 19,
+                        "durationMicroseconds": 81,
+                        "errorMessage": "Cannot load property nmeaUdpPort from SettingsManager::autoConnectSettings with type QObject.",
+                        "functionName": "fact",
+                        "line": 109
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 20,
+                        "durationMicroseconds": 46,
+                        "errorMessage": "Cannot access value for name _linkManager",
+                        "functionName": "model",
+                        "line": 117
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 371,
+                        "errorMessage": "Cannot access value for name object",
+                        "functionName": "visible",
+                        "line": 121
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 587,
+                        "errorMessage": "Cannot access value for name object",
+                        "functionName": "text",
+                        "line": 125
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 7804,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 128
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 129,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 129
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 172,
+                        "errorMessage": "",
+                        "functionName": "fillMode",
+                        "line": 131
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 314,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 134
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 469,
+                        "errorMessage": "Cannot access value for name object",
+                        "functionName": "enabled",
+                        "line": 136
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 144,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 130
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 44,
+                        "durationMicroseconds": 63,
+                        "errorMessage": "Cannot access value for name parent",
+                        "functionName": "colorGroupEnabled",
+                        "line": 140
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 35,
+                        "durationMicroseconds": 162,
+                        "errorMessage": "",
+                        "functionName": "fillItem",
+                        "line": 144
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 36,
+                        "durationMicroseconds": 90,
+                        "errorMessage": "Cannot access value for name _linkManager",
+                        "functionName": "onClicked",
+                        "line": 145
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 167,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 152
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 105,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 153
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 151,
+                        "errorMessage": "",
+                        "functionName": "fillMode",
+                        "line": 155
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 253,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 158
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 127,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 154
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 44,
+                        "durationMicroseconds": 61,
+                        "errorMessage": "Cannot access value for name parent",
+                        "functionName": "colorGroupEnabled",
+                        "line": 163
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 208,
+                        "errorMessage": "",
+                        "functionName": "fillItem",
+                        "line": 167
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 739,
+                        "errorMessage": "Cannot access value for name mainWindow",
+                        "functionName": "onClicked",
+                        "line": 168
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"text\".",
+                        "functionName": "text",
+                        "line": 178
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 32,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"clicked\".",
+                        "functionName": "onClicked",
+                        "line": 179
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 24,
+                        "durationMicroseconds": 88,
+                        "errorMessage": "Cannot access value for name _linkManager",
+                        "functionName": "onClicked",
+                        "line": 194
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 554,
+                        "errorMessage": "",
+                        "functionName": "title",
+                        "line": 205
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 170,
+                        "errorMessage": "Cannot access value for name Dialog",
+                        "functionName": "buttons",
+                        "line": 206
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Cannot resolve property type  for binding on acceptButtonEnabled.",
+                        "functionName": "acceptButtonEnabled",
+                        "line": 207
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 151,
+                        "errorMessage": "Type QQuickLoader::item with type QObject does not have a property saveSettings for calling",
+                        "functionName": "onAccepted",
+                        "line": 212
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 45,
+                        "errorMessage": "Cannot access value for name _linkManager",
+                        "functionName": "onRejected",
+                        "line": 224
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 26,
+                        "durationMicroseconds": 335,
+                        "errorMessage": "",
+                        "functionName": "spacing",
+                        "line": 227
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 165,
+                        "errorMessage": "",
+                        "functionName": "spacing",
+                        "line": 231
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"text\".",
+                        "functionName": "text",
+                        "line": 237
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"checked\".",
+                        "functionName": "checked",
+                        "line": 245
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"checkedChanged\".",
+                        "functionName": "onCheckedChanged",
+                        "line": 246
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"checked\".",
+                        "functionName": "checked",
+                        "line": 252
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"checkedChanged\".",
+                        "functionName": "onCheckedChanged",
+                        "line": 253
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 75,
+                        "errorMessage": "Cannot access value for name originalConfig",
+                        "functionName": "enabled",
+                        "line": 258
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 51,
+                        "errorMessage": "Cannot access value for name _linkManager",
+                        "functionName": "model",
+                        "line": 259
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 35,
+                        "durationMicroseconds": 84,
+                        "errorMessage": "Cannot access value for name editingConfig",
+                        "functionName": "onActivated",
+                        "line": 262
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 35,
+                        "durationMicroseconds": 122,
+                        "errorMessage": "",
+                        "functionName": "onActivated",
+                        "line": 262
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 86,
+                        "errorMessage": "Cannot access value for name editingConfig",
+                        "functionName": "onCompleted",
+                        "line": 260
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 35,
+                        "errorMessage": "Cannot load property settingsURL from (component in C:/Users/User/qgroundcontrol/src/UI/AppSettings/LinkSettings.qml)::subEditConfig with type QVariant.",
+                        "functionName": "source",
+                        "line": 274
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 57,
+                        "durationMicroseconds": 46,
+                        "errorMessage": "Cannot access value for name editingConfig",
+                        "functionName": "subEditConfig",
+                        "line": 276
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 57,
+                        "durationMicroseconds": 360,
+                        "errorMessage": "",
+                        "functionName": "_firstColumnWidth",
+                        "line": 277
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 57,
+                        "durationMicroseconds": 279,
+                        "errorMessage": "",
+                        "functionName": "_secondColumnWidth",
+                        "line": 278
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 57,
+                        "durationMicroseconds": 392,
+                        "errorMessage": "",
+                        "functionName": "_rowSpacing",
+                        "line": 279
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 57,
+                        "durationMicroseconds": 296,
+                        "errorMessage": "",
+                        "functionName": "_colSpacing",
+                        "line": 280
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/UI/AppSettings/LinkSettings.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.AppSettings(AppSettingsModule)"
+    }
+]

@@ -1,0 +1,316 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 17,
+                        "durationMicroseconds": 478,
+                        "errorMessage": "Cannot access value for name Dialog",
+                        "functionName": "buttons",
+                        "line": 25
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 8287,
+                        "errorMessage": "",
+                        "functionName": "_margin",
+                        "line": 30
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 316,
+                        "errorMessage": "",
+                        "functionName": "_textFieldWidth",
+                        "line": 31
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 77,
+                        "errorMessage": "Cannot load property currentIndex from LabelledComboBox::comboBox with type QVariant.",
+                        "functionName": "_showGeographic",
+                        "line": 32
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 41,
+                        "errorMessage": "Cannot load property currentIndex from LabelledComboBox::comboBox with type QVariant.",
+                        "functionName": "_showUTM",
+                        "line": 33
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 37,
+                        "errorMessage": "Cannot load property currentIndex from LabelledComboBox::comboBox with type QVariant.",
+                        "functionName": "_showMGRS",
+                        "line": 34
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 41,
+                        "errorMessage": "Cannot load property currentIndex from LabelledComboBox::comboBox with type QVariant.",
+                        "functionName": "_showVehicle",
+                        "line": 35
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 32,
+                        "durationMicroseconds": 153,
+                        "errorMessage": "",
+                        "functionName": "onCompleted",
+                        "line": 40
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 18,
+                        "durationMicroseconds": 91,
+                        "errorMessage": "Cannot access value for name _margin",
+                        "functionName": "spacing",
+                        "line": 44
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 72,
+                        "errorMessage": "Cannot access value for name showSetPositionFromVehicle",
+                        "functionName": "model",
+                        "line": 50
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 208,
+                        "errorMessage": "",
+                        "functionName": "fact",
+                        "line": 57
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 38,
+                        "durationMicroseconds": 55,
+                        "errorMessage": "Cannot access value for name _textFieldWidth",
+                        "functionName": "textFieldPreferredWidth",
+                        "line": 58
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 39,
+                        "errorMessage": "Cannot access value for name _showGeographic",
+                        "functionName": "visible",
+                        "line": 60
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 194,
+                        "errorMessage": "",
+                        "functionName": "fact",
+                        "line": 65
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 38,
+                        "durationMicroseconds": 61,
+                        "errorMessage": "Cannot access value for name _textFieldWidth",
+                        "functionName": "textFieldPreferredWidth",
+                        "line": 66
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 47,
+                        "errorMessage": "Cannot access value for name _showGeographic",
+                        "functionName": "visible",
+                        "line": 68
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 34,
+                        "durationMicroseconds": 46,
+                        "errorMessage": "Cannot access value for name _showGeographic",
+                        "functionName": "visible",
+                        "line": 74
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 24,
+                        "durationMicroseconds": 97,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: root",
+                        "functionName": "onClicked",
+                        "line": 75
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 210,
+                        "errorMessage": "",
+                        "functionName": "fact",
+                        "line": 83
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 38,
+                        "durationMicroseconds": 65,
+                        "errorMessage": "Cannot access value for name _textFieldWidth",
+                        "functionName": "textFieldPreferredWidth",
+                        "line": 84
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 47,
+                        "errorMessage": "Cannot access value for name _showUTM",
+                        "functionName": "visible",
+                        "line": 86
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 192,
+                        "errorMessage": "",
+                        "functionName": "fact",
+                        "line": 91
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 58,
+                        "errorMessage": "Cannot access value for name _showUTM",
+                        "functionName": "visible",
+                        "line": 94
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 182,
+                        "errorMessage": "",
+                        "functionName": "fact",
+                        "line": 99
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 38,
+                        "durationMicroseconds": 55,
+                        "errorMessage": "Cannot access value for name _textFieldWidth",
+                        "functionName": "textFieldPreferredWidth",
+                        "line": 100
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 46,
+                        "errorMessage": "Cannot access value for name _showUTM",
+                        "functionName": "visible",
+                        "line": 102
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 199,
+                        "errorMessage": "",
+                        "functionName": "fact",
+                        "line": 107
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 38,
+                        "durationMicroseconds": 54,
+                        "errorMessage": "Cannot access value for name _textFieldWidth",
+                        "functionName": "textFieldPreferredWidth",
+                        "line": 108
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 44,
+                        "errorMessage": "Cannot access value for name _showUTM",
+                        "functionName": "visible",
+                        "line": 110
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 34,
+                        "durationMicroseconds": 45,
+                        "errorMessage": "Cannot access value for name _showUTM",
+                        "functionName": "visible",
+                        "line": 116
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 24,
+                        "durationMicroseconds": 93,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: root",
+                        "functionName": "onClicked",
+                        "line": 117
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 199,
+                        "errorMessage": "",
+                        "functionName": "fact",
+                        "line": 125
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 26368,
+                        "errorMessage": "Cannot access value for name _showMGRS",
+                        "functionName": "visible",
+                        "line": 126
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 38,
+                        "durationMicroseconds": 91,
+                        "errorMessage": "Cannot access value for name _textFieldWidth",
+                        "functionName": "textFieldPreferredWidth",
+                        "line": 127
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 34,
+                        "durationMicroseconds": 70,
+                        "errorMessage": "Cannot access value for name _showMGRS",
+                        "functionName": "visible",
+                        "line": 134
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 24,
+                        "durationMicroseconds": 119,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: root",
+                        "functionName": "onClicked",
+                        "line": 135
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 34,
+                        "durationMicroseconds": 52,
+                        "errorMessage": "Cannot access value for name _showVehicle",
+                        "functionName": "visible",
+                        "line": 144
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 24,
+                        "durationMicroseconds": 77,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: root",
+                        "functionName": "onClicked",
+                        "line": 145
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/QmlControls/EditPositionDialog.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.Controls(QGroundControlControlsModule)"
+    }
+]

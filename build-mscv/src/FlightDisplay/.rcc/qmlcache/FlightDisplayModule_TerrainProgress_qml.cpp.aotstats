@@ -1,0 +1,212 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 21,
+                        "durationMicroseconds": 918,
+                        "errorMessage": "",
+                        "functionName": "implicitHeight",
+                        "line": 20
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 21,
+                        "durationMicroseconds": 303,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 22
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 467,
+                        "errorMessage": "",
+                        "functionName": "_activeVehicle",
+                        "line": 24
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 8757,
+                        "errorMessage": "",
+                        "functionName": "_margins",
+                        "line": 25
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 74,
+                        "errorMessage": "Cannot load property terrain from (component in C:/Users/User/qgroundcontrol/src/FlightDisplay/TerrainProgress.qml)::_activeVehicle with type QVariant.",
+                        "functionName": "_totalBlocks",
+                        "line": 26
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 41,
+                        "errorMessage": "Cannot load property terrain from (component in C:/Users/User/qgroundcontrol/src/FlightDisplay/TerrainProgress.qml)::_activeVehicle with type QVariant.",
+                        "functionName": "_blocksLoaded",
+                        "line": 27
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 35,
+                        "errorMessage": "Cannot load property terrain from (component in C:/Users/User/qgroundcontrol/src/FlightDisplay/TerrainProgress.qml)::_activeVehicle with type QVariant.",
+                        "functionName": "_blocksPending",
+                        "line": 28
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 625,
+                        "errorMessage": "",
+                        "functionName": "_pctComplete",
+                        "line": 29
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 30,
+                        "durationMicroseconds": 618,
+                        "errorMessage": "",
+                        "functionName": "on_BlocksPendingChanged",
+                        "line": 31
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 597,
+                        "errorMessage": "",
+                        "functionName": "on_BlocksLoadedChanged",
+                        "line": 41
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 209,
+                        "errorMessage": "",
+                        "functionName": "interval",
+                        "line": 53
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 49,
+                        "errorMessage": "Type (component in C:/Users/User/qgroundcontrol/src/FlightDisplay/TerrainProgress.qml)::parent with type QObject does not have a property visible for writing",
+                        "functionName": "onTriggered",
+                        "line": 54
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 74,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "spacing",
+                        "line": 65
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 44,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "margins",
+                        "line": 61
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 265,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 62
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 366,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 63
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 235,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 64
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 193,
+                        "errorMessage": "",
+                        "functionName": "alignment",
+                        "line": 68
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 187,
+                        "errorMessage": "",
+                        "functionName": "pointSize",
+                        "line": 70
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 146,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 75
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 32,
+                        "durationMicroseconds": 92,
+                        "errorMessage": "Cannot access value for name _pctComplete",
+                        "functionName": "width",
+                        "line": 83
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 278,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 80
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 233,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 81
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 79,
+                        "errorMessage": "Cannot access value for name _blocksPending",
+                        "functionName": "visible",
+                        "line": 88
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 126,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 86
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/FlightDisplay/TerrainProgress.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.FlightDisplay(FlightDisplayModule)"
+    }
+]

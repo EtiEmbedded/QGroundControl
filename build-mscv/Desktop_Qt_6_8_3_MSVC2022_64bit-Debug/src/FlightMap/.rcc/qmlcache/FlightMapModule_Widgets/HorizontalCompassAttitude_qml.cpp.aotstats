@@ -1,0 +1,188 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 13,
+                        "durationMicroseconds": 530,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 19
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 13,
+                        "durationMicroseconds": 181,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 20
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 13,
+                        "durationMicroseconds": 71,
+                        "errorMessage": "",
+                        "functionName": "radius",
+                        "line": 21
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 13,
+                        "durationMicroseconds": 44,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: qgcPal",
+                        "functionName": "color",
+                        "line": 22
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 81,
+                        "errorMessage": "",
+                        "functionName": "extraValuesWidth",
+                        "line": 25
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 501,
+                        "errorMessage": "Cannot access value for name mainWindow",
+                        "functionName": "_defaultWidth",
+                        "line": 27
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 6101,
+                        "errorMessage": "",
+                        "functionName": "_maxWidth",
+                        "line": 28
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 295,
+                        "errorMessage": "",
+                        "functionName": "_innerRadius",
+                        "line": 29
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 140,
+                        "errorMessage": "",
+                        "functionName": "_outerRadius",
+                        "line": 30
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 179,
+                        "errorMessage": "",
+                        "functionName": "_spacing",
+                        "line": 31
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 198,
+                        "errorMessage": "",
+                        "functionName": "_topBottomMargin",
+                        "line": 32
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 35,
+                        "durationMicroseconds": 84,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 34
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 242,
+                        "errorMessage": "",
+                        "functionName": "size",
+                        "line": 42
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 280,
+                        "errorMessage": "Cannot access value for name globals",
+                        "functionName": "vehicle",
+                        "line": 43
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 108,
+                        "errorMessage": "",
+                        "functionName": "leftMargin",
+                        "line": 40
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 149,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 41
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 145,
+                        "errorMessage": "",
+                        "functionName": "verticalCenter",
+                        "line": 44
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 176,
+                        "errorMessage": "",
+                        "functionName": "size",
+                        "line": 51
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 381,
+                        "errorMessage": "Cannot access value for name globals",
+                        "functionName": "vehicle",
+                        "line": 52
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 107,
+                        "errorMessage": "",
+                        "functionName": "leftMargin",
+                        "line": 49
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 139,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 50
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 138,
+                        "errorMessage": "",
+                        "functionName": "verticalCenter",
+                        "line": 53
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/FlightMap/Widgets/HorizontalCompassAttitude.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.FlightMap(FlightMapModule)"
+    }
+]

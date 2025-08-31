@@ -1,0 +1,68 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 574,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 26
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 1950,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 27
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 33233,
+                        "errorMessage": "",
+                        "functionName": "radius",
+                        "line": 28
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 434,
+                        "errorMessage": "Cannot access value for name indicatorGreen",
+                        "functionName": "visible",
+                        "line": 30
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 1635,
+                        "errorMessage": "",
+                        "functionName": "rightMargin",
+                        "line": 23
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 986,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 24
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 376,
+                        "errorMessage": "",
+                        "functionName": "verticalCenter",
+                        "line": 25
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/QmlControls/IndicatorButton.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.Controls(QGroundControlControlsModule)"
+    }
+]

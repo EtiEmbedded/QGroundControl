@@ -1,0 +1,404 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 13,
+                        "durationMicroseconds": 1621,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 14
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 13,
+                        "durationMicroseconds": 628,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 15
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 13,
+                        "durationMicroseconds": 126,
+                        "errorMessage": "",
+                        "functionName": "radius",
+                        "line": 16
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 68,
+                        "errorMessage": "Cannot load property currentRallyPoint from (component in C:/Users/User/qgroundcontrol/src/QmlControls/RallyPointItemEditor.qml)::controller with type QVariant.",
+                        "functionName": "_currentItem",
+                        "line": 23
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 247,
+                        "errorMessage": "",
+                        "functionName": "_outerTextColor",
+                        "line": 24
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 7589,
+                        "errorMessage": "",
+                        "functionName": "_margin",
+                        "line": 26
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 269,
+                        "errorMessage": "",
+                        "functionName": "_radius",
+                        "line": 27
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 239,
+                        "errorMessage": "",
+                        "functionName": "_titleHeight",
+                        "line": 28
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 65,
+                        "errorMessage": "Cannot access value for name _titleHeight",
+                        "functionName": "height",
+                        "line": 38
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 37,
+                        "errorMessage": "Cannot access value for name _margin",
+                        "functionName": "margins",
+                        "line": 34
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 258,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 35
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 208,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 36
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 210,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 37
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 236,
+                        "errorMessage": "",
+                        "functionName": "verticalCenter",
+                        "line": 42
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 212,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 43
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 52,
+                        "errorMessage": "Cannot access value for name _outerTextColor",
+                        "functionName": "color",
+                        "line": 53
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 45,
+                        "errorMessage": "Cannot access value for name _margin",
+                        "functionName": "leftMargin",
+                        "line": 49
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 211,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 50
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 203,
+                        "errorMessage": "",
+                        "functionName": "verticalCenter",
+                        "line": 51
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 286,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 61
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 110,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 62
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 216,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 65
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 58,
+                        "errorMessage": "Cannot access value for name _margin",
+                        "functionName": "rightMargin",
+                        "line": 58
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 277,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 59
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 259,
+                        "errorMessage": "",
+                        "functionName": "verticalCenter",
+                        "line": 60
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 135,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 63
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 60,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: hamburgerMenu",
+                        "functionName": "onClicked",
+                        "line": 69
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 114,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 68
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"triggered\".",
+                        "functionName": "onTriggered",
+                        "line": 76
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 99,
+                        "errorMessage": "Cannot access value for name _margin",
+                        "functionName": "height",
+                        "line": 89
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 244,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 90
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 49,
+                        "errorMessage": "Cannot access value for name _currentItem",
+                        "functionName": "visible",
+                        "line": 91
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 36,
+                        "errorMessage": "Cannot access value for name _radius",
+                        "functionName": "radius",
+                        "line": 92
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 46,
+                        "errorMessage": "Cannot access value for name _margin",
+                        "functionName": "margins",
+                        "line": 85
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 247,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 86
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 227,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 87
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 215,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 88
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 66,
+                        "errorMessage": "Cannot access value for name _margin",
+                        "functionName": "rowSpacing",
+                        "line": 100
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 43,
+                        "errorMessage": "Cannot access value for name _margin",
+                        "functionName": "columnSpacing",
+                        "line": 101
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 45,
+                        "errorMessage": "Cannot access value for name rallyPoint",
+                        "functionName": "rows",
+                        "line": 102
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 173,
+                        "errorMessage": "",
+                        "functionName": "flow",
+                        "line": 103
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 47,
+                        "errorMessage": "Cannot access value for name _margin",
+                        "functionName": "margins",
+                        "line": 96
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 318,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 97
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 212,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 98
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 199,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 99
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 24,
+                        "durationMicroseconds": 67,
+                        "errorMessage": "Cannot access value for name rallyPoint",
+                        "functionName": "model",
+                        "line": 106
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 27,
+                        "durationMicroseconds": 785,
+                        "errorMessage": "Cannot access value for name modelData",
+                        "functionName": "text",
+                        "line": 108
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 24,
+                        "durationMicroseconds": 48,
+                        "errorMessage": "Cannot access value for name rallyPoint",
+                        "functionName": "model",
+                        "line": 113
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 147,
+                        "errorMessage": "Cannot access value for name modelData",
+                        "functionName": "fact",
+                        "line": 117
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/QmlControls/RallyPointItemEditor.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.Controls(QGroundControlControlsModule)"
+    }
+]

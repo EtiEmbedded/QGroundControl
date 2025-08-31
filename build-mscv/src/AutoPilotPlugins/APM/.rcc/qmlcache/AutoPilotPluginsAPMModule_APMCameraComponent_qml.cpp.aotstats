@@ -1,0 +1,1684 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 21,
+                        "durationMicroseconds": 254,
+                        "errorMessage": "",
+                        "functionName": "pageComponent",
+                        "line": 23
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 122,
+                        "errorMessage": "",
+                        "functionName": "spacing",
+                        "line": 29
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 167,
+                        "errorMessage": "Cannot access value for name availableWidth",
+                        "functionName": "width",
+                        "line": 30
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 298,
+                        "errorMessage": "",
+                        "functionName": "_mountRetractX",
+                        "line": 36
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 226,
+                        "errorMessage": "",
+                        "functionName": "_mountRetractY",
+                        "line": 37
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 221,
+                        "errorMessage": "",
+                        "functionName": "_mountRetractZ",
+                        "line": 38
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 226,
+                        "errorMessage": "",
+                        "functionName": "_mountNeutralX",
+                        "line": 40
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 215,
+                        "errorMessage": "",
+                        "functionName": "_mountNeutralY",
+                        "line": 41
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 208,
+                        "errorMessage": "",
+                        "functionName": "_mountNeutralZ",
+                        "line": 42
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 258,
+                        "errorMessage": "",
+                        "functionName": "_mountRCInTilt",
+                        "line": 44
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 206,
+                        "errorMessage": "",
+                        "functionName": "_mountStabTilt",
+                        "line": 45
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 211,
+                        "errorMessage": "",
+                        "functionName": "_mountAngMinTilt",
+                        "line": 46
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 201,
+                        "errorMessage": "",
+                        "functionName": "_mountAngMaxTilt",
+                        "line": 47
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 213,
+                        "errorMessage": "",
+                        "functionName": "_mountRCInRoll",
+                        "line": 49
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 224,
+                        "errorMessage": "",
+                        "functionName": "_mountStabRoll",
+                        "line": 50
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 194,
+                        "errorMessage": "",
+                        "functionName": "_mountAngMinRoll",
+                        "line": 51
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 200,
+                        "errorMessage": "",
+                        "functionName": "_mountAngMaxRoll",
+                        "line": 52
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 201,
+                        "errorMessage": "",
+                        "functionName": "_mountRCInPan",
+                        "line": 54
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 211,
+                        "errorMessage": "",
+                        "functionName": "_mountStabPan",
+                        "line": 55
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 203,
+                        "errorMessage": "",
+                        "functionName": "_mountAngMinPan",
+                        "line": 56
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 188,
+                        "errorMessage": "",
+                        "functionName": "_mountAngMaxPan",
+                        "line": 57
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 190,
+                        "errorMessage": "",
+                        "functionName": "_rc5Function",
+                        "line": 59
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 213,
+                        "errorMessage": "",
+                        "functionName": "_rc6Function",
+                        "line": 60
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 213,
+                        "errorMessage": "",
+                        "functionName": "_rc7Function",
+                        "line": 61
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 216,
+                        "errorMessage": "",
+                        "functionName": "_rc8Function",
+                        "line": 62
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 254,
+                        "errorMessage": "",
+                        "functionName": "_rc9Function",
+                        "line": 63
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 250,
+                        "errorMessage": "",
+                        "functionName": "_rc10Function",
+                        "line": 64
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 212,
+                        "errorMessage": "",
+                        "functionName": "_rc11Function",
+                        "line": 65
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 197,
+                        "errorMessage": "",
+                        "functionName": "_rc12Function",
+                        "line": 66
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 202,
+                        "errorMessage": "",
+                        "functionName": "_rc13Function",
+                        "line": 67
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 192,
+                        "errorMessage": "",
+                        "functionName": "_rc14Function",
+                        "line": 68
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 232,
+                        "errorMessage": "",
+                        "functionName": "_servoReverseIsBool",
+                        "line": 74
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 212,
+                        "errorMessage": "",
+                        "functionName": "_showGimbaLSettings",
+                        "line": 77
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 69,
+                        "durationMicroseconds": 6163,
+                        "errorMessage": "",
+                        "functionName": "_margins",
+                        "line": 79
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 13,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "setGimbalSettingsServoInfo",
+                        "line": 95
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 13,
+                        "durationMicroseconds": 6078,
+                        "errorMessage": "Cannot generate efficient code for incomparable types (component in C:/Users/User/qgroundcontrol/src/AutoPilotPlugins/APM/APMCameraComponent.qml)::_rcFunctionMountTilt with type int and Fact::value with type QVariant",
+                        "functionName": "calcGimbalOutValues",
+                        "line": 106
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 13,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "setRCFunction",
+                        "line": 128
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 36,
+                        "durationMicroseconds": 437,
+                        "errorMessage": "",
+                        "functionName": "onCompleted",
+                        "line": 88
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 35,
+                        "durationMicroseconds": 51,
+                        "errorMessage": "Cannot access value for name _rc5Function",
+                        "functionName": "target",
+                        "line": 145
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "onValueChanged",
+                        "line": 145
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 35,
+                        "durationMicroseconds": 35,
+                        "errorMessage": "Cannot access value for name _rc6Function",
+                        "functionName": "target",
+                        "line": 146
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "onValueChanged",
+                        "line": 146
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 35,
+                        "durationMicroseconds": 30,
+                        "errorMessage": "Cannot access value for name _rc7Function",
+                        "functionName": "target",
+                        "line": 147
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "onValueChanged",
+                        "line": 147
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 35,
+                        "durationMicroseconds": 23,
+                        "errorMessage": "Cannot access value for name _rc8Function",
+                        "functionName": "target",
+                        "line": 148
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "onValueChanged",
+                        "line": 148
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 35,
+                        "durationMicroseconds": 24,
+                        "errorMessage": "Cannot access value for name _rc9Function",
+                        "functionName": "target",
+                        "line": 149
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "onValueChanged",
+                        "line": 149
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 35,
+                        "durationMicroseconds": 38,
+                        "errorMessage": "Cannot access value for name _rc10Function",
+                        "functionName": "target",
+                        "line": 150
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 50,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "onValueChanged",
+                        "line": 150
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 35,
+                        "durationMicroseconds": 28,
+                        "errorMessage": "Cannot access value for name _rc11Function",
+                        "functionName": "target",
+                        "line": 151
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 50,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "onValueChanged",
+                        "line": 151
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 35,
+                        "durationMicroseconds": 29,
+                        "errorMessage": "Cannot access value for name _rc12Function",
+                        "functionName": "target",
+                        "line": 152
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 50,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "onValueChanged",
+                        "line": 152
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 35,
+                        "durationMicroseconds": 26,
+                        "errorMessage": "Cannot access value for name _rc13Function",
+                        "functionName": "target",
+                        "line": 153
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 50,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "onValueChanged",
+                        "line": 153
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 35,
+                        "durationMicroseconds": 28,
+                        "errorMessage": "Cannot access value for name _rc14Function",
+                        "functionName": "target",
+                        "line": 154
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 50,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "onValueChanged",
+                        "line": 154
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 34,
+                        "errorMessage": "Cannot access value for name _mountRCInPan",
+                        "functionName": "target",
+                        "line": 158
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"valueChanged\".",
+                        "functionName": "onValueChanged",
+                        "line": 159
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 29,
+                        "errorMessage": "Cannot access value for name _mountRCInRoll",
+                        "functionName": "target",
+                        "line": 163
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"valueChanged\".",
+                        "functionName": "onValueChanged",
+                        "line": 164
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 36,
+                        "errorMessage": "Cannot access value for name _mountRCInTilt",
+                        "functionName": "target",
+                        "line": 168
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"valueChanged\".",
+                        "functionName": "onValueChanged",
+                        "line": 169
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 17,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "update",
+                        "line": 178
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 40,
+                        "durationMicroseconds": 1478,
+                        "errorMessage": "Cannot generate efficient code for call to untyped JavaScript function",
+                        "functionName": "onCompleted",
+                        "line": 189
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 321,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 221
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 219,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 222
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 740,
+                        "errorMessage": "Cannot access value for name directionTitle",
+                        "functionName": "text",
+                        "line": 226
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 56,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: mountAngMaxField",
+                        "functionName": "width",
+                        "line": 235
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 28,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: servoPWMMaxField",
+                        "functionName": "height",
+                        "line": 236
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 66,
+                        "errorMessage": "Cannot access value for name qgcPal",
+                        "functionName": "color",
+                        "line": 237
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 65,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "topMargin",
+                        "line": 232
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 214,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 233
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 171,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 234
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 116,
+                        "errorMessage": "Cannot access value for name mountStabFact",
+                        "functionName": "fact",
+                        "line": 245
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"enabled\".",
+                        "functionName": "enabled",
+                        "line": 248
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"topMargin\".",
+                        "functionName": "topMargin",
+                        "line": 241
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"left\".",
+                        "functionName": "left",
+                        "line": 242
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"top\".",
+                        "functionName": "top",
+                        "line": 243
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 222,
+                        "errorMessage": "",
+                        "functionName": "checkedValue",
+                        "line": 257
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 193,
+                        "errorMessage": "",
+                        "functionName": "uncheckedValue",
+                        "line": 258
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 131,
+                        "errorMessage": "Cannot access value for name servoReverseFact",
+                        "functionName": "fact",
+                        "line": 259
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"enabled\".",
+                        "functionName": "enabled",
+                        "line": 260
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 64,
+                        "durationMicroseconds": 134,
+                        "errorMessage": "Cannot access value for name servoReverseIsBool",
+                        "functionName": "_servoReverseIsBool",
+                        "line": 262
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"margins\".",
+                        "functionName": "margins",
+                        "line": 253
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"top\".",
+                        "functionName": "top",
+                        "line": 254
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 50,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"right\".",
+                        "functionName": "right",
+                        "line": 255
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 65,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "margins",
+                        "line": 267
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 203,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 268
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 158,
+                        "errorMessage": "",
+                        "functionName": "baseline",
+                        "line": 269
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 49,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: mountAngMinField",
+                        "functionName": "width",
+                        "line": 278
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 48,
+                        "errorMessage": "Cannot access value for name gimbalOutModel",
+                        "functionName": "model",
+                        "line": 279
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 958,
+                        "errorMessage": "Cannot access value for name gimbalOutIndex",
+                        "functionName": "currentIndex",
+                        "line": 281
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 43,
+                        "durationMicroseconds": 80,
+                        "errorMessage": "Cannot access value for name gimbalOutModel",
+                        "functionName": "onActivated",
+                        "line": 283
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 43,
+                        "durationMicroseconds": 96,
+                        "errorMessage": "",
+                        "functionName": "onActivated",
+                        "line": 283
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 57,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "margins",
+                        "line": 275
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 219,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 276
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 179,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 277
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 690,
+                        "errorMessage": "Cannot access value for name directionEnabled",
+                        "functionName": "enabled",
+                        "line": 292
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 49,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "margins",
+                        "line": 288
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 208,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 289
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 166,
+                        "errorMessage": "",
+                        "functionName": "baseline",
+                        "line": 290
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 36,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: mountAngMinField",
+                        "functionName": "width",
+                        "line": 300
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 850,
+                        "errorMessage": "Cannot access value for name mountRcInFact",
+                        "functionName": "fact",
+                        "line": 301
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 988,
+                        "errorMessage": "Cannot access value for name directionEnabled",
+                        "functionName": "enabled",
+                        "line": 303
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 73,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "topMargin",
+                        "line": 297
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 245,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 298
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 197,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 299
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 775,
+                        "errorMessage": "Cannot access value for name directionEnabled",
+                        "functionName": "enabled",
+                        "line": 312
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 70,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "margins",
+                        "line": 308
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 241,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 309
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 37,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: mountAngMinField",
+                        "functionName": "baseline",
+                        "line": 310
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 701,
+                        "errorMessage": "Cannot access value for name directionEnabled",
+                        "functionName": "enabled",
+                        "line": 321
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 51,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "margins",
+                        "line": 317
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 247,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 318
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 36,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: mountAngMinField",
+                        "functionName": "baseline",
+                        "line": 319
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 150,
+                        "errorMessage": "Cannot access value for name mountAngMinFact",
+                        "functionName": "fact",
+                        "line": 329
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"enabled\".",
+                        "functionName": "enabled",
+                        "line": 330
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"margins\".",
+                        "functionName": "margins",
+                        "line": 326
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"top\".",
+                        "functionName": "top",
+                        "line": 327
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"left\".",
+                        "functionName": "left",
+                        "line": 328
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 677,
+                        "errorMessage": "Cannot access value for name directionEnabled",
+                        "functionName": "enabled",
+                        "line": 339
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 61,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "margins",
+                        "line": 335
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 37,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: mountAngMinField",
+                        "functionName": "left",
+                        "line": 336
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 21,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: mountAngMinField",
+                        "functionName": "baseline",
+                        "line": 337
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 144,
+                        "errorMessage": "Cannot access value for name mountAngMaxFact",
+                        "functionName": "fact",
+                        "line": 347
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"enabled\".",
+                        "functionName": "enabled",
+                        "line": 348
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"leftMargin\".",
+                        "functionName": "leftMargin",
+                        "line": 344
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"top\".",
+                        "functionName": "top",
+                        "line": 345
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"left\".",
+                        "functionName": "left",
+                        "line": 346
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 701,
+                        "errorMessage": "Cannot access value for name directionEnabled",
+                        "functionName": "enabled",
+                        "line": 357
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 80,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "margins",
+                        "line": 353
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 258,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 354
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 40,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: servoPWMMinField",
+                        "functionName": "baseline",
+                        "line": 355
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 682,
+                        "errorMessage": "Cannot access value for name directionEnabled",
+                        "functionName": "enabled",
+                        "line": 365
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 246,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 362
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 33,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: servoPWMMinField",
+                        "functionName": "baseline",
+                        "line": 363
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 147,
+                        "errorMessage": "Cannot access value for name servoPWMMinFact",
+                        "functionName": "fact",
+                        "line": 374
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"enabled\".",
+                        "functionName": "enabled",
+                        "line": 375
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"topMargin\".",
+                        "functionName": "topMargin",
+                        "line": 370
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"leftMargin\".",
+                        "functionName": "leftMargin",
+                        "line": 371
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"top\".",
+                        "functionName": "top",
+                        "line": 372
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"left\".",
+                        "functionName": "left",
+                        "line": 373
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 715,
+                        "errorMessage": "Cannot access value for name directionEnabled",
+                        "functionName": "enabled",
+                        "line": 384
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 70,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "margins",
+                        "line": 380
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 45,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: servoPWMMinField",
+                        "functionName": "left",
+                        "line": 381
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 21,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: servoPWMMinField",
+                        "functionName": "baseline",
+                        "line": 382
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 147,
+                        "errorMessage": "Cannot access value for name servoPWMMaxFact",
+                        "functionName": "fact",
+                        "line": 392
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"enabled\".",
+                        "functionName": "enabled",
+                        "line": 393
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"leftMargin\".",
+                        "functionName": "leftMargin",
+                        "line": 389
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"top\".",
+                        "functionName": "top",
+                        "line": 390
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"left\".",
+                        "functionName": "left",
+                        "line": 391
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 339,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 403
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 241,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 404
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 57,
+                        "durationMicroseconds": 66,
+                        "errorMessage": "Cannot access value for name controller",
+                        "functionName": "_mountDefaultMode",
+                        "line": 406
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 57,
+                        "durationMicroseconds": 41,
+                        "errorMessage": "Cannot access value for name controller",
+                        "functionName": "_mountType",
+                        "line": 407
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 129,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "width",
+                        "line": 419
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 87,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "height",
+                        "line": 420
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 42,
+                        "errorMessage": "Cannot access value for name qgcPal",
+                        "functionName": "color",
+                        "line": 421
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 47,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "topMargin",
+                        "line": 417
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 208,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 418
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 82,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "margins",
+                        "line": 425
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 204,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 426
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 177,
+                        "errorMessage": "",
+                        "functionName": "baseline",
+                        "line": 427
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 124,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 436
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 64,
+                        "errorMessage": "Cannot access value for name _mountType",
+                        "functionName": "fact",
+                        "line": 437
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 44,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "topMargin",
+                        "line": 433
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 181,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 434
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 148,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 435
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 174,
+                        "errorMessage": "",
+                        "functionName": "wrapMode",
+                        "line": 449
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 83,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "topMargin",
+                        "line": 443
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 37,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "leftMargin",
+                        "line": 444
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 30,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "rightMargin",
+                        "line": 445
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 193,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 446
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 170,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 447
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 150,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 448
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 55,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "margins",
+                        "line": 455
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 177,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 456
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 161,
+                        "errorMessage": "",
+                        "functionName": "baseline",
+                        "line": 457
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 262,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 466
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 59,
+                        "errorMessage": "Cannot access value for name _mountDefaultMode",
+                        "functionName": "fact",
+                        "line": 467
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 45,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "margins",
+                        "line": 463
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 182,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 464
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 155,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 465
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 121,
+                        "errorMessage": "",
+                        "functionName": "sourceComponent",
+                        "line": 476
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 60,
+                        "errorMessage": "Cannot access value for name _tiltEnabled",
+                        "functionName": "directionEnabled",
+                        "line": 479
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 29,
+                        "errorMessage": "Cannot access value for name _mountRCInTilt",
+                        "functionName": "mountRcInFact",
+                        "line": 481
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 24,
+                        "errorMessage": "Cannot access value for name _mountStabTilt",
+                        "functionName": "mountStabFact",
+                        "line": 482
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 25,
+                        "errorMessage": "Cannot access value for name _mountAngMinTilt",
+                        "functionName": "mountAngMinFact",
+                        "line": 483
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 25,
+                        "errorMessage": "Cannot access value for name _mountAngMaxTilt",
+                        "functionName": "mountAngMaxFact",
+                        "line": 484
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 27,
+                        "errorMessage": "Cannot access value for name _servoReverseIsBool",
+                        "functionName": "servoReverseIsBool",
+                        "line": 488
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 26,
+                        "errorMessage": "Cannot access value for name _rcFunctionMountTilt",
+                        "functionName": "rcFunction",
+                        "line": 489
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 112,
+                        "errorMessage": "",
+                        "functionName": "sourceComponent",
+                        "line": 494
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 44,
+                        "errorMessage": "Cannot access value for name _rollEnabled",
+                        "functionName": "directionEnabled",
+                        "line": 497
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 34,
+                        "errorMessage": "Cannot access value for name _mountRCInRoll",
+                        "functionName": "mountRcInFact",
+                        "line": 499
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 27,
+                        "errorMessage": "Cannot access value for name _mountStabRoll",
+                        "functionName": "mountStabFact",
+                        "line": 500
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 27,
+                        "errorMessage": "Cannot access value for name _mountAngMinRoll",
+                        "functionName": "mountAngMinFact",
+                        "line": 501
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 26,
+                        "errorMessage": "Cannot access value for name _mountAngMaxRoll",
+                        "functionName": "mountAngMaxFact",
+                        "line": 502
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 28,
+                        "errorMessage": "Cannot access value for name _servoReverseIsBool",
+                        "functionName": "servoReverseIsBool",
+                        "line": 506
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 27,
+                        "errorMessage": "Cannot access value for name _rcFunctionMountRoll",
+                        "functionName": "rcFunction",
+                        "line": 507
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 111,
+                        "errorMessage": "",
+                        "functionName": "sourceComponent",
+                        "line": 512
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 44,
+                        "errorMessage": "Cannot access value for name _panEnabled",
+                        "functionName": "directionEnabled",
+                        "line": 515
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 28,
+                        "errorMessage": "Cannot access value for name _mountRCInPan",
+                        "functionName": "mountRcInFact",
+                        "line": 517
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 27,
+                        "errorMessage": "Cannot access value for name _mountStabPan",
+                        "functionName": "mountStabFact",
+                        "line": 518
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 25,
+                        "errorMessage": "Cannot access value for name _mountAngMinPan",
+                        "functionName": "mountAngMinFact",
+                        "line": 519
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 27,
+                        "errorMessage": "Cannot access value for name _mountAngMaxPan",
+                        "functionName": "mountAngMaxFact",
+                        "line": 520
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 39,
+                        "errorMessage": "Cannot access value for name _servoReverseIsBool",
+                        "functionName": "servoReverseIsBool",
+                        "line": 524
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 40,
+                        "errorMessage": "Cannot access value for name _rcFunctionMountPan",
+                        "functionName": "rcFunction",
+                        "line": 525
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/AutoPilotPlugins/APM/APMCameraComponent.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.AutoPilotPlugins.APM(AutoPilotPluginsAPMModule)"
+    }
+]

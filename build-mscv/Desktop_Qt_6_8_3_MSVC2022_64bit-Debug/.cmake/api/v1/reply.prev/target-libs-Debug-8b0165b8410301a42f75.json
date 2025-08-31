@@ -1,0 +1,49 @@
+{
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_custom_target",
+			"add_dependencies"
+		],
+		"files" : 
+		[
+			"build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/cpm_modules/geographiclib/51aa4b8613d10fb7df90868d67906d2da5631520/src/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 3,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 109,
+				"parent" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 2,
+			"id" : "GeographicLib_STATIC::@dce13dc75a99617acf06"
+		}
+	],
+	"id" : "libs::@dce13dc75a99617acf06",
+	"name" : "libs",
+	"paths" : 
+	{
+		"build" : "_deps/geographiclib-build/src",
+		"source" : "build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/cpm_modules/geographiclib/51aa4b8613d10fb7df90868d67906d2da5631520/src"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

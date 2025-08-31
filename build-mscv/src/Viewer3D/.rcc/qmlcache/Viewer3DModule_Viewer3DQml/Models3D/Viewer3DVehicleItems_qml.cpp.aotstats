@@ -1,0 +1,228 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 202,
+                        "errorMessage": "Cannot load property missionController from (component in C:/Users/User/qgroundcontrol/src/Viewer3D/Viewer3DQml/Models3D/Viewer3DVehicleItems.qml)::_planMasterController with type QVariant.",
+                        "functionName": "_missionController",
+                        "line": 22
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 514,
+                        "errorMessage": "",
+                        "functionName": "_viewer3DSetting",
+                        "line": 23
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 39,
+                        "errorMessage": "Cannot load property altitudeBias from (component in C:/Users/User/qgroundcontrol/src/Viewer3D/Viewer3DQml/Models3D/Viewer3DVehicleItems.qml)::_viewer3DSetting with type QVariant.",
+                        "functionName": "_altitudeBias",
+                        "line": 24
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "isItemAcceptable",
+                        "line": 28
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "isLaunchItem",
+                        "line": 39
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "isReturnToLaunchItem",
+                        "line": 43
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "getItemName",
+                        "line": 48
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 274,
+                        "errorMessage": "Cannot load property visualItems from (component in C:/Users/User/qgroundcontrol/src/Viewer3D/Viewer3DQml/Models3D/Viewer3DVehicleItems.qml)::_missionController with type QVariant.",
+                        "functionName": "addMissionItemsToListModel",
+                        "line": 72
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 210,
+                        "errorMessage": "Cannot load property visualItems from (component in C:/Users/User/qgroundcontrol/src/Viewer3D/Viewer3DQml/Models3D/Viewer3DVehicleItems.qml)::_missionController with type QVariant.",
+                        "functionName": "addSegmentToMissionPathModel",
+                        "line": 108
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 17,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Cannot resolve property type QGeoCoordinate for binding on gpsRef.",
+                        "functionName": "gpsRef",
+                        "line": 159
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 18,
+                        "durationMicroseconds": 73,
+                        "errorMessage": "Cannot access value for name _vehicle",
+                        "functionName": "vehicle",
+                        "line": 172
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 21,
+                        "durationMicroseconds": 478,
+                        "errorMessage": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: QVariant -> QVector3D stored as QVariant",
+                        "functionName": "modelScale",
+                        "line": 173
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 23,
+                        "durationMicroseconds": 67,
+                        "errorMessage": "Cannot access value for name _altitudeBias",
+                        "functionName": "altitudeBias",
+                        "line": 174
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 17,
+                        "durationMicroseconds": 44,
+                        "errorMessage": "Cannot access value for name _backendQml",
+                        "functionName": "gpsRef",
+                        "line": 175
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 16,
+                        "durationMicroseconds": 189,
+                        "errorMessage": "",
+                        "functionName": "model",
+                        "line": 180
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 26,
+                        "durationMicroseconds": 51,
+                        "errorMessage": "Cannot access value for name model",
+                        "functionName": "missionItem",
+                        "line": 184
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 27,
+                        "durationMicroseconds": 40,
+                        "errorMessage": "Cannot access value for name _altitudeBias",
+                        "functionName": "altitudeBias",
+                        "line": 185
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 16,
+                        "durationMicroseconds": 175,
+                        "errorMessage": "",
+                        "functionName": "model",
+                        "line": 191
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 18,
+                        "durationMicroseconds": 79,
+                        "errorMessage": "Cannot access value for name model",
+                        "functionName": "p_1",
+                        "line": 194
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 18,
+                        "durationMicroseconds": 54,
+                        "errorMessage": "Cannot access value for name model",
+                        "functionName": "p_2",
+                        "line": 195
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 20,
+                        "durationMicroseconds": 28,
+                        "errorMessage": "Cannot access value for name model",
+                        "functionName": "color",
+                        "line": 197
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 17,
+                        "durationMicroseconds": 34,
+                        "errorMessage": "Cannot access value for name _missionController",
+                        "functionName": "target",
+                        "line": 202
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 31,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"visualItemsChanged\".",
+                        "functionName": "onVisualItemsChanged",
+                        "line": 203
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 17,
+                        "durationMicroseconds": 35,
+                        "errorMessage": "Cannot access value for name _backendQml",
+                        "functionName": "target",
+                        "line": 211
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 26,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"gpsRefChanged\".",
+                        "functionName": "onGpsRefChanged",
+                        "line": 212
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 17,
+                        "durationMicroseconds": 40,
+                        "errorMessage": "Cannot access value for name _vehicle",
+                        "functionName": "target",
+                        "line": 220
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 32,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"homePositionChanged\".",
+                        "functionName": "onHomePositionChanged",
+                        "line": 221
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/Viewer3D/Viewer3DQml/Models3D/Viewer3DVehicleItems.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.Viewer3D(Viewer3DModule)"
+    }
+]

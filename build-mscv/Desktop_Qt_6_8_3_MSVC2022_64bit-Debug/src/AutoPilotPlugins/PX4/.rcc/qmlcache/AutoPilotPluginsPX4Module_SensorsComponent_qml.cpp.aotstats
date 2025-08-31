@@ -1,0 +1,36 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 21,
+                        "durationMicroseconds": 294,
+                        "errorMessage": "",
+                        "functionName": "pageComponent",
+                        "line": 17
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 76,
+                        "errorMessage": "Cannot access value for name availableWidth",
+                        "functionName": "width",
+                        "line": 21
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 26,
+                        "errorMessage": "Cannot access value for name availableHeight",
+                        "functionName": "height",
+                        "line": 22
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/AutoPilotPlugins/PX4/SensorsComponent.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.AutoPilotPlugins.PX4(AutoPilotPluginsPX4Module)"
+    }
+]

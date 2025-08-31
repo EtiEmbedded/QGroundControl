@@ -1,0 +1,2692 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 57,
+                        "durationMicroseconds": 8162,
+                        "errorMessage": "",
+                        "functionName": "_margin",
+                        "line": 36
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 57,
+                        "durationMicroseconds": 813,
+                        "errorMessage": "",
+                        "functionName": "_toolsMargin",
+                        "line": 37
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 57,
+                        "durationMicroseconds": 275,
+                        "errorMessage": "",
+                        "functionName": "_radius",
+                        "line": 38
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 57,
+                        "durationMicroseconds": 773,
+                        "errorMessage": "",
+                        "functionName": "_rightPanelWidth",
+                        "line": 39
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 57,
+                        "durationMicroseconds": 407,
+                        "errorMessage": "",
+                        "functionName": "_defaultVehicleCoordinate",
+                        "line": 40
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 57,
+                        "durationMicroseconds": 58,
+                        "errorMessage": "Cannot load property corePlugin from QGroundControlQmlGlobal.",
+                        "functionName": "_waypointsOnlyMode",
+                        "line": 41
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 57,
+                        "durationMicroseconds": 157,
+                        "errorMessage": "",
+                        "functionName": "_planMasterController",
+                        "line": 43
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 57,
+                        "durationMicroseconds": 32,
+                        "errorMessage": "Cannot load property missionController from (component in C:/Users/User/qgroundcontrol/src/QmlControls/PlanView.qml)::_planMasterController with type QVariant.",
+                        "functionName": "_missionController",
+                        "line": 44
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 57,
+                        "durationMicroseconds": 42,
+                        "errorMessage": "Cannot load property geoFenceController from (component in C:/Users/User/qgroundcontrol/src/QmlControls/PlanView.qml)::_planMasterController with type QVariant.",
+                        "functionName": "_geoFenceController",
+                        "line": 45
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 57,
+                        "durationMicroseconds": 23,
+                        "errorMessage": "Cannot load property rallyPointController from (component in C:/Users/User/qgroundcontrol/src/QmlControls/PlanView.qml)::_planMasterController with type QVariant.",
+                        "functionName": "_rallyPointController",
+                        "line": 46
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 57,
+                        "durationMicroseconds": 22,
+                        "errorMessage": "Cannot load property visualItems from (component in C:/Users/User/qgroundcontrol/src/QmlControls/PlanView.qml)::_missionController with type QVariant.",
+                        "functionName": "_visualItems",
+                        "line": 47
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 57,
+                        "durationMicroseconds": 206,
+                        "errorMessage": "",
+                        "functionName": "_lightWidgetBorders",
+                        "line": 48
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 57,
+                        "durationMicroseconds": 27,
+                        "errorMessage": "Cannot load property complexMissionItemNames from (component in C:/Users/User/qgroundcontrol/src/QmlControls/PlanView.qml)::_missionController with type QVariant.",
+                        "functionName": "_singleComplexItem",
+                        "line": 50
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 58,
+                        "durationMicroseconds": 84,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: layerTabBar",
+                        "functionName": "_editingLayer",
+                        "line": 51
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 57,
+                        "durationMicroseconds": 396,
+                        "errorMessage": "",
+                        "functionName": "_toolStripBottom",
+                        "line": 52
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 57,
+                        "durationMicroseconds": 286,
+                        "errorMessage": "",
+                        "functionName": "_appSettings",
+                        "line": 53
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 57,
+                        "durationMicroseconds": 425,
+                        "errorMessage": "",
+                        "functionName": "_planViewSettings",
+                        "line": 54
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 57,
+                        "durationMicroseconds": 163,
+                        "errorMessage": "",
+                        "functionName": "_utmspEnabled",
+                        "line": 56
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 61,
+                        "durationMicroseconds": 553,
+                        "errorMessage": "Cannot generate efficient code for storing an array in a non-sequence type",
+                        "functionName": "_layers",
+                        "line": 62
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 61,
+                        "durationMicroseconds": 499,
+                        "errorMessage": "Cannot generate efficient code for storing an array in a non-sequence type",
+                        "functionName": "_layersUTMSP",
+                        "line": 63
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 274,
+                        "errorMessage": "function without return type annotation returns QDeclarativeGeoMap::center with type QGeoCoordinate. This may prevent proper compilation to Cpp.",
+                        "functionName": "mapCenter",
+                        "line": 72
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 23,
+                        "durationMicroseconds": 158,
+                        "errorMessage": "Cannot load property flightMapPosition from QGroundControlQmlGlobal.",
+                        "functionName": "onVisibleChanged",
+                        "line": 92
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "insertSimpleItemAfterCurrent",
+                        "line": 263
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "insertROIAfterCurrent",
+                        "line": 268
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 44,
+                        "errorMessage": "Cannot load property currentPlanViewVIIndex from (component in C:/Users/User/qgroundcontrol/src/QmlControls/PlanView.qml)::_missionController with type QVariant.",
+                        "functionName": "insertCancelROIAfterCurrent",
+                        "line": 273
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "insertComplexItemAfterCurrent",
+                        "line": 278
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 35,
+                        "errorMessage": "Cannot load property currentPlanViewVIIndex from (component in C:/Users/User/qgroundcontrol/src/QmlControls/PlanView.qml)::_missionController with type QVariant.",
+                        "functionName": "insertTakeoffItemAfterCurrent",
+                        "line": 283
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 32,
+                        "errorMessage": "Cannot load property currentPlanViewVIIndex from (component in C:/Users/User/qgroundcontrol/src/QmlControls/PlanView.qml)::_missionController with type QVariant.",
+                        "functionName": "insertLandItemAfterCurrent",
+                        "line": 288
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 82,
+                        "errorMessage": "Cannot load property visualItems from (component in C:/Users/User/qgroundcontrol/src/QmlControls/PlanView.qml)::_missionController with type QVariant.",
+                        "functionName": "selectNextNotReady",
+                        "line": 294
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "showLoadFromFileOverwritePrompt",
+                        "line": 874
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 1109,
+                        "errorMessage": "Cannot access value for name mainWindow",
+                        "functionName": "clearButtonClicked",
+                        "line": 896
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "downloadClicked",
+                        "line": 950
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 208,
+                        "errorMessage": "",
+                        "functionName": "map",
+                        "line": 87
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 56,
+                        "errorMessage": "Cannot access value for name _planMasterController",
+                        "functionName": "planMasterController",
+                        "line": 89
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 17,
+                        "durationMicroseconds": 42,
+                        "errorMessage": "Cannot access value for name _appSettings",
+                        "functionName": "target",
+                        "line": 103
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 9,
+                        "durationMicroseconds": 72,
+                        "errorMessage": "Cannot access value for name _visualItems",
+                        "functionName": "onRawValueChanged",
+                        "line": 104
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 49,
+                        "errorMessage": "Cannot access value for name _planMasterController",
+                        "functionName": "title",
+                        "line": 117
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 166,
+                        "errorMessage": "Cannot access value for name Dialog",
+                        "functionName": "buttons",
+                        "line": 118
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 226,
+                        "errorMessage": "",
+                        "functionName": "wrapMode",
+                        "line": 123
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 75,
+                        "errorMessage": "Cannot access value for name _planMasterController",
+                        "functionName": "text",
+                        "line": 124
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 237,
+                        "errorMessage": "",
+                        "functionName": "maximumWidth",
+                        "line": 122
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"text\".",
+                        "functionName": "text",
+                        "line": 131
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 32,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"clicked\".",
+                        "functionName": "onClicked",
+                        "line": 136
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"text\".",
+                        "functionName": "text",
+                        "line": 145
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 32,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"clicked\".",
+                        "functionName": "onClicked",
+                        "line": 148
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 46,
+                        "durationMicroseconds": 73,
+                        "errorMessage": "Cannot access value for name _promptForPlanUsageShowing",
+                        "functionName": "onPromptForPlanUsageOnVehicleChange",
+                        "line": 169
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 9,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "waitingOnIncompleteDataMessage",
+                        "line": 176
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 9,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "waitingOnTerrainDataMessage",
+                        "line": 181
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 9,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "checkReadyForSaveUpload",
+                        "line": 186
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 9,
+                        "durationMicroseconds": 202,
+                        "errorMessage": "Cannot access value for name _missionController",
+                        "functionName": "upload",
+                        "line": 197
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 9,
+                        "durationMicroseconds": 156,
+                        "errorMessage": "Cannot access value for name _planMasterController",
+                        "functionName": "loadFromSelectedFile",
+                        "line": 220
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 9,
+                        "durationMicroseconds": 172,
+                        "errorMessage": "Cannot access value for name _planMasterController",
+                        "functionName": "saveToSelectedFile",
+                        "line": 227
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 9,
+                        "durationMicroseconds": 231,
+                        "errorMessage": "",
+                        "functionName": "fitViewportToItems",
+                        "line": 237
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 9,
+                        "durationMicroseconds": 13920,
+                        "errorMessage": "Cannot generate efficient code for call to untyped JavaScript function",
+                        "functionName": "saveKmlToSelectedFile",
+                        "line": 241
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 32,
+                        "durationMicroseconds": 105,
+                        "errorMessage": "Cannot access value for name _planMasterController",
+                        "functionName": "onCompleted",
+                        "line": 164
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 17,
+                        "durationMicroseconds": 61,
+                        "errorMessage": "Cannot access value for name _missionController",
+                        "functionName": "target",
+                        "line": 253
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 9,
+                        "durationMicroseconds": 58,
+                        "errorMessage": "Cannot access value for name _visualItems",
+                        "functionName": "onNewItemsFromVehicle",
+                        "line": 255
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 106,
+                        "errorMessage": "Cannot access value for name _appSettings",
+                        "functionName": "folder",
+                        "line": 307
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 84,
+                        "errorMessage": "Cannot access value for name _planMasterController",
+                        "functionName": "onAcceptedForSave",
+                        "line": 311
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 142,
+                        "errorMessage": "",
+                        "functionName": "onAcceptedForSave",
+                        "line": 311
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 63,
+                        "errorMessage": "Cannot access value for name _planMasterController",
+                        "functionName": "onAcceptedForLoad",
+                        "line": 320
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 128,
+                        "errorMessage": "",
+                        "functionName": "onAcceptedForLoad",
+                        "line": 320
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 47,
+                        "errorMessage": "Cannot access value for name _planMasterController",
+                        "functionName": "planMasterController",
+                        "line": 330
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 376,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 335
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 254,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 336
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 385,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 337
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 299,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 338
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 347,
+                        "errorMessage": "",
+                        "functionName": "zoomLevel",
+                        "line": 348
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 56,
+                        "errorMessage": "Cannot load property flightMapPosition from QGroundControlQmlGlobal.",
+                        "functionName": "center",
+                        "line": 349
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 160,
+                        "errorMessage": "Cannot access value for name _margin",
+                        "functionName": "centerViewport",
+                        "line": 352
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 396,
+                        "errorMessage": "",
+                        "functionName": "_leftToolWidth",
+                        "line": 354
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 449,
+                        "errorMessage": "",
+                        "functionName": "_rightToolWidth",
+                        "line": 355
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 352,
+                        "errorMessage": "",
+                        "functionName": "onZoomLevelChanged",
+                        "line": 363
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 30,
+                        "durationMicroseconds": 72,
+                        "errorMessage": "Type QGroundControlQmlGlobal does not have a property flightMapPosition for writing",
+                        "functionName": "onCenterChanged",
+                        "line": 366
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 28,
+                        "durationMicroseconds": 1119,
+                        "errorMessage": "Cannot access value for name mainWindow",
+                        "functionName": "onMapClicked",
+                        "line": 370
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 28,
+                        "durationMicroseconds": 142,
+                        "errorMessage": "",
+                        "functionName": "onMapClicked",
+                        "line": 370
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 192,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 342
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 36,
+                        "durationMicroseconds": 80,
+                        "errorMessage": "Cannot load property flightMapPosition from QGroundControlQmlGlobal.",
+                        "functionName": "onCompleted",
+                        "line": 359
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 54,
+                        "durationMicroseconds": 206,
+                        "errorMessage": "",
+                        "functionName": "lightColors",
+                        "line": 361
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 24,
+                        "durationMicroseconds": 57,
+                        "errorMessage": "Cannot access value for name _missionController",
+                        "functionName": "model",
+                        "line": 413
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 34,
+                        "durationMicroseconds": 54,
+                        "errorMessage": "Cannot access value for name editorMap",
+                        "functionName": "map",
+                        "line": 415
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 34,
+                        "durationMicroseconds": 54,
+                        "errorMessage": "Cannot access value for name _editingLayer",
+                        "functionName": "opacity",
+                        "line": 416
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 34,
+                        "durationMicroseconds": 64,
+                        "errorMessage": "Cannot access value for name _editingLayer",
+                        "functionName": "interactive",
+                        "line": 417
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 34,
+                        "durationMicroseconds": 43,
+                        "errorMessage": "Cannot access value for name _planMasterController",
+                        "functionName": "vehicle",
+                        "line": 418
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 35,
+                        "durationMicroseconds": 56,
+                        "errorMessage": "Cannot access value for name _missionController",
+                        "functionName": "onClicked",
+                        "line": 419
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 35,
+                        "durationMicroseconds": 110,
+                        "errorMessage": "",
+                        "functionName": "onClicked",
+                        "line": 419
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 64,
+                        "errorMessage": "Cannot access value for name _missionController",
+                        "functionName": "showSpecialVisual",
+                        "line": 425
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 65,
+                        "errorMessage": "Cannot access value for name _missionController",
+                        "functionName": "model",
+                        "line": 426
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 51,
+                        "errorMessage": "Cannot access value for name _editingLayer",
+                        "functionName": "opacity",
+                        "line": 427
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 24,
+                        "durationMicroseconds": 55,
+                        "errorMessage": "Cannot access value for name _editingLayer",
+                        "functionName": "model",
+                        "line": 432
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 494,
+                        "errorMessage": "Cannot access value for name object",
+                        "functionName": "fromCoord",
+                        "line": 435
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 447,
+                        "errorMessage": "Cannot access value for name object",
+                        "functionName": "toCoord",
+                        "line": 436
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 396,
+                        "errorMessage": "",
+                        "functionName": "z",
+                        "line": 438
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 24,
+                        "durationMicroseconds": 74,
+                        "errorMessage": "Cannot access value for name _missionController",
+                        "functionName": "model",
+                        "line": 444
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 456,
+                        "errorMessage": "Cannot access value for name object",
+                        "functionName": "path",
+                        "line": 447
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 208,
+                        "errorMessage": "",
+                        "functionName": "z",
+                        "line": 450
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 60,
+                        "errorMessage": "Cannot access value for name _editingLayer",
+                        "functionName": "opacity",
+                        "line": 451
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 318,
+                        "errorMessage": "",
+                        "functionName": "z",
+                        "line": 460
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 65,
+                        "errorMessage": "Cannot access value for name _editingLayer",
+                        "functionName": "visible",
+                        "line": 461
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 17,
+                        "durationMicroseconds": 75,
+                        "errorMessage": "Cannot access value for name _missionController",
+                        "functionName": "_updateSplitCoord",
+                        "line": 469
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 351,
+                        "errorMessage": "",
+                        "functionName": "x",
+                        "line": 458
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 334,
+                        "errorMessage": "",
+                        "functionName": "y",
+                        "line": 459
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 81,
+                        "errorMessage": "Cannot access value for name _missionController",
+                        "functionName": "onClicked",
+                        "line": 464
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 52,
+                        "errorMessage": "Cannot access value for name _missionController",
+                        "functionName": "target",
+                        "line": 480
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 21,
+                        "durationMicroseconds": 225,
+                        "errorMessage": "",
+                        "functionName": "onSplitSegmentChanged",
+                        "line": 481
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 65,
+                        "errorMessage": "Cannot access value for name _missionController",
+                        "functionName": "target",
+                        "line": 485
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 21,
+                        "durationMicroseconds": 207,
+                        "errorMessage": "",
+                        "functionName": "onCoordinate1Changed",
+                        "line": 486
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 21,
+                        "durationMicroseconds": 206,
+                        "errorMessage": "",
+                        "functionName": "onCoordinate2Changed",
+                        "line": 487
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 24,
+                        "durationMicroseconds": 332,
+                        "errorMessage": "",
+                        "functionName": "model",
+                        "line": 493
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 486,
+                        "errorMessage": "Cannot access value for name object",
+                        "functionName": "vehicle",
+                        "line": 495
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 466,
+                        "errorMessage": "Cannot access value for name object",
+                        "functionName": "coordinate",
+                        "line": 496
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 68,
+                        "errorMessage": "Cannot access value for name editorMap",
+                        "functionName": "map",
+                        "line": 497
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 463,
+                        "errorMessage": "",
+                        "functionName": "size",
+                        "line": 498
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 207,
+                        "errorMessage": "",
+                        "functionName": "z",
+                        "line": 499
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 191,
+                        "errorMessage": "",
+                        "functionName": "map",
+                        "line": 504
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 62,
+                        "errorMessage": "Cannot access value for name _geoFenceController",
+                        "functionName": "myGeoFenceController",
+                        "line": 505
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 44,
+                        "errorMessage": "Cannot access value for name _editingLayer",
+                        "functionName": "interactive",
+                        "line": 506
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 40,
+                        "errorMessage": "Cannot access value for name _missionController",
+                        "functionName": "homePosition",
+                        "line": 507
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 61,
+                        "errorMessage": "Cannot access value for name _editingLayer",
+                        "functionName": "opacity",
+                        "line": 509
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 167,
+                        "errorMessage": "",
+                        "functionName": "map",
+                        "line": 513
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 52,
+                        "errorMessage": "Cannot access value for name _rallyPointController",
+                        "functionName": "myRallyPointController",
+                        "line": 514
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 45,
+                        "errorMessage": "Cannot access value for name _editingLayer",
+                        "functionName": "interactive",
+                        "line": 515
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 42,
+                        "errorMessage": "Cannot access value for name _editingLayer",
+                        "functionName": "opacity",
+                        "line": 517
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 78,
+                        "errorMessage": "Cannot access value for name _utmspEnabled",
+                        "functionName": "enabled",
+                        "line": 522
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 183,
+                        "errorMessage": "",
+                        "functionName": "map",
+                        "line": 523
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 54,
+                        "errorMessage": "Cannot access value for name _visualItems",
+                        "functionName": "currentMissionItems",
+                        "line": 524
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 43,
+                        "errorMessage": "Cannot access value for name _geoFenceController",
+                        "functionName": "myGeoFenceController",
+                        "line": 525
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 45,
+                        "errorMessage": "Cannot access value for name _editingLayer",
+                        "functionName": "interactive",
+                        "line": 526
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 41,
+                        "errorMessage": "Cannot access value for name _missionController",
+                        "functionName": "homePosition",
+                        "line": 527
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 52,
+                        "errorMessage": "Cannot access value for name _editingLayer",
+                        "functionName": "opacity",
+                        "line": 529
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 61,
+                        "errorMessage": "Cannot access value for name _resetGeofencePolygon",
+                        "functionName": "resetCheck",
+                        "line": 530
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 174,
+                        "errorMessage": "",
+                        "functionName": "target",
+                        "line": 534
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 17,
+                        "durationMicroseconds": 249,
+                        "errorMessage": "",
+                        "functionName": "onResetGeofencePolygonTriggered",
+                        "line": 535
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 30,
+                        "durationMicroseconds": 71,
+                        "errorMessage": "Cannot find name _resetGeofencePolygon",
+                        "functionName": "onTriggered",
+                        "line": 544
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 222,
+                        "errorMessage": "",
+                        "functionName": "z",
+                        "line": 557
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 457,
+                        "errorMessage": "",
+                        "functionName": "maxHeight",
+                        "line": 558
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 73,
+                        "errorMessage": "Cannot access value for name _editingLayer",
+                        "functionName": "_isRallyLayer",
+                        "line": 568
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 49,
+                        "errorMessage": "Cannot access value for name _editingLayer",
+                        "functionName": "_isMissionLayer",
+                        "line": 569
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 46,
+                        "durationMicroseconds": 47,
+                        "errorMessage": "Cannot access value for name _editingLayer",
+                        "functionName": "_isUtmspLayer",
+                        "line": 570
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 20,
+                        "durationMicroseconds": 258,
+                        "errorMessage": "",
+                        "functionName": "model",
+                        "line": 656
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 13,
+                        "durationMicroseconds": 67,
+                        "errorMessage": "Cannot find name _addROIOnClick",
+                        "functionName": "allAddClickBoolsOff",
+                        "line": 658
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 24,
+                        "durationMicroseconds": 153,
+                        "errorMessage": "",
+                        "functionName": "onDropped",
+                        "line": 663
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 69,
+                        "errorMessage": "Cannot access value for name _toolsMargin",
+                        "functionName": "margins",
+                        "line": 554
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 286,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 555
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 349,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 556
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 138,
+                        "errorMessage": "",
+                        "functionName": "dropPanelComponent",
+                        "line": 651
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 86,
+                        "errorMessage": "Cannot access value for name _planMasterController",
+                        "functionName": "text",
+                        "line": 633
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 43,
+                        "errorMessage": "Cannot access value for name _missionController",
+                        "functionName": "enabled",
+                        "line": 639
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 417,
+                        "errorMessage": "",
+                        "functionName": "visible",
+                        "line": 640
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 38,
+                        "durationMicroseconds": 474,
+                        "errorMessage": "method insertLandItemAfterCurrent cannot be resolved.",
+                        "functionName": "onTriggered",
+                        "line": 641
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 84,
+                        "errorMessage": "Cannot access value for name _singleComplexItem",
+                        "functionName": "text",
+                        "line": 620
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 45,
+                        "errorMessage": "Cannot access value for name _missionController",
+                        "functionName": "enabled",
+                        "line": 622
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 207,
+                        "errorMessage": "",
+                        "functionName": "visible",
+                        "line": 623
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 47,
+                        "errorMessage": "Cannot access value for name _singleComplexItem",
+                        "functionName": "dropPanelComponent",
+                        "line": 624
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 38,
+                        "durationMicroseconds": 94,
+                        "errorMessage": "Cannot access value for name _singleComplexItem",
+                        "functionName": "onTriggered",
+                        "line": 625
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 83,
+                        "errorMessage": "Cannot access value for name _missionController",
+                        "functionName": "text",
+                        "line": 604
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 45,
+                        "errorMessage": "Cannot access value for name _missionController",
+                        "functionName": "enabled",
+                        "line": 606
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 87,
+                        "errorMessage": "Cannot access value for name _planMasterController",
+                        "functionName": "visible",
+                        "line": 607
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 56,
+                        "errorMessage": "Cannot access value for name _missionController",
+                        "functionName": "checkable",
+                        "line": 608
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 63,
+                        "errorMessage": "Cannot find name _addROIOnClick",
+                        "functionName": "onCheckedChanged",
+                        "line": 609
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 38,
+                        "durationMicroseconds": 51,
+                        "errorMessage": "Cannot access value for name _missionController",
+                        "functionName": "onTriggered",
+                        "line": 610
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 56,
+                        "durationMicroseconds": 42,
+                        "errorMessage": "Cannot access value for name _addROIOnClick",
+                        "functionName": "myAddROIOnClick",
+                        "line": 616
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 51,
+                        "durationMicroseconds": 45,
+                        "errorMessage": "Cannot access value for name _addROIOnClick",
+                        "functionName": "onMyAddROIOnClickChanged",
+                        "line": 617
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 55,
+                        "errorMessage": "Cannot access value for name _editingLayer",
+                        "functionName": "text",
+                        "line": 597
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 88,
+                        "errorMessage": "Cannot access value for name _missionController",
+                        "functionName": "enabled",
+                        "line": 599
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 621,
+                        "errorMessage": "",
+                        "functionName": "visible",
+                        "line": 600
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 66,
+                        "errorMessage": "Cannot access value for name _missionController",
+                        "functionName": "enabled",
+                        "line": 587
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 166,
+                        "errorMessage": "Cannot access value for name _planMasterController",
+                        "functionName": "visible",
+                        "line": 588
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 38,
+                        "durationMicroseconds": 480,
+                        "errorMessage": "method insertTakeoffItemAfterCurrent cannot be resolved.",
+                        "functionName": "onTriggered",
+                        "line": 589
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 56,
+                        "errorMessage": "Cannot access value for name _planMasterController",
+                        "functionName": "enabled",
+                        "line": 577
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 39,
+                        "errorMessage": "Cannot access value for name _planMasterController",
+                        "functionName": "showAlternateIcon",
+                        "line": 579
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 173,
+                        "errorMessage": "",
+                        "functionName": "dropPanelComponent",
+                        "line": 582
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 242,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 670
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 19,
+                        "durationMicroseconds": 74,
+                        "errorMessage": "Cannot access value for name _utmspEnabled",
+                        "functionName": "width",
+                        "line": 671
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 398,
+                        "errorMessage": "Cannot access value for name qgcPal",
+                        "functionName": "color",
+                        "line": 679
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 58,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: layerTabBar",
+                        "functionName": "opacity",
+                        "line": 680
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 262,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 681
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 235,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 682
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 34,
+                        "durationMicroseconds": 53,
+                        "errorMessage": "Cannot access value for name _toolsMargin",
+                        "functionName": "rightMargin",
+                        "line": 683
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 142,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 688
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 56,
+                        "errorMessage": "Cannot access value for name _toolsMargin",
+                        "functionName": "topMargin",
+                        "line": 689
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 127,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 691
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 286,
+                        "errorMessage": "",
+                        "functionName": "spacing",
+                        "line": 695
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 241,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 696
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 223,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 697
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 230,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 698
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"width\".",
+                        "functionName": "width",
+                        "line": 703
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"visible\".",
+                        "functionName": "visible",
+                        "line": 704
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 44,
+                        "durationMicroseconds": 65,
+                        "errorMessage": "Cannot find name currentIndex",
+                        "functionName": "onCompleted",
+                        "line": 705
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"enabled\".",
+                        "functionName": "enabled",
+                        "line": 711
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"enabled\".",
+                        "functionName": "enabled",
+                        "line": 715
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"width\".",
+                        "functionName": "width",
+                        "line": 721
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"visible\".",
+                        "functionName": "visible",
+                        "line": 722
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"enabled\".",
+                        "functionName": "enabled",
+                        "line": 728
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 34,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"visible\".",
+                        "functionName": "visible",
+                        "line": 733
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 81,
+                        "errorMessage": "Cannot access value for name _editingLayer",
+                        "functionName": "visible",
+                        "line": 747
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 343,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 741
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 269,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 742
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 266,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 743
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 315,
+                        "errorMessage": "",
+                        "functionName": "topMargin",
+                        "line": 744
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 249,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 745
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 254,
+                        "errorMessage": "",
+                        "functionName": "bottomMargin",
+                        "line": 746
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 331,
+                        "errorMessage": "",
+                        "functionName": "spacing",
+                        "line": 751
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 194,
+                        "errorMessage": "",
+                        "functionName": "orientation",
+                        "line": 752
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 77,
+                        "errorMessage": "Cannot access value for name _missionController",
+                        "functionName": "model",
+                        "line": 753
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 584,
+                        "errorMessage": "",
+                        "functionName": "cacheBuffer",
+                        "line": 754
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 74,
+                        "errorMessage": "Cannot access value for name _missionController",
+                        "functionName": "currentIndex",
+                        "line": 756
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 86,
+                        "errorMessage": "Cannot access value for name _editingLayer",
+                        "functionName": "visible",
+                        "line": 758
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 151,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 750
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 74,
+                        "errorMessage": "Cannot access value for name editorMap",
+                        "functionName": "map",
+                        "line": 761
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 44,
+                        "durationMicroseconds": 50,
+                        "errorMessage": "Cannot access value for name _planMasterController",
+                        "functionName": "masterController",
+                        "line": 762
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 539,
+                        "errorMessage": "Cannot access value for name object",
+                        "functionName": "missionItem",
+                        "line": 763
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 53,
+                        "errorMessage": "Cannot access value for name missionItemEditorListView",
+                        "functionName": "width",
+                        "line": 764
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "onClicked",
+                        "line": 766
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 103,
+                        "errorMessage": "",
+                        "functionName": "onClicked",
+                        "line": 766
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 35,
+                        "durationMicroseconds": 59,
+                        "errorMessage": "Cannot access value for name index",
+                        "functionName": "onRemove",
+                        "line": 767
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 1429,
+                        "errorMessage": "method selectNextNotReady cannot be resolved.",
+                        "functionName": "onSelectNextNotReadyItem",
+                        "line": 774
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 62,
+                        "errorMessage": "Cannot access value for name _geoFenceController",
+                        "functionName": "myGeoFenceController",
+                        "line": 785
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 175,
+                        "errorMessage": "",
+                        "functionName": "flightMap",
+                        "line": 786
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 52,
+                        "errorMessage": "Cannot access value for name _editingLayer",
+                        "functionName": "visible",
+                        "line": 787
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 277,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 780
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 267,
+                        "errorMessage": "",
+                        "functionName": "topMargin",
+                        "line": 781
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 218,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 782
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 231,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 783
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 202,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 784
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 71,
+                        "errorMessage": "Cannot access value for name _editingLayer",
+                        "functionName": "visible",
+                        "line": 797
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 44,
+                        "errorMessage": "Cannot access value for name _rallyPointController",
+                        "functionName": "controller",
+                        "line": 798
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 243,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 793
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 247,
+                        "errorMessage": "",
+                        "functionName": "topMargin",
+                        "line": 794
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 246,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 795
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 208,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 796
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 66,
+                        "errorMessage": "Cannot access value for name _editingLayer",
+                        "functionName": "visible",
+                        "line": 806
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 43,
+                        "errorMessage": "Cannot access value for name _rallyPointController",
+                        "functionName": "rallyPoint",
+                        "line": 807
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 39,
+                        "errorMessage": "Cannot access value for name _rallyPointController",
+                        "functionName": "controller",
+                        "line": 808
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 272,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 802
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 287,
+                        "errorMessage": "",
+                        "functionName": "topMargin",
+                        "line": 803
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 262,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 804
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 269,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 805
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 42,
+                        "durationMicroseconds": 83,
+                        "errorMessage": "Cannot access value for name _utmspEnabled",
+                        "functionName": "enabled",
+                        "line": 812
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 42,
+                        "durationMicroseconds": 48,
+                        "errorMessage": "Cannot access value for name _visualItems",
+                        "functionName": "currentMissionItems",
+                        "line": 818
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 42,
+                        "durationMicroseconds": 47,
+                        "errorMessage": "Cannot access value for name _geoFenceController",
+                        "functionName": "myGeoFenceController",
+                        "line": 819
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 42,
+                        "durationMicroseconds": 195,
+                        "errorMessage": "",
+                        "functionName": "flightMap",
+                        "line": 820
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 42,
+                        "durationMicroseconds": 64,
+                        "errorMessage": "Cannot access value for name _editingLayer",
+                        "functionName": "visible",
+                        "line": 821
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 42,
+                        "durationMicroseconds": 49,
+                        "errorMessage": "Cannot access value for name _triggerSubmit",
+                        "functionName": "triggerSubmitButton",
+                        "line": 822
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 42,
+                        "durationMicroseconds": 46,
+                        "errorMessage": "Cannot access value for name _resetRegisterFlightPlan",
+                        "functionName": "resetRegisterFlightPlan",
+                        "line": 823
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 42,
+                        "durationMicroseconds": 312,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 813
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 42,
+                        "durationMicroseconds": 281,
+                        "errorMessage": "",
+                        "functionName": "topMargin",
+                        "line": 814
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 42,
+                        "durationMicroseconds": 283,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 815
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 42,
+                        "durationMicroseconds": 232,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 816
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 42,
+                        "durationMicroseconds": 247,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 817
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 54,
+                        "durationMicroseconds": 206,
+                        "errorMessage": "",
+                        "functionName": "_licenseString",
+                        "line": 829
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 474,
+                        "errorMessage": "",
+                        "functionName": "visible",
+                        "line": 832
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 454,
+                        "errorMessage": "",
+                        "functionName": "text",
+                        "line": 837
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 350,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 833
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 259,
+                        "errorMessage": "",
+                        "functionName": "horizontalCenter",
+                        "line": 834
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 286,
+                        "errorMessage": "",
+                        "functionName": "bottomMargin",
+                        "line": 835
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 179,
+                        "errorMessage": "",
+                        "functionName": "pointSize",
+                        "line": 836
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 363,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 847
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 71,
+                        "errorMessage": "Cannot access value for name _missionController",
+                        "functionName": "missionController",
+                        "line": 848
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 81,
+                        "errorMessage": "Cannot access value for name _editingLayer",
+                        "functionName": "visible",
+                        "line": 849
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 60,
+                        "errorMessage": "Cannot access value for name _missionController",
+                        "functionName": "onSetCurrentSeqNum",
+                        "line": 851
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 47,
+                        "errorMessage": "Cannot access value for name _planViewSettings",
+                        "functionName": "_internalVisible",
+                        "line": 853
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 13,
+                        "durationMicroseconds": 90,
+                        "errorMessage": "Cannot access value for name _planViewSettings",
+                        "functionName": "toggleVisible",
+                        "line": 855
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 55,
+                        "errorMessage": "Cannot access value for name _toolsMargin",
+                        "functionName": "margins",
+                        "line": 842
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 265,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 844
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 203,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 845
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 224,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 846
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 167,
+                        "errorMessage": "",
+                        "functionName": "mapControl",
+                        "line": 866
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 62,
+                        "errorMessage": "Cannot access value for name _editingLayer",
+                        "functionName": "terrainButtonVisible",
+                        "line": 868
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Cannot resolve property type  for binding on terrainButtonChecked.",
+                        "functionName": "terrainButtonChecked",
+                        "line": 869
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 256,
+                        "errorMessage": "",
+                        "functionName": "onTerrainButtonClicked",
+                        "line": 870
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 55,
+                        "errorMessage": "Cannot access value for name _toolsMargin",
+                        "functionName": "margins",
+                        "line": 863
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 657,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 864
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 147,
+                        "errorMessage": "Cannot access value for name _toolsMargin",
+                        "functionName": "left",
+                        "line": 865
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 194,
+                        "errorMessage": "Cannot access value for name Dialog",
+                        "functionName": "buttons",
+                        "line": 887
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 459,
+                        "errorMessage": "Cannot generate efficient code for call to untyped JavaScript function",
+                        "functionName": "onAccepted",
+                        "line": 892
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 62,
+                        "errorMessage": "Cannot access value for name editorMap",
+                        "functionName": "map",
+                        "line": 921
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 40,
+                        "errorMessage": "Cannot access value for name mapFitFunctions",
+                        "functionName": "fitFunctions",
+                        "line": 922
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 295,
+                        "errorMessage": "",
+                        "functionName": "spacing",
+                        "line": 930
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 24,
+                        "durationMicroseconds": 50,
+                        "errorMessage": "Cannot access value for name _missionController",
+                        "functionName": "model",
+                        "line": 935
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"text\".",
+                        "functionName": "text",
+                        "line": 938
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 32,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"clicked\".",
+                        "functionName": "onClicked",
+                        "line": 941
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 51,
+                        "errorMessage": "Cannot access value for name _margin",
+                        "functionName": "spacing",
+                        "line": 966
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 285,
+                        "errorMessage": "",
+                        "functionName": "wrapMode",
+                        "line": 973
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 726,
+                        "errorMessage": "Cannot access value for name globals",
+                        "functionName": "text",
+                        "line": 974
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 53,
+                        "errorMessage": "Cannot access value for name _planMasterController",
+                        "functionName": "visible",
+                        "line": 977
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 79,
+                        "errorMessage": "Cannot access value for name _margin",
+                        "functionName": "columnSpacing",
+                        "line": 989
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 48,
+                        "errorMessage": "Cannot access value for name _margin",
+                        "functionName": "rowSpacing",
+                        "line": 990
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 69,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: createSection",
+                        "functionName": "visible",
+                        "line": 992
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 28,
+                        "durationMicroseconds": 49,
+                        "errorMessage": "Cannot access value for name _planMasterController",
+                        "functionName": "model",
+                        "line": 995
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 349,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 999
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 353,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 1000
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 497,
+                        "errorMessage": "Cannot access value for name qgcPal",
+                        "functionName": "color",
+                        "line": 1001
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 52,
+                        "durationMicroseconds": 173,
+                        "errorMessage": "",
+                        "functionName": "highlighted",
+                        "line": 1003
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 52,
+                        "durationMicroseconds": 143,
+                        "errorMessage": "",
+                        "functionName": "pressed",
+                        "line": 1004
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 522,
+                        "errorMessage": "Cannot access value for name object",
+                        "functionName": "source",
+                        "line": 1010
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 181,
+                        "errorMessage": "",
+                        "functionName": "fillMode",
+                        "line": 1012
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 250,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 1008
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 207,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 1009
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 123,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 1011
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 160,
+                        "errorMessage": "",
+                        "functionName": "horizontalAlignment",
+                        "line": 1021
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 626,
+                        "errorMessage": "Cannot access value for name object",
+                        "functionName": "text",
+                        "line": 1022
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 661,
+                        "errorMessage": "Cannot access value for name qgcPal",
+                        "functionName": "color",
+                        "line": 1023
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 255,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 1018
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 214,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 1019
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 222,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 1020
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 96,
+                        "errorMessage": "Cannot access value for name _planMasterController",
+                        "functionName": "onClicked",
+                        "line": 1031
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 79,
+                        "errorMessage": "Cannot access value for name editorMap",
+                        "functionName": "_mapCenter",
+                        "line": 1040
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 129,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 1028
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 54,
+                        "errorMessage": "Cannot access value for name _margin",
+                        "functionName": "rowSpacing",
+                        "line": 1057
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 184,
+                        "errorMessage": "",
+                        "functionName": "columnSpacing",
+                        "line": 1058
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 51,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: storageSection",
+                        "functionName": "visible",
+                        "line": 1059
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"enabled\".",
+                        "functionName": "enabled",
+                        "line": 1064
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 32,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"clicked\".",
+                        "functionName": "onClicked",
+                        "line": 1065
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"enabled\".",
+                        "functionName": "enabled",
+                        "line": 1078
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 32,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"clicked\".",
+                        "functionName": "onClicked",
+                        "line": 1079
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"enabled\".",
+                        "functionName": "enabled",
+                        "line": 1092
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 32,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"clicked\".",
+                        "functionName": "onClicked",
+                        "line": 1093
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"enabled\".",
+                        "functionName": "enabled",
+                        "line": 1103
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 32,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"clicked\".",
+                        "functionName": "onClicked",
+                        "line": 1104
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 71,
+                        "errorMessage": "Cannot access value for name _margin",
+                        "functionName": "spacing",
+                        "line": 1124
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 42,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: vehicleSection",
+                        "functionName": "visible",
+                        "line": 1125
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"enabled\".",
+                        "functionName": "enabled",
+                        "line": 1130
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"visible\".",
+                        "functionName": "visible",
+                        "line": 1131
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 32,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"clicked\".",
+                        "functionName": "onClicked",
+                        "line": 1132
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"enabled\".",
+                        "functionName": "enabled",
+                        "line": 1141
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"visible\".",
+                        "functionName": "visible",
+                        "line": 1142
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 32,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"clicked\".",
+                        "functionName": "onClicked",
+                        "line": 1144
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"enabled\".",
+                        "functionName": "enabled",
+                        "line": 1154
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"visible\".",
+                        "functionName": "visible",
+                        "line": 1155
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 32,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"clicked\".",
+                        "functionName": "onClicked",
+                        "line": 1156
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 17,
+                        "durationMicroseconds": 173,
+                        "errorMessage": "",
+                        "functionName": "target",
+                        "line": 1166
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 9,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "onVehicleIDSent",
+                        "line": 1167
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 17,
+                        "durationMicroseconds": 137,
+                        "errorMessage": "",
+                        "functionName": "target",
+                        "line": 1172
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 9,
+                        "durationMicroseconds": 66,
+                        "errorMessage": "Cannot access value for name _planMasterController",
+                        "functionName": "onRemoveFlightPlanTriggered",
+                        "line": 1173
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/QmlControls/PlanView.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.Controls(QGroundControlControlsModule)"
+    }
+]

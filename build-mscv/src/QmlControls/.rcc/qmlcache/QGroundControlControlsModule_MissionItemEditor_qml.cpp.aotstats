@@ -1,0 +1,852 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 21,
+                        "durationMicroseconds": 1961,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 18
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 21,
+                        "durationMicroseconds": 691,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 19
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 21,
+                        "durationMicroseconds": 134,
+                        "errorMessage": "",
+                        "functionName": "radius",
+                        "line": 20
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 21,
+                        "durationMicroseconds": 316,
+                        "errorMessage": "",
+                        "functionName": "opacity",
+                        "line": 21
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 163,
+                        "errorMessage": "",
+                        "functionName": "_masterController",
+                        "line": 34
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 37,
+                        "errorMessage": "Cannot load property missionController from (component in C:/Users/User/qgroundcontrol/src/QmlControls/MissionItemEditor.qml)::_masterController with type QVariant.",
+                        "functionName": "_missionController",
+                        "line": 35
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 28,
+                        "errorMessage": "Cannot load property isCurrentItem from (component in C:/Users/User/qgroundcontrol/src/QmlControls/MissionItemEditor.qml)::missionItem with type QVariant.",
+                        "functionName": "_currentItem",
+                        "line": 36
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 607,
+                        "errorMessage": "",
+                        "functionName": "_outerTextColor",
+                        "line": 37
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 81,
+                        "errorMessage": "Cannot load property count from QQuickItemView::model with type QVariant.",
+                        "functionName": "_noMissionItemsAdded",
+                        "line": 38
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 9230,
+                        "errorMessage": "",
+                        "functionName": "_sectionSpacer",
+                        "line": 39
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 54,
+                        "errorMessage": "Cannot load property complexMissionItemNames from (component in C:/Users/User/qgroundcontrol/src/QmlControls/MissionItemEditor.qml)::_missionController with type QVariant.",
+                        "functionName": "_singleComplexItem",
+                        "line": 40
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 37,
+                        "errorMessage": "Cannot load property readyForSaveState from (component in C:/Users/User/qgroundcontrol/src/QmlControls/MissionItemEditor.qml)::missionItem with type QVariant.",
+                        "functionName": "_readyForSave",
+                        "line": 41
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 1286,
+                        "errorMessage": "",
+                        "functionName": "_editFieldWidth",
+                        "line": 43
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 330,
+                        "errorMessage": "",
+                        "functionName": "_margin",
+                        "line": 44
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 308,
+                        "errorMessage": "",
+                        "functionName": "_radius",
+                        "line": 46
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 321,
+                        "errorMessage": "",
+                        "functionName": "_hamburgerSize",
+                        "line": 47
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 295,
+                        "errorMessage": "",
+                        "functionName": "_trashSize",
+                        "line": 48
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 64,
+                        "errorMessage": "Cannot load property corePlugin from QGroundControlQmlGlobal.",
+                        "functionName": "_waypointsOnlyMode",
+                        "line": 49
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 21,
+                        "durationMicroseconds": 302,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 22
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 21,
+                        "durationMicroseconds": 280,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 23
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 28,
+                        "durationMicroseconds": 66,
+                        "errorMessage": "Cannot access value for name enabled",
+                        "functionName": "colorGroupEnabled",
+                        "line": 53
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 136,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 58
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 24,
+                        "durationMicroseconds": 677,
+                        "errorMessage": "Cannot access value for name mainWindow",
+                        "functionName": "onClicked",
+                        "line": 62
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 159,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 61
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Cannot resolve property type  for binding on coordinate.",
+                        "functionName": "coordinate",
+                        "line": 75
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 62,
+                        "errorMessage": "Cannot access value for name missionItem",
+                        "functionName": "onCoordinateChanged",
+                        "line": 76
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 74,
+                        "errorMessage": "Cannot access value for name _margin",
+                        "functionName": "spacing",
+                        "line": 85
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 54,
+                        "errorMessage": "Cannot access value for name _margin",
+                        "functionName": "margins",
+                        "line": 82
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 296,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 83
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 260,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 84
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 59,
+                        "errorMessage": "Cannot access value for name _hamburgerSize",
+                        "functionName": "width",
+                        "line": 90
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 147,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 91
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 244,
+                        "errorMessage": "",
+                        "functionName": "radius",
+                        "line": 95
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 56,
+                        "errorMessage": "Cannot access value for name _readyForSave",
+                        "functionName": "visible",
+                        "line": 96
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 300,
+                        "errorMessage": "",
+                        "functionName": "verticalCenter",
+                        "line": 89
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 268,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 93
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 252,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 103
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 133,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 100
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 175,
+                        "errorMessage": "",
+                        "functionName": "pointSize",
+                        "line": 104
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 63,
+                        "errorMessage": "Cannot access value for name _hamburgerSize",
+                        "functionName": "height",
+                        "line": 111
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 147,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 112
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 219,
+                        "errorMessage": "",
+                        "functionName": "fillMode",
+                        "line": 114
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 274,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 117
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 70,
+                        "errorMessage": "Cannot access value for name _currentItem",
+                        "functionName": "visible",
+                        "line": 118
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 288,
+                        "errorMessage": "",
+                        "functionName": "verticalCenter",
+                        "line": 110
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 145,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 113
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 198,
+                        "errorMessage": "",
+                        "functionName": "fillItem",
+                        "line": 122
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 621,
+                        "errorMessage": "method remove cannot be resolved.",
+                        "functionName": "onClicked",
+                        "line": 123
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 189,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 130
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 189,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 131
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 265,
+                        "errorMessage": "",
+                        "functionName": "visible",
+                        "line": 132
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 265,
+                        "errorMessage": "",
+                        "functionName": "verticalCenter",
+                        "line": 129
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 126,
+                        "errorMessage": "",
+                        "functionName": "spacing",
+                        "line": 137
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 191,
+                        "errorMessage": "",
+                        "functionName": "_padding",
+                        "line": 139
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 378,
+                        "errorMessage": "",
+                        "functionName": "verticalCenter",
+                        "line": 136
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 34,
+                        "durationMicroseconds": 69,
+                        "errorMessage": "Cannot access value for name missionItem",
+                        "functionName": "text",
+                        "line": 141
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 185,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 144
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 124,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 145
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 204,
+                        "errorMessage": "",
+                        "functionName": "fillMode",
+                        "line": 146
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 272,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 149
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 173,
+                        "errorMessage": "",
+                        "functionName": "fillItem",
+                        "line": 155
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 778,
+                        "errorMessage": "Cannot access value for name mainWindow",
+                        "functionName": "onClicked",
+                        "line": 156
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 57,
+                        "errorMessage": "Cannot access value for name masterController",
+                        "functionName": "vehicle",
+                        "line": 163
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 45,
+                        "errorMessage": "Cannot access value for name _root",
+                        "functionName": "missionItem",
+                        "line": 164
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 55,
+                        "errorMessage": "Cannot access value for name _root",
+                        "functionName": "map",
+                        "line": 165
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 220,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 175
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 173,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 176
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 69,
+                        "errorMessage": "Cannot access value for name missionItem",
+                        "functionName": "visible",
+                        "line": 177
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 178,
+                        "errorMessage": "",
+                        "functionName": "verticalAlignment",
+                        "line": 178
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 55,
+                        "errorMessage": "Cannot access value for name missionItem",
+                        "functionName": "text",
+                        "line": 179
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 49,
+                        "errorMessage": "Cannot access value for name _outerTextColor",
+                        "functionName": "color",
+                        "line": 180
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 265,
+                        "errorMessage": "",
+                        "functionName": "verticalCenter",
+                        "line": 174
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 30,
+                        "durationMicroseconds": 560,
+                        "errorMessage": "Cannot access value for name ScreenTools",
+                        "functionName": "spacing",
+                        "line": 192
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"enabled\".",
+                        "functionName": "enabled",
+                        "line": 197
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 36,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"clicked\".",
+                        "functionName": "onClicked",
+                        "line": 199
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 54,
+                        "durationMicroseconds": 221,
+                        "errorMessage": "Cannot access value for name QGroundControl",
+                        "functionName": "_activeVehicle",
+                        "line": 204
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"enabled\".",
+                        "functionName": "enabled",
+                        "line": 210
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 36,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"clicked\".",
+                        "functionName": "onClicked",
+                        "line": 211
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"enabled\".",
+                        "functionName": "enabled",
+                        "line": 220
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 36,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"clicked\".",
+                        "functionName": "onClicked",
+                        "line": 221
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 46,
+                        "errorMessage": "Cannot access value for name qgcPal",
+                        "functionName": "color",
+                        "line": 230
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"visible\".",
+                        "functionName": "visible",
+                        "line": 236
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"checked\".",
+                        "functionName": "checked",
+                        "line": 237
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"enabled\".",
+                        "functionName": "enabled",
+                        "line": 238
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 36,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"clicked\".",
+                        "functionName": "onClicked",
+                        "line": 240
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 48,
+                        "errorMessage": "Cannot access value for name qgcPal",
+                        "functionName": "color",
+                        "line": 254
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 614,
+                        "errorMessage": "method qsTr cannot be resolved.",
+                        "functionName": "text",
+                        "line": 258
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 66,
+                        "errorMessage": "Cannot access value for name _hamburgerSize",
+                        "functionName": "width",
+                        "line": 272
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 46,
+                        "errorMessage": "Cannot access value for name _hamburgerSize",
+                        "functionName": "height",
+                        "line": 273
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 55,
+                        "errorMessage": "Cannot access value for name missionItem",
+                        "functionName": "visible",
+                        "line": 276
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 325,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 277
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 53,
+                        "errorMessage": "Cannot access value for name _margin",
+                        "functionName": "margins",
+                        "line": 269
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 319,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 270
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 267,
+                        "errorMessage": "",
+                        "functionName": "verticalCenter",
+                        "line": 271
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 55,
+                        "errorMessage": "Cannot access value for name _hamburgerSize",
+                        "functionName": "height",
+                        "line": 274
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 174,
+                        "errorMessage": "",
+                        "functionName": "fillItem",
+                        "line": 280
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 847,
+                        "errorMessage": "Cannot access value for name globals",
+                        "functionName": "onClicked",
+                        "line": 281
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 128,
+                        "errorMessage": "",
+                        "functionName": "onClicked",
+                        "line": 281
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 62,
+                        "errorMessage": "Cannot access value for name _currentItem",
+                        "functionName": "source",
+                        "line": 315
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 44,
+                        "errorMessage": "Cannot access value for name _masterController",
+                        "functionName": "masterController",
+                        "line": 318
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 582,
+                        "errorMessage": "",
+                        "functionName": "availableWidth",
+                        "line": 319
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 166,
+                        "errorMessage": "",
+                        "functionName": "editorRoot",
+                        "line": 320
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 61,
+                        "errorMessage": "Cannot access value for name _innerMargin",
+                        "functionName": "margins",
+                        "line": 312
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 283,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 313
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 250,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 314
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/QmlControls/MissionItemEditor.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.Controls(QGroundControlControlsModule)"
+    }
+]

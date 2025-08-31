@@ -1,0 +1,644 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 597,
+                        "errorMessage": "",
+                        "functionName": "_centerXY",
+                        "line": 19
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 627,
+                        "errorMessage": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: QGCPalette::text with type QColor (stored as QVariant) -> QGCPalette::text with type QColor (stored as QVariant)",
+                        "functionName": "_fgColor",
+                        "line": 21
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 6172,
+                        "errorMessage": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: QGCPalette::window with type QColor (stored as QVariant) -> QGCPalette::window with type QColor (stored as QVariant)",
+                        "functionName": "_bgColor",
+                        "line": 22
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 7901,
+                        "errorMessage": "",
+                        "functionName": "_hatWidth",
+                        "line": 23
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 253,
+                        "errorMessage": "",
+                        "functionName": "_hatWidthHalf",
+                        "line": 24
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 103,
+                        "errorMessage": "",
+                        "functionName": "stickPositionX",
+                        "line": 26
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 547,
+                        "errorMessage": "",
+                        "functionName": "stickPositionY",
+                        "line": 27
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 152,
+                        "errorMessage": "",
+                        "functionName": "onStickPositionXChanged",
+                        "line": 32
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 105,
+                        "errorMessage": "",
+                        "functionName": "onStickPositionYChanged",
+                        "line": 33
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 133,
+                        "errorMessage": "",
+                        "functionName": "onYAxisPositiveRangeOnlyChanged",
+                        "line": 34
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 102,
+                        "errorMessage": "",
+                        "functionName": "onYAxisReCenterChanged",
+                        "line": 35
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 804,
+                        "errorMessage": "function without return type annotation returns (component in C:/Users/User/qgroundcontrol/src/QmlControls/JoystickThumbPad.qml)::yAxis with type double. This may prevent proper compilation to Cpp.",
+                        "functionName": "yAxisReCentered",
+                        "line": 37
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "resize",
+                        "line": 55
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 5,
+                        "durationMicroseconds": 652,
+                        "errorMessage": "",
+                        "functionName": "calculateXAxis",
+                        "line": 65
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 5,
+                        "durationMicroseconds": 4530,
+                        "errorMessage": "",
+                        "functionName": "calculateYAxis",
+                        "line": 75
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 5,
+                        "durationMicroseconds": 729,
+                        "errorMessage": "",
+                        "functionName": "reCenter",
+                        "line": 91
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "thumbDown",
+                        "line": 105
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 171,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 142
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 241,
+                        "errorMessage": "",
+                        "functionName": "radius",
+                        "line": 150
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 74,
+                        "errorMessage": "Cannot access value for name _bgColor",
+                        "functionName": "color",
+                        "line": 151
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 132,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 149
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 240,
+                        "errorMessage": "",
+                        "functionName": "radius",
+                        "line": 157
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 320,
+                        "errorMessage": "",
+                        "functionName": "margins",
+                        "line": 155
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 110,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 156
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 58,
+                        "errorMessage": "Cannot access value for name _fgColor",
+                        "functionName": "color",
+                        "line": 158
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 228,
+                        "errorMessage": "",
+                        "functionName": "radius",
+                        "line": 165
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 190,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 164
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 52,
+                        "errorMessage": "Cannot access value for name _fgColor",
+                        "functionName": "color",
+                        "line": 166
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 47,
+                        "errorMessage": "Cannot access value for name _fgColor",
+                        "functionName": "color",
+                        "line": 173
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 50,
+                        "errorMessage": "Cannot access value for name yAxisPositiveRangeOnly",
+                        "functionName": "visible",
+                        "line": 174
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 196,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 175
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 143,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 176
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 163,
+                        "errorMessage": "",
+                        "functionName": "fillMode",
+                        "line": 179
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 149,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 177
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 248,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 181
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 151,
+                        "errorMessage": "",
+                        "functionName": "rightMargin",
+                        "line": 182
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 341,
+                        "errorMessage": "",
+                        "functionName": "verticalCenter",
+                        "line": 183
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 66,
+                        "errorMessage": "Cannot access value for name _fgColor",
+                        "functionName": "color",
+                        "line": 187
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 41,
+                        "errorMessage": "Cannot access value for name yAxisPositiveRangeOnly",
+                        "functionName": "visible",
+                        "line": 188
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 177,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 189
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 102,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 190
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 166,
+                        "errorMessage": "",
+                        "functionName": "fillMode",
+                        "line": 193
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 129,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 191
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 247,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 195
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 156,
+                        "errorMessage": "",
+                        "functionName": "leftMargin",
+                        "line": 196
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 272,
+                        "errorMessage": "",
+                        "functionName": "verticalCenter",
+                        "line": 197
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 66,
+                        "errorMessage": "Cannot access value for name _fgColor",
+                        "functionName": "color",
+                        "line": 201
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 41,
+                        "errorMessage": "Cannot access value for name yAxisPositiveRangeOnly",
+                        "functionName": "visible",
+                        "line": 202
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 171,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 203
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 127,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 204
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 161,
+                        "errorMessage": "",
+                        "functionName": "fillMode",
+                        "line": 207
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 145,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 205
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 262,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 209
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 151,
+                        "errorMessage": "",
+                        "functionName": "topMargin",
+                        "line": 210
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 218,
+                        "errorMessage": "",
+                        "functionName": "horizontalCenter",
+                        "line": 211
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 65,
+                        "errorMessage": "Cannot access value for name _fgColor",
+                        "functionName": "color",
+                        "line": 215
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 41,
+                        "errorMessage": "Cannot access value for name yAxisPositiveRangeOnly",
+                        "functionName": "visible",
+                        "line": 216
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 206,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 217
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 106,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 218
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 177,
+                        "errorMessage": "",
+                        "functionName": "fillMode",
+                        "line": 221
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 134,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 219
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 316,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 223
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 149,
+                        "errorMessage": "",
+                        "functionName": "bottomMargin",
+                        "line": 224
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 208,
+                        "errorMessage": "",
+                        "functionName": "horizontalCenter",
+                        "line": 225
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 60,
+                        "errorMessage": "Cannot access value for name _hatWidth",
+                        "functionName": "width",
+                        "line": 229
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 32,
+                        "errorMessage": "Cannot access value for name _hatWidth",
+                        "functionName": "height",
+                        "line": 230
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 35,
+                        "errorMessage": "Cannot access value for name _hatWidthHalf",
+                        "functionName": "radius",
+                        "line": 231
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 77,
+                        "errorMessage": "Cannot access value for name _fgColor",
+                        "functionName": "color",
+                        "line": 234
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 36,
+                        "errorMessage": "Cannot access value for name stickPositionX",
+                        "functionName": "x",
+                        "line": 235
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 32,
+                        "errorMessage": "Cannot access value for name stickPositionY",
+                        "functionName": "y",
+                        "line": 236
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 32,
+                        "errorMessage": "Cannot access value for name _fgColor",
+                        "functionName": "color",
+                        "line": 232
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 17,
+                        "durationMicroseconds": 151,
+                        "errorMessage": "",
+                        "functionName": "target",
+                        "line": 240
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 21,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"xChanged\".",
+                        "functionName": "onXChanged",
+                        "line": 242
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 21,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"yChanged\".",
+                        "functionName": "onYChanged",
+                        "line": 247
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 342,
+                        "errorMessage": "Cannot generate efficient code for call to untyped JavaScript function",
+                        "functionName": "onPressed",
+                        "line": 260
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 120,
+                        "errorMessage": "",
+                        "functionName": "onPressed",
+                        "line": 260
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 252,
+                        "errorMessage": "",
+                        "functionName": "onReleased",
+                        "line": 261
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 129,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 255
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 74,
+                        "errorMessage": "Cannot access value for name yAxisReCenter",
+                        "functionName": "bottomMargin",
+                        "line": 256
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/QmlControls/JoystickThumbPad.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.Controls(QGroundControlControlsModule)"
+    }
+]

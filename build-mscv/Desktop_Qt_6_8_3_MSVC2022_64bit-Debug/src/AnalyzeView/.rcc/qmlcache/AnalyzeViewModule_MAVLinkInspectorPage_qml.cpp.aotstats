@@ -1,0 +1,820 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 256,
+                        "errorMessage": "",
+                        "functionName": "headerComponent",
+                        "line": 25
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 95,
+                        "errorMessage": "",
+                        "functionName": "pageComponent",
+                        "line": 26
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 38,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: controller",
+                        "functionName": "curSystem",
+                        "line": 29
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 70,
+                        "errorMessage": "Cannot load property messages from (component in C:/Users/User/qgroundcontrol/src/AnalyzeView/MAVLinkInspectorPage.qml)::curSystem with type QVariant.",
+                        "functionName": "curMessage",
+                        "line": 30
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "updateEnabledStatus",
+                        "line": 38
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "isCheckboxEnabled",
+                        "line": 53
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 221,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 76
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 150,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 77
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 68,
+                        "errorMessage": "Cannot access value for name curSystem",
+                        "functionName": "visible",
+                        "line": 83
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 135,
+                        "errorMessage": "",
+                        "functionName": "alignment",
+                        "line": 82
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 43,
+                        "errorMessage": "Cannot access value for name controller",
+                        "functionName": "model",
+                        "line": 86
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 31,
+                        "errorMessage": "Cannot access value for name controller",
+                        "functionName": "visible",
+                        "line": 88
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 35,
+                        "durationMicroseconds": 52,
+                        "errorMessage": "Cannot access value for name controller",
+                        "functionName": "onActivated",
+                        "line": 89
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 35,
+                        "durationMicroseconds": 80,
+                        "errorMessage": "",
+                        "functionName": "onActivated",
+                        "line": 89
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 36,
+                        "errorMessage": "Cannot access value for name controller",
+                        "functionName": "target",
+                        "line": 92
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 55,
+                        "errorMessage": "Cannot access value for name controller",
+                        "functionName": "onActiveSystemChanged",
+                        "line": 93
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 40,
+                        "errorMessage": "Cannot access value for name curSystem",
+                        "functionName": "model",
+                        "line": 107
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 30,
+                        "errorMessage": "Cannot access value for name curSystem",
+                        "functionName": "visible",
+                        "line": 109
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 35,
+                        "durationMicroseconds": 43,
+                        "errorMessage": "Cannot access value for name curSystem",
+                        "functionName": "onActivated",
+                        "line": 110
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 35,
+                        "durationMicroseconds": 75,
+                        "errorMessage": "",
+                        "functionName": "onActivated",
+                        "line": 110
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 36,
+                        "errorMessage": "Cannot access value for name availableWidth",
+                        "functionName": "width",
+                        "line": 126
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 23,
+                        "errorMessage": "Cannot access value for name availableHeight",
+                        "functionName": "height",
+                        "line": 127
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 5281,
+                        "errorMessage": "",
+                        "functionName": "spacing",
+                        "line": 128
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 142,
+                        "errorMessage": "",
+                        "functionName": "flickableDirection",
+                        "line": 132
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 54,
+                        "errorMessage": "Cannot access value for name maxButtonWidth",
+                        "functionName": "width",
+                        "line": 133
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 117,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 134
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 60,
+                        "errorMessage": "",
+                        "functionName": "contentWidth",
+                        "line": 135
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 112,
+                        "errorMessage": "",
+                        "functionName": "contentHeight",
+                        "line": 136
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 223,
+                        "errorMessage": "",
+                        "functionName": "spacing",
+                        "line": 141
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 187,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 139
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 168,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 140
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 56,
+                        "errorMessage": "Cannot access value for name curSystem",
+                        "functionName": "model",
+                        "line": 143
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"text\".",
+                        "functionName": "text",
+                        "line": 145
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 71,
+                        "errorMessage": "Cannot access value for name object",
+                        "functionName": "compID",
+                        "line": 146
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"checked\".",
+                        "functionName": "checked",
+                        "line": 147
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 44,
+                        "errorMessage": "Cannot access value for name object",
+                        "functionName": "messageHz",
+                        "line": 148
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"visible\".",
+                        "functionName": "visible",
+                        "line": 149
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 40,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"clicked\".",
+                        "functionName": "onClicked",
+                        "line": 150
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 57,
+                        "errorMessage": "Cannot access value for name curMessage",
+                        "functionName": "visible",
+                        "line": 161
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 138,
+                        "errorMessage": "",
+                        "functionName": "flickableDirection",
+                        "line": 162
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 397,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 163
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 129,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 164
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 71,
+                        "errorMessage": "",
+                        "functionName": "contentWidth",
+                        "line": 165
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 104,
+                        "errorMessage": "",
+                        "functionName": "contentHeight",
+                        "line": 166
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 106,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 169
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 177,
+                        "errorMessage": "",
+                        "functionName": "spacing",
+                        "line": 170
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 98,
+                        "errorMessage": "",
+                        "functionName": "columnSpacing",
+                        "line": 173
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 174,
+                        "errorMessage": "",
+                        "functionName": "rowSpacing",
+                        "line": 174
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 50,
+                        "durationMicroseconds": 197,
+                        "errorMessage": "",
+                        "functionName": "minimumWidth",
+                        "line": 177
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 36,
+                        "durationMicroseconds": 431,
+                        "errorMessage": "Cannot access value for name qgcPal",
+                        "functionName": "color",
+                        "line": 180
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 35,
+                        "durationMicroseconds": 57,
+                        "errorMessage": "Cannot access value for name curMessage",
+                        "functionName": "text",
+                        "line": 181
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 42,
+                        "durationMicroseconds": 39,
+                        "errorMessage": "Cannot access value for name curMessage",
+                        "functionName": "text",
+                        "line": 185
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 42,
+                        "durationMicroseconds": 33,
+                        "errorMessage": "Cannot access value for name curMessage",
+                        "functionName": "text",
+                        "line": 188
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 42,
+                        "durationMicroseconds": 40,
+                        "errorMessage": "Cannot access value for name curMessage",
+                        "functionName": "text",
+                        "line": 191
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 36,
+                        "durationMicroseconds": 4401,
+                        "errorMessage": "Cannot generate efficient code for storing an array in a non-sequence type",
+                        "functionName": "model",
+                        "line": 198
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 43,
+                        "durationMicroseconds": 102,
+                        "errorMessage": "Cannot access value for name controller",
+                        "functionName": "onActivated",
+                        "line": 218
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 43,
+                        "durationMicroseconds": 105,
+                        "errorMessage": "",
+                        "functionName": "onActivated",
+                        "line": 218
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 180,
+                        "errorMessage": "",
+                        "functionName": "reset",
+                        "line": 219
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 47,
+                        "durationMicroseconds": 152,
+                        "errorMessage": "",
+                        "functionName": "alignment",
+                        "line": 215
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 52,
+                        "durationMicroseconds": 95,
+                        "errorMessage": "",
+                        "functionName": "onCompleted",
+                        "line": 217
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 54,
+                        "errorMessage": "Cannot access value for name root",
+                        "functionName": "target",
+                        "line": 221
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 160,
+                        "errorMessage": "",
+                        "functionName": "onCurMessageChanged",
+                        "line": 222
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 52,
+                        "errorMessage": "Cannot access value for name curMessage",
+                        "functionName": "target",
+                        "line": 225
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 43,
+                        "errorMessage": "Cannot access value for name curMessage",
+                        "functionName": "onTargetRateHzChanged",
+                        "line": 226
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 36,
+                        "durationMicroseconds": 120,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 235
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 182,
+                        "errorMessage": "",
+                        "functionName": "columnSpacing",
+                        "line": 240
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 159,
+                        "errorMessage": "",
+                        "functionName": "rowSpacing",
+                        "line": 241
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 116,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 242
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 274,
+                        "errorMessage": "Cannot access value for name qgcPal",
+                        "functionName": "color",
+                        "line": 264
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 48,
+                        "errorMessage": "Cannot access value for name curMessage",
+                        "functionName": "model",
+                        "line": 269
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 456,
+                        "errorMessage": "Cannot access value for name object",
+                        "functionName": "text",
+                        "line": 274
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 46,
+                        "errorMessage": "Cannot access value for name index",
+                        "functionName": "row",
+                        "line": 271
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 54,
+                        "durationMicroseconds": 244,
+                        "errorMessage": "",
+                        "functionName": "minimumWidth",
+                        "line": 273
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 47,
+                        "errorMessage": "Cannot access value for name curMessage",
+                        "functionName": "model",
+                        "line": 278
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 398,
+                        "errorMessage": "Cannot access value for name object",
+                        "functionName": "text",
+                        "line": 284
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 150,
+                        "errorMessage": "",
+                        "functionName": "elide",
+                        "line": 285
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 33,
+                        "errorMessage": "Cannot access value for name index",
+                        "functionName": "row",
+                        "line": 280
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 54,
+                        "durationMicroseconds": 44,
+                        "errorMessage": "Cannot access value for name msgInfoGrid",
+                        "functionName": "minimumWidth",
+                        "line": 282
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 54,
+                        "durationMicroseconds": 34,
+                        "errorMessage": "Cannot access value for name msgInfoGrid",
+                        "functionName": "maximumWidth",
+                        "line": 283
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 37,
+                        "errorMessage": "Cannot access value for name curMessage",
+                        "functionName": "model",
+                        "line": 289
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 397,
+                        "errorMessage": "Cannot access value for name object",
+                        "functionName": "text",
+                        "line": 294
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 180,
+                        "errorMessage": "",
+                        "functionName": "elide",
+                        "line": 295
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 44,
+                        "errorMessage": "Cannot access value for name index",
+                        "functionName": "row",
+                        "line": 291
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 54,
+                        "durationMicroseconds": 218,
+                        "errorMessage": "",
+                        "functionName": "minimumWidth",
+                        "line": 293
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 47,
+                        "errorMessage": "Cannot access value for name curMessage",
+                        "functionName": "model",
+                        "line": 300
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"checked\".",
+                        "functionName": "checked",
+                        "line": 305
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 44,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"clicked\".",
+                        "functionName": "onClicked",
+                        "line": 306
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 28,
+                        "errorMessage": "Cannot access value for name index",
+                        "functionName": "row",
+                        "line": 302
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 166,
+                        "errorMessage": "",
+                        "functionName": "alignment",
+                        "line": 304
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 56,
+                        "durationMicroseconds": 81,
+                        "errorMessage": "Cannot access value for name curMessage",
+                        "functionName": "onCompleted",
+                        "line": 315
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 36,
+                        "errorMessage": "Cannot access value for name curMessage",
+                        "functionName": "model",
+                        "line": 320
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"checked\".",
+                        "functionName": "checked",
+                        "line": 325
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 44,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"clicked\".",
+                        "functionName": "onClicked",
+                        "line": 326
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 40,
+                        "errorMessage": "Cannot access value for name index",
+                        "functionName": "row",
+                        "line": 322
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 148,
+                        "errorMessage": "",
+                        "functionName": "alignment",
+                        "line": 324
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 56,
+                        "durationMicroseconds": 77,
+                        "errorMessage": "Cannot access value for name curMessage",
+                        "functionName": "onCompleted",
+                        "line": 335
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 36,
+                        "durationMicroseconds": 202,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 339
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 181,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 342
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 116,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 343
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 190,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 347
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 119,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 348
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/AnalyzeView/MAVLinkInspectorPage.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.AnalyzeView(AnalyzeViewModule)"
+    }
+]

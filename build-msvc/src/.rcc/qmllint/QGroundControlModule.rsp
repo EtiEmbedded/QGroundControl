@@ -1,0 +1,9 @@
+--bare
+-I
+C:/Users/User/qgroundcontrol/build-msvc/qml
+-I
+C:/Users/User/qgroundcontrol/build-msvc/qml
+-I
+C:/Qt/6.8.3/msvc2022_64/qml
+--resource
+C:/Users/User/qgroundcontrol/build-msvc/src/.qt/rcc/qmake_QGroundControl.qrc

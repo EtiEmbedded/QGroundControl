@@ -1,0 +1,819 @@
+{
+	"archive" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "/machine:x64",
+				"role" : "flags"
+			}
+		]
+	},
+	"artifacts" : 
+	[
+		{
+			"path" : "_deps/geographiclib-build/lib/GeographicLib_d.lib"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"install",
+			"target_compile_options",
+			"target_compile_definitions",
+			"target_include_directories"
+		],
+		"files" : 
+		[
+			"build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/cpm_modules/geographiclib/51aa4b8613d10fb7df90868d67906d2da5631520/src/CMakeLists.txt",
+			"src/Utilities/Geo/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 106,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 163,
+				"parent" : 0
+			},
+			{
+				"file" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 35,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 130,
+				"parent" : 0
+			},
+			{
+				"command" : 4,
+				"file" : 0,
+				"line" : 155,
+				"parent" : 0
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-DQT_QML_DEBUG /DWIN32 /D_WINDOWS /EHsc /W4 /std:c++latest /MP /Ob0 /Od /RTC1 -std:c++14 -MDd -Z7"
+				},
+				{
+					"backtrace" : 4,
+					"fragment" : "/wd9025"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 5,
+					"define" : "GEOGRAPHICLIB_SHARED_LIB=0"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"path" : "C:/Users/User/qgroundcontrol/build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/_deps/geographiclib-build/src"
+				},
+				{
+					"path" : "C:/Users/User/qgroundcontrol/build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/cpm_modules/geographiclib/51aa4b8613d10fb7df90868d67906d2da5631520/src"
+				},
+				{
+					"backtrace" : 0,
+					"path" : "C:/Users/User/qgroundcontrol/build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/_deps/geographiclib-build/src/GeographicLib_STATIC_autogen/include"
+				},
+				{
+					"backtrace" : 6,
+					"path" : "C:/Users/User/qgroundcontrol/build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/_deps/geographiclib-build/include"
+				},
+				{
+					"backtrace" : 6,
+					"path" : "C:/Users/User/qgroundcontrol/build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/cpm_modules/geographiclib/51aa4b8613d10fb7df90868d67906d2da5631520/include"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					1
+				],
+				"standard" : "14"
+			},
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30,
+				31,
+				32,
+				33,
+				34,
+				35,
+				36,
+				37,
+				38,
+				39,
+				40,
+				41,
+				42
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 0,
+			"id" : "GeographicLib_STATIC_autogen::@dce13dc75a99617acf06"
+		},
+		{
+			"id" : "GeographicLib_STATIC_autogen_timestamp_deps::@dce13dc75a99617acf06"
+		}
+	],
+	"folder" : 
+	{
+		"name" : "library"
+	},
+	"id" : "GeographicLib_STATIC::@dce13dc75a99617acf06",
+	"install" : 
+	{
+		"destinations" : 
+		[
+			{
+				"backtrace" : 2,
+				"path" : "lib"
+			}
+		],
+		"prefix" : 
+		{
+			"path" : "C:/Users/User/qgroundcontrol/build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/staging"
+		}
+	},
+	"name" : "GeographicLib_STATIC",
+	"nameOnDisk" : "GeographicLib_d.lib",
+	"paths" : 
+	{
+		"build" : "_deps/geographiclib-build/src",
+		"source" : "build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/cpm_modules/geographiclib/51aa4b8613d10fb7df90868d67906d2da5631520/src"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files\\Generated",
+			"sourceIndexes" : 
+			[
+				0,
+				87
+			]
+		},
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30,
+				31,
+				32,
+				33,
+				34,
+				35,
+				36,
+				37,
+				38,
+				39,
+				40,
+				41,
+				42
+			]
+		},
+		{
+			"name" : "Header Files",
+			"sourceIndexes" : 
+			[
+				43,
+				44,
+				45,
+				46,
+				47,
+				48,
+				49,
+				50,
+				51,
+				52,
+				53,
+				54,
+				55,
+				56,
+				57,
+				58,
+				59,
+				60,
+				61,
+				62,
+				63,
+				64,
+				65,
+				66,
+				67,
+				68,
+				69,
+				70,
+				71,
+				72,
+				73,
+				74,
+				75,
+				76,
+				77,
+				78,
+				79,
+				80,
+				81,
+				82,
+				83,
+				84,
+				85,
+				86
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				88
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/_deps/geographiclib-build/src/GeographicLib_STATIC_autogen/mocs_compilation.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/cpm_modules/geographiclib/51aa4b8613d10fb7df90868d67906d2da5631520/src/Accumulator.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/cpm_modules/geographiclib/51aa4b8613d10fb7df90868d67906d2da5631520/src/AlbersEqualArea.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/cpm_modules/geographiclib/51aa4b8613d10fb7df90868d67906d2da5631520/src/AuxAngle.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/cpm_modules/geographiclib/51aa4b8613d10fb7df90868d67906d2da5631520/src/AuxLatitude.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/cpm_modules/geographiclib/51aa4b8613d10fb7df90868d67906d2da5631520/src/AzimuthalEquidistant.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/cpm_modules/geographiclib/51aa4b8613d10fb7df90868d67906d2da5631520/src/CassiniSoldner.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/cpm_modules/geographiclib/51aa4b8613d10fb7df90868d67906d2da5631520/src/CircularEngine.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/cpm_modules/geographiclib/51aa4b8613d10fb7df90868d67906d2da5631520/src/DAuxLatitude.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/cpm_modules/geographiclib/51aa4b8613d10fb7df90868d67906d2da5631520/src/DMS.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/cpm_modules/geographiclib/51aa4b8613d10fb7df90868d67906d2da5631520/src/DST.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/cpm_modules/geographiclib/51aa4b8613d10fb7df90868d67906d2da5631520/src/Ellipsoid.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/cpm_modules/geographiclib/51aa4b8613d10fb7df90868d67906d2da5631520/src/EllipticFunction.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/cpm_modules/geographiclib/51aa4b8613d10fb7df90868d67906d2da5631520/src/GARS.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/cpm_modules/geographiclib/51aa4b8613d10fb7df90868d67906d2da5631520/src/GeoCoords.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/cpm_modules/geographiclib/51aa4b8613d10fb7df90868d67906d2da5631520/src/Geocentric.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/cpm_modules/geographiclib/51aa4b8613d10fb7df90868d67906d2da5631520/src/Geodesic.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/cpm_modules/geographiclib/51aa4b8613d10fb7df90868d67906d2da5631520/src/GeodesicExact.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/cpm_modules/geographiclib/51aa4b8613d10fb7df90868d67906d2da5631520/src/GeodesicLine.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/cpm_modules/geographiclib/51aa4b8613d10fb7df90868d67906d2da5631520/src/GeodesicLineExact.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/cpm_modules/geographiclib/51aa4b8613d10fb7df90868d67906d2da5631520/src/Geohash.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/cpm_modules/geographiclib/51aa4b8613d10fb7df90868d67906d2da5631520/src/Geoid.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/cpm_modules/geographiclib/51aa4b8613d10fb7df90868d67906d2da5631520/src/Georef.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/cpm_modules/geographiclib/51aa4b8613d10fb7df90868d67906d2da5631520/src/Gnomonic.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/cpm_modules/geographiclib/51aa4b8613d10fb7df90868d67906d2da5631520/src/GravityCircle.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/cpm_modules/geographiclib/51aa4b8613d10fb7df90868d67906d2da5631520/src/GravityModel.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/cpm_modules/geographiclib/51aa4b8613d10fb7df90868d67906d2da5631520/src/Intersect.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/cpm_modules/geographiclib/51aa4b8613d10fb7df90868d67906d2da5631520/src/LambertConformalConic.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/cpm_modules/geographiclib/51aa4b8613d10fb7df90868d67906d2da5631520/src/LocalCartesian.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/cpm_modules/geographiclib/51aa4b8613d10fb7df90868d67906d2da5631520/src/MGRS.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/cpm_modules/geographiclib/51aa4b8613d10fb7df90868d67906d2da5631520/src/MagneticCircle.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/cpm_modules/geographiclib/51aa4b8613d10fb7df90868d67906d2da5631520/src/MagneticModel.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/cpm_modules/geographiclib/51aa4b8613d10fb7df90868d67906d2da5631520/src/Math.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/cpm_modules/geographiclib/51aa4b8613d10fb7df90868d67906d2da5631520/src/NormalGravity.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/cpm_modules/geographiclib/51aa4b8613d10fb7df90868d67906d2da5631520/src/OSGB.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/cpm_modules/geographiclib/51aa4b8613d10fb7df90868d67906d2da5631520/src/PolarStereographic.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/cpm_modules/geographiclib/51aa4b8613d10fb7df90868d67906d2da5631520/src/PolygonArea.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/cpm_modules/geographiclib/51aa4b8613d10fb7df90868d67906d2da5631520/src/Rhumb.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/cpm_modules/geographiclib/51aa4b8613d10fb7df90868d67906d2da5631520/src/SphericalEngine.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/cpm_modules/geographiclib/51aa4b8613d10fb7df90868d67906d2da5631520/src/TransverseMercator.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/cpm_modules/geographiclib/51aa4b8613d10fb7df90868d67906d2da5631520/src/TransverseMercatorExact.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/cpm_modules/geographiclib/51aa4b8613d10fb7df90868d67906d2da5631520/src/UTMUPS.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/cpm_modules/geographiclib/51aa4b8613d10fb7df90868d67906d2da5631520/src/Utility.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/cpm_modules/geographiclib/51aa4b8613d10fb7df90868d67906d2da5631520/src/kissfft.hh",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : "build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/_deps/geographiclib-build/include/GeographicLib/Config.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : "build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/cpm_modules/geographiclib/51aa4b8613d10fb7df90868d67906d2da5631520/include/GeographicLib/Accumulator.hpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : "build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/cpm_modules/geographiclib/51aa4b8613d10fb7df90868d67906d2da5631520/include/GeographicLib/AlbersEqualArea.hpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : "build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/cpm_modules/geographiclib/51aa4b8613d10fb7df90868d67906d2da5631520/include/GeographicLib/AzimuthalEquidistant.hpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : "build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/cpm_modules/geographiclib/51aa4b8613d10fb7df90868d67906d2da5631520/include/GeographicLib/CassiniSoldner.hpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : "build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/cpm_modules/geographiclib/51aa4b8613d10fb7df90868d67906d2da5631520/include/GeographicLib/CircularEngine.hpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : "build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/cpm_modules/geographiclib/51aa4b8613d10fb7df90868d67906d2da5631520/include/GeographicLib/Constants.hpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : "build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/cpm_modules/geographiclib/51aa4b8613d10fb7df90868d67906d2da5631520/include/GeographicLib/DMS.hpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : "build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/cpm_modules/geographiclib/51aa4b8613d10fb7df90868d67906d2da5631520/include/GeographicLib/Ellipsoid.hpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : "build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/cpm_modules/geographiclib/51aa4b8613d10fb7df90868d67906d2da5631520/include/GeographicLib/EllipticFunction.hpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : "build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/cpm_modules/geographiclib/51aa4b8613d10fb7df90868d67906d2da5631520/include/GeographicLib/GARS.hpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : "build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/cpm_modules/geographiclib/51aa4b8613d10fb7df90868d67906d2da5631520/include/GeographicLib/GeoCoords.hpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : "build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/cpm_modules/geographiclib/51aa4b8613d10fb7df90868d67906d2da5631520/include/GeographicLib/Geocentric.hpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : "build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/cpm_modules/geographiclib/51aa4b8613d10fb7df90868d67906d2da5631520/include/GeographicLib/Geodesic.hpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : "build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/cpm_modules/geographiclib/51aa4b8613d10fb7df90868d67906d2da5631520/include/GeographicLib/GeodesicExact.hpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : "build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/cpm_modules/geographiclib/51aa4b8613d10fb7df90868d67906d2da5631520/include/GeographicLib/GeodesicLine.hpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : "build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/cpm_modules/geographiclib/51aa4b8613d10fb7df90868d67906d2da5631520/include/GeographicLib/GeodesicLineExact.hpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : "build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/cpm_modules/geographiclib/51aa4b8613d10fb7df90868d67906d2da5631520/include/GeographicLib/Geohash.hpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : "build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/cpm_modules/geographiclib/51aa4b8613d10fb7df90868d67906d2da5631520/include/GeographicLib/Geoid.hpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : "build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/cpm_modules/geographiclib/51aa4b8613d10fb7df90868d67906d2da5631520/include/GeographicLib/Georef.hpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : "build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/cpm_modules/geographiclib/51aa4b8613d10fb7df90868d67906d2da5631520/include/GeographicLib/Gnomonic.hpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : "build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/cpm_modules/geographiclib/51aa4b8613d10fb7df90868d67906d2da5631520/include/GeographicLib/GravityCircle.hpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : "build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/cpm_modules/geographiclib/51aa4b8613d10fb7df90868d67906d2da5631520/include/GeographicLib/GravityModel.hpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : "build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/cpm_modules/geographiclib/51aa4b8613d10fb7df90868d67906d2da5631520/include/GeographicLib/LambertConformalConic.hpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : "build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/cpm_modules/geographiclib/51aa4b8613d10fb7df90868d67906d2da5631520/include/GeographicLib/LocalCartesian.hpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : "build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/cpm_modules/geographiclib/51aa4b8613d10fb7df90868d67906d2da5631520/include/GeographicLib/MGRS.hpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : "build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/cpm_modules/geographiclib/51aa4b8613d10fb7df90868d67906d2da5631520/include/GeographicLib/MagneticCircle.hpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : "build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/cpm_modules/geographiclib/51aa4b8613d10fb7df90868d67906d2da5631520/include/GeographicLib/MagneticModel.hpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : "build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/cpm_modules/geographiclib/51aa4b8613d10fb7df90868d67906d2da5631520/include/GeographicLib/Math.hpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : "build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/cpm_modules/geographiclib/51aa4b8613d10fb7df90868d67906d2da5631520/include/GeographicLib/NearestNeighbor.hpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : "build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/cpm_modules/geographiclib/51aa4b8613d10fb7df90868d67906d2da5631520/include/GeographicLib/NormalGravity.hpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : "build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/cpm_modules/geographiclib/51aa4b8613d10fb7df90868d67906d2da5631520/include/GeographicLib/OSGB.hpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : "build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/cpm_modules/geographiclib/51aa4b8613d10fb7df90868d67906d2da5631520/include/GeographicLib/PolarStereographic.hpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : "build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/cpm_modules/geographiclib/51aa4b8613d10fb7df90868d67906d2da5631520/include/GeographicLib/PolygonArea.hpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : "build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/cpm_modules/geographiclib/51aa4b8613d10fb7df90868d67906d2da5631520/include/GeographicLib/Rhumb.hpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : "build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/cpm_modules/geographiclib/51aa4b8613d10fb7df90868d67906d2da5631520/include/GeographicLib/SphericalEngine.hpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : "build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/cpm_modules/geographiclib/51aa4b8613d10fb7df90868d67906d2da5631520/include/GeographicLib/SphericalHarmonic.hpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : "build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/cpm_modules/geographiclib/51aa4b8613d10fb7df90868d67906d2da5631520/include/GeographicLib/SphericalHarmonic1.hpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : "build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/cpm_modules/geographiclib/51aa4b8613d10fb7df90868d67906d2da5631520/include/GeographicLib/SphericalHarmonic2.hpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : "build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/cpm_modules/geographiclib/51aa4b8613d10fb7df90868d67906d2da5631520/include/GeographicLib/TransverseMercator.hpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : "build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/cpm_modules/geographiclib/51aa4b8613d10fb7df90868d67906d2da5631520/include/GeographicLib/TransverseMercatorExact.hpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : "build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/cpm_modules/geographiclib/51aa4b8613d10fb7df90868d67906d2da5631520/include/GeographicLib/UTMUPS.hpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : "build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/cpm_modules/geographiclib/51aa4b8613d10fb7df90868d67906d2da5631520/include/GeographicLib/Utility.hpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/_deps/geographiclib-build/src/GeographicLib_STATIC_autogen/timestamp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/_deps/geographiclib-build/src/GeographicLib_STATIC_autogen/timestamp.rule",
+			"sourceGroupIndex" : 3
+		}
+	],
+	"type" : "STATIC_LIBRARY"
+}

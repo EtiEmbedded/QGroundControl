@@ -1,0 +1,31 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/cpm_modules/libevents/1ea2d34e1cc3658140fb45034b187e87d60c899b/libs/cpp/parse/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"folder" : 
+	{
+		"name" : "QtInternalTargets"
+	},
+	"id" : "libevents_health_and_arming_checks_autogen_timestamp_deps::@9b6e918be805ebb5d1f7",
+	"isGeneratorProvided" : true,
+	"name" : "libevents_health_and_arming_checks_autogen_timestamp_deps",
+	"paths" : 
+	{
+		"build" : "_deps/libevents-build/parse",
+		"source" : "build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/cpm_modules/libevents/1ea2d34e1cc3658140fb45034b187e87d60c899b/libs/cpp/parse"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

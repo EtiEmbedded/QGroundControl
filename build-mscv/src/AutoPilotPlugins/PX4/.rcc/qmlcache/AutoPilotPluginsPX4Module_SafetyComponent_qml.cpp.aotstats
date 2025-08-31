@@ -1,0 +1,1868 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 21,
+                        "durationMicroseconds": 377,
+                        "errorMessage": "",
+                        "functionName": "pageComponent",
+                        "line": 24
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 148,
+                        "errorMessage": "Cannot access value for name availableWidth",
+                        "functionName": "width",
+                        "line": 29
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 271,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 30
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 7666,
+                        "errorMessage": "",
+                        "functionName": "_margins",
+                        "line": 38
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 332,
+                        "errorMessage": "",
+                        "functionName": "_labelWidth",
+                        "line": 39
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 245,
+                        "errorMessage": "",
+                        "functionName": "_editFieldWidth",
+                        "line": 40
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 275,
+                        "errorMessage": "",
+                        "functionName": "_imageHeight",
+                        "line": 41
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 196,
+                        "errorMessage": "",
+                        "functionName": "_imageWidth",
+                        "line": 42
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 375,
+                        "errorMessage": "",
+                        "functionName": "_enableLogging",
+                        "line": 44
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 329,
+                        "errorMessage": "",
+                        "functionName": "_fenceAction",
+                        "line": 45
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 425,
+                        "errorMessage": "",
+                        "functionName": "_fenceRadius",
+                        "line": 46
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 294,
+                        "errorMessage": "",
+                        "functionName": "_fenceAlt",
+                        "line": 47
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 318,
+                        "errorMessage": "",
+                        "functionName": "_rtlLandDelay",
+                        "line": 48
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 274,
+                        "errorMessage": "",
+                        "functionName": "_lowBattAction",
+                        "line": 49
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 308,
+                        "errorMessage": "",
+                        "functionName": "_rcLossAction",
+                        "line": 50
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 340,
+                        "errorMessage": "",
+                        "functionName": "_dlLossAction",
+                        "line": 51
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 309,
+                        "errorMessage": "",
+                        "functionName": "_disarmLandDelay",
+                        "line": 52
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 286,
+                        "errorMessage": "",
+                        "functionName": "_collisionPrevention",
+                        "line": 53
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 369,
+                        "errorMessage": "",
+                        "functionName": "_objectAvoidance",
+                        "line": 54
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 365,
+                        "errorMessage": "",
+                        "functionName": "_landSpeedMC",
+                        "line": 55
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 342,
+                        "errorMessage": "",
+                        "functionName": "_hitlAvailable",
+                        "line": 56
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 402,
+                        "errorMessage": "",
+                        "functionName": "_hitlEnabled",
+                        "line": 57
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 99,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "spacing",
+                        "line": 61
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 267,
+                        "errorMessage": "",
+                        "functionName": "horizontalCenter",
+                        "line": 62
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 116,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "width",
+                        "line": 69
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 80,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "height",
+                        "line": 70
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 395,
+                        "errorMessage": "Cannot access value for name qgcPal",
+                        "functionName": "color",
+                        "line": 71
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 71,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "spacing",
+                        "line": 74
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 163,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 75
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 53,
+                        "errorMessage": "Cannot access value for name _imageWidth",
+                        "functionName": "width",
+                        "line": 77
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 44,
+                        "errorMessage": "Cannot access value for name _imageHeight",
+                        "functionName": "height",
+                        "line": 78
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 259,
+                        "errorMessage": "",
+                        "functionName": "verticalCenter",
+                        "line": 79
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 188,
+                        "errorMessage": "",
+                        "functionName": "fillMode",
+                        "line": 82
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 567,
+                        "errorMessage": "Cannot access value for name qgcPal",
+                        "functionName": "source",
+                        "line": 83
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 70,
+                        "errorMessage": "Cannot access value for name _imageHeight",
+                        "functionName": "height",
+                        "line": 84
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 145,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 85
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 377,
+                        "errorMessage": "",
+                        "functionName": "verticalCenter",
+                        "line": 90
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 85,
+                        "errorMessage": "Cannot access value for name _labelWidth",
+                        "functionName": "minimumWidth",
+                        "line": 94
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 65,
+                        "errorMessage": "Cannot access value for name _lowBattAction",
+                        "functionName": "fact",
+                        "line": 98
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 60,
+                        "errorMessage": "Cannot access value for name _editFieldWidth",
+                        "functionName": "minimumWidth",
+                        "line": 100
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 445,
+                        "errorMessage": "",
+                        "functionName": "fact",
+                        "line": 109
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 350,
+                        "errorMessage": "",
+                        "functionName": "fact",
+                        "line": 118
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 354,
+                        "errorMessage": "",
+                        "functionName": "fact",
+                        "line": 127
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 115,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "width",
+                        "line": 139
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 83,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "height",
+                        "line": 140
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 407,
+                        "errorMessage": "Cannot access value for name qgcPal",
+                        "functionName": "color",
+                        "line": 141
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 63,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "spacing",
+                        "line": 144
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 147,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 145
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 54,
+                        "errorMessage": "Cannot access value for name _imageWidth",
+                        "functionName": "width",
+                        "line": 147
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 47,
+                        "errorMessage": "Cannot access value for name _imageHeight",
+                        "functionName": "height",
+                        "line": 148
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 286,
+                        "errorMessage": "",
+                        "functionName": "verticalCenter",
+                        "line": 149
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 477,
+                        "errorMessage": "Cannot access value for name qgcPal",
+                        "functionName": "color",
+                        "line": 151
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 68,
+                        "errorMessage": "Cannot access value for name _imageHeight",
+                        "functionName": "height",
+                        "line": 153
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 59,
+                        "errorMessage": "Cannot access value for name _imageHeight",
+                        "functionName": "width",
+                        "line": 154
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 140,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 155
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 266,
+                        "errorMessage": "",
+                        "functionName": "verticalCenter",
+                        "line": 160
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 71,
+                        "errorMessage": "Cannot access value for name _labelWidth",
+                        "functionName": "minimumWidth",
+                        "line": 164
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 627,
+                        "errorMessage": "Cannot generate efficient code for storing an array in a non-sequence type",
+                        "functionName": "model",
+                        "line": 168
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 75,
+                        "errorMessage": "Cannot access value for name _collisionPrevention",
+                        "functionName": "enabled",
+                        "line": 169
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 66,
+                        "errorMessage": "Cannot access value for name _collisionPrevention",
+                        "functionName": "currentIndex",
+                        "line": 172
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 47,
+                        "durationMicroseconds": 92,
+                        "errorMessage": "Cannot access value for name _collisionPrevention",
+                        "functionName": "onActivated",
+                        "line": 173
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 47,
+                        "durationMicroseconds": 112,
+                        "errorMessage": "",
+                        "functionName": "onActivated",
+                        "line": 173
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 65,
+                        "errorMessage": "Cannot access value for name _editFieldWidth",
+                        "functionName": "minimumWidth",
+                        "line": 170
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 585,
+                        "errorMessage": "Cannot generate efficient code for storing an array in a non-sequence type",
+                        "functionName": "model",
+                        "line": 187
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 82,
+                        "errorMessage": "Cannot access value for name _objectAvoidance",
+                        "functionName": "enabled",
+                        "line": 188
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 85,
+                        "errorMessage": "Cannot access value for name _objectAvoidance",
+                        "functionName": "currentIndex",
+                        "line": 191
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 47,
+                        "durationMicroseconds": 74,
+                        "errorMessage": "Cannot access value for name _objectAvoidance",
+                        "functionName": "onActivated",
+                        "line": 192
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 47,
+                        "durationMicroseconds": 109,
+                        "errorMessage": "",
+                        "functionName": "onActivated",
+                        "line": 192
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 79,
+                        "errorMessage": "Cannot access value for name _editFieldWidth",
+                        "functionName": "minimumWidth",
+                        "line": 189
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 87,
+                        "errorMessage": "Cannot load property unitsConversion from QGroundControlQmlGlobal.",
+                        "functionName": "text",
+                        "line": 200
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 202,
+                        "errorMessage": "",
+                        "functionName": "alignment",
+                        "line": 202
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"width\".",
+                        "functionName": "width",
+                        "line": 205
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"enabled\".",
+                        "functionName": "enabled",
+                        "line": 206
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 43,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"to\".",
+                        "functionName": "to",
+                        "line": 211
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"from\".",
+                        "functionName": "from",
+                        "line": 212
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 40,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"value\".",
+                        "functionName": "value",
+                        "line": 217
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"valueChanged\".",
+                        "functionName": "onValueChanged",
+                        "line": 224
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 87,
+                        "errorMessage": "Cannot access value for name _editFieldWidth",
+                        "functionName": "minimumWidth",
+                        "line": 207
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 57,
+                        "durationMicroseconds": 288,
+                        "errorMessage": "",
+                        "functionName": "minimumHeight",
+                        "line": 208
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 252,
+                        "errorMessage": "",
+                        "functionName": "alignment",
+                        "line": 216
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"visible\".",
+                        "functionName": "visible",
+                        "line": 237
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 762,
+                        "errorMessage": "",
+                        "functionName": "fact",
+                        "line": 238
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 77,
+                        "durationMicroseconds": 123,
+                        "errorMessage": "Cannot load property showObstacleDistanceOverlay from SettingsManager::flyViewSettings with type QObject.",
+                        "functionName": "_showObstacleDistanceOverlay",
+                        "line": 240
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 103,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "width",
+                        "line": 251
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 76,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "height",
+                        "line": 252
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 380,
+                        "errorMessage": "Cannot access value for name qgcPal",
+                        "functionName": "color",
+                        "line": 253
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 52,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "spacing",
+                        "line": 256
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 140,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 257
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 52,
+                        "errorMessage": "Cannot access value for name _imageWidth",
+                        "functionName": "width",
+                        "line": 259
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 43,
+                        "errorMessage": "Cannot access value for name _imageHeight",
+                        "functionName": "height",
+                        "line": 260
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 256,
+                        "errorMessage": "",
+                        "functionName": "verticalCenter",
+                        "line": 261
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 156,
+                        "errorMessage": "",
+                        "functionName": "fillMode",
+                        "line": 264
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 558,
+                        "errorMessage": "Cannot access value for name qgcPal",
+                        "functionName": "source",
+                        "line": 265
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 55,
+                        "errorMessage": "Cannot access value for name _imageHeight",
+                        "functionName": "height",
+                        "line": 266
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 118,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 267
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 233,
+                        "errorMessage": "",
+                        "functionName": "verticalCenter",
+                        "line": 272
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 74,
+                        "errorMessage": "Cannot access value for name _labelWidth",
+                        "functionName": "minimumWidth",
+                        "line": 276
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 59,
+                        "errorMessage": "Cannot access value for name _rcLossAction",
+                        "functionName": "fact",
+                        "line": 280
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 65,
+                        "errorMessage": "Cannot access value for name _editFieldWidth",
+                        "functionName": "minimumWidth",
+                        "line": 282
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 409,
+                        "errorMessage": "",
+                        "functionName": "fact",
+                        "line": 291
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 104,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "width",
+                        "line": 303
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 85,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "height",
+                        "line": 304
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 386,
+                        "errorMessage": "Cannot access value for name qgcPal",
+                        "functionName": "color",
+                        "line": 305
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 54,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "spacing",
+                        "line": 308
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 126,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 309
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 52,
+                        "errorMessage": "Cannot access value for name _imageWidth",
+                        "functionName": "width",
+                        "line": 311
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 42,
+                        "errorMessage": "Cannot access value for name _imageHeight",
+                        "functionName": "height",
+                        "line": 312
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 250,
+                        "errorMessage": "",
+                        "functionName": "verticalCenter",
+                        "line": 313
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 154,
+                        "errorMessage": "",
+                        "functionName": "fillMode",
+                        "line": 316
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 508,
+                        "errorMessage": "Cannot access value for name qgcPal",
+                        "functionName": "source",
+                        "line": 317
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 58,
+                        "errorMessage": "Cannot access value for name _imageHeight",
+                        "functionName": "height",
+                        "line": 318
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 121,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 319
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 242,
+                        "errorMessage": "",
+                        "functionName": "verticalCenter",
+                        "line": 324
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 96,
+                        "errorMessage": "Cannot access value for name _labelWidth",
+                        "functionName": "minimumWidth",
+                        "line": 328
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 56,
+                        "errorMessage": "Cannot access value for name _dlLossAction",
+                        "functionName": "fact",
+                        "line": 332
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 64,
+                        "errorMessage": "Cannot access value for name _editFieldWidth",
+                        "functionName": "minimumWidth",
+                        "line": 334
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 367,
+                        "errorMessage": "",
+                        "functionName": "fact",
+                        "line": 343
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 105,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "width",
+                        "line": 355
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 76,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "height",
+                        "line": 356
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 387,
+                        "errorMessage": "Cannot access value for name qgcPal",
+                        "functionName": "color",
+                        "line": 357
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 51,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "spacing",
+                        "line": 360
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 129,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 361
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 62,
+                        "errorMessage": "Cannot access value for name _imageWidth",
+                        "functionName": "width",
+                        "line": 363
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 44,
+                        "errorMessage": "Cannot access value for name _imageHeight",
+                        "functionName": "height",
+                        "line": 364
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 236,
+                        "errorMessage": "",
+                        "functionName": "verticalCenter",
+                        "line": 365
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 175,
+                        "errorMessage": "",
+                        "functionName": "fillMode",
+                        "line": 368
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 496,
+                        "errorMessage": "Cannot access value for name qgcPal",
+                        "functionName": "source",
+                        "line": 369
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 58,
+                        "errorMessage": "Cannot access value for name _imageHeight",
+                        "functionName": "height",
+                        "line": 370
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 114,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 371
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 238,
+                        "errorMessage": "",
+                        "functionName": "verticalCenter",
+                        "line": 377
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 65,
+                        "errorMessage": "Cannot access value for name _labelWidth",
+                        "functionName": "minimumWidth",
+                        "line": 381
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 57,
+                        "errorMessage": "Cannot access value for name _fenceAction",
+                        "functionName": "fact",
+                        "line": 385
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 53,
+                        "errorMessage": "Cannot access value for name _editFieldWidth",
+                        "functionName": "minimumWidth",
+                        "line": 387
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"checked\".",
+                        "functionName": "checked",
+                        "line": 394
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"clicked\".",
+                        "functionName": "onClicked",
+                        "line": 395
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 52,
+                        "errorMessage": "Cannot access value for name _fenceRadius",
+                        "functionName": "fact",
+                        "line": 399
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"enabled\".",
+                        "functionName": "enabled",
+                        "line": 400
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"checked\".",
+                        "functionName": "checked",
+                        "line": 407
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"clicked\".",
+                        "functionName": "onClicked",
+                        "line": 408
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 46,
+                        "errorMessage": "Cannot access value for name _fenceAlt",
+                        "functionName": "fact",
+                        "line": 412
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"enabled\".",
+                        "functionName": "enabled",
+                        "line": 413
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 93,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "width",
+                        "line": 425
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 76,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "height",
+                        "line": 426
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 391,
+                        "errorMessage": "Cannot access value for name qgcPal",
+                        "functionName": "color",
+                        "line": 427
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 53,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "spacing",
+                        "line": 430
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 131,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 431
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 47,
+                        "errorMessage": "Cannot access value for name _imageWidth",
+                        "functionName": "width",
+                        "line": 433
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 41,
+                        "errorMessage": "Cannot access value for name _imageHeight",
+                        "functionName": "height",
+                        "line": 434
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 234,
+                        "errorMessage": "",
+                        "functionName": "verticalCenter",
+                        "line": 435
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 434,
+                        "errorMessage": "Cannot access value for name qgcPal",
+                        "functionName": "color",
+                        "line": 437
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 535,
+                        "errorMessage": "",
+                        "functionName": "source",
+                        "line": 438
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 57,
+                        "errorMessage": "Cannot access value for name _imageHeight",
+                        "functionName": "height",
+                        "line": 439
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 50,
+                        "errorMessage": "Cannot access value for name _imageHeight",
+                        "functionName": "width",
+                        "line": 440
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 108,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 441
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 57,
+                        "durationMicroseconds": 229,
+                        "errorMessage": "",
+                        "functionName": "verticalCenter",
+                        "line": 446
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 57,
+                        "durationMicroseconds": 62,
+                        "errorMessage": "Cannot access value for name _labelWidth",
+                        "functionName": "minimumWidth",
+                        "line": 450
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 57,
+                        "durationMicroseconds": 347,
+                        "errorMessage": "",
+                        "functionName": "fact",
+                        "line": 454
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 57,
+                        "durationMicroseconds": 59,
+                        "errorMessage": "Cannot access value for name _editFieldWidth",
+                        "functionName": "minimumWidth",
+                        "line": 455
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 47,
+                        "durationMicroseconds": 169,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 465
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 57,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"checked\".",
+                        "functionName": "checked",
+                        "line": 468
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 57,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"clicked\".",
+                        "functionName": "onClicked",
+                        "line": 470
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 47,
+                        "durationMicroseconds": 167,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 475
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 57,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"checked\".",
+                        "functionName": "checked",
+                        "line": 478
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 57,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"clicked\".",
+                        "functionName": "onClicked",
+                        "line": 480
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 47,
+                        "durationMicroseconds": 192,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 485
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 57,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"checked\".",
+                        "functionName": "checked",
+                        "line": 488
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 57,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"clicked\".",
+                        "functionName": "onClicked",
+                        "line": 490
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 57,
+                        "durationMicroseconds": 407,
+                        "errorMessage": "",
+                        "functionName": "fact",
+                        "line": 499
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 57,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"enabled\".",
+                        "functionName": "enabled",
+                        "line": 500
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 57,
+                        "durationMicroseconds": 362,
+                        "errorMessage": "",
+                        "functionName": "fact",
+                        "line": 509
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 57,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"enabled\".",
+                        "functionName": "enabled",
+                        "line": 510
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 135,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "width",
+                        "line": 522
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 90,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "height",
+                        "line": 523
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 380,
+                        "errorMessage": "Cannot access value for name qgcPal",
+                        "functionName": "color",
+                        "line": 524
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 67,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "spacing",
+                        "line": 527
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 164,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 528
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 71,
+                        "errorMessage": "Cannot access value for name _imageWidth",
+                        "functionName": "width",
+                        "line": 530
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 49,
+                        "errorMessage": "Cannot access value for name _imageHeight",
+                        "functionName": "height",
+                        "line": 531
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 294,
+                        "errorMessage": "",
+                        "functionName": "verticalCenter",
+                        "line": 532
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 497,
+                        "errorMessage": "Cannot access value for name qgcPal",
+                        "functionName": "color",
+                        "line": 534
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 603,
+                        "errorMessage": "",
+                        "functionName": "source",
+                        "line": 535
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 78,
+                        "errorMessage": "Cannot access value for name _imageHeight",
+                        "functionName": "height",
+                        "line": 536
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 53,
+                        "errorMessage": "Cannot access value for name _imageHeight",
+                        "functionName": "width",
+                        "line": 537
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 143,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 538
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 364,
+                        "errorMessage": "",
+                        "functionName": "verticalCenter",
+                        "line": 543
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 654,
+                        "errorMessage": "",
+                        "functionName": "visible",
+                        "line": 548
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 87,
+                        "errorMessage": "Cannot access value for name _labelWidth",
+                        "functionName": "minimumWidth",
+                        "line": 549
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 63,
+                        "errorMessage": "Cannot access value for name _landSpeedMC",
+                        "functionName": "fact",
+                        "line": 553
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"visible\".",
+                        "functionName": "visible",
+                        "line": 554
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 54,
+                        "errorMessage": "Cannot access value for name _editFieldWidth",
+                        "functionName": "minimumWidth",
+                        "line": 555
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"checked\".",
+                        "functionName": "checked",
+                        "line": 562
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"clicked\".",
+                        "functionName": "onClicked",
+                        "line": 563
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 59,
+                        "errorMessage": "Cannot access value for name _disarmLandDelay",
+                        "functionName": "fact",
+                        "line": 567
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"enabled\".",
+                        "functionName": "enabled",
+                        "line": 568
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 130,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "width",
+                        "line": 580
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 95,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "height",
+                        "line": 581
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 396,
+                        "errorMessage": "Cannot access value for name qgcPal",
+                        "functionName": "color",
+                        "line": 582
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 75,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "spacing",
+                        "line": 585
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 172,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 586
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 69,
+                        "errorMessage": "Cannot access value for name _imageWidth",
+                        "functionName": "width",
+                        "line": 588
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 49,
+                        "errorMessage": "Cannot access value for name _imageHeight",
+                        "functionName": "height",
+                        "line": 589
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 291,
+                        "errorMessage": "",
+                        "functionName": "verticalCenter",
+                        "line": 590
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 197,
+                        "errorMessage": "",
+                        "functionName": "fillMode",
+                        "line": 593
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 602,
+                        "errorMessage": "Cannot access value for name qgcPal",
+                        "functionName": "source",
+                        "line": 594
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 71,
+                        "errorMessage": "Cannot access value for name _imageHeight",
+                        "functionName": "height",
+                        "line": 595
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 370,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 596
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 345,
+                        "errorMessage": "",
+                        "functionName": "verticalCenter",
+                        "line": 601
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 93,
+                        "errorMessage": "Cannot access value for name _labelWidth",
+                        "functionName": "minimumWidth",
+                        "line": 604
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 1242,
+                        "errorMessage": "Cannot generate efficient code for storing an array in a non-sequence type",
+                        "functionName": "model",
+                        "line": 608
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 102,
+                        "errorMessage": "Cannot access value for name _enableLogging",
+                        "functionName": "enabled",
+                        "line": 609
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 47,
+                        "durationMicroseconds": 81,
+                        "errorMessage": "Cannot access value for name _enableLogging",
+                        "functionName": "onActivated",
+                        "line": 615
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 47,
+                        "durationMicroseconds": 124,
+                        "errorMessage": "",
+                        "functionName": "onActivated",
+                        "line": 615
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 73,
+                        "errorMessage": "Cannot access value for name _editFieldWidth",
+                        "functionName": "minimumWidth",
+                        "line": 610
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 56,
+                        "durationMicroseconds": 80,
+                        "errorMessage": "Cannot access value for name _enableLogging",
+                        "functionName": "onCompleted",
+                        "line": 612
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 53,
+                        "errorMessage": "Cannot access value for name _hitlAvailable",
+                        "functionName": "visible",
+                        "line": 627
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 129,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "width",
+                        "line": 631
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 84,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "height",
+                        "line": 632
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 411,
+                        "errorMessage": "Cannot access value for name qgcPal",
+                        "functionName": "color",
+                        "line": 633
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 48,
+                        "errorMessage": "Cannot access value for name _hitlAvailable",
+                        "functionName": "visible",
+                        "line": 634
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 59,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "spacing",
+                        "line": 637
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 179,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 638
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 76,
+                        "errorMessage": "Cannot access value for name _imageWidth",
+                        "functionName": "width",
+                        "line": 640
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 48,
+                        "errorMessage": "Cannot access value for name _imageHeight",
+                        "functionName": "height",
+                        "line": 641
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 320,
+                        "errorMessage": "",
+                        "functionName": "verticalCenter",
+                        "line": 642
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 476,
+                        "errorMessage": "Cannot access value for name qgcPal",
+                        "functionName": "color",
+                        "line": 644
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 67,
+                        "errorMessage": "Cannot access value for name _imageHeight",
+                        "functionName": "height",
+                        "line": 646
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 51,
+                        "errorMessage": "Cannot access value for name _imageHeight",
+                        "functionName": "width",
+                        "line": 647
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 178,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 648
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 288,
+                        "errorMessage": "",
+                        "functionName": "verticalCenter",
+                        "line": 653
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 87,
+                        "errorMessage": "Cannot access value for name _labelWidth",
+                        "functionName": "minimumWidth",
+                        "line": 656
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 66,
+                        "errorMessage": "Cannot access value for name _hitlEnabled",
+                        "functionName": "fact",
+                        "line": 660
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 75,
+                        "errorMessage": "Cannot access value for name _editFieldWidth",
+                        "functionName": "minimumWidth",
+                        "line": 662
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/AutoPilotPlugins/PX4/SafetyComponent.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.AutoPilotPlugins.PX4(AutoPilotPluginsPX4Module)"
+    }
+]

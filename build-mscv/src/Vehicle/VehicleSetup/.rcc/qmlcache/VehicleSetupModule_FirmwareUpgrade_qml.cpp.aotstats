@@ -1,0 +1,700 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 21,
+                        "durationMicroseconds": 436,
+                        "errorMessage": "",
+                        "functionName": "pageComponent",
+                        "line": 26
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 21,
+                        "durationMicroseconds": 509,
+                        "errorMessage": "Cannot access value for name globals",
+                        "functionName": "showAdvanced",
+                        "line": 28
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 22,
+                        "durationMicroseconds": 109,
+                        "errorMessage": "Cannot access value for name availableWidth",
+                        "functionName": "width",
+                        "line": 34
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 22,
+                        "durationMicroseconds": 64,
+                        "errorMessage": "Cannot access value for name availableHeight",
+                        "functionName": "height",
+                        "line": 35
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 22,
+                        "durationMicroseconds": 8966,
+                        "errorMessage": "",
+                        "functionName": "spacing",
+                        "line": 36
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 57,
+                        "durationMicroseconds": 611,
+                        "errorMessage": "Cannot access value for name qgcPal",
+                        "functionName": "highlightPrefix",
+                        "line": 44
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 57,
+                        "durationMicroseconds": 580,
+                        "errorMessage": "",
+                        "functionName": "welcomeText",
+                        "line": 46
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 57,
+                        "durationMicroseconds": 1682,
+                        "errorMessage": "",
+                        "functionName": "plugInText",
+                        "line": 48
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 57,
+                        "durationMicroseconds": 1554,
+                        "errorMessage": "",
+                        "functionName": "flashFailText",
+                        "line": 49
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 57,
+                        "durationMicroseconds": 1081,
+                        "errorMessage": "",
+                        "functionName": "qgcUnplugText1",
+                        "line": 51
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 57,
+                        "durationMicroseconds": 608,
+                        "errorMessage": "",
+                        "functionName": "qgcUnplugText2",
+                        "line": 52
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 57,
+                        "durationMicroseconds": 307,
+                        "errorMessage": "",
+                        "functionName": "_firmwareUpgradeSettings",
+                        "line": 57
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 57,
+                        "durationMicroseconds": 34,
+                        "errorMessage": "Cannot load property defaultFirmwareType from (component in C:/Users/User/qgroundcontrol/src/Vehicle/VehicleSetup/FirmwareUpgrade.qml)::_firmwareUpgradeSettings with type QVariant.",
+                        "functionName": "_defaultFirmwareFact",
+                        "line": 58
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 57,
+                        "durationMicroseconds": 44,
+                        "errorMessage": "Cannot load property corePlugin from QGroundControlQmlGlobal.",
+                        "functionName": "_singleFirmwareMode",
+                        "line": 66
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 13,
+                        "durationMicroseconds": 74,
+                        "errorMessage": "Cannot load property rawValue from (component in C:/Users/User/qgroundcontrol/src/Vehicle/VehicleSetup/FirmwareUpgrade.qml)::_defaultFirmwareFact with type QVariant.",
+                        "functionName": "setupPageCompleted",
+                        "line": 68
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 570,
+                        "errorMessage": "Cannot generate efficient code for storing an array in a non-sequence type",
+                        "functionName": "nameFilters",
+                        "line": 76
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 104,
+                        "errorMessage": "Cannot load property logSavePath from SettingsManager::appSettings with type QObject.",
+                        "functionName": "folder",
+                        "line": 77
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 337,
+                        "errorMessage": "",
+                        "functionName": "onAcceptedForLoad",
+                        "line": 78
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 111,
+                        "errorMessage": "",
+                        "functionName": "onAcceptedForLoad",
+                        "line": 78
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 69,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: progressBar",
+                        "functionName": "progressBar",
+                        "line": 86
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 36,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: statusTextArea",
+                        "functionName": "statusLog",
+                        "line": 87
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 352,
+                        "errorMessage": "",
+                        "functionName": "activeVehicle",
+                        "line": 89
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 333,
+                        "errorMessage": "Cannot access value for name globals",
+                        "functionName": "onActiveVehicleChanged",
+                        "line": 91
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 86,
+                        "errorMessage": "Cannot find name initialBoardSearch",
+                        "functionName": "onNoBoardFound",
+                        "line": 97
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 30,
+                        "durationMicroseconds": 53,
+                        "errorMessage": "Cannot find name initialBoardSearch",
+                        "functionName": "onBoardGone",
+                        "line": 104
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 31,
+                        "durationMicroseconds": 79,
+                        "errorMessage": "Cannot access value for name initialBoardSearch",
+                        "functionName": "onBoardFound",
+                        "line": 111
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 401,
+                        "errorMessage": "Cannot access value for name mainWindow",
+                        "functionName": "onShowFirmwareSelectDlg",
+                        "line": 131
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 51,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: statusTextArea",
+                        "functionName": "onError",
+                        "line": 132
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 238,
+                        "errorMessage": "Cannot access value for name Dialog",
+                        "functionName": "buttons",
+                        "line": 141
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 65,
+                        "durationMicroseconds": 49,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: _advanced",
+                        "functionName": "showFirmwareTypeSelection",
+                        "line": 143
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 21,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "firmwareVersionChanged",
+                        "line": 145
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 21,
+                        "durationMicroseconds": 71,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: _advanced",
+                        "functionName": "updatePX4VersionDisplay",
+                        "line": 156
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 135,
+                        "errorMessage": "Cannot access value for name _singleFirmwareMode",
+                        "functionName": "onAccepted",
+                        "line": 185
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 21,
+                        "durationMicroseconds": 60,
+                        "errorMessage": "Cannot access value for name statusTextArea",
+                        "functionName": "reject",
+                        "line": 228
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 44,
+                        "durationMicroseconds": 62,
+                        "errorMessage": "Cannot access value for name firmwarePage",
+                        "functionName": "onCompleted",
+                        "line": 174
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 49,
+                        "errorMessage": "Cannot access value for name controller",
+                        "functionName": "target",
+                        "line": 181
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"error\".",
+                        "functionName": "onError",
+                        "line": 182
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"firmwareType\".",
+                        "functionName": "firmwareType",
+                        "line": 240
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"firmwareType\".",
+                        "functionName": "firmwareType",
+                        "line": 244
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"firmwareType\".",
+                        "functionName": "firmwareType",
+                        "line": 248
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"firmwareType\".",
+                        "functionName": "firmwareType",
+                        "line": 252
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"firmwareType\".",
+                        "functionName": "firmwareType",
+                        "line": 261
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"firmwareType\".",
+                        "functionName": "firmwareType",
+                        "line": 265
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 805,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 270
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 427,
+                        "errorMessage": "Cannot access value for name globals",
+                        "functionName": "spacing",
+                        "line": 271
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 214,
+                        "errorMessage": "",
+                        "functionName": "wrapMode",
+                        "line": 275
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 76,
+                        "errorMessage": "Cannot access value for name _singleFirmwareMode",
+                        "functionName": "text",
+                        "line": 276
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 38,
+                        "durationMicroseconds": 58,
+                        "errorMessage": "Cannot access value for name _singleFirmwareMode",
+                        "functionName": "visible",
+                        "line": 286
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 52,
+                        "durationMicroseconds": 133,
+                        "errorMessage": "Cannot access value for name _defaultFirmwareFact",
+                        "functionName": "onCompleted",
+                        "line": 288
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"checked\".",
+                        "functionName": "checked",
+                        "line": 299
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 44,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"clicked\".",
+                        "functionName": "onClicked",
+                        "line": 301
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"bold\".",
+                        "functionName": "bold",
+                        "line": 298
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"checked\".",
+                        "functionName": "checked",
+                        "line": 311
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 44,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"clicked\".",
+                        "functionName": "onClicked",
+                        "line": 313
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"bold\".",
+                        "functionName": "bold",
+                        "line": 310
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 71,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: apmFlightStack",
+                        "functionName": "visible",
+                        "line": 322
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 78,
+                        "errorMessage": "Cannot access value for name _firmwareUpgradeSettings",
+                        "functionName": "fact",
+                        "line": 323
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 38,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: apmFlightStack",
+                        "functionName": "visible",
+                        "line": 330
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 53,
+                        "errorMessage": "Cannot access value for name _firmwareUpgradeSettings",
+                        "functionName": "fact",
+                        "line": 331
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 188,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: apmFlightStack",
+                        "functionName": "visible",
+                        "line": 338
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 70,
+                        "errorMessage": "Cannot access value for name controller",
+                        "functionName": "model",
+                        "line": 339
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 59,
+                        "errorMessage": "Cannot access value for name controller",
+                        "functionName": "onModelChanged",
+                        "line": 340
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 222,
+                        "errorMessage": "",
+                        "functionName": "wrapMode",
+                        "line": 345
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 61,
+                        "errorMessage": "Cannot access value for name controller",
+                        "functionName": "visible",
+                        "line": 347
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 187,
+                        "errorMessage": "",
+                        "functionName": "wrapMode",
+                        "line": 352
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 70,
+                        "errorMessage": "Cannot access value for name controller",
+                        "functionName": "visible",
+                        "line": 354
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 40,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"clicked\".",
+                        "functionName": "onClicked",
+                        "line": 362
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 206,
+                        "errorMessage": "",
+                        "functionName": "wrapMode",
+                        "line": 371
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 71,
+                        "errorMessage": "Cannot access value for name showFirmwareTypeSelection",
+                        "functionName": "visible",
+                        "line": 372
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 60,
+                        "errorMessage": "Cannot access value for name _singleFirmwareMode",
+                        "functionName": "text",
+                        "line": 373
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 66,
+                        "errorMessage": "Cannot access value for name showFirmwareTypeSelection",
+                        "functionName": "visible",
+                        "line": 380
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 55,
+                        "errorMessage": "Cannot access value for name _singleFirmwareMode",
+                        "functionName": "model",
+                        "line": 382
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 43,
+                        "durationMicroseconds": 119,
+                        "errorMessage": "Cannot access value for name controller",
+                        "functionName": "onActivated",
+                        "line": 384
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 43,
+                        "durationMicroseconds": 121,
+                        "errorMessage": "",
+                        "functionName": "onActivated",
+                        "line": 384
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 194,
+                        "errorMessage": "",
+                        "functionName": "wrapMode",
+                        "line": 410
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 63,
+                        "errorMessage": "Cannot access value for name firmwareWarningMessageVisible",
+                        "functionName": "visible",
+                        "line": 411
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"visible\".",
+                        "functionName": "visible",
+                        "line": 420
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 37,
+                        "errorMessage": "Cannot access value for name parent",
+                        "functionName": "preferredWidth",
+                        "line": 419
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"visible\".",
+                        "functionName": "visible",
+                        "line": 426
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"clicked\".",
+                        "functionName": "onClicked",
+                        "line": 427
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"textFormat\".",
+                        "functionName": "textFormat",
+                        "line": 436
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"text\".",
+                        "functionName": "text",
+                        "line": 437
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"color\".",
+                        "functionName": "color",
+                        "line": 438
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 50,
+                        "errorMessage": "Cannot access value for name parent",
+                        "functionName": "preferredWidth",
+                        "line": 432
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"pointSize\".",
+                        "functionName": "pointSize",
+                        "line": 435
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 28,
+                        "durationMicroseconds": 395,
+                        "errorMessage": "Cannot access value for name qgcPal",
+                        "functionName": "color",
+                        "line": 441
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/Vehicle/VehicleSetup/FirmwareUpgrade.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.VehicleSetup(VehicleSetupModule)"
+    }
+]

@@ -2,6 +2,7 @@
     <qresource prefix="/qmlimages">
         <file alias="adsbVehicle.svg">src/FlightMap/Images/adsbVehicle.svg</file>
         <file alias="Airframe/AirframeSimulation.svg">src/AutoPilotPlugins/Common/Images/AirframeSimulation.svg</file>
+	<file alias="Logo.svg">src/AutoPilotPlugins/Common/Images/Logo.svg</file>
         <file alias="Airframe/AirframeUnknown.svg">src/AutoPilotPlugins/Common/Images/AirframeUnknown.svg</file>
         <file alias="Airframe/Airship.svg">src/AutoPilotPlugins/Common/Images/Airship.svg</file>
         <file alias="Airframe/Autogyro.svg">src/AutoPilotPlugins/Common/Images/Autogyro.svg</file>
@@ -213,5 +214,6 @@
         <file alias="Yield.svg">src/UI/toolbar/Images/Yield.svg</file>
         <file alias="ZoomMinus.svg">src/FlightMap/Images/ZoomMinus.svg</file>
         <file alias="ZoomPlus.svg">src/FlightMap/Images/ZoomPlus.svg</file>
+        <file>../Downloads/Logo.svg</file>
     </qresource>
 </RCC>

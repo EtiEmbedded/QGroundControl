@@ -1,0 +1,68 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 21,
+                        "durationMicroseconds": 448,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 25
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 196,
+                        "errorMessage": "",
+                        "functionName": "controller",
+                        "line": 33
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 168,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 38
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 24,
+                        "durationMicroseconds": 394,
+                        "errorMessage": "",
+                        "functionName": "valueText",
+                        "line": 42
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 24,
+                        "durationMicroseconds": 308,
+                        "errorMessage": "Cannot access value for name _naString",
+                        "functionName": "valueText",
+                        "line": 47
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 24,
+                        "durationMicroseconds": 318,
+                        "errorMessage": "Cannot access value for name _naString",
+                        "functionName": "valueText",
+                        "line": 52
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 24,
+                        "durationMicroseconds": 160,
+                        "errorMessage": "Cannot access value for name _naString",
+                        "functionName": "valueText",
+                        "line": 57
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/AutoPilotPlugins/PX4/PowerComponentSummary.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.AutoPilotPlugins.PX4(AutoPilotPluginsPX4Module)"
+    }
+]

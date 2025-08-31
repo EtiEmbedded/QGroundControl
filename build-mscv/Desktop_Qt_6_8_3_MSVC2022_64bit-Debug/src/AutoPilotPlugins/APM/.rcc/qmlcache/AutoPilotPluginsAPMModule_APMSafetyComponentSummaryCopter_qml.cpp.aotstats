@@ -1,0 +1,276 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 21,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"color\".",
+                        "functionName": "color",
+                        "line": 12
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Cannot resolve property type Fact for binding on _failsafeThrEnable.",
+                        "functionName": "_failsafeThrEnable",
+                        "line": 16
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Cannot resolve property type Fact for binding on _fenceAction.",
+                        "functionName": "_fenceAction",
+                        "line": 18
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Cannot resolve property type Fact for binding on _fenceEnable.",
+                        "functionName": "_fenceEnable",
+                        "line": 19
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Cannot resolve property type Fact for binding on _fenceType.",
+                        "functionName": "_fenceType",
+                        "line": 20
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Cannot resolve property type Fact for binding on _rtlAltFact.",
+                        "functionName": "_rtlAltFact",
+                        "line": 22
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Cannot resolve property type Fact for binding on _armingCheck.",
+                        "functionName": "_armingCheck",
+                        "line": 24
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Cannot resolve property type Fact for binding on _batt1Monitor.",
+                        "functionName": "_batt1Monitor",
+                        "line": 26
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Cannot resolve property type Fact for binding on _batt2Monitor.",
+                        "functionName": "_batt2Monitor",
+                        "line": 27
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 89,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: controller",
+                        "functionName": "_batt2MonitorAvailable",
+                        "line": 28
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 31,
+                        "errorMessage": "Cannot access value for name _batt1Monitor",
+                        "functionName": "_batt1MonitorEnabled",
+                        "line": 29
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 63,
+                        "errorMessage": "Cannot access value for name _batt2Monitor",
+                        "functionName": "_batt2MonitorEnabled",
+                        "line": 30
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Cannot resolve property type Fact for binding on _batt1FSLowAct.",
+                        "functionName": "_batt1FSLowAct",
+                        "line": 32
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Cannot resolve property type Fact for binding on _batt1FSCritAct.",
+                        "functionName": "_batt1FSCritAct",
+                        "line": 33
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Cannot resolve property type Fact for binding on _batt2FSLowAct.",
+                        "functionName": "_batt2FSLowAct",
+                        "line": 34
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Cannot resolve property type Fact for binding on _batt2FSCritAct.",
+                        "functionName": "_batt2FSCritAct",
+                        "line": 35
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 34,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: controller",
+                        "functionName": "_batt1FSCritActAvailable",
+                        "line": 36
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 21,
+                        "durationMicroseconds": 273,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 11
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 104,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 39
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 24,
+                        "durationMicroseconds": 114,
+                        "errorMessage": "Cannot access value for name _armingCheck",
+                        "functionName": "valueText",
+                        "line": 43
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 24,
+                        "durationMicroseconds": 34,
+                        "errorMessage": "Cannot access value for name _failsafeThrEnable",
+                        "functionName": "valueText",
+                        "line": 48
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 37,
+                        "errorMessage": "Cannot access value for name _batt1MonitorEnabled",
+                        "functionName": "valueText",
+                        "line": 53
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 24,
+                        "errorMessage": "Cannot access value for name _batt1MonitorEnabled",
+                        "functionName": "visible",
+                        "line": 54
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 35,
+                        "errorMessage": "Cannot access value for name _batt1FSCritActAvailable",
+                        "functionName": "valueText",
+                        "line": 59
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 39,
+                        "errorMessage": "Cannot access value for name _batt1FSCritActAvailable",
+                        "functionName": "visible",
+                        "line": 60
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 30,
+                        "errorMessage": "Cannot access value for name _batt2MonitorEnabled",
+                        "functionName": "valueText",
+                        "line": 65
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 30,
+                        "errorMessage": "Cannot access value for name _batt2MonitorEnabled",
+                        "functionName": "visible",
+                        "line": 66
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 27,
+                        "errorMessage": "Cannot access value for name _batt2MonitorEnabled",
+                        "functionName": "valueText",
+                        "line": 71
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 23,
+                        "errorMessage": "Cannot access value for name _batt2MonitorEnabled",
+                        "functionName": "visible",
+                        "line": 72
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 24,
+                        "durationMicroseconds": 59,
+                        "errorMessage": "Cannot access value for name _fenceEnable",
+                        "functionName": "valueText",
+                        "line": 77
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 24,
+                        "durationMicroseconds": 64,
+                        "errorMessage": "Cannot access value for name _fenceAction",
+                        "functionName": "valueText",
+                        "line": 86
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 37,
+                        "errorMessage": "Cannot access value for name _fenceEnable",
+                        "functionName": "visible",
+                        "line": 89
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 24,
+                        "durationMicroseconds": 38,
+                        "errorMessage": "Cannot access value for name _rtlAltFact",
+                        "functionName": "valueText",
+                        "line": 94
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/AutoPilotPlugins/APM/APMSafetyComponentSummaryCopter.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.AutoPilotPlugins.APM(AutoPilotPluginsAPMModule)"
+    }
+]

@@ -1,0 +1,108 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 3217,
+                        "errorMessage": "",
+                        "functionName": "mag0IdFact",
+                        "line": 19
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 382,
+                        "errorMessage": "",
+                        "functionName": "mag1IdFact",
+                        "line": 20
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 343,
+                        "errorMessage": "",
+                        "functionName": "mag2IdFact",
+                        "line": 21
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 309,
+                        "errorMessage": "",
+                        "functionName": "gyro0IdFact",
+                        "line": 22
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 324,
+                        "errorMessage": "",
+                        "functionName": "accel0IdFact",
+                        "line": 23
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 21,
+                        "durationMicroseconds": 138,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 15
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 117,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 26
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 24,
+                        "durationMicroseconds": 127,
+                        "errorMessage": "Cannot access value for name mag0IdFact",
+                        "functionName": "valueText",
+                        "line": 30
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 70,
+                        "errorMessage": "Cannot access value for name mag1IdFact",
+                        "functionName": "visible",
+                        "line": 35
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 60,
+                        "errorMessage": "Cannot access value for name mag2IdFact",
+                        "functionName": "visible",
+                        "line": 41
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 24,
+                        "durationMicroseconds": 67,
+                        "errorMessage": "Cannot access value for name gyro0IdFact",
+                        "functionName": "valueText",
+                        "line": 47
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 24,
+                        "durationMicroseconds": 54,
+                        "errorMessage": "Cannot access value for name accel0IdFact",
+                        "functionName": "valueText",
+                        "line": 52
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/AutoPilotPlugins/PX4/SensorsComponentSummary.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.AutoPilotPlugins.PX4(AutoPilotPluginsPX4Module)"
+    }
+]

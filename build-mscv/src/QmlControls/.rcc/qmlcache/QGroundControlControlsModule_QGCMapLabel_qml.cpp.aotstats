@@ -1,0 +1,44 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 17,
+                        "durationMicroseconds": 562,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 14
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 17,
+                        "durationMicroseconds": 222,
+                        "errorMessage": "",
+                        "functionName": "style",
+                        "line": 15
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 17,
+                        "durationMicroseconds": 238,
+                        "errorMessage": "",
+                        "functionName": "styleColor",
+                        "line": 16
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 46,
+                        "durationMicroseconds": 89,
+                        "errorMessage": "Cannot access value for name map",
+                        "functionName": "lightColors",
+                        "line": 12
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/QmlControls/QGCMapLabel.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.Controls(QGroundControlControlsModule)"
+    }
+]

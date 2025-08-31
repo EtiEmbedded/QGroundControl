@@ -1,0 +1,148 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 639,
+                        "errorMessage": "",
+                        "functionName": "mapRollFact",
+                        "line": 15
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 390,
+                        "errorMessage": "",
+                        "functionName": "mapPitchFact",
+                        "line": 16
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 328,
+                        "errorMessage": "",
+                        "functionName": "mapYawFact",
+                        "line": 17
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 387,
+                        "errorMessage": "",
+                        "functionName": "mapThrottleFact",
+                        "line": 18
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 390,
+                        "errorMessage": "",
+                        "functionName": "mapFlapsFact",
+                        "line": 19
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 343,
+                        "errorMessage": "",
+                        "functionName": "mapAux1Fact",
+                        "line": 20
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 330,
+                        "errorMessage": "",
+                        "functionName": "mapAux2Fact",
+                        "line": 21
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 21,
+                        "durationMicroseconds": 130,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 11
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 135,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 24
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 24,
+                        "durationMicroseconds": 104,
+                        "errorMessage": "Cannot access value for name mapRollFact",
+                        "functionName": "valueText",
+                        "line": 28
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 24,
+                        "durationMicroseconds": 58,
+                        "errorMessage": "Cannot access value for name mapPitchFact",
+                        "functionName": "valueText",
+                        "line": 33
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 24,
+                        "durationMicroseconds": 50,
+                        "errorMessage": "Cannot access value for name mapYawFact",
+                        "functionName": "valueText",
+                        "line": 38
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 24,
+                        "durationMicroseconds": 52,
+                        "errorMessage": "Cannot access value for name mapThrottleFact",
+                        "functionName": "valueText",
+                        "line": 43
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 50,
+                        "errorMessage": "Cannot access value for name mapFlapsFact",
+                        "functionName": "valueText",
+                        "line": 48
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 387,
+                        "errorMessage": "",
+                        "functionName": "visible",
+                        "line": 49
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 24,
+                        "durationMicroseconds": 65,
+                        "errorMessage": "Cannot access value for name mapAux1Fact",
+                        "functionName": "valueText",
+                        "line": 54
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 24,
+                        "durationMicroseconds": 54,
+                        "errorMessage": "Cannot access value for name mapAux2Fact",
+                        "functionName": "valueText",
+                        "line": 59
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/AutoPilotPlugins/PX4/PX4RadioComponentSummary.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.AutoPilotPlugins.PX4(AutoPilotPluginsPX4Module)"
+    }
+]

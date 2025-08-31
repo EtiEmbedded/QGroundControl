@@ -1,0 +1,108 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 2910,
+                        "errorMessage": "Cannot access value for name QGroundControl",
+                        "functionName": "activeVehicle",
+                        "line": 27
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 99,
+                        "errorMessage": "Cannot load property gimbalController from (component in C:/Users/User/qgroundcontrol/src/FlightDisplay/OnScreenGimbalController.qml)::activeVehicle with type QVariant.",
+                        "functionName": "gimbalController",
+                        "line": 28
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 27,
+                        "errorMessage": "Cannot load property activeGimbal from (component in C:/Users/User/qgroundcontrol/src/FlightDisplay/OnScreenGimbalController.qml)::gimbalController with type QVariant.",
+                        "functionName": "activeGimbal",
+                        "line": 29
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 468,
+                        "errorMessage": "Cannot generate efficient code for incomparable types void and (component in C:/Users/User/qgroundcontrol/src/FlightDisplay/OnScreenGimbalController.qml)::activeGimbal with type QVariant",
+                        "functionName": "gimbalAvailable",
+                        "line": 30
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 507,
+                        "errorMessage": "Cannot access value for name QGroundControl",
+                        "functionName": "gimbalControllerSettings",
+                        "line": 31
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 47,
+                        "errorMessage": "Cannot load property EnableOnScreenControl from (component in C:/Users/User/qgroundcontrol/src/FlightDisplay/OnScreenGimbalController.qml)::gimbalControllerSettings with type QVariant.",
+                        "functionName": "shouldProcessClicks",
+                        "line": 33
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 63,
+                        "errorMessage": "Cannot load property ControlType from (component in C:/Users/User/qgroundcontrol/src/FlightDisplay/OnScreenGimbalController.qml)::gimbalControllerSettings with type QVariant.",
+                        "functionName": "clickControl",
+                        "line": 35
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 1763,
+                        "errorMessage": "Cannot generate efficient code for call to untyped JavaScript function",
+                        "functionName": "clickAndPoint",
+                        "line": 47
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 66,
+                        "errorMessage": "Cannot load property ControlType from (component in C:/Users/User/qgroundcontrol/src/FlightDisplay/OnScreenGimbalController.qml)::gimbalControllerSettings with type QVariant.",
+                        "functionName": "pressControl",
+                        "line": 60
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 38,
+                        "errorMessage": "Cannot load property ControlType from (component in C:/Users/User/qgroundcontrol/src/FlightDisplay/OnScreenGimbalController.qml)::gimbalControllerSettings with type QVariant.",
+                        "functionName": "releaseControl",
+                        "line": 73
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 21,
+                        "durationMicroseconds": 98,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 20
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 22,
+                        "durationMicroseconds": 74,
+                        "errorMessage": "Cannot access value for name screenX",
+                        "functionName": "onTriggered",
+                        "line": 90
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/FlightDisplay/OnScreenGimbalController.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.FlightDisplay(FlightDisplayModule)"
+    }
+]

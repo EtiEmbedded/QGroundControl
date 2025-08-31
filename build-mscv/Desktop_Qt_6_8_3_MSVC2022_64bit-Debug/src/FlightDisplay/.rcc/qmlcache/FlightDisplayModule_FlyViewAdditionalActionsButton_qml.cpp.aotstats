@@ -1,0 +1,84 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 17,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"visible\".",
+                        "functionName": "visible",
+                        "line": 23
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 147,
+                        "errorMessage": "Cannot access value for name globals",
+                        "functionName": "_guidedController",
+                        "line": 26
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 27,
+                        "durationMicroseconds": 26,
+                        "errorMessage": "Cannot access value for name _guidedController",
+                        "functionName": "guidedController",
+                        "line": 29
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"actionFileNameFact\".",
+                        "functionName": "actionFileNameFact",
+                        "line": 33
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 43,
+                        "durationMicroseconds": 42,
+                        "errorMessage": "Cannot access value for name QGroundControl",
+                        "functionName": "anyActionAvailable",
+                        "line": 35
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 27,
+                        "durationMicroseconds": 28,
+                        "errorMessage": "Cannot access value for name _guidedController",
+                        "functionName": "guidedController",
+                        "line": 39
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 27,
+                        "errorMessage": "Cannot access value for name _additionalActions",
+                        "functionName": "additionalActions",
+                        "line": 44
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 19,
+                        "errorMessage": "Cannot access value for name _mavlinkActions",
+                        "functionName": "mavlinkActions",
+                        "line": 45
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 18,
+                        "errorMessage": "Cannot access value for name _customActions",
+                        "functionName": "customActions",
+                        "line": 46
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/FlightDisplay/FlyViewAdditionalActionsButton.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.FlightDisplay(FlightDisplayModule)"
+    }
+]

@@ -1,0 +1,284 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 14,
+                        "durationMicroseconds": 598,
+                        "errorMessage": "Cannot access value for name _rowSpacing",
+                        "functionName": "spacing",
+                        "line": 20
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 5,
+                        "durationMicroseconds": 157,
+                        "errorMessage": "",
+                        "functionName": "saveSettings",
+                        "line": 22
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 548,
+                        "errorMessage": "Cannot access value for name _rowSpacing",
+                        "functionName": "rowSpacing",
+                        "line": 28
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 531,
+                        "errorMessage": "Cannot access value for name _colSpacing",
+                        "functionName": "columnSpacing",
+                        "line": 29
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 238,
+                        "errorMessage": "Cannot use shadowable base type for further lookups: LinkManager::serialPorts with type QStringList (stored as QVariant)",
+                        "functionName": "enabled",
+                        "line": 35
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 27,
+                        "durationMicroseconds": 1448,
+                        "errorMessage": "Cannot access value for name subEditConfig",
+                        "functionName": "onActivated",
+                        "line": 37
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 27,
+                        "durationMicroseconds": 151,
+                        "errorMessage": "",
+                        "functionName": "onActivated",
+                        "line": 37
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 1635,
+                        "errorMessage": "Cannot access value for name _secondColumnWidth",
+                        "functionName": "preferredWidth",
+                        "line": 34
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 36,
+                        "durationMicroseconds": 5746,
+                        "errorMessage": "Cannot access value for name subEditConfig",
+                        "functionName": "onCompleted",
+                        "line": 48
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 450,
+                        "errorMessage": "",
+                        "functionName": "model",
+                        "line": 77
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 27,
+                        "durationMicroseconds": 1258,
+                        "errorMessage": "Cannot access value for name subEditConfig",
+                        "functionName": "onActivated",
+                        "line": 79
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 27,
+                        "durationMicroseconds": 127,
+                        "errorMessage": "",
+                        "functionName": "onActivated",
+                        "line": 79
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 1553,
+                        "errorMessage": "Cannot access value for name _secondColumnWidth",
+                        "functionName": "preferredWidth",
+                        "line": 76
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 36,
+                        "durationMicroseconds": 1291,
+                        "errorMessage": "Cannot access value for name subEditConfig",
+                        "functionName": "onCompleted",
+                        "line": 85
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 580,
+                        "errorMessage": "Cannot access value for name _rowSpacing",
+                        "functionName": "rowSpacing",
+                        "line": 108
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 566,
+                        "errorMessage": "Cannot access value for name _colSpacing",
+                        "functionName": "columnSpacing",
+                        "line": 109
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 72,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: advancedSettings",
+                        "functionName": "visible",
+                        "line": 110
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"checked\".",
+                        "functionName": "checked",
+                        "line": 115
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"checkedChanged\".",
+                        "functionName": "onCheckedChanged",
+                        "line": 116
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 774,
+                        "errorMessage": "Cannot generate efficient code for storing an array in a non-sequence type",
+                        "functionName": "model",
+                        "line": 122
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 27,
+                        "durationMicroseconds": 1364,
+                        "errorMessage": "Cannot access value for name subEditConfig",
+                        "functionName": "onActivated",
+                        "line": 124
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 27,
+                        "durationMicroseconds": 139,
+                        "errorMessage": "",
+                        "functionName": "onActivated",
+                        "line": 124
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 1495,
+                        "errorMessage": "Cannot access value for name _secondColumnWidth",
+                        "functionName": "preferredWidth",
+                        "line": 121
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 36,
+                        "durationMicroseconds": 1391,
+                        "errorMessage": "Cannot access value for name subEditConfig",
+                        "functionName": "onCompleted",
+                        "line": 139
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 551,
+                        "errorMessage": "Cannot generate efficient code for storing an array in a non-sequence type",
+                        "functionName": "model",
+                        "line": 160
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 1371,
+                        "errorMessage": "Cannot access value for name subEditConfig",
+                        "functionName": "currentIndex",
+                        "line": 161
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 27,
+                        "durationMicroseconds": 1199,
+                        "errorMessage": "Cannot access value for name subEditConfig",
+                        "functionName": "onActivated",
+                        "line": 162
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 27,
+                        "durationMicroseconds": 137,
+                        "errorMessage": "",
+                        "functionName": "onActivated",
+                        "line": 162
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 1481,
+                        "errorMessage": "Cannot access value for name _secondColumnWidth",
+                        "functionName": "preferredWidth",
+                        "line": 159
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 391,
+                        "errorMessage": "Cannot generate efficient code for storing an array in a non-sequence type",
+                        "functionName": "model",
+                        "line": 168
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 1236,
+                        "errorMessage": "Cannot access value for name subEditConfig",
+                        "functionName": "currentIndex",
+                        "line": 169
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 27,
+                        "durationMicroseconds": 1263,
+                        "errorMessage": "Cannot access value for name subEditConfig",
+                        "functionName": "onActivated",
+                        "line": 170
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 27,
+                        "durationMicroseconds": 143,
+                        "errorMessage": "",
+                        "functionName": "onActivated",
+                        "line": 170
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 1500,
+                        "errorMessage": "Cannot access value for name _secondColumnWidth",
+                        "functionName": "preferredWidth",
+                        "line": 167
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/UI/AppSettings/SerialSettings.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.AppSettings(AppSettingsModule)"
+    }
+]

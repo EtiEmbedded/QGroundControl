@@ -1,0 +1,44 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 21,
+                        "durationMicroseconds": 393,
+                        "errorMessage": "",
+                        "functionName": "visible",
+                        "line": 16
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 21,
+                        "durationMicroseconds": 124,
+                        "errorMessage": "Cannot load property armed from (component in C:/Users/User/qgroundcontrol/src/FlightDisplay/PreFlightCheckListShowAction.qml)::_activeVehicle with type QVariant.",
+                        "functionName": "enabled",
+                        "line": 17
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 388,
+                        "errorMessage": "",
+                        "functionName": "_activeVehicle",
+                        "line": 19
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 134,
+                        "errorMessage": "Cannot load property useChecklist from SettingsManager::appSettings with type QObject.",
+                        "functionName": "_useChecklist",
+                        "line": 20
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/FlightDisplay/PreFlightCheckListShowAction.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.FlightDisplay(FlightDisplayModule)"
+    }
+]

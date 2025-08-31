@@ -1,0 +1,1108 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 21,
+                        "durationMicroseconds": 273,
+                        "errorMessage": "",
+                        "functionName": "pageComponent",
+                        "line": 26
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 22,
+                        "durationMicroseconds": 124,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "spacing",
+                        "line": 37
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 57,
+                        "durationMicroseconds": 331,
+                        "errorMessage": "",
+                        "functionName": "_followEnabled",
+                        "line": 39
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 57,
+                        "durationMicroseconds": 260,
+                        "errorMessage": "",
+                        "functionName": "_followParamsAvailable",
+                        "line": 40
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 57,
+                        "durationMicroseconds": 246,
+                        "errorMessage": "",
+                        "functionName": "_followDistanceMax",
+                        "line": 41
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 57,
+                        "durationMicroseconds": 228,
+                        "errorMessage": "",
+                        "functionName": "_followSysId",
+                        "line": 42
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 57,
+                        "durationMicroseconds": 232,
+                        "errorMessage": "",
+                        "functionName": "_followOffsetX",
+                        "line": 43
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 57,
+                        "durationMicroseconds": 241,
+                        "errorMessage": "",
+                        "functionName": "_followOffsetY",
+                        "line": 44
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 57,
+                        "durationMicroseconds": 254,
+                        "errorMessage": "",
+                        "functionName": "_followOffsetZ",
+                        "line": 45
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 57,
+                        "durationMicroseconds": 256,
+                        "errorMessage": "",
+                        "functionName": "_followOffsetType",
+                        "line": 46
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 57,
+                        "durationMicroseconds": 331,
+                        "errorMessage": "",
+                        "functionName": "_followAltitudeType",
+                        "line": 47
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 57,
+                        "durationMicroseconds": 290,
+                        "errorMessage": "",
+                        "functionName": "_followYawBehavior",
+                        "line": 48
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 57,
+                        "durationMicroseconds": 254,
+                        "errorMessage": "",
+                        "functionName": "_followMaintain",
+                        "line": 51
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 57,
+                        "durationMicroseconds": 116,
+                        "errorMessage": "",
+                        "functionName": "_roverFirmware",
+                        "line": 53
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 57,
+                        "durationMicroseconds": 397,
+                        "errorMessage": "Cannot generate efficient code for incomparable types int and Fact::rawValue with type QVariant",
+                        "functionName": "_showMainSetup",
+                        "line": 54
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 57,
+                        "durationMicroseconds": 183,
+                        "errorMessage": "",
+                        "functionName": "_showOffsetsSetup",
+                        "line": 55
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 13,
+                        "durationMicroseconds": 138,
+                        "errorMessage": "Cannot load property gcsMavlinkSystemID from SettingsManager::mavlinkSettings with type QObject.",
+                        "functionName": "validateSupportedParamSetup",
+                        "line": 67
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 13,
+                        "durationMicroseconds": 980,
+                        "errorMessage": "Cannot load property length from (component in C:/Users/User/qgroundcontrol/src/AutoPilotPlugins/APM/APMFollowComponent.qml)::rgValues with type QVariant.",
+                        "functionName": "_setUIFromParams",
+                        "line": 81
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 13,
+                        "durationMicroseconds": 86,
+                        "errorMessage": "Cannot load property gcsMavlinkSystemID from SettingsManager::mavlinkSettings with type QObject.",
+                        "functionName": "_setFollowMeParamDefaults",
+                        "line": 115
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 13,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "_setXYOffsetByAngleAndDistance",
+                        "line": 132
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 13,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "_radiansToHeading",
+                        "line": 153
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 13,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "_headingToRadians",
+                        "line": 164
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 36,
+                        "durationMicroseconds": 109,
+                        "errorMessage": "",
+                        "functionName": "onCompleted",
+                        "line": 65
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 47,
+                        "durationMicroseconds": 103,
+                        "errorMessage": "Cannot find name _followDistanceMax",
+                        "functionName": "onMissingParametersAvailable",
+                        "line": 172
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"checked\".",
+                        "functionName": "checked",
+                        "line": 194
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 28,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"clicked\".",
+                        "functionName": "onClicked",
+                        "line": 195
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 154,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 217
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 5527,
+                        "errorMessage": "",
+                        "functionName": "spacing",
+                        "line": 218
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 64,
+                        "errorMessage": "Cannot access value for name _supportedSetup",
+                        "functionName": "visible",
+                        "line": 219
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 189,
+                        "errorMessage": "",
+                        "functionName": "wrapMode",
+                        "line": 225
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 381,
+                        "errorMessage": "",
+                        "functionName": "onWidthChanged",
+                        "line": 226
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 195,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 222
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 249,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 223
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"clicked\".",
+                        "functionName": "onClicked",
+                        "line": 231
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 151,
+                        "errorMessage": "",
+                        "functionName": "spacing",
+                        "line": 237
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 54,
+                        "errorMessage": "Cannot access value for name _showMainSetup",
+                        "functionName": "visible",
+                        "line": 238
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 118,
+                        "errorMessage": "",
+                        "functionName": "spacing",
+                        "line": 242
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 404,
+                        "errorMessage": "Cannot generate efficient code for storing an array in a non-sequence type",
+                        "functionName": "model",
+                        "line": 252
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 43,
+                        "durationMicroseconds": 95,
+                        "errorMessage": "Cannot access value for name _followOffsetX",
+                        "functionName": "onActivated",
+                        "line": 254
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 43,
+                        "durationMicroseconds": 70,
+                        "errorMessage": "",
+                        "functionName": "onActivated",
+                        "line": 254
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 42,
+                        "errorMessage": "Cannot access value for name _roverFirmware",
+                        "functionName": "visible",
+                        "line": 266
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 121,
+                        "errorMessage": "",
+                        "functionName": "model",
+                        "line": 271
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 67,
+                        "errorMessage": "Cannot access value for name _roverFirmware",
+                        "functionName": "visible",
+                        "line": 272
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 43,
+                        "durationMicroseconds": 59,
+                        "errorMessage": "Cannot access value for name _followYawBehavior",
+                        "functionName": "onActivated",
+                        "line": 273
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 43,
+                        "durationMicroseconds": 67,
+                        "errorMessage": "",
+                        "functionName": "onActivated",
+                        "line": 273
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 493,
+                        "errorMessage": "Cannot generate efficient code for storing an array in a non-sequence type",
+                        "functionName": "rgText",
+                        "line": 275
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 61,
+                        "errorMessage": "Cannot access value for name _followYawBehaviorNone",
+                        "functionName": "rgValues",
+                        "line": 276
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 58,
+                        "errorMessage": "Cannot access value for name _followMaintain",
+                        "functionName": "visible",
+                        "line": 283
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 181,
+                        "errorMessage": "",
+                        "functionName": "alignment",
+                        "line": 287
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 163,
+                        "errorMessage": "",
+                        "functionName": "fact",
+                        "line": 293
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 357,
+                        "errorMessage": "method _setXYOffsetByAngleAndDistance cannot be resolved.",
+                        "functionName": "onUpdated",
+                        "line": 294
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 139,
+                        "errorMessage": "",
+                        "functionName": "fact",
+                        "line": 299
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 289,
+                        "errorMessage": "method _setXYOffsetByAngleAndDistance cannot be resolved.",
+                        "functionName": "onUpdated",
+                        "line": 300
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 50,
+                        "errorMessage": "Cannot access value for name _roverFirmware",
+                        "functionName": "visible",
+                        "line": 306
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 136,
+                        "errorMessage": "",
+                        "functionName": "fact",
+                        "line": 309
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"visible\".",
+                        "functionName": "visible",
+                        "line": 310
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 45,
+                        "errorMessage": "Cannot access value for name _followOffsetZ",
+                        "functionName": "onUpdated",
+                        "line": 311
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 483,
+                        "errorMessage": "",
+                        "functionName": "spacing",
+                        "line": 319
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 45,
+                        "errorMessage": "Cannot access value for name _showOffsetsSetup",
+                        "functionName": "visible",
+                        "line": 320
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 206,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 323
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 82,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 324
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 281,
+                        "errorMessage": "Cannot access value for name qgcPal",
+                        "functionName": "color",
+                        "line": 331
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 197,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 327
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 164,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 328
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 153,
+                        "errorMessage": "",
+                        "functionName": "horizontalCenter",
+                        "line": 329
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 288,
+                        "errorMessage": "Cannot access value for name qgcPal",
+                        "functionName": "color",
+                        "line": 339
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 193,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 335
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 154,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 336
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 153,
+                        "errorMessage": "",
+                        "functionName": "verticalCenter",
+                        "line": 337
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 173,
+                        "errorMessage": "",
+                        "functionName": "horizontalCenter",
+                        "line": 343
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 226,
+                        "errorMessage": "",
+                        "functionName": "topMargin",
+                        "line": 344
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 145,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 345
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 135,
+                        "errorMessage": "",
+                        "functionName": "fillMode",
+                        "line": 356
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 201,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 357
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 92,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 352
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 107,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 358
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 70,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 363
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 224,
+                        "errorMessage": "",
+                        "functionName": "angle",
+                        "line": 368
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 214,
+                        "errorMessage": "",
+                        "functionName": "x",
+                        "line": 366
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 180,
+                        "errorMessage": "",
+                        "functionName": "y",
+                        "line": 367
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 248,
+                        "errorMessage": "",
+                        "functionName": "source",
+                        "line": 375
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 171,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 377
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 123,
+                        "errorMessage": "",
+                        "functionName": "fillMode",
+                        "line": 379
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 165,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 373
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 55,
+                        "durationMicroseconds": 178,
+                        "errorMessage": "",
+                        "functionName": "horizontalCenter",
+                        "line": 374
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 91,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 378
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 73,
+                        "errorMessage": "Cannot access value for name _roverFirmware",
+                        "functionName": "angle",
+                        "line": 384
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 220,
+                        "errorMessage": "",
+                        "functionName": "x",
+                        "line": 382
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 192,
+                        "errorMessage": "",
+                        "functionName": "y",
+                        "line": 383
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 221,
+                        "errorMessage": "",
+                        "functionName": "x",
+                        "line": 395
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 112,
+                        "errorMessage": "",
+                        "functionName": "y",
+                        "line": 396
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 612,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 397
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 277,
+                        "errorMessage": "Cannot access value for name qgcPal",
+                        "functionName": "color",
+                        "line": 399
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 61,
+                        "durationMicroseconds": 212,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 405
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 61,
+                        "durationMicroseconds": 275,
+                        "errorMessage": "Cannot access value for name qgcPal",
+                        "functionName": "color",
+                        "line": 407
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 61,
+                        "durationMicroseconds": 193,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 403
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 61,
+                        "durationMicroseconds": 149,
+                        "errorMessage": "",
+                        "functionName": "horizontalCenter",
+                        "line": 404
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 61,
+                        "durationMicroseconds": 213,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 413
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 61,
+                        "durationMicroseconds": 284,
+                        "errorMessage": "Cannot access value for name qgcPal",
+                        "functionName": "color",
+                        "line": 415
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 61,
+                        "durationMicroseconds": 207,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 411
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 61,
+                        "durationMicroseconds": 167,
+                        "errorMessage": "",
+                        "functionName": "horizontalCenter",
+                        "line": 412
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 93,
+                        "errorMessage": "Cannot load property unitsConversion from QGroundControlQmlGlobal.",
+                        "functionName": "text",
+                        "line": 422
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 201,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 421
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 249,
+                        "errorMessage": "",
+                        "functionName": "angle",
+                        "line": 427
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 214,
+                        "errorMessage": "",
+                        "functionName": "x",
+                        "line": 425
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 202,
+                        "errorMessage": "",
+                        "functionName": "y",
+                        "line": 426
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 855,
+                        "errorMessage": "method _radiansToHeading cannot be resolved.",
+                        "functionName": "onClicked",
+                        "line": 435
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 110,
+                        "errorMessage": "",
+                        "functionName": "onClicked",
+                        "line": 435
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 39,
+                        "durationMicroseconds": 110,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 433
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 55,
+                        "errorMessage": "Cannot access value for name _roverFirmware",
+                        "functionName": "visible",
+                        "line": 448
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 283,
+                        "errorMessage": "",
+                        "functionName": "source",
+                        "line": 452
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 3034,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 454
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 129,
+                        "errorMessage": "",
+                        "functionName": "fillMode",
+                        "line": 456
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 109,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 455
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 213,
+                        "errorMessage": "",
+                        "functionName": "x",
+                        "line": 459
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 186,
+                        "errorMessage": "",
+                        "functionName": "y",
+                        "line": 460
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 454,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 469
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 126,
+                        "errorMessage": "",
+                        "functionName": "alignment",
+                        "line": 467
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 57,
+                        "durationMicroseconds": 295,
+                        "errorMessage": "Cannot access value for name qgcPal",
+                        "functionName": "color",
+                        "line": 477
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 57,
+                        "durationMicroseconds": 190,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 473
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 57,
+                        "durationMicroseconds": 193,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 474
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 57,
+                        "durationMicroseconds": 139,
+                        "errorMessage": "",
+                        "functionName": "horizontalCenter",
+                        "line": 475
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 61,
+                        "durationMicroseconds": 207,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 483
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 61,
+                        "durationMicroseconds": 286,
+                        "errorMessage": "Cannot access value for name qgcPal",
+                        "functionName": "color",
+                        "line": 485
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 61,
+                        "durationMicroseconds": 166,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 481
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 61,
+                        "durationMicroseconds": 133,
+                        "errorMessage": "",
+                        "functionName": "horizontalCenter",
+                        "line": 482
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 61,
+                        "durationMicroseconds": 187,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 491
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 61,
+                        "durationMicroseconds": 238,
+                        "errorMessage": "Cannot access value for name qgcPal",
+                        "functionName": "color",
+                        "line": 493
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 61,
+                        "durationMicroseconds": 175,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 489
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 61,
+                        "durationMicroseconds": 305,
+                        "errorMessage": "",
+                        "functionName": "horizontalCenter",
+                        "line": 490
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 158,
+                        "errorMessage": "Cannot load property unitsConversion from QGroundControlQmlGlobal.",
+                        "functionName": "text",
+                        "line": 500
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 95,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 499
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 135,
+                        "errorMessage": "",
+                        "functionName": "alignment",
+                        "line": 506
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 221,
+                        "errorMessage": "",
+                        "functionName": "x",
+                        "line": 518
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 186,
+                        "errorMessage": "",
+                        "functionName": "y",
+                        "line": 519
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 205,
+                        "errorMessage": "",
+                        "functionName": "x",
+                        "line": 511
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 266,
+                        "errorMessage": "",
+                        "functionName": "y",
+                        "line": 512
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/AutoPilotPlugins/APM/APMFollowComponent.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.AutoPilotPlugins.APM(AutoPilotPluginsAPMModule)"
+    }
+]

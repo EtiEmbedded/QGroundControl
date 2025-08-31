@@ -1,0 +1,103 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"src/VideoManager/VideoReceiver/GStreamer/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 57,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 63,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 69,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 75,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "bin",
+			"paths" : 
+			[
+				{
+					"from" : "C:/gstreamer/1.0/msvc_x86_64//bin",
+					"to" : "."
+				}
+			],
+			"type" : "directory"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "lib/gio/modules",
+			"paths" : 
+			[
+				{
+					"from" : "C:/gstreamer/1.0/msvc_x86_64//lib/gio/modules",
+					"to" : "."
+				}
+			],
+			"type" : "directory"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"destination" : "lib/gstreamer-1.0",
+			"paths" : 
+			[
+				{
+					"from" : "C:/gstreamer/1.0/msvc_x86_64//lib/gstreamer-1.0",
+					"to" : "."
+				}
+			],
+			"type" : "directory"
+		},
+		{
+			"backtrace" : 4,
+			"component" : "Unspecified",
+			"destination" : "libexec/gstreamer-1.0",
+			"paths" : 
+			[
+				{
+					"from" : "C:/gstreamer/1.0/msvc_x86_64//libexec/gstreamer-1.0",
+					"to" : "."
+				}
+			],
+			"type" : "directory"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "src/VideoManager/VideoReceiver/GStreamer",
+		"source" : "src/VideoManager/VideoReceiver/GStreamer"
+	}
+}

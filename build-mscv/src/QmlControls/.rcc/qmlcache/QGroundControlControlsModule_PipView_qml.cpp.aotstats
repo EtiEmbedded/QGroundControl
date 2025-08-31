@@ -1,0 +1,532 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 17,
+                        "durationMicroseconds": 382,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 20
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 17,
+                        "durationMicroseconds": 393,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 21
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 17,
+                        "durationMicroseconds": 95,
+                        "errorMessage": "Cannot load property pipState from (component in C:/Users/User/qgroundcontrol/src/QmlControls/PipView.qml)::item2 with type QVariant.",
+                        "functionName": "visible",
+                        "line": 22
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 374,
+                        "errorMessage": "",
+                        "functionName": "_pipSize",
+                        "line": 36
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 21,
+                        "durationMicroseconds": 175,
+                        "errorMessage": "",
+                        "functionName": "onItem2Changed",
+                        "line": 46
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 5,
+                        "durationMicroseconds": 707,
+                        "errorMessage": "",
+                        "functionName": "showWindow",
+                        "line": 48
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 186,
+                        "errorMessage": "Cannot load property pipState from (component in C:/Users/User/qgroundcontrol/src/QmlControls/PipView.qml)::item1 with type QVariant.",
+                        "functionName": "_initForItems",
+                        "line": 54
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 56,
+                        "errorMessage": "Cannot load property pipState from (component in C:/Users/User/qgroundcontrol/src/QmlControls/PipView.qml)::item1 with type QVariant.",
+                        "functionName": "_swapPip",
+                        "line": 69
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "_setPipIsExpanded",
+                        "line": 87
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 28,
+                        "durationMicroseconds": 371,
+                        "errorMessage": "",
+                        "functionName": "onCompleted",
+                        "line": 41
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 20,
+                        "durationMicroseconds": 413,
+                        "errorMessage": "Cannot load property pipState from conversion to QVariant.",
+                        "functionName": "onClosing",
+                        "line": 95
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 61,
+                        "errorMessage": "Cannot access value for name _isExpanded",
+                        "functionName": "visible",
+                        "line": 107
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 152,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 106
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 42,
+                        "errorMessage": "Cannot access value for name _isExpanded",
+                        "functionName": "enabled",
+                        "line": 114
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 524,
+                        "errorMessage": "method _swapPip cannot be resolved.",
+                        "functionName": "onClicked",
+                        "line": 117
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 139,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 113
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 229,
+                        "errorMessage": "",
+                        "functionName": "cursorShape",
+                        "line": 125
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 21,
+                        "durationMicroseconds": 761,
+                        "errorMessage": "",
+                        "functionName": "onPressed",
+                        "line": 130
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 21,
+                        "durationMicroseconds": 106,
+                        "errorMessage": "",
+                        "functionName": "onPressed",
+                        "line": 130
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 21,
+                        "durationMicroseconds": 420,
+                        "errorMessage": "",
+                        "functionName": "onReleased",
+                        "line": 137
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 256,
+                        "errorMessage": "Cannot access value for name _maxSize",
+                        "functionName": "onPositionChanged",
+                        "line": 140
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 106,
+                        "errorMessage": "",
+                        "functionName": "onPositionChanged",
+                        "line": 140
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 179,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 123
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 207,
+                        "errorMessage": "",
+                        "functionName": "fillMode",
+                        "line": 155
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 62,
+                        "errorMessage": "Cannot access value for name _isExpanded",
+                        "functionName": "visible",
+                        "line": 159
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 8283,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 160
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 278,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 161
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 302,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 157
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 248,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 158
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 140,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 162
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 17,
+                        "durationMicroseconds": 192,
+                        "errorMessage": "",
+                        "functionName": "target",
+                        "line": 167
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 9,
+                        "durationMicroseconds": 102,
+                        "errorMessage": "Cannot access value for name _componentComplete",
+                        "functionName": "onWidthChanged",
+                        "line": 169
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 193,
+                        "errorMessage": "",
+                        "functionName": "fillMode",
+                        "line": 188
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 68,
+                        "errorMessage": "Cannot access value for name _isExpanded",
+                        "functionName": "visible",
+                        "line": 191
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 288,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 192
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 296,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 193
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 287,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 189
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 264,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 190
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 141,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 194
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 66,
+                        "errorMessage": "Cannot access value for name _pipOrWindowItem",
+                        "functionName": "onClicked",
+                        "line": 198
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 139,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 197
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 174,
+                        "errorMessage": "",
+                        "functionName": "fillMode",
+                        "line": 206
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 63,
+                        "errorMessage": "Cannot access value for name _isExpanded",
+                        "functionName": "visible",
+                        "line": 209
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 287,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 210
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 263,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 211
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 352,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 207
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 245,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 208
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 261,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 212
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 347,
+                        "errorMessage": "Cannot generate efficient code for call to untyped JavaScript function",
+                        "functionName": "onClicked",
+                        "line": 215
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 141,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 214
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 300,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 223
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 268,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 224
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 252,
+                        "errorMessage": "",
+                        "functionName": "radius",
+                        "line": 225
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 60,
+                        "errorMessage": "Cannot access value for name _isExpanded",
+                        "functionName": "visible",
+                        "line": 226
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 131,
+                        "errorMessage": "Cannot access value for name _fullItem",
+                        "functionName": "color",
+                        "line": 227
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 259,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 221
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 211,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 222
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 303,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 229
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 366,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 230
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 185,
+                        "errorMessage": "",
+                        "functionName": "fillMode",
+                        "line": 234
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 151,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 231
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 250,
+                        "errorMessage": "",
+                        "functionName": "verticalCenter",
+                        "line": 235
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 236,
+                        "errorMessage": "",
+                        "functionName": "horizontalCenter",
+                        "line": 236
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 337,
+                        "errorMessage": "Cannot generate efficient code for call to untyped JavaScript function",
+                        "functionName": "onClicked",
+                        "line": 240
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 135,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 239
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/QmlControls/PipView.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.Controls(QGroundControlControlsModule)"
+    }
+]

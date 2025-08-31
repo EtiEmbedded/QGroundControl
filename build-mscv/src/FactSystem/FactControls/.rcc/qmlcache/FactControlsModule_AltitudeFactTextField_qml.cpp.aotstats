@@ -1,0 +1,52 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 764,
+                        "errorMessage": "",
+                        "functionName": "unitsLabel",
+                        "line": 19
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 294,
+                        "errorMessage": "",
+                        "functionName": "extraUnitsLabel",
+                        "line": 20
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 32,
+                        "durationMicroseconds": 200,
+                        "errorMessage": "",
+                        "functionName": "altitudeMode",
+                        "line": 24
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 28,
+                        "durationMicroseconds": 145,
+                        "errorMessage": "",
+                        "functionName": "onAltitudeModeChanged",
+                        "line": 28
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 59,
+                        "errorMessage": "type AltMode for argument 0 cannot be resolved",
+                        "functionName": "updateAltitudeModeExtraUnits",
+                        "line": 30
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/FactSystem/FactControls/AltitudeFactTextField.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.FactControls(FactControlsModule)"
+    }
+]

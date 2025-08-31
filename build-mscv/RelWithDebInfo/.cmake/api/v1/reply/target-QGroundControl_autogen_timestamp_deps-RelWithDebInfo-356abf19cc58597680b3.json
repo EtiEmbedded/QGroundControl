@@ -1,0 +1,138 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 0,
+			"id" : "QGroundControl_generate_qmlls_ini_file::@6890427a1f51a3e7e1df"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "QGroundControl_qmlimportscan::@6890427a1f51a3e7e1df"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "QGroundControlModule::@145eef247bfb46b6828c"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "AnalyzeViewModule::@1f9110b7e94afc09a3ad"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "ulog_cpp::@83f35c707b92fa6c70db"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "AutoPilotPluginsCommonModule::@9f72fd3d9228751d409a"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "AutoPilotPluginsAPMModule::@761191fa32745de764d9"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "AutoPilotPluginsPX4Module::@6dc3054ee6ed80334ffd"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "FactControlsModule::@bd51febec3e3005f0d32"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "FlightDisplayModule::@d7921ebb25830fb2cca6"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "FlightMapModule::@0444486f063b4153bb58"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "MainWindowModule::@e6812f907734570e2a17"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "AppSettingsModule::@f2c0e2401d98c699e098"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "FirstRunPromptDialogsModule::@fbf2d0e4024b628d814d"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "SDL3-static::@405c074760d2f6728126"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "ScreenToolsModule::@d5dd82b0e56b2219c454"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "QGroundControlControlsModule::@d5dd82b0e56b2219c454"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "shp::@3179a7a8a942f4ec13cf"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "UTMSPModule::@1e4bb58146483549377c"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "VehicleSetupModule::@e7f906846a300641c56d"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "ToolbarModule::@9bd132c2f8e2891f3154"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "zlibstatic::@c9556b0b6bf47963f9da"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "xz::@82f67fdaf3bad773fadf"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "gstqml6gl::@673143ff38208ae950f1"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "Viewer3DModule::@86f251bf20a08a1d2365"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "QGCLocation::@cb27e8890ce76dc7ee3a"
+		}
+	],
+	"folder" : 
+	{
+		"name" : "QtInternalTargets"
+	},
+	"id" : "QGroundControl_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+	"isGeneratorProvided" : true,
+	"name" : "QGroundControl_autogen_timestamp_deps",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

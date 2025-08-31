@@ -1,0 +1,292 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 21,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"topPadding\".",
+                        "functionName": "topPadding",
+                        "line": 19
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 21,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"bottomPadding\".",
+                        "functionName": "bottomPadding",
+                        "line": 20
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 21,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"leftPadding\".",
+                        "functionName": "leftPadding",
+                        "line": 21
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 21,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"rightPadding\".",
+                        "functionName": "rightPadding",
+                        "line": 22
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 21,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"focusPolicy\".",
+                        "functionName": "focusPolicy",
+                        "line": 23
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 8138,
+                        "errorMessage": "",
+                        "functionName": "pointSize",
+                        "line": 28
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 445,
+                        "errorMessage": "",
+                        "functionName": "showBorder",
+                        "line": 29
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 199,
+                        "errorMessage": "",
+                        "functionName": "backRadius",
+                        "line": 30
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 160,
+                        "errorMessage": "Cannot access value for name enabled",
+                        "functionName": "_showHighlight",
+                        "line": 33
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 329,
+                        "errorMessage": "",
+                        "functionName": "_horizontalPadding",
+                        "line": 34
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 600,
+                        "errorMessage": "",
+                        "functionName": "_verticalPadding",
+                        "line": 35
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 53,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: control",
+                        "functionName": "_showIcon",
+                        "line": 36
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 513,
+                        "errorMessage": "Cannot access value for name enabled",
+                        "functionName": "colorGroupEnabled",
+                        "line": 38
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 509,
+                        "errorMessage": "Cannot access value for name ScreenTools",
+                        "functionName": "implicitWidth",
+                        "line": 42
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 460,
+                        "errorMessage": "Cannot access value for name ScreenTools",
+                        "functionName": "implicitHeight",
+                        "line": 43
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 40,
+                        "errorMessage": "Cannot access value for name _showHighlight",
+                        "functionName": "color",
+                        "line": 47
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 46,
+                        "errorMessage": "Cannot access value for name showBorder",
+                        "functionName": "width",
+                        "line": 45
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 29,
+                        "errorMessage": "Cannot access value for name qgcPal",
+                        "functionName": "color",
+                        "line": 46
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 36,
+                        "errorMessage": "Cannot access value for name _showIcon",
+                        "functionName": "implicitWidth",
+                        "line": 51
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 28,
+                        "errorMessage": "Cannot access value for name _showIcon",
+                        "functionName": "implicitHeight",
+                        "line": 52
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 29,
+                        "errorMessage": "Cannot access value for name text",
+                        "functionName": "baselineOffset",
+                        "line": 53
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 56,
+                        "errorMessage": "Cannot access value for name control",
+                        "functionName": "source",
+                        "line": 58
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 22,
+                        "errorMessage": "Cannot access value for name source",
+                        "functionName": "height",
+                        "line": 59
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 13,
+                        "errorMessage": "Cannot access value for name height",
+                        "functionName": "width",
+                        "line": 60
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 44,
+                        "errorMessage": "Cannot access value for name _showHighlight",
+                        "functionName": "color",
+                        "line": 61
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 410,
+                        "errorMessage": "Cannot access value for name Image",
+                        "functionName": "fillMode",
+                        "line": 62
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 41,
+                        "errorMessage": "Cannot access value for name _showIcon",
+                        "functionName": "visible",
+                        "line": 64
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 16,
+                        "errorMessage": "Cannot access value for name parent",
+                        "functionName": "centerIn",
+                        "line": 57
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 12,
+                        "errorMessage": "Cannot access value for name height",
+                        "functionName": "height",
+                        "line": 63
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 39,
+                        "errorMessage": "Cannot access value for name control",
+                        "functionName": "text",
+                        "line": 71
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 40,
+                        "errorMessage": "Cannot access value for name _showHighlight",
+                        "functionName": "color",
+                        "line": 74
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 33,
+                        "errorMessage": "Cannot access value for name _showIcon",
+                        "functionName": "visible",
+                        "line": 75
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 13,
+                        "errorMessage": "Cannot access value for name parent",
+                        "functionName": "centerIn",
+                        "line": 69
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 36,
+                        "errorMessage": "Cannot access value for name control",
+                        "functionName": "pointSize",
+                        "line": 72
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 857,
+                        "errorMessage": "Cannot access value for name ScreenTools",
+                        "functionName": "family",
+                        "line": 73
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/QmlControls/QGCTabButton.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.Controls(QGroundControlControlsModule)"
+    }
+]

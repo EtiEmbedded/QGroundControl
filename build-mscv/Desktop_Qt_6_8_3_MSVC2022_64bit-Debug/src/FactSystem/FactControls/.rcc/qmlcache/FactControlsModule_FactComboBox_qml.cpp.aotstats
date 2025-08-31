@@ -1,0 +1,60 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 31,
+                        "durationMicroseconds": 77,
+                        "errorMessage": "Cannot access value for name fact",
+                        "functionName": "indexModel",
+                        "line": 11
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 12,
+                        "durationMicroseconds": 20,
+                        "errorMessage": "Cannot access value for name fact",
+                        "functionName": "model",
+                        "line": 13
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 19,
+                        "durationMicroseconds": 16,
+                        "errorMessage": "Cannot access value for name fact",
+                        "functionName": "currentIndex",
+                        "line": 15
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 21,
+                        "durationMicroseconds": 543,
+                        "errorMessage": "Cannot generate efficient code for LoadClosure",
+                        "functionName": "onModelChanged",
+                        "line": 17
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 19,
+                        "durationMicroseconds": 54,
+                        "errorMessage": "Cannot access value for name fact",
+                        "functionName": "onActivated",
+                        "line": 28
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 19,
+                        "durationMicroseconds": 78,
+                        "errorMessage": "",
+                        "functionName": "onActivated",
+                        "line": 28
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/FactSystem/FactControls/FactComboBox.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.FactControls(FactControlsModule)"
+    }
+]

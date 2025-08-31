@@ -1,0 +1,1900 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 17,
+                        "durationMicroseconds": 815,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 26
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 17,
+                        "durationMicroseconds": 490,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 27
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 17,
+                        "durationMicroseconds": 1561,
+                        "errorMessage": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: QVariant -> QColor stored as QVariant",
+                        "functionName": "color",
+                        "line": 28
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 17,
+                        "durationMicroseconds": 136,
+                        "errorMessage": "",
+                        "functionName": "radius",
+                        "line": 29
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 17,
+                        "durationMicroseconds": 39,
+                        "errorMessage": "Cannot load property capturesVideo from (component in C:/Users/User/qgroundcontrol/src/FlightMap/Widgets/PhotoVideoControl.qml)::_camera with type QVariant.",
+                        "functionName": "visible",
+                        "line": 30
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 10537,
+                        "errorMessage": "",
+                        "functionName": "_margins",
+                        "line": 32
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 354,
+                        "errorMessage": "",
+                        "functionName": "_smallMargins",
+                        "line": 33
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 631,
+                        "errorMessage": "Cannot access value for name globals",
+                        "functionName": "_activeVehicle",
+                        "line": 34
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 39,
+                        "errorMessage": "Cannot load property cameraManager from (component in C:/Users/User/qgroundcontrol/src/FlightMap/Widgets/PhotoVideoControl.qml)::_activeVehicle with type QVariant.",
+                        "functionName": "_cameraManager",
+                        "line": 35
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 29,
+                        "errorMessage": "Cannot load property currentCameraInstance from (component in C:/Users/User/qgroundcontrol/src/FlightMap/Widgets/PhotoVideoControl.qml)::_cameraManager with type QVariant.",
+                        "functionName": "_camera",
+                        "line": 36
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 30,
+                        "errorMessage": "Cannot load property cameraMode from (component in C:/Users/User/qgroundcontrol/src/FlightMap/Widgets/PhotoVideoControl.qml)::_camera with type QVariant.",
+                        "functionName": "_cameraInPhotoMode",
+                        "line": 37
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 224,
+                        "errorMessage": "",
+                        "functionName": "_cameraInVideoMode",
+                        "line": 38
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 51,
+                        "errorMessage": "Cannot load property videoCaptureStatus from (component in C:/Users/User/qgroundcontrol/src/FlightMap/Widgets/PhotoVideoControl.qml)::_camera with type QVariant.",
+                        "functionName": "_videoCaptureIdle",
+                        "line": 39
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 33,
+                        "errorMessage": "Cannot load property photoCaptureStatus from (component in C:/Users/User/qgroundcontrol/src/FlightMap/Widgets/PhotoVideoControl.qml)::_camera with type QVariant.",
+                        "functionName": "_photoCaptureSingleIdle",
+                        "line": 40
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 29,
+                        "errorMessage": "Cannot load property photoCaptureStatus from (component in C:/Users/User/qgroundcontrol/src/FlightMap/Widgets/PhotoVideoControl.qml)::_camera with type QVariant.",
+                        "functionName": "_photoCaptureIntervalIdle",
+                        "line": 41
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 300,
+                        "errorMessage": "",
+                        "functionName": "_photoCaptureIdle",
+                        "line": 42
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 53,
+                        "errorMessage": "Cannot access value for name enabled",
+                        "functionName": "colorGroupEnabled",
+                        "line": 44
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 35,
+                        "durationMicroseconds": 211,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 46
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 64,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "spacing",
+                        "line": 53
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 52,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "margins",
+                        "line": 50
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 282,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 51
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 265,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 52
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 57,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "spacing",
+                        "line": 57
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 49,
+                        "errorMessage": "Cannot access value for name _camera",
+                        "functionName": "visible",
+                        "line": 58
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 218,
+                        "errorMessage": "",
+                        "functionName": "alignment",
+                        "line": 61
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 199,
+                        "errorMessage": "",
+                        "functionName": "pointSize",
+                        "line": 63
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"orientation\".",
+                        "functionName": "orientation",
+                        "line": 69
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"value\".",
+                        "functionName": "value",
+                        "line": 72
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"valueChanged\".",
+                        "functionName": "onValueChanged",
+                        "line": 74
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 182,
+                        "errorMessage": "",
+                        "functionName": "alignment",
+                        "line": 67
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 22,
+                        "durationMicroseconds": 74,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "spacing",
+                        "line": 79
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 26,
+                        "durationMicroseconds": 52,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "spacing",
+                        "line": 82
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 58,
+                        "errorMessage": "Cannot access value for name _camera",
+                        "functionName": "text",
+                        "line": 87
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 54,
+                        "errorMessage": "Cannot access value for name _cameraManager",
+                        "functionName": "visible",
+                        "line": 88
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 186,
+                        "errorMessage": "",
+                        "functionName": "alignment",
+                        "line": 86
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 348,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 94
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 245,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 95
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 289,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 96
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 242,
+                        "errorMessage": "",
+                        "functionName": "radius",
+                        "line": 97
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 87,
+                        "errorMessage": "Cannot access value for name _camera",
+                        "functionName": "visible",
+                        "line": 98
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 231,
+                        "errorMessage": "",
+                        "functionName": "alignment",
+                        "line": 93
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 293,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 103
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 194,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 104
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 79,
+                        "errorMessage": "Cannot access value for name _cameraInVideoMode",
+                        "functionName": "color",
+                        "line": 105
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 229,
+                        "errorMessage": "",
+                        "functionName": "radius",
+                        "line": 106
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 292,
+                        "errorMessage": "",
+                        "functionName": "verticalCenter",
+                        "line": 102
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 267,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 107
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 272,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 108
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 75,
+                        "errorMessage": "Cannot access value for name _cameraInPhotoMode",
+                        "functionName": "width",
+                        "line": 109
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 333,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 112
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 139,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 113
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 169,
+                        "errorMessage": "",
+                        "functionName": "fillMode",
+                        "line": 116
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 117,
+                        "errorMessage": "Cannot access value for name _cameraInVideoMode",
+                        "functionName": "color",
+                        "line": 118
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 171,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 114
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 155,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 117
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 76,
+                        "errorMessage": "Cannot access value for name _cameraInPhotoMode",
+                        "functionName": "enabled",
+                        "line": 122
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 94,
+                        "errorMessage": "Cannot access value for name _camera",
+                        "functionName": "onClicked",
+                        "line": 123
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 140,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 121
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 400,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 131
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 301,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 132
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 81,
+                        "errorMessage": "Cannot access value for name _cameraInPhotoMode",
+                        "functionName": "color",
+                        "line": 133
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 338,
+                        "errorMessage": "",
+                        "functionName": "radius",
+                        "line": 134
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 288,
+                        "errorMessage": "",
+                        "functionName": "verticalCenter",
+                        "line": 130
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 287,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 135
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 260,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 136
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 133,
+                        "errorMessage": "Cannot access value for name _cameraInPhotoMode",
+                        "functionName": "width",
+                        "line": 137
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 417,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 140
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 126,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 141
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 198,
+                        "errorMessage": "",
+                        "functionName": "fillMode",
+                        "line": 144
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 81,
+                        "errorMessage": "Cannot access value for name _cameraInPhotoMode",
+                        "functionName": "color",
+                        "line": 146
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 127,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 142
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 163,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 145
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 81,
+                        "errorMessage": "Cannot access value for name _cameraInVideoMode",
+                        "functionName": "enabled",
+                        "line": 150
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 70,
+                        "errorMessage": "Cannot access value for name _camera",
+                        "functionName": "onClicked",
+                        "line": 151
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 133,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 149
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 565,
+                        "errorMessage": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: QVariant -> QColor stored as QVariant",
+                        "functionName": "color",
+                        "line": 160
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 325,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 161
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 122,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 162
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 716,
+                        "errorMessage": "",
+                        "functionName": "radius",
+                        "line": 163
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 232,
+                        "errorMessage": "",
+                        "functionName": "alignment",
+                        "line": 159
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 268,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 164
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 570,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 169
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 128,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 170
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 475,
+                        "errorMessage": "",
+                        "functionName": "radius",
+                        "line": 171
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 809,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 172
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 65,
+                        "durationMicroseconds": 92,
+                        "errorMessage": "Cannot access value for name _cameraInPhotoMode",
+                        "functionName": "_isShootingInPhotoMode",
+                        "line": 174
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 65,
+                        "durationMicroseconds": 65,
+                        "errorMessage": "Cannot access value for name _cameraInPhotoMode",
+                        "functionName": "_isShootingInVideoMode",
+                        "line": 175
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 65,
+                        "durationMicroseconds": 59,
+                        "errorMessage": "Cannot access value for name _cameraInPhotoMode",
+                        "functionName": "_isShootingInCurrentMode",
+                        "line": 176
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 65,
+                        "durationMicroseconds": 56,
+                        "errorMessage": "Cannot access value for name _cameraInPhotoMode",
+                        "functionName": "_isShootingInOtherMode",
+                        "line": 177
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 65,
+                        "durationMicroseconds": 1393,
+                        "errorMessage": "Cannot access value for name _cameraInPhotoMode",
+                        "functionName": "_canShootInCurrentMode",
+                        "line": 178
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 756,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 168
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 213,
+                        "errorMessage": "",
+                        "functionName": "onClicked",
+                        "line": 185
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 114,
+                        "errorMessage": "Cannot access value for name _cameraInPhotoMode",
+                        "functionName": "toggleShooting",
+                        "line": 187
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 133,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 184
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 66,
+                        "errorMessage": "Cannot access value for name _videoCaptureIdle",
+                        "functionName": "color",
+                        "line": 204
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 188,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "radius",
+                        "line": 207
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 264,
+                        "errorMessage": "",
+                        "functionName": "alignment",
+                        "line": 203
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 77,
+                        "errorMessage": "Cannot access value for name _cameraInVideoMode",
+                        "functionName": "preferredWidth",
+                        "line": 205
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 56,
+                        "errorMessage": "Cannot access value for name _cameraInVideoMode",
+                        "functionName": "preferredHeight",
+                        "line": 206
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 101,
+                        "errorMessage": "Cannot access value for name _videoCaptureIdle",
+                        "functionName": "text",
+                        "line": 215
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 62,
+                        "errorMessage": "Cannot access value for name _cameraInVideoMode",
+                        "functionName": "visible",
+                        "line": 217
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 67,
+                        "errorMessage": "Cannot access value for name _smallMargins",
+                        "functionName": "leftMargin",
+                        "line": 212
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 304,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 213
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 425,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 214
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 196,
+                        "errorMessage": "",
+                        "functionName": "pointSize",
+                        "line": 216
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 112,
+                        "errorMessage": "Cannot access value for name _activeVehicle",
+                        "functionName": "text",
+                        "line": 226
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 64,
+                        "errorMessage": "Cannot access value for name _cameraInPhotoMode",
+                        "functionName": "visible",
+                        "line": 228
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 66,
+                        "errorMessage": "Cannot access value for name _smallMargins",
+                        "functionName": "leftMargin",
+                        "line": 223
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 305,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 224
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 263,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 225
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 177,
+                        "errorMessage": "",
+                        "functionName": "pointSize",
+                        "line": 227
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 215,
+                        "errorMessage": "",
+                        "functionName": "alignment",
+                        "line": 234
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 130,
+                        "errorMessage": "Cannot access value for name _camera",
+                        "functionName": "text",
+                        "line": 239
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 61,
+                        "errorMessage": "Cannot access value for name _camera",
+                        "functionName": "visible",
+                        "line": 241
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 193,
+                        "errorMessage": "",
+                        "functionName": "alignment",
+                        "line": 238
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 218,
+                        "errorMessage": "",
+                        "functionName": "pointSize",
+                        "line": 240
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 133,
+                        "errorMessage": "Cannot access value for name _camera",
+                        "functionName": "text",
+                        "line": 246
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 61,
+                        "errorMessage": "Cannot access value for name _camera",
+                        "functionName": "visible",
+                        "line": 248
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 198,
+                        "errorMessage": "",
+                        "functionName": "alignment",
+                        "line": 245
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 226,
+                        "errorMessage": "",
+                        "functionName": "pointSize",
+                        "line": 247
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 66,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "spacing",
+                        "line": 256
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 54,
+                        "errorMessage": "Cannot access value for name _camera",
+                        "functionName": "visible",
+                        "line": 257
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 212,
+                        "errorMessage": "",
+                        "functionName": "alignment",
+                        "line": 255
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 81,
+                        "errorMessage": "Cannot access value for name _camera",
+                        "functionName": "color",
+                        "line": 261
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 237,
+                        "errorMessage": "",
+                        "functionName": "alignment",
+                        "line": 260
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 335,
+                        "errorMessage": "",
+                        "functionName": "preferredWidth",
+                        "line": 262
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 184,
+                        "errorMessage": "",
+                        "functionName": "preferredHeight",
+                        "line": 263
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 291,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 264
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 351,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 268
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 127,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 269
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 172,
+                        "errorMessage": "",
+                        "functionName": "fillMode",
+                        "line": 272
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 269,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 274
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 129,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 270
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 139,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 273
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 40,
+                        "durationMicroseconds": 91,
+                        "errorMessage": "Cannot access value for name _camera",
+                        "functionName": "onClicked",
+                        "line": 278
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 43,
+                        "durationMicroseconds": 162,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 277
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 67,
+                        "errorMessage": "Cannot access value for name _camera",
+                        "functionName": "visible",
+                        "line": 292
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 244,
+                        "errorMessage": "",
+                        "functionName": "alignment",
+                        "line": 289
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 182,
+                        "errorMessage": "",
+                        "functionName": "pointSize",
+                        "line": 291
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 489,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 303
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 168,
+                        "errorMessage": "",
+                        "functionName": "fillMode",
+                        "line": 304
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 236,
+                        "errorMessage": "",
+                        "functionName": "alignment",
+                        "line": 297
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 316,
+                        "errorMessage": "",
+                        "functionName": "preferredHeight",
+                        "line": 300
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 173,
+                        "errorMessage": "",
+                        "functionName": "preferredWidth",
+                        "line": 301
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 179,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 302
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 189,
+                        "errorMessage": "",
+                        "functionName": "fillItem",
+                        "line": 307
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 789,
+                        "errorMessage": "Cannot access value for name mainWindow",
+                        "functionName": "onClicked",
+                        "line": 308
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 205,
+                        "errorMessage": "Cannot access value for name Dialog",
+                        "functionName": "buttons",
+                        "line": 318
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 65,
+                        "durationMicroseconds": 46,
+                        "errorMessage": "Cannot access value for name _cameraManager",
+                        "functionName": "_multipleMavlinkCameras",
+                        "line": 320
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 65,
+                        "durationMicroseconds": 39,
+                        "errorMessage": "Cannot access value for name _camera",
+                        "functionName": "_multipleMavlinkCameraStreams",
+                        "line": 321
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 65,
+                        "durationMicroseconds": 38,
+                        "errorMessage": "Cannot access value for name _camera",
+                        "functionName": "_cameraStorageSupported",
+                        "line": 322
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 65,
+                        "durationMicroseconds": 466,
+                        "errorMessage": "",
+                        "functionName": "_videoSettings",
+                        "line": 323
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 30,
+                        "durationMicroseconds": 61,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "spacing",
+                        "line": 326
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 206,
+                        "errorMessage": "",
+                        "functionName": "flow",
+                        "line": 330
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 106,
+                        "errorMessage": "Cannot access value for name _camera",
+                        "functionName": "rows",
+                        "line": 331
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 94,
+                        "errorMessage": "Cannot access value for name _multipleMavlinkCameras",
+                        "functionName": "visible",
+                        "line": 338
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 713,
+                        "errorMessage": "",
+                        "functionName": "onVisibleChanged",
+                        "line": 339
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 71,
+                        "errorMessage": "Cannot access value for name _multipleMavlinkCameraStreams",
+                        "functionName": "visible",
+                        "line": 344
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 647,
+                        "errorMessage": "",
+                        "functionName": "onVisibleChanged",
+                        "line": 345
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 65,
+                        "errorMessage": "Cannot access value for name _camera",
+                        "functionName": "visible",
+                        "line": 350
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 661,
+                        "errorMessage": "",
+                        "functionName": "onVisibleChanged",
+                        "line": 351
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 73,
+                        "errorMessage": "Cannot access value for name _camera",
+                        "functionName": "visible",
+                        "line": 356
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 645,
+                        "errorMessage": "",
+                        "functionName": "onVisibleChanged",
+                        "line": 357
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 36,
+                        "durationMicroseconds": 59,
+                        "errorMessage": "Cannot access value for name _camera",
+                        "functionName": "model",
+                        "line": 362
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 39,
+                        "durationMicroseconds": 63,
+                        "errorMessage": "Cannot access value for name _camera",
+                        "functionName": "text",
+                        "line": 365
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 56,
+                        "errorMessage": "Cannot access value for name _camera",
+                        "functionName": "visible",
+                        "line": 371
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 701,
+                        "errorMessage": "",
+                        "functionName": "onVisibleChanged",
+                        "line": 372
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 87,
+                        "errorMessage": "Cannot access value for name _camera",
+                        "functionName": "visible",
+                        "line": 377
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 708,
+                        "errorMessage": "",
+                        "functionName": "onVisibleChanged",
+                        "line": 378
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 68,
+                        "errorMessage": "Cannot access value for name _camera",
+                        "functionName": "visible",
+                        "line": 383
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 707,
+                        "errorMessage": "",
+                        "functionName": "onVisibleChanged",
+                        "line": 384
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 67,
+                        "errorMessage": "Cannot access value for name _camera",
+                        "functionName": "visible",
+                        "line": 389
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 682,
+                        "errorMessage": "",
+                        "functionName": "onVisibleChanged",
+                        "line": 390
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 652,
+                        "errorMessage": "",
+                        "functionName": "onVisibleChanged",
+                        "line": 395
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 74,
+                        "errorMessage": "Cannot access value for name _cameraStorageSupported",
+                        "functionName": "visible",
+                        "line": 400
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 631,
+                        "errorMessage": "",
+                        "functionName": "onVisibleChanged",
+                        "line": 401
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 89,
+                        "errorMessage": "Cannot access value for name _cameraManager",
+                        "functionName": "model",
+                        "line": 408
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 55,
+                        "errorMessage": "Cannot access value for name _cameraManager",
+                        "functionName": "currentIndex",
+                        "line": 409
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 55,
+                        "errorMessage": "Cannot access value for name _multipleMavlinkCameras",
+                        "functionName": "visible",
+                        "line": 410
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 50,
+                        "durationMicroseconds": 134,
+                        "errorMessage": "Cannot access value for name _cameraManager",
+                        "functionName": "onActivated",
+                        "line": 411
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 50,
+                        "durationMicroseconds": 113,
+                        "errorMessage": "",
+                        "functionName": "onActivated",
+                        "line": 411
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 68,
+                        "errorMessage": "Cannot access value for name _camera",
+                        "functionName": "model",
+                        "line": 417
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 53,
+                        "errorMessage": "Cannot access value for name _camera",
+                        "functionName": "currentIndex",
+                        "line": 418
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 56,
+                        "errorMessage": "Cannot access value for name _multipleMavlinkCameraStreams",
+                        "functionName": "visible",
+                        "line": 419
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 50,
+                        "durationMicroseconds": 62,
+                        "errorMessage": "Cannot access value for name _camera",
+                        "functionName": "onActivated",
+                        "line": 420
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 50,
+                        "durationMicroseconds": 122,
+                        "errorMessage": "",
+                        "functionName": "onActivated",
+                        "line": 420
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 1050,
+                        "errorMessage": "Cannot generate efficient code for storing an array in a non-sequence type",
+                        "functionName": "model",
+                        "line": 426
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 70,
+                        "errorMessage": "Cannot access value for name _camera",
+                        "functionName": "currentIndex",
+                        "line": 427
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 53,
+                        "errorMessage": "Cannot access value for name _camera",
+                        "functionName": "visible",
+                        "line": 428
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 50,
+                        "durationMicroseconds": 72,
+                        "errorMessage": "Cannot access value for name _camera",
+                        "functionName": "onActivated",
+                        "line": 429
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 50,
+                        "durationMicroseconds": 102,
+                        "errorMessage": "",
+                        "functionName": "onActivated",
+                        "line": 429
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"value\".",
+                        "functionName": "value",
+                        "line": 436
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"visible\".",
+                        "functionName": "visible",
+                        "line": 438
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"valueChanged\".",
+                        "functionName": "onValueChanged",
+                        "line": 439
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 36,
+                        "durationMicroseconds": 60,
+                        "errorMessage": "Cannot access value for name _camera",
+                        "functionName": "model",
+                        "line": 444
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 267,
+                        "errorMessage": "",
+                        "functionName": "spacing",
+                        "line": 448
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 61,
+                        "durationMicroseconds": 88,
+                        "errorMessage": "Cannot access value for name _camera",
+                        "functionName": "_fact",
+                        "line": 450
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 61,
+                        "durationMicroseconds": 69,
+                        "errorMessage": "Cannot load property typeIsBool from (component in C:/Users/User/qgroundcontrol/src/FlightMap/Widgets/PhotoVideoControl.qml)::_fact with type QVariant.",
+                        "functionName": "_isBool",
+                        "line": 451
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 61,
+                        "durationMicroseconds": 111,
+                        "errorMessage": "Cannot load property enumStrings from (component in C:/Users/User/qgroundcontrol/src/FlightMap/Widgets/PhotoVideoControl.qml)::_fact with type QVariant.",
+                        "functionName": "_isCombo",
+                        "line": 452
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 61,
+                        "durationMicroseconds": 62,
+                        "errorMessage": "Cannot load property increment from (component in C:/Users/User/qgroundcontrol/src/FlightMap/Widgets/PhotoVideoControl.qml)::_fact with type QVariant.",
+                        "functionName": "_isSlider",
+                        "line": 453
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 61,
+                        "durationMicroseconds": 97,
+                        "errorMessage": "Cannot load property enumStrings from (component in C:/Users/User/qgroundcontrol/src/FlightMap/Widgets/PhotoVideoControl.qml)::_fact with type QVariant.",
+                        "functionName": "_isEdit",
+                        "line": 454
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 57,
+                        "durationMicroseconds": 201,
+                        "errorMessage": "Cannot load property _fact from (component in C:/Users/User/qgroundcontrol/src/FlightMap/Widgets/PhotoVideoControl.qml)::parent with type QQuickItem.",
+                        "functionName": "fact",
+                        "line": 459
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 57,
+                        "durationMicroseconds": 155,
+                        "errorMessage": "Cannot load property _isCombo from (component in C:/Users/User/qgroundcontrol/src/FlightMap/Widgets/PhotoVideoControl.qml)::parent with type QQuickItem.",
+                        "functionName": "visible",
+                        "line": 461
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 57,
+                        "durationMicroseconds": 77,
+                        "errorMessage": "Cannot access value for name parent",
+                        "functionName": "fact",
+                        "line": 465
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 57,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"visible\".",
+                        "functionName": "visible",
+                        "line": 466
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 55,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"to\".",
+                        "functionName": "to",
+                        "line": 470
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 57,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"from\".",
+                        "functionName": "from",
+                        "line": 471
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 65,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"stepSize\".",
+                        "functionName": "stepSize",
+                        "line": 472
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 65,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"visible\".",
+                        "functionName": "visible",
+                        "line": 473
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"valueChanged\".",
+                        "functionName": "onValueChanged",
+                        "line": 477
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 60,
+                        "durationMicroseconds": 100,
+                        "errorMessage": "Cannot access value for name parent",
+                        "functionName": "onCompleted",
+                        "line": 484
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"checked\".",
+                        "functionName": "checked",
+                        "line": 490
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"visible\".",
+                        "functionName": "visible",
+                        "line": 491
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"clicked\".",
+                        "functionName": "onClicked",
+                        "line": 492
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 621,
+                        "errorMessage": "Cannot generate efficient code for storing an array in a non-sequence type",
+                        "functionName": "model",
+                        "line": 500
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 68,
+                        "errorMessage": "Cannot access value for name _camera",
+                        "functionName": "currentIndex",
+                        "line": 501
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 55,
+                        "errorMessage": "Cannot access value for name _camera",
+                        "functionName": "visible",
+                        "line": 502
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 50,
+                        "durationMicroseconds": 76,
+                        "errorMessage": "Cannot access value for name _camera",
+                        "functionName": "onActivated",
+                        "line": 503
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 50,
+                        "durationMicroseconds": 118,
+                        "errorMessage": "",
+                        "functionName": "onActivated",
+                        "line": 503
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"value\".",
+                        "functionName": "value",
+                        "line": 511
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"visible\".",
+                        "functionName": "visible",
+                        "line": 514
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"valueChanged\".",
+                        "functionName": "onValueChanged",
+                        "line": 515
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"checked\".",
+                        "functionName": "checked",
+                        "line": 519
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"visible\".",
+                        "functionName": "visible",
+                        "line": 520
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"clicked\".",
+                        "functionName": "onClicked",
+                        "line": 521
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 74,
+                        "errorMessage": "Cannot access value for name _videoSettings",
+                        "functionName": "fact",
+                        "line": 527
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 56,
+                        "errorMessage": "Cannot access value for name _camera",
+                        "functionName": "visible",
+                        "line": 529
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"clicked\".",
+                        "functionName": "onClicked",
+                        "line": 535
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 419,
+                        "errorMessage": "",
+                        "functionName": "buttons",
+                        "line": 540
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 50,
+                        "durationMicroseconds": 225,
+                        "errorMessage": "Cannot access value for name _camera",
+                        "functionName": "onButtonClicked",
+                        "line": 542
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 50,
+                        "durationMicroseconds": 143,
+                        "errorMessage": "",
+                        "functionName": "onButtonClicked",
+                        "line": 542
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"visible\".",
+                        "functionName": "visible",
+                        "line": 559
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"clicked\".",
+                        "functionName": "onClicked",
+                        "line": 560
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 433,
+                        "errorMessage": "",
+                        "functionName": "buttons",
+                        "line": 565
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 50,
+                        "durationMicroseconds": 221,
+                        "errorMessage": "Cannot access value for name _camera",
+                        "functionName": "onButtonClicked",
+                        "line": 567
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 50,
+                        "durationMicroseconds": 134,
+                        "errorMessage": "",
+                        "functionName": "onButtonClicked",
+                        "line": 567
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/FlightMap/Widgets/PhotoVideoControl.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.FlightMap(FlightMapModule)"
+    }
+]

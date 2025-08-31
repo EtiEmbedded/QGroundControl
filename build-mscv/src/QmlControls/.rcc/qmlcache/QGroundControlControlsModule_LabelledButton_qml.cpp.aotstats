@@ -1,0 +1,36 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 17,
+                        "durationMicroseconds": 7775,
+                        "errorMessage": "",
+                        "functionName": "spacing",
+                        "line": 25
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"clicked\".",
+                        "functionName": "onClicked",
+                        "line": 35
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 57,
+                        "errorMessage": "Cannot access value for name buttonPreferredWidth",
+                        "functionName": "preferredWidth",
+                        "line": 34
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/QmlControls/LabelledButton.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.Controls(QGroundControlControlsModule)"
+    }
+]

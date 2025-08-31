@@ -1,0 +1,43 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/cpm_modules/libevents/1ea2d34e1cc3658140fb45034b187e87d60c899b/libs/cpp/common/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 8,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "include/libevents/common",
+			"paths" : 
+			[
+				"build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/cpm_modules/libevents/1ea2d34e1cc3658140fb45034b187e87d60c899b/libs/cpp/common/event_type.h"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "_deps/libevents-build/common",
+		"source" : "build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/cpm_modules/libevents/1ea2d34e1cc3658140fb45034b187e87d60c899b/libs/cpp/common"
+	}
+}

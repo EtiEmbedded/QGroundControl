@@ -1,0 +1,84 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 5,
+                        "durationMicroseconds": 5609,
+                        "errorMessage": "",
+                        "functionName": "resetCamera",
+                        "line": 18
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 21,
+                        "durationMicroseconds": 90,
+                        "errorMessage": "Cannot access value for name lightsBrightness",
+                        "functionName": "brightness",
+                        "line": 37
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 21,
+                        "durationMicroseconds": 42,
+                        "errorMessage": "Cannot access value for name lightsBrightness",
+                        "functionName": "brightness",
+                        "line": 47
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 21,
+                        "durationMicroseconds": 34,
+                        "errorMessage": "Cannot access value for name lightsBrightness",
+                        "functionName": "brightness",
+                        "line": 52
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 21,
+                        "durationMicroseconds": 31,
+                        "errorMessage": "Cannot access value for name lightsBrightness",
+                        "functionName": "brightness",
+                        "line": 57
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 21,
+                        "durationMicroseconds": 33,
+                        "errorMessage": "Cannot access value for name lightsBrightness",
+                        "functionName": "brightness",
+                        "line": 62
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 24,
+                        "durationMicroseconds": 66,
+                        "errorMessage": "Cannot access value for name _zoom",
+                        "functionName": "x",
+                        "line": 76
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 24,
+                        "durationMicroseconds": 50,
+                        "errorMessage": "Cannot access value for name _zoom",
+                        "functionName": "z",
+                        "line": 77
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 24,
+                        "durationMicroseconds": 65,
+                        "errorMessage": "Cannot access value for name _zoom",
+                        "functionName": "y",
+                        "line": 78
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/Viewer3D/Viewer3DQml/Models3D/CameraLightModel.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.Viewer3D(Viewer3DModule)"
+    }
+]

@@ -1,0 +1,228 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 20610,
+                        "errorMessage": "",
+                        "functionName": "radius",
+                        "line": 22
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 127,
+                        "errorMessage": "",
+                        "functionName": "_arrowBaseHeight",
+                        "line": 32
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 224,
+                        "errorMessage": "",
+                        "functionName": "_arrowPointWidth",
+                        "line": 33
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 166,
+                        "errorMessage": "",
+                        "functionName": "_dropMargin",
+                        "line": 34
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 465,
+                        "errorMessage": "",
+                        "functionName": "_viewportMaxBottom",
+                        "line": 39
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 229,
+                        "errorMessage": "",
+                        "functionName": "_viewportMaxHeight",
+                        "line": 40
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "show",
+                        "line": 44
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 104,
+                        "errorMessage": "Type (component in C:/Users/User/qgroundcontrol/src/QmlControls/ToolStripDropPanel.qml)::_parentButton with type QVariant does not have a property checked for writing",
+                        "functionName": "hide",
+                        "line": 53
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 111,
+                        "errorMessage": "Cannot load property width from QQuickLoader::item with type QObject.",
+                        "functionName": "_calcPositions",
+                        "line": 62
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 78,
+                        "errorMessage": "Cannot access value for name toolStrip",
+                        "functionName": "z",
+                        "line": 97
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 634,
+                        "errorMessage": "Cannot access value for name dropPanel",
+                        "functionName": "onClicked",
+                        "line": 98
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 169,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 96
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 27,
+                        "durationMicroseconds": 131,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 107
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 40,
+                        "durationMicroseconds": 459,
+                        "errorMessage": "",
+                        "functionName": "arrowPoint",
+                        "line": 114
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 40,
+                        "durationMicroseconds": 420,
+                        "errorMessage": "",
+                        "functionName": "arrowBase1",
+                        "line": 115
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 40,
+                        "durationMicroseconds": 400,
+                        "errorMessage": "",
+                        "functionName": "arrowBase2",
+                        "line": 116
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 22,
+                        "durationMicroseconds": 101,
+                        "errorMessage": "Cannot access value for name _arrowPointWidth",
+                        "functionName": "onPaint",
+                        "line": 118
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 149,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 112
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 204,
+                        "errorMessage": "",
+                        "functionName": "flickableDirection",
+                        "line": 148
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 185,
+                        "errorMessage": "",
+                        "functionName": "contentWidth",
+                        "line": 149
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 159,
+                        "errorMessage": "",
+                        "functionName": "contentHeight",
+                        "line": 150
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 65,
+                        "errorMessage": "Cannot access value for name _dropMargin",
+                        "functionName": "margins",
+                        "line": 145
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 67,
+                        "errorMessage": "Cannot access value for name _dropMargin",
+                        "functionName": "leftMargin",
+                        "line": 146
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 146,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 147
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 720,
+                        "errorMessage": "method _calcPositions cannot be resolved.",
+                        "functionName": "onHeightChanged",
+                        "line": 155
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 625,
+                        "errorMessage": "method _calcPositions cannot be resolved.",
+                        "functionName": "onWidthChanged",
+                        "line": 156
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 193,
+                        "errorMessage": "",
+                        "functionName": "dropPanel",
+                        "line": 158
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/QmlControls/ToolStripDropPanel.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.Controls(QGroundControlControlsModule)"
+    }
+]

@@ -1,0 +1,748 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 13,
+                        "durationMicroseconds": 395,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 23
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 15216,
+                        "errorMessage": "",
+                        "functionName": "_sliderType",
+                        "line": 34
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 686,
+                        "errorMessage": "Cannot access value for name QGroundControl",
+                        "functionName": "_unitsSettings",
+                        "line": 37
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 287,
+                        "errorMessage": "",
+                        "functionName": "_indicatorCenterPos",
+                        "line": 38
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 333,
+                        "errorMessage": "Cannot generate efficient code for storing an array in a non-sequence type",
+                        "functionName": "_rgValueRanges",
+                        "line": 41
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 227,
+                        "errorMessage": "Cannot generate efficient code for storing an array in a non-sequence type",
+                        "functionName": "_rgValidMajorTickSteps",
+                        "line": 42
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 264,
+                        "errorMessage": "Cannot generate efficient code for LoadElement with non-list base type (component in C:/Users/User/qgroundcontrol/src/FlightDisplay/GuidedValueSlider.qml)::_rgValueRanges with type QVariant (stored as QJSValue)",
+                        "functionName": "_fullSliderValueRange",
+                        "line": 43
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 186,
+                        "errorMessage": "",
+                        "functionName": "_halfSliderValueRange",
+                        "line": 44
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 5238,
+                        "errorMessage": "",
+                        "functionName": "_majorTickWidth",
+                        "line": 46
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 210,
+                        "errorMessage": "",
+                        "functionName": "_majorTickPixelHeight",
+                        "line": 47
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 168,
+                        "errorMessage": "",
+                        "functionName": "_tickValueRightMargin",
+                        "line": 48
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 163,
+                        "errorMessage": "",
+                        "functionName": "_minorTickWidth",
+                        "line": 49
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 161,
+                        "errorMessage": "",
+                        "functionName": "_sliderValuePerPixel",
+                        "line": 50
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 164,
+                        "errorMessage": "",
+                        "functionName": "_minorTickValueStep",
+                        "line": 53
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 406,
+                        "errorMessage": "",
+                        "functionName": "_sliderValue",
+                        "line": 55
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 57,
+                        "durationMicroseconds": 328,
+                        "errorMessage": "",
+                        "functionName": "_majorTicksVisibleAboveIndicator",
+                        "line": 62
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 57,
+                        "durationMicroseconds": 218,
+                        "errorMessage": "",
+                        "functionName": "_majorTickAdjustment",
+                        "line": 63
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 533,
+                        "errorMessage": "",
+                        "functionName": "_majorTickMaxValue",
+                        "line": 66
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 464,
+                        "errorMessage": "",
+                        "functionName": "_majorTickMinValue",
+                        "line": 67
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 313,
+                        "errorMessage": "",
+                        "functionName": "_firstTickPixelOffset",
+                        "line": 70
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 240,
+                        "errorMessage": "",
+                        "functionName": "_firstPixelValue",
+                        "line": 71
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 474,
+                        "errorMessage": "",
+                        "functionName": "_sliderHeight",
+                        "line": 74
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 325,
+                        "errorMessage": "",
+                        "functionName": "_cMajorTicks",
+                        "line": 76
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 27,
+                        "durationMicroseconds": 646,
+                        "errorMessage": "Cannot access value for name QGroundControl",
+                        "functionName": "_qgcPal",
+                        "line": 78
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "setCurrentValue",
+                        "line": 80
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "setupSlider",
+                        "line": 93
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "_clampedSliderValueString",
+                        "line": 102
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 120,
+                        "errorMessage": "function without return type annotation returns QJSValue. This may prevent proper compilation to Cpp.",
+                        "functionName": "getOutputValue",
+                        "line": 110
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 138,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 115
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 41,
+                        "errorMessage": "Cannot access value for name _qgcPal",
+                        "functionName": "color",
+                        "line": 120
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 82,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 119
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 80,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 125
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 34,
+                        "durationMicroseconds": 128,
+                        "errorMessage": "",
+                        "functionName": "horizontalAlignment",
+                        "line": 130
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 41,
+                        "errorMessage": "Cannot access value for name _displayText",
+                        "functionName": "text",
+                        "line": 132
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 125,
+                        "errorMessage": "",
+                        "functionName": "pointSize",
+                        "line": 131
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 133,
+                        "errorMessage": "",
+                        "functionName": "contentWidth",
+                        "line": 139
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 100,
+                        "errorMessage": "",
+                        "functionName": "contentHeight",
+                        "line": 140
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 107,
+                        "errorMessage": "",
+                        "functionName": "flickableDirection",
+                        "line": 141
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 36,
+                        "durationMicroseconds": 238,
+                        "errorMessage": "",
+                        "functionName": "onCompleted",
+                        "line": 145
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 118,
+                        "errorMessage": "",
+                        "functionName": "from",
+                        "line": 150
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 95,
+                        "errorMessage": "",
+                        "functionName": "to",
+                        "line": 151
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 114,
+                        "errorMessage": "",
+                        "functionName": "type",
+                        "line": 152
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 109,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 161
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 40,
+                        "errorMessage": "Cannot access value for name _sliderHeight",
+                        "functionName": "height",
+                        "line": 162
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 28,
+                        "durationMicroseconds": 30,
+                        "errorMessage": "Cannot access value for name _cMajorTicks",
+                        "functionName": "model",
+                        "line": 166
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 38,
+                        "errorMessage": "Cannot access value for name sliderContainer",
+                        "functionName": "width",
+                        "line": 169
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 54,
+                        "errorMessage": "Cannot access value for name _majorTickPixelHeight",
+                        "functionName": "y",
+                        "line": 171
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 50,
+                        "errorMessage": "Cannot access value for name _sliderMinVal",
+                        "functionName": "opacity",
+                        "line": 172
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 50,
+                        "durationMicroseconds": 30,
+                        "errorMessage": "Cannot access value for name _majorTickMaxValue",
+                        "functionName": "tickValue",
+                        "line": 174
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 28,
+                        "errorMessage": "Cannot access value for name _majorTickWidth",
+                        "functionName": "width",
+                        "line": 178
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 39,
+                        "errorMessage": "Cannot access value for name _qgcPal",
+                        "functionName": "color",
+                        "line": 180
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 135,
+                        "errorMessage": "Cannot load property tickValue from (component in C:/Users/User/qgroundcontrol/src/FlightDisplay/GuidedValueSlider.qml)::parent with type QQuickItem.",
+                        "functionName": "text",
+                        "line": 187
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 48,
+                        "errorMessage": "Cannot access value for name _tickValueRightMargin",
+                        "functionName": "margins",
+                        "line": 184
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 204,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 185
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 142,
+                        "errorMessage": "",
+                        "functionName": "verticalCenter",
+                        "line": 186
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 133,
+                        "errorMessage": "",
+                        "functionName": "pointSize",
+                        "line": 188
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 28,
+                        "durationMicroseconds": 45,
+                        "errorMessage": "Cannot access value for name _cMajorTicks",
+                        "functionName": "model",
+                        "line": 195
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 71,
+                        "errorMessage": "Cannot access value for name _majorTickPixelHeight",
+                        "functionName": "y",
+                        "line": 198
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 32,
+                        "errorMessage": "Cannot access value for name _minorTickWidth",
+                        "functionName": "width",
+                        "line": 199
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 31,
+                        "errorMessage": "Cannot access value for name _qgcPal",
+                        "functionName": "color",
+                        "line": 201
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 76,
+                        "errorMessage": "Cannot access value for name _sliderMinVal",
+                        "functionName": "opacity",
+                        "line": 202
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 26,
+                        "errorMessage": "Cannot access value for name index",
+                        "functionName": "visible",
+                        "line": 203
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 50,
+                        "durationMicroseconds": 34,
+                        "errorMessage": "Cannot access value for name _majorTickMaxValue",
+                        "functionName": "tickValue",
+                        "line": 205
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 17,
+                        "durationMicroseconds": 120,
+                        "errorMessage": "Cannot access value for name _indicatorCenterPos",
+                        "functionName": "y",
+                        "line": 215
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 17,
+                        "durationMicroseconds": 381,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 216
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 17,
+                        "durationMicroseconds": 100,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 217
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 203,
+                        "errorMessage": "",
+                        "functionName": "indicatorValueMargins",
+                        "line": 227
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 120,
+                        "errorMessage": "",
+                        "functionName": "indicatorHeight",
+                        "line": 228
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 90,
+                        "errorMessage": "",
+                        "functionName": "pointerWidth",
+                        "line": 229
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 325,
+                        "errorMessage": "",
+                        "functionName": "minIndicatorWidth",
+                        "line": 230
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 92,
+                        "errorMessage": "",
+                        "functionName": "maxDigitsWidth",
+                        "line": 231
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 83,
+                        "errorMessage": "",
+                        "functionName": "intraTickDigitSpacing",
+                        "line": 232
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 61,
+                        "errorMessage": "Cannot access value for name _majorTickWidth",
+                        "functionName": "maxMajorTickDisplayWidth",
+                        "line": 233
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 18,
+                        "durationMicroseconds": 74,
+                        "errorMessage": "Cannot access value for name _qgcPal",
+                        "functionName": "onPaint",
+                        "line": 235
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 98,
+                        "errorMessage": "",
+                        "functionName": "pointSize",
+                        "line": 223
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 108,
+                        "errorMessage": "",
+                        "functionName": "horizontalAlignment",
+                        "line": 258
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 86,
+                        "errorMessage": "",
+                        "functionName": "verticalAlignment",
+                        "line": 259
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 58,
+                        "errorMessage": "Cannot access value for name _sliderValue",
+                        "functionName": "text",
+                        "line": 260
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 39,
+                        "durationMicroseconds": 36,
+                        "errorMessage": "Cannot access value for name _sliderType",
+                        "functionName": "unitsString",
+                        "line": 263
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 1191,
+                        "errorMessage": "",
+                        "functionName": "margins",
+                        "line": 255
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 190,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 256
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 145,
+                        "errorMessage": "",
+                        "functionName": "verticalCenter",
+                        "line": 257
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 115,
+                        "errorMessage": "",
+                        "functionName": "pointSize",
+                        "line": 261
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 24,
+                        "durationMicroseconds": 51,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: sliderValueTextField",
+                        "functionName": "onClicked",
+                        "line": 270
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 27,
+                        "durationMicroseconds": 112,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 269
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 143,
+                        "errorMessage": "",
+                        "functionName": "unitsLabel",
+                        "line": 282
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 32,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"editingFinished\".",
+                        "functionName": "onEditingFinished",
+                        "line": 286
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"leftMargin\".",
+                        "functionName": "leftMargin",
+                        "line": 279
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"fill\".",
+                        "functionName": "fill",
+                        "line": 280
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 113,
+                        "errorMessage": "",
+                        "functionName": "target",
+                        "line": 293
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 17,
+                        "durationMicroseconds": 39,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: sliderValueTextField",
+                        "functionName": "on_SliderValueChanged",
+                        "line": 294
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 188,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 301
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/FlightDisplay/GuidedValueSlider.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.FlightDisplay(FlightDisplayModule)"
+    }
+]

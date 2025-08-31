@@ -1,0 +1,276 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 530,
+                        "errorMessage": "Cannot access value for name qgcPal",
+                        "functionName": "__barColor",
+                        "line": 17
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 409,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 23
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 379,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 24
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 56,
+                        "errorMessage": "Cannot access value for name __barColor",
+                        "functionName": "color",
+                        "line": 25
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 301,
+                        "errorMessage": "",
+                        "functionName": "verticalCenter",
+                        "line": 22
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 126,
+                        "errorMessage": "",
+                        "functionName": "x",
+                        "line": 32
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 105,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 33
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 344,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 34
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 66,
+                        "errorMessage": "Cannot access value for name deadbandColor",
+                        "functionName": "color",
+                        "line": 35
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 596,
+                        "errorMessage": "Cannot access value for name controller",
+                        "functionName": "visible",
+                        "line": 36
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 60,
+                        "errorMessage": "Cannot access value for name deadbandValue",
+                        "functionName": "_percentDeadband",
+                        "line": 38
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 323,
+                        "errorMessage": "",
+                        "functionName": "_deadbandWidth",
+                        "line": 39
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 408,
+                        "errorMessage": "",
+                        "functionName": "_deadbandPosition",
+                        "line": 40
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 213,
+                        "errorMessage": "",
+                        "functionName": "verticalCenter",
+                        "line": 31
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 17178,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 46
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 213,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 47
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 403,
+                        "errorMessage": "Cannot access value for name qgcPal",
+                        "functionName": "color",
+                        "line": 48
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 280,
+                        "errorMessage": "",
+                        "functionName": "horizontalCenter",
+                        "line": 45
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 248,
+                        "errorMessage": "Cannot load property narrowIndicator from (component in C:/Users/User/qgroundcontrol/src/QmlControls/AxisMonitor.qml)::parent with type QQuickItem.",
+                        "functionName": "width",
+                        "line": 54
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 387,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 55
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 71,
+                        "errorMessage": "Cannot access value for name reversed",
+                        "functionName": "x",
+                        "line": 56
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 265,
+                        "errorMessage": "",
+                        "functionName": "radius",
+                        "line": 57
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 473,
+                        "errorMessage": "Cannot access value for name qgcPal",
+                        "functionName": "color",
+                        "line": 58
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 51,
+                        "errorMessage": "Cannot access value for name mapped",
+                        "functionName": "visible",
+                        "line": 59
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 54,
+                        "errorMessage": "Cannot access value for name axisValue",
+                        "functionName": "_percentAxisValue",
+                        "line": 61
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 361,
+                        "errorMessage": "",
+                        "functionName": "_indicatorPosition",
+                        "line": 62
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 278,
+                        "errorMessage": "",
+                        "functionName": "verticalCenter",
+                        "line": 53
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 218,
+                        "errorMessage": "",
+                        "functionName": "horizontalAlignment",
+                        "line": 67
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 168,
+                        "errorMessage": "",
+                        "functionName": "verticalAlignment",
+                        "line": 68
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 55,
+                        "errorMessage": "Cannot access value for name mapped",
+                        "functionName": "visible",
+                        "line": 70
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 135,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 66
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 21,
+                        "durationMicroseconds": 166,
+                        "errorMessage": "",
+                        "functionName": "target",
+                        "line": 75
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 21,
+                        "durationMicroseconds": 48,
+                        "errorMessage": "Cannot access value for name __barColor",
+                        "functionName": "to",
+                        "line": 78
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/QmlControls/AxisMonitor.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.Controls(QGroundControlControlsModule)"
+    }
+]

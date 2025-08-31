@@ -1,0 +1,1308 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 21,
+                        "durationMicroseconds": 280,
+                        "errorMessage": "",
+                        "functionName": "pageComponent",
+                        "line": 23
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 164,
+                        "errorMessage": "Cannot access value for name availableWidth",
+                        "functionName": "width",
+                        "line": 30
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 113,
+                        "errorMessage": "",
+                        "functionName": "spacing",
+                        "line": 31
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 5896,
+                        "errorMessage": "",
+                        "functionName": "_margins",
+                        "line": 37
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 187,
+                        "errorMessage": "",
+                        "functionName": "_showIcon",
+                        "line": 38
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 317,
+                        "errorMessage": "",
+                        "functionName": "_hSvMan",
+                        "line": 40
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 220,
+                        "errorMessage": "",
+                        "functionName": "_hSwType",
+                        "line": 41
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 226,
+                        "errorMessage": "",
+                        "functionName": "_hSwColDir",
+                        "line": 42
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 221,
+                        "errorMessage": "",
+                        "functionName": "_hSwLinSvo",
+                        "line": 43
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 222,
+                        "errorMessage": "",
+                        "functionName": "_hFlybarMode",
+                        "line": 44
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 310,
+                        "errorMessage": "",
+                        "functionName": "_hCycMax",
+                        "line": 45
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 215,
+                        "errorMessage": "",
+                        "functionName": "_hColMax",
+                        "line": 46
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 235,
+                        "errorMessage": "",
+                        "functionName": "_hColAngMax",
+                        "line": 47
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 242,
+                        "errorMessage": "",
+                        "functionName": "_hColMin",
+                        "line": 48
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 205,
+                        "errorMessage": "",
+                        "functionName": "_hColAngMin",
+                        "line": 49
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 234,
+                        "errorMessage": "",
+                        "functionName": "_hColZeroThrst",
+                        "line": 50
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 202,
+                        "errorMessage": "",
+                        "functionName": "_hColLandMin",
+                        "line": 51
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 215,
+                        "errorMessage": "",
+                        "functionName": "_hRscMode",
+                        "line": 53
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 195,
+                        "errorMessage": "",
+                        "functionName": "_hRscCritical",
+                        "line": 54
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 218,
+                        "errorMessage": "",
+                        "functionName": "_hRscRampTime",
+                        "line": 55
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 206,
+                        "errorMessage": "",
+                        "functionName": "_hRscRunupTime",
+                        "line": 56
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 211,
+                        "errorMessage": "",
+                        "functionName": "_hRscCldwnTime",
+                        "line": 57
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 200,
+                        "errorMessage": "",
+                        "functionName": "_hRscSetpoint",
+                        "line": 58
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 198,
+                        "errorMessage": "",
+                        "functionName": "_hRscIdle",
+                        "line": 59
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 231,
+                        "errorMessage": "",
+                        "functionName": "_hRscThrcrv0",
+                        "line": 60
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 456,
+                        "errorMessage": "",
+                        "functionName": "_hRscThrcrv25",
+                        "line": 61
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 389,
+                        "errorMessage": "",
+                        "functionName": "_hRscThrcrv50",
+                        "line": 62
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 212,
+                        "errorMessage": "",
+                        "functionName": "_hRscThrcrv75",
+                        "line": 63
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 214,
+                        "errorMessage": "",
+                        "functionName": "_hRscThrcrv100",
+                        "line": 64
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 239,
+                        "errorMessage": "",
+                        "functionName": "_hRscGovComp",
+                        "line": 66
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 262,
+                        "errorMessage": "",
+                        "functionName": "_hRscGovDroop",
+                        "line": 67
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 217,
+                        "errorMessage": "",
+                        "functionName": "_hRscGovFf",
+                        "line": 68
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 207,
+                        "errorMessage": "",
+                        "functionName": "_hRscGovRange",
+                        "line": 69
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 262,
+                        "errorMessage": "",
+                        "functionName": "_hRscGovRpm",
+                        "line": 70
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 205,
+                        "errorMessage": "",
+                        "functionName": "_hRscGovTorque",
+                        "line": 71
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 44,
+                        "durationMicroseconds": 241,
+                        "errorMessage": "",
+                        "functionName": "_imStbCol1",
+                        "line": 73
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 44,
+                        "durationMicroseconds": 234,
+                        "errorMessage": "",
+                        "functionName": "_imStbCol2",
+                        "line": 74
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 44,
+                        "durationMicroseconds": 221,
+                        "errorMessage": "",
+                        "functionName": "_imStbCol3",
+                        "line": 75
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 44,
+                        "durationMicroseconds": 383,
+                        "errorMessage": "",
+                        "functionName": "_imStbCol4",
+                        "line": 76
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 237,
+                        "errorMessage": "",
+                        "functionName": "_hTailType",
+                        "line": 77
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 285,
+                        "errorMessage": "",
+                        "functionName": "_hTailSpeed",
+                        "line": 78
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 223,
+                        "errorMessage": "",
+                        "functionName": "_hGyrGain",
+                        "line": 79
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 261,
+                        "errorMessage": "",
+                        "functionName": "_hGyrGainAcro",
+                        "line": 80
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 233,
+                        "errorMessage": "",
+                        "functionName": "_hColYaw",
+                        "line": 81
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 256,
+                        "errorMessage": "",
+                        "functionName": "fact",
+                        "line": 98
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 996,
+                        "errorMessage": "",
+                        "functionName": "fact",
+                        "line": 103
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 333,
+                        "errorMessage": "",
+                        "functionName": "fact",
+                        "line": 107
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 276,
+                        "errorMessage": "",
+                        "functionName": "fact",
+                        "line": 111
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 310,
+                        "errorMessage": "",
+                        "functionName": "fact",
+                        "line": 115
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 596,
+                        "errorMessage": "",
+                        "functionName": "fact",
+                        "line": 121
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 262,
+                        "errorMessage": "",
+                        "functionName": "fact",
+                        "line": 126
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 231,
+                        "errorMessage": "",
+                        "functionName": "fact",
+                        "line": 130
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 194,
+                        "errorMessage": "",
+                        "functionName": "fact",
+                        "line": 134
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 190,
+                        "errorMessage": "",
+                        "functionName": "fact",
+                        "line": 138
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 206,
+                        "errorMessage": "",
+                        "functionName": "fact",
+                        "line": 144
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 290,
+                        "errorMessage": "",
+                        "functionName": "fact",
+                        "line": 149
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 212,
+                        "errorMessage": "",
+                        "functionName": "fact",
+                        "line": 153
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 336,
+                        "errorMessage": "",
+                        "functionName": "fact",
+                        "line": 157
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 235,
+                        "errorMessage": "",
+                        "functionName": "fact",
+                        "line": 161
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 244,
+                        "errorMessage": "",
+                        "functionName": "fact",
+                        "line": 167
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 223,
+                        "errorMessage": "",
+                        "functionName": "fact",
+                        "line": 172
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 207,
+                        "errorMessage": "",
+                        "functionName": "fact",
+                        "line": 176
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 235,
+                        "errorMessage": "",
+                        "functionName": "fact",
+                        "line": 180
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 235,
+                        "errorMessage": "",
+                        "functionName": "fact",
+                        "line": 184
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 243,
+                        "errorMessage": "",
+                        "functionName": "fact",
+                        "line": 190
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 255,
+                        "errorMessage": "",
+                        "functionName": "fact",
+                        "line": 195
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 376,
+                        "errorMessage": "",
+                        "functionName": "fact",
+                        "line": 199
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 287,
+                        "errorMessage": "",
+                        "functionName": "fact",
+                        "line": 203
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 290,
+                        "errorMessage": "",
+                        "functionName": "fact",
+                        "line": 207
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 643,
+                        "errorMessage": "",
+                        "functionName": "fact",
+                        "line": 213
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 354,
+                        "errorMessage": "",
+                        "functionName": "fact",
+                        "line": 218
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 359,
+                        "errorMessage": "",
+                        "functionName": "fact",
+                        "line": 222
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 228,
+                        "errorMessage": "",
+                        "functionName": "fact",
+                        "line": 226
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 228,
+                        "errorMessage": "",
+                        "functionName": "fact",
+                        "line": 230
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 257,
+                        "errorMessage": "",
+                        "functionName": "fact",
+                        "line": 236
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 216,
+                        "errorMessage": "",
+                        "functionName": "fact",
+                        "line": 241
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 215,
+                        "errorMessage": "",
+                        "functionName": "fact",
+                        "line": 245
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 225,
+                        "errorMessage": "",
+                        "functionName": "fact",
+                        "line": 249
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 222,
+                        "errorMessage": "",
+                        "functionName": "fact",
+                        "line": 253
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 201,
+                        "errorMessage": "",
+                        "functionName": "fact",
+                        "line": 259
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 211,
+                        "errorMessage": "",
+                        "functionName": "fact",
+                        "line": 264
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 235,
+                        "errorMessage": "",
+                        "functionName": "fact",
+                        "line": 268
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 213,
+                        "errorMessage": "",
+                        "functionName": "fact",
+                        "line": 272
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 216,
+                        "errorMessage": "",
+                        "functionName": "fact",
+                        "line": 276
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 38,
+                        "durationMicroseconds": 52,
+                        "errorMessage": "Cannot access value for name _hSvMan",
+                        "functionName": "text",
+                        "line": 288
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 38,
+                        "errorMessage": "Cannot access value for name _hSvMan",
+                        "functionName": "fact",
+                        "line": 290
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 38,
+                        "durationMicroseconds": 33,
+                        "errorMessage": "Cannot access value for name _hSwType",
+                        "functionName": "text",
+                        "line": 294
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 31,
+                        "errorMessage": "Cannot access value for name _hSwType",
+                        "functionName": "fact",
+                        "line": 296
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 38,
+                        "durationMicroseconds": 30,
+                        "errorMessage": "Cannot access value for name _hSwColDir",
+                        "functionName": "text",
+                        "line": 300
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 30,
+                        "errorMessage": "Cannot access value for name _hSwColDir",
+                        "functionName": "fact",
+                        "line": 302
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 38,
+                        "durationMicroseconds": 28,
+                        "errorMessage": "Cannot access value for name _hSwLinSvo",
+                        "functionName": "text",
+                        "line": 306
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 33,
+                        "errorMessage": "Cannot access value for name _hSwLinSvo",
+                        "functionName": "fact",
+                        "line": 308
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 38,
+                        "durationMicroseconds": 31,
+                        "errorMessage": "Cannot access value for name _hFlybarMode",
+                        "functionName": "text",
+                        "line": 312
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 30,
+                        "errorMessage": "Cannot access value for name _hFlybarMode",
+                        "functionName": "fact",
+                        "line": 314
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 38,
+                        "durationMicroseconds": 29,
+                        "errorMessage": "Cannot access value for name _hCycMax",
+                        "functionName": "text",
+                        "line": 318
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 43,
+                        "durationMicroseconds": 36,
+                        "errorMessage": "Cannot access value for name _hCycMax",
+                        "functionName": "fact",
+                        "line": 319
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 38,
+                        "durationMicroseconds": 31,
+                        "errorMessage": "Cannot access value for name _hColMax",
+                        "functionName": "text",
+                        "line": 321
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 43,
+                        "durationMicroseconds": 36,
+                        "errorMessage": "Cannot access value for name _hColMax",
+                        "functionName": "fact",
+                        "line": 322
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 38,
+                        "durationMicroseconds": 32,
+                        "errorMessage": "Cannot access value for name _hColAngMax",
+                        "functionName": "text",
+                        "line": 324
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 43,
+                        "durationMicroseconds": 26,
+                        "errorMessage": "Cannot access value for name _hColAngMax",
+                        "functionName": "fact",
+                        "line": 325
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 38,
+                        "durationMicroseconds": 30,
+                        "errorMessage": "Cannot access value for name _hColMin",
+                        "functionName": "text",
+                        "line": 327
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 43,
+                        "durationMicroseconds": 26,
+                        "errorMessage": "Cannot access value for name _hColMin",
+                        "functionName": "fact",
+                        "line": 328
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 38,
+                        "durationMicroseconds": 28,
+                        "errorMessage": "Cannot access value for name _hColAngMin",
+                        "functionName": "text",
+                        "line": 330
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 43,
+                        "durationMicroseconds": 35,
+                        "errorMessage": "Cannot access value for name _hColAngMin",
+                        "functionName": "fact",
+                        "line": 331
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 38,
+                        "durationMicroseconds": 33,
+                        "errorMessage": "Cannot access value for name _hColZeroThrst",
+                        "functionName": "text",
+                        "line": 333
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 43,
+                        "durationMicroseconds": 30,
+                        "errorMessage": "Cannot access value for name _hColZeroThrst",
+                        "functionName": "fact",
+                        "line": 334
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 38,
+                        "durationMicroseconds": 31,
+                        "errorMessage": "Cannot access value for name _hColLandMin",
+                        "functionName": "text",
+                        "line": 336
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 43,
+                        "durationMicroseconds": 25,
+                        "errorMessage": "Cannot access value for name _hColLandMin",
+                        "functionName": "fact",
+                        "line": 337
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 38,
+                        "durationMicroseconds": 45,
+                        "errorMessage": "Cannot access value for name _hRscMode",
+                        "functionName": "text",
+                        "line": 347
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 34,
+                        "errorMessage": "Cannot access value for name _hRscMode",
+                        "functionName": "fact",
+                        "line": 349
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 38,
+                        "durationMicroseconds": 27,
+                        "errorMessage": "Cannot access value for name _hRscCritical",
+                        "functionName": "text",
+                        "line": 353
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 43,
+                        "durationMicroseconds": 26,
+                        "errorMessage": "Cannot access value for name _hRscCritical",
+                        "functionName": "fact",
+                        "line": 354
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 38,
+                        "durationMicroseconds": 56,
+                        "errorMessage": "Cannot access value for name _hRscRampTime",
+                        "functionName": "text",
+                        "line": 356
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 43,
+                        "durationMicroseconds": 28,
+                        "errorMessage": "Cannot access value for name _hRscRampTime",
+                        "functionName": "fact",
+                        "line": 357
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 38,
+                        "durationMicroseconds": 49,
+                        "errorMessage": "Cannot access value for name _hRscRunupTime",
+                        "functionName": "text",
+                        "line": 359
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 43,
+                        "durationMicroseconds": 26,
+                        "errorMessage": "Cannot access value for name _hRscRunupTime",
+                        "functionName": "fact",
+                        "line": 360
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 38,
+                        "durationMicroseconds": 30,
+                        "errorMessage": "Cannot access value for name _hRscCldwnTime",
+                        "functionName": "text",
+                        "line": 362
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 43,
+                        "durationMicroseconds": 24,
+                        "errorMessage": "Cannot access value for name _hRscCldwnTime",
+                        "functionName": "fact",
+                        "line": 363
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 38,
+                        "durationMicroseconds": 47,
+                        "errorMessage": "Cannot access value for name _hRscSetpoint",
+                        "functionName": "text",
+                        "line": 365
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 43,
+                        "durationMicroseconds": 28,
+                        "errorMessage": "Cannot access value for name _hRscSetpoint",
+                        "functionName": "fact",
+                        "line": 366
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 38,
+                        "durationMicroseconds": 30,
+                        "errorMessage": "Cannot access value for name _hRscIdle",
+                        "functionName": "text",
+                        "line": 368
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 43,
+                        "durationMicroseconds": 23,
+                        "errorMessage": "Cannot access value for name _hRscIdle",
+                        "functionName": "fact",
+                        "line": 369
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 38,
+                        "durationMicroseconds": 30,
+                        "errorMessage": "Cannot access value for name _hRscThrcrv0",
+                        "functionName": "text",
+                        "line": 371
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 43,
+                        "durationMicroseconds": 25,
+                        "errorMessage": "Cannot access value for name _hRscThrcrv0",
+                        "functionName": "fact",
+                        "line": 372
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 38,
+                        "durationMicroseconds": 33,
+                        "errorMessage": "Cannot access value for name _hRscThrcrv25",
+                        "functionName": "text",
+                        "line": 374
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 43,
+                        "durationMicroseconds": 47,
+                        "errorMessage": "Cannot access value for name _hRscThrcrv25",
+                        "functionName": "fact",
+                        "line": 375
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 38,
+                        "durationMicroseconds": 29,
+                        "errorMessage": "Cannot access value for name _hRscThrcrv50",
+                        "functionName": "text",
+                        "line": 377
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 43,
+                        "durationMicroseconds": 26,
+                        "errorMessage": "Cannot access value for name _hRscThrcrv50",
+                        "functionName": "fact",
+                        "line": 378
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 38,
+                        "durationMicroseconds": 42,
+                        "errorMessage": "Cannot access value for name _hRscThrcrv75",
+                        "functionName": "text",
+                        "line": 380
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 43,
+                        "durationMicroseconds": 27,
+                        "errorMessage": "Cannot access value for name _hRscThrcrv75",
+                        "functionName": "fact",
+                        "line": 381
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 38,
+                        "durationMicroseconds": 28,
+                        "errorMessage": "Cannot access value for name _hRscThrcrv100",
+                        "functionName": "text",
+                        "line": 383
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 43,
+                        "durationMicroseconds": 23,
+                        "errorMessage": "Cannot access value for name _hRscThrcrv100",
+                        "functionName": "fact",
+                        "line": 384
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 38,
+                        "durationMicroseconds": 29,
+                        "errorMessage": "Cannot access value for name _hRscGovComp",
+                        "functionName": "text",
+                        "line": 394
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 43,
+                        "durationMicroseconds": 36,
+                        "errorMessage": "Cannot access value for name _hRscGovComp",
+                        "functionName": "fact",
+                        "line": 395
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 38,
+                        "durationMicroseconds": 30,
+                        "errorMessage": "Cannot access value for name _hRscGovDroop",
+                        "functionName": "text",
+                        "line": 397
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 43,
+                        "durationMicroseconds": 26,
+                        "errorMessage": "Cannot access value for name _hRscGovDroop",
+                        "functionName": "fact",
+                        "line": 398
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 38,
+                        "durationMicroseconds": 32,
+                        "errorMessage": "Cannot access value for name _hRscGovFf",
+                        "functionName": "text",
+                        "line": 400
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 43,
+                        "durationMicroseconds": 28,
+                        "errorMessage": "Cannot access value for name _hRscGovFf",
+                        "functionName": "fact",
+                        "line": 401
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 38,
+                        "durationMicroseconds": 45,
+                        "errorMessage": "Cannot access value for name _hRscGovRange",
+                        "functionName": "text",
+                        "line": 403
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 43,
+                        "durationMicroseconds": 26,
+                        "errorMessage": "Cannot access value for name _hRscGovRange",
+                        "functionName": "fact",
+                        "line": 404
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 38,
+                        "durationMicroseconds": 31,
+                        "errorMessage": "Cannot access value for name _hRscGovRpm",
+                        "functionName": "text",
+                        "line": 406
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 43,
+                        "durationMicroseconds": 26,
+                        "errorMessage": "Cannot access value for name _hRscGovRpm",
+                        "functionName": "fact",
+                        "line": 407
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 38,
+                        "durationMicroseconds": 31,
+                        "errorMessage": "Cannot access value for name _hRscGovTorque",
+                        "functionName": "text",
+                        "line": 409
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 43,
+                        "durationMicroseconds": 32,
+                        "errorMessage": "Cannot access value for name _hRscGovTorque",
+                        "functionName": "fact",
+                        "line": 410
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 38,
+                        "durationMicroseconds": 34,
+                        "errorMessage": "Cannot access value for name _imStbCol1",
+                        "functionName": "text",
+                        "line": 423
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 43,
+                        "durationMicroseconds": 25,
+                        "errorMessage": "Cannot access value for name _imStbCol1",
+                        "functionName": "fact",
+                        "line": 424
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 38,
+                        "durationMicroseconds": 28,
+                        "errorMessage": "Cannot access value for name _imStbCol2",
+                        "functionName": "text",
+                        "line": 426
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 43,
+                        "durationMicroseconds": 25,
+                        "errorMessage": "Cannot access value for name _imStbCol2",
+                        "functionName": "fact",
+                        "line": 427
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 38,
+                        "durationMicroseconds": 31,
+                        "errorMessage": "Cannot access value for name _imStbCol3",
+                        "functionName": "text",
+                        "line": 429
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 43,
+                        "durationMicroseconds": 25,
+                        "errorMessage": "Cannot access value for name _imStbCol3",
+                        "functionName": "fact",
+                        "line": 430
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 38,
+                        "durationMicroseconds": 29,
+                        "errorMessage": "Cannot access value for name _imStbCol4",
+                        "functionName": "text",
+                        "line": 432
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 43,
+                        "durationMicroseconds": 35,
+                        "errorMessage": "Cannot access value for name _imStbCol4",
+                        "functionName": "fact",
+                        "line": 433
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 38,
+                        "durationMicroseconds": 40,
+                        "errorMessage": "Cannot access value for name _hTailType",
+                        "functionName": "text",
+                        "line": 438
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 36,
+                        "errorMessage": "Cannot access value for name _hTailType",
+                        "functionName": "fact",
+                        "line": 440
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 38,
+                        "durationMicroseconds": 30,
+                        "errorMessage": "Cannot access value for name _hTailSpeed",
+                        "functionName": "text",
+                        "line": 444
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 43,
+                        "durationMicroseconds": 26,
+                        "errorMessage": "Cannot access value for name _hTailSpeed",
+                        "functionName": "fact",
+                        "line": 445
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 38,
+                        "durationMicroseconds": 45,
+                        "errorMessage": "Cannot access value for name _hGyrGain",
+                        "functionName": "text",
+                        "line": 447
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 43,
+                        "durationMicroseconds": 27,
+                        "errorMessage": "Cannot access value for name _hGyrGain",
+                        "functionName": "fact",
+                        "line": 448
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 38,
+                        "durationMicroseconds": 31,
+                        "errorMessage": "Cannot access value for name _hGyrGainAcro",
+                        "functionName": "text",
+                        "line": 450
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 43,
+                        "durationMicroseconds": 24,
+                        "errorMessage": "Cannot access value for name _hGyrGainAcro",
+                        "functionName": "fact",
+                        "line": 451
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 38,
+                        "durationMicroseconds": 28,
+                        "errorMessage": "Cannot access value for name _hColYaw",
+                        "functionName": "text",
+                        "line": 453
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 43,
+                        "durationMicroseconds": 33,
+                        "errorMessage": "Cannot access value for name _hColYaw",
+                        "functionName": "fact",
+                        "line": 454
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/AutoPilotPlugins/APM/APMHeliComponent.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.AutoPilotPlugins.APM(AutoPilotPluginsAPMModule)"
+    }
+]

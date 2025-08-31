@@ -1,0 +1,116 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 46,
+                        "durationMicroseconds": 239,
+                        "errorMessage": "Cannot load property enabled from SettingsManager::viewer3DSettings with type QObject.",
+                        "functionName": "_viewer3DEnabled",
+                        "line": 23
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 5,
+                        "durationMicroseconds": 734,
+                        "errorMessage": "",
+                        "functionName": "open",
+                        "line": 26
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 5,
+                        "durationMicroseconds": 126,
+                        "errorMessage": "",
+                        "functionName": "close",
+                        "line": 33
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 14,
+                        "durationMicroseconds": 133,
+                        "errorMessage": "",
+                        "functionName": "visible",
+                        "line": 37
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 14,
+                        "durationMicroseconds": 131,
+                        "errorMessage": "",
+                        "functionName": "enabled",
+                        "line": 38
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 32,
+                        "durationMicroseconds": 10194,
+                        "errorMessage": "",
+                        "functionName": "on_Viewer3DEnabledChanged",
+                        "line": 40
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 26,
+                        "durationMicroseconds": 321,
+                        "errorMessage": "",
+                        "functionName": "sourceComponent",
+                        "line": 58
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 19,
+                        "durationMicroseconds": 200,
+                        "errorMessage": "Type QQuickLoader::item with type QObject does not have a property viewer3DManager for writing",
+                        "functionName": "onLoaded",
+                        "line": 60
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 19,
+                        "durationMicroseconds": 76,
+                        "errorMessage": "Type (component in C:/Users/User/qgroundcontrol/src/Viewer3D/Viewer3DQml/Viewer3D.qml)::item with type QObject does not have a property viewer3DManager for writing",
+                        "functionName": "onLoaded",
+                        "line": 75
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 23,
+                        "durationMicroseconds": 168,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 71
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 17,
+                        "durationMicroseconds": 194,
+                        "errorMessage": "",
+                        "functionName": "target",
+                        "line": 81
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 16,
+                        "durationMicroseconds": 59,
+                        "errorMessage": "Cannot access value for name isOpen",
+                        "functionName": "value",
+                        "line": 83
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 15,
+                        "durationMicroseconds": 430,
+                        "errorMessage": "",
+                        "functionName": "when",
+                        "line": 84
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/Viewer3D/Viewer3DQml/Viewer3D.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.Viewer3D(Viewer3DModule)"
+    }
+]

@@ -1,0 +1,1644 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 12,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"width\".",
+                        "functionName": "width",
+                        "line": 29
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 13,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"height\".",
+                        "functionName": "height",
+                        "line": 30
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 60,
+                        "durationMicroseconds": 6165,
+                        "errorMessage": "",
+                        "functionName": "_topBottomMargins",
+                        "line": 134
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "allowViewSwitch",
+                        "line": 172
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 5,
+                        "durationMicroseconds": 264,
+                        "errorMessage": "",
+                        "functionName": "showPlanView",
+                        "line": 180
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 5,
+                        "durationMicroseconds": 205,
+                        "errorMessage": "",
+                        "functionName": "closePlanView",
+                        "line": 185
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 5,
+                        "durationMicroseconds": 191,
+                        "errorMessage": "",
+                        "functionName": "showFlyView",
+                        "line": 190
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "showTool",
+                        "line": 195
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 396,
+                        "errorMessage": "Cannot generate efficient code for call to untyped JavaScript function",
+                        "functionName": "showAnalyzeTool",
+                        "line": 203
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 355,
+                        "errorMessage": "Cannot generate efficient code for call to untyped JavaScript function",
+                        "functionName": "showVehicleConfig",
+                        "line": 207
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 135,
+                        "errorMessage": "Type QQuickLoader::item with type QObject does not have a property showParametersPanel for calling",
+                        "functionName": "showVehicleConfigParametersPage",
+                        "line": 211
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "showKnownVehicleComponentConfigPage",
+                        "line": 216
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "showSettingsTool",
+                        "line": 224
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 5,
+                        "durationMicroseconds": 503,
+                        "errorMessage": "",
+                        "functionName": "hideToolDrawer",
+                        "line": 231
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "showMessageDialog",
+                        "line": 241
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "_showMessageDialog",
+                        "line": 246
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 134,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: mainWindow",
+                        "functionName": "finishCloseProcess",
+                        "line": 259
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 71,
+                        "errorMessage": "function without return type annotation returns bool. This may prevent proper compilation to Cpp.",
+                        "functionName": "performCloseChecks",
+                        "line": 275
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 39,
+                        "durationMicroseconds": 307,
+                        "errorMessage": "",
+                        "functionName": "closeDialogTitle",
+                        "line": 289
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 53,
+                        "errorMessage": "Cannot load property dirty from PlanView::_planMasterController with type QVariant.",
+                        "functionName": "checkForUnsavedMission",
+                        "line": 291
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 194,
+                        "errorMessage": "Cannot load property parameterManager from QObject.",
+                        "functionName": "checkForPendingParameterWrites",
+                        "line": 303
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 84,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: mainWindow",
+                        "functionName": "checkForActiveConnections",
+                        "line": 316
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 17,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "onClosing",
+                        "line": 328
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 17,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"closing\".",
+                        "functionName": "onClosing",
+                        "line": 328
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 30,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: mainWindow",
+                        "functionName": "showToolSelectDialog",
+                        "line": 420
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "showCriticalVehicleMessage",
+                        "line": 645
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "showIndicatorDrawer",
+                        "line": 750
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 29,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: indicatorDrawer",
+                        "functionName": "closeIndicatorDrawer",
+                        "line": 756
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "createrWindowedAnalyzePage",
+                        "line": 860
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 23,
+                        "durationMicroseconds": 216,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 35
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 23,
+                        "durationMicroseconds": 151,
+                        "errorMessage": "",
+                        "functionName": "fillMode",
+                        "line": 48
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 31,
+                        "durationMicroseconds": 258,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 45
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 36,
+                        "durationMicroseconds": 325,
+                        "errorMessage": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: int stored as QVariant -> QQmlScriptString stored as QVariant",
+                        "functionName": "script",
+                        "line": 56
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 117,
+                        "errorMessage": "",
+                        "functionName": "target",
+                        "line": 60
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 255,
+                        "errorMessage": "",
+                        "functionName": "to",
+                        "line": 62
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 34,
+                        "durationMicroseconds": 165,
+                        "errorMessage": "",
+                        "functionName": "type",
+                        "line": 64
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 110,
+                        "errorMessage": "",
+                        "functionName": "target",
+                        "line": 67
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 242,
+                        "errorMessage": "",
+                        "functionName": "to",
+                        "line": 69
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 34,
+                        "durationMicroseconds": 130,
+                        "errorMessage": "",
+                        "functionName": "type",
+                        "line": 71
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 556,
+                        "errorMessage": "Cannot generate efficient code for LoadClosure",
+                        "functionName": "script",
+                        "line": 80
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 32,
+                        "durationMicroseconds": 174,
+                        "errorMessage": "",
+                        "functionName": "onCompleted",
+                        "line": 93
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 17,
+                        "durationMicroseconds": 34,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: mainWindow",
+                        "functionName": "window",
+                        "line": 104
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 44,
+                        "durationMicroseconds": 129,
+                        "errorMessage": "Cannot load property corePlugin from QGroundControlQmlGlobal.",
+                        "functionName": "rgPromptIds",
+                        "line": 111
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 9,
+                        "durationMicroseconds": 48,
+                        "errorMessage": "Cannot load property closed from (component in C:/Users/User/qgroundcontrol/src/UI/MainWindow.qml)::currentDialog with type QVariant.",
+                        "functionName": "clearNextPromptSignal",
+                        "line": 114
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 9,
+                        "durationMicroseconds": 49,
+                        "errorMessage": "Cannot load property length from (component in C:/Users/User/qgroundcontrol/src/UI/MainWindow.qml)::rgPromptIds with type QVariant.",
+                        "functionName": "nextPrompt",
+                        "line": 120
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 62,
+                        "durationMicroseconds": 231,
+                        "errorMessage": "",
+                        "functionName": "activeVehicle",
+                        "line": 142
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 62,
+                        "durationMicroseconds": 167,
+                        "errorMessage": "",
+                        "functionName": "defaultTextHeight",
+                        "line": 143
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 62,
+                        "durationMicroseconds": 110,
+                        "errorMessage": "",
+                        "functionName": "defaultTextWidth",
+                        "line": 144
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 64,
+                        "durationMicroseconds": 134,
+                        "errorMessage": "",
+                        "functionName": "planMasterControllerFlyView",
+                        "line": 145
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 64,
+                        "durationMicroseconds": 140,
+                        "errorMessage": "",
+                        "functionName": "guidedControllerFlyView",
+                        "line": 146
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 26,
+                        "durationMicroseconds": 422,
+                        "errorMessage": "Cannot access value for name QGroundControl",
+                        "functionName": "color",
+                        "line": 337
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 26,
+                        "durationMicroseconds": 16,
+                        "errorMessage": "Cannot access value for name parent",
+                        "functionName": "fill",
+                        "line": 336
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 26,
+                        "durationMicroseconds": 111,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 342
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 245,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 348
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 218,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 349
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 18,
+                        "durationMicroseconds": 284,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 362
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 28,
+                        "durationMicroseconds": 44,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: mainWindow",
+                        "functionName": "onExitRequested",
+                        "line": 366
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 32,
+                        "durationMicroseconds": 29,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: mainWindow",
+                        "functionName": "onMinimizeRequested",
+                        "line": 370
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 24,
+                        "durationMicroseconds": 285,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 363
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 173,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 364
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 27,
+                        "durationMicroseconds": 108,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 377
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 27,
+                        "durationMicroseconds": 84,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 385
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 26,
+                        "durationMicroseconds": 191,
+                        "errorMessage": "",
+                        "functionName": "buttons",
+                        "line": 393
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 26,
+                        "durationMicroseconds": 43,
+                        "errorMessage": "Cannot load property corePlugin from QGroundControlQmlGlobal.",
+                        "functionName": "text",
+                        "line": 399
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 26,
+                        "durationMicroseconds": 446,
+                        "errorMessage": "",
+                        "functionName": "buttons",
+                        "line": 400
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 26,
+                        "durationMicroseconds": 81,
+                        "errorMessage": "Cannot load property corePlugin from QGroundControlQmlGlobal.",
+                        "functionName": "onButtonClicked",
+                        "line": 401
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 26,
+                        "durationMicroseconds": 97,
+                        "errorMessage": "",
+                        "functionName": "onButtonClicked",
+                        "line": 401
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 26,
+                        "durationMicroseconds": 237,
+                        "errorMessage": "",
+                        "functionName": "buttons",
+                        "line": 412
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 26,
+                        "durationMicroseconds": 72,
+                        "errorMessage": "Cannot load property corePlugin from QGroundControlQmlGlobal.",
+                        "functionName": "onButtonClicked",
+                        "line": 413
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 26,
+                        "durationMicroseconds": 92,
+                        "errorMessage": "",
+                        "functionName": "onButtonClicked",
+                        "line": 413
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 48,
+                        "durationMicroseconds": 244,
+                        "errorMessage": "",
+                        "functionName": "_toolButtonHeight",
+                        "line": 433
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 48,
+                        "durationMicroseconds": 120,
+                        "errorMessage": "",
+                        "functionName": "_margins",
+                        "line": 434
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 80,
+                        "errorMessage": "Cannot access value for name toolSelectDialog",
+                        "functionName": "width",
+                        "line": 438
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 76,
+                        "errorMessage": "Cannot access value for name toolSelectDialog",
+                        "functionName": "height",
+                        "line": 439
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 42,
+                        "durationMicroseconds": 290,
+                        "errorMessage": "",
+                        "functionName": "spacing",
+                        "line": 444
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 54,
+                        "errorMessage": "Cannot access value for name toolSelectDialog",
+                        "functionName": "margins",
+                        "line": 443
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 48,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"height\".",
+                        "functionName": "height",
+                        "line": 447
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 40,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"clicked\".",
+                        "functionName": "onClicked",
+                        "line": 451
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 48,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"height\".",
+                        "functionName": "height",
+                        "line": 461
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 48,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"visible\".",
+                        "functionName": "visible",
+                        "line": 465
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 40,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"clicked\".",
+                        "functionName": "onClicked",
+                        "line": 466
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 48,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"height\".",
+                        "functionName": "height",
+                        "line": 476
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 40,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"clicked\".",
+                        "functionName": "onClicked",
+                        "line": 480
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 48,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"height\".",
+                        "functionName": "height",
+                        "line": 490
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 48,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"visible\".",
+                        "functionName": "visible",
+                        "line": 495
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 40,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"clicked\".",
+                        "functionName": "onClicked",
+                        "line": 496
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 48,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"height\".",
+                        "functionName": "height",
+                        "line": 506
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 48,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"text\".",
+                        "functionName": "text",
+                        "line": 508
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 48,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"visible\".",
+                        "functionName": "visible",
+                        "line": 510
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 40,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"clicked\".",
+                        "functionName": "onClicked",
+                        "line": 511
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 56,
+                        "durationMicroseconds": 162,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 519
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 56,
+                        "durationMicroseconds": 177,
+                        "errorMessage": "",
+                        "functionName": "alignment",
+                        "line": 521
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 58,
+                        "durationMicroseconds": 341,
+                        "errorMessage": "",
+                        "functionName": "text",
+                        "line": 525
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 58,
+                        "durationMicroseconds": 126,
+                        "errorMessage": "",
+                        "functionName": "wrapMode",
+                        "line": 527
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 58,
+                        "durationMicroseconds": 132,
+                        "errorMessage": "",
+                        "functionName": "pointSize",
+                        "line": 526
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 58,
+                        "durationMicroseconds": 133,
+                        "errorMessage": "",
+                        "functionName": "maximumWidth",
+                        "line": 528
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 58,
+                        "durationMicroseconds": 116,
+                        "errorMessage": "",
+                        "functionName": "alignment",
+                        "line": 529
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 58,
+                        "durationMicroseconds": 125,
+                        "errorMessage": "",
+                        "functionName": "text",
+                        "line": 533
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 58,
+                        "durationMicroseconds": 111,
+                        "errorMessage": "",
+                        "functionName": "wrapMode",
+                        "line": 535
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 58,
+                        "durationMicroseconds": 117,
+                        "errorMessage": "",
+                        "functionName": "pointSize",
+                        "line": 534
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 58,
+                        "durationMicroseconds": 133,
+                        "errorMessage": "",
+                        "functionName": "maximumWidth",
+                        "line": 536
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 58,
+                        "durationMicroseconds": 121,
+                        "errorMessage": "",
+                        "functionName": "alignment",
+                        "line": 537
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 146,
+                        "errorMessage": "Cannot load property corePlugin from QGroundControlQmlGlobal.",
+                        "functionName": "onClicked",
+                        "line": 544
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 108,
+                        "errorMessage": "",
+                        "functionName": "onClicked",
+                        "line": 544
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 45,
+                        "errorMessage": "Cannot load property corePlugin from QGroundControlQmlGlobal.",
+                        "functionName": "onPressAndHold",
+                        "line": 559
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 62,
+                        "durationMicroseconds": 198,
+                        "errorMessage": "",
+                        "functionName": "topMargin",
+                        "line": 541
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 62,
+                        "durationMicroseconds": 91,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 542
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 26,
+                        "durationMicroseconds": 181,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 576
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 27,
+                        "durationMicroseconds": 420,
+                        "errorMessage": "",
+                        "functionName": "onVisibleChanged",
+                        "line": 583
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 26,
+                        "durationMicroseconds": 98,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 574
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 30,
+                        "durationMicroseconds": 126,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 594
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 30,
+                        "durationMicroseconds": 186,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 595
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 30,
+                        "durationMicroseconds": 183,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 591
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 30,
+                        "durationMicroseconds": 200,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 592
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 30,
+                        "durationMicroseconds": 150,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 593
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 34,
+                        "durationMicroseconds": 158,
+                        "errorMessage": "",
+                        "functionName": "spacing",
+                        "line": 603
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 139,
+                        "errorMessage": "",
+                        "functionName": "leftMargin",
+                        "line": 599
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 34,
+                        "durationMicroseconds": 171,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 600
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 34,
+                        "durationMicroseconds": 166,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 601
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 34,
+                        "durationMicroseconds": 151,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 602
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 131,
+                        "errorMessage": "",
+                        "functionName": "pointSize",
+                        "line": 606
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 38,
+                        "durationMicroseconds": 361,
+                        "errorMessage": "",
+                        "functionName": "text",
+                        "line": 612
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 126,
+                        "errorMessage": "",
+                        "functionName": "pointSize",
+                        "line": 613
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 28,
+                        "durationMicroseconds": 79,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: mainWindow",
+                        "functionName": "onClicked",
+                        "line": 619
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 31,
+                        "durationMicroseconds": 127,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 618
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 30,
+                        "durationMicroseconds": 189,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 629
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 30,
+                        "durationMicroseconds": 219,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 630
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 30,
+                        "durationMicroseconds": 144,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 631
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 147,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 632
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 42,
+                        "durationMicroseconds": 133,
+                        "errorMessage": "",
+                        "functionName": "target",
+                        "line": 635
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 17,
+                        "durationMicroseconds": 146,
+                        "errorMessage": "",
+                        "functionName": "onPopout",
+                        "line": 637
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 26,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"y\".",
+                        "functionName": "y",
+                        "line": 660
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 26,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"x\".",
+                        "functionName": "x",
+                        "line": 661
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 26,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"width\".",
+                        "functionName": "width",
+                        "line": 662
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 26,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"height\".",
+                        "functionName": "height",
+                        "line": 663
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 30,
+                        "durationMicroseconds": 41,
+                        "errorMessage": "Cannot access value for name qgcPal",
+                        "functionName": "color",
+                        "line": 672
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 30,
+                        "durationMicroseconds": 404,
+                        "errorMessage": "Cannot access value for name ScreenTools",
+                        "functionName": "radius",
+                        "line": 673
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 30,
+                        "durationMicroseconds": 16,
+                        "errorMessage": "Cannot access value for name parent",
+                        "functionName": "fill",
+                        "line": 671
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 30,
+                        "durationMicroseconds": 41,
+                        "errorMessage": "Cannot access value for name qgcPal",
+                        "functionName": "color",
+                        "line": 674
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 46,
+                        "durationMicroseconds": 37,
+                        "errorMessage": "Cannot access value for name qgcPal",
+                        "functionName": "color",
+                        "line": 681
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 46,
+                        "durationMicroseconds": 414,
+                        "errorMessage": "Cannot access value for name ScreenTools",
+                        "functionName": "radius",
+                        "line": 682
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 46,
+                        "durationMicroseconds": 44,
+                        "errorMessage": "Cannot access value for name vehicleWarningLabel",
+                        "functionName": "width",
+                        "line": 685
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 46,
+                        "durationMicroseconds": 24,
+                        "errorMessage": "Cannot access value for name vehicleWarningLabel",
+                        "functionName": "height",
+                        "line": 686
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 327,
+                        "errorMessage": "Cannot access value for name ScreenTools",
+                        "functionName": "_margins",
+                        "line": 688
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 46,
+                        "durationMicroseconds": 17,
+                        "errorMessage": "Cannot access value for name parent",
+                        "functionName": "horizontalCenter",
+                        "line": 678
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 46,
+                        "durationMicroseconds": 7,
+                        "errorMessage": "Cannot access value for name parent",
+                        "functionName": "top",
+                        "line": 679
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 46,
+                        "durationMicroseconds": 10,
+                        "errorMessage": "Cannot access value for name height",
+                        "functionName": "topMargin",
+                        "line": 680
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 46,
+                        "durationMicroseconds": 42,
+                        "errorMessage": "Cannot access value for name qgcPal",
+                        "functionName": "color",
+                        "line": 683
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 46,
+                        "durationMicroseconds": 28,
+                        "errorMessage": "Cannot access value for name qgcPal",
+                        "functionName": "color",
+                        "line": 695
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 46,
+                        "durationMicroseconds": 13,
+                        "errorMessage": "Cannot access value for name parent",
+                        "functionName": "centerIn",
+                        "line": 692
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 46,
+                        "durationMicroseconds": 633,
+                        "errorMessage": "Cannot access value for name ScreenTools",
+                        "functionName": "pointSize",
+                        "line": 694
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 46,
+                        "durationMicroseconds": 50,
+                        "errorMessage": "Cannot access value for name qgcPal",
+                        "functionName": "color",
+                        "line": 704
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 46,
+                        "durationMicroseconds": 339,
+                        "errorMessage": "Cannot access value for name ScreenTools",
+                        "functionName": "radius",
+                        "line": 705
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 46,
+                        "durationMicroseconds": 38,
+                        "errorMessage": "Cannot access value for name additionalErrorsLabel",
+                        "functionName": "width",
+                        "line": 708
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 46,
+                        "durationMicroseconds": 27,
+                        "errorMessage": "Cannot access value for name additionalErrorsLabel",
+                        "functionName": "height",
+                        "line": 709
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 46,
+                        "durationMicroseconds": 26,
+                        "errorMessage": "Cannot access value for name criticalVehicleMessagePopup",
+                        "functionName": "visible",
+                        "line": 710
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 343,
+                        "errorMessage": "Cannot access value for name ScreenTools",
+                        "functionName": "_margins",
+                        "line": 712
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 46,
+                        "durationMicroseconds": 18,
+                        "errorMessage": "Cannot access value for name parent",
+                        "functionName": "horizontalCenter",
+                        "line": 701
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 46,
+                        "durationMicroseconds": 18,
+                        "errorMessage": "Cannot access value for name parent",
+                        "functionName": "bottom",
+                        "line": 702
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 46,
+                        "durationMicroseconds": 14,
+                        "errorMessage": "Cannot access value for name height",
+                        "functionName": "bottomMargin",
+                        "line": 703
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 46,
+                        "durationMicroseconds": 37,
+                        "errorMessage": "Cannot access value for name qgcPal",
+                        "functionName": "color",
+                        "line": 706
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 46,
+                        "durationMicroseconds": 28,
+                        "errorMessage": "Cannot access value for name qgcPal",
+                        "functionName": "color",
+                        "line": 719
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 46,
+                        "durationMicroseconds": 12,
+                        "errorMessage": "Cannot access value for name parent",
+                        "functionName": "centerIn",
+                        "line": 716
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 46,
+                        "durationMicroseconds": 645,
+                        "errorMessage": "Cannot access value for name ScreenTools",
+                        "functionName": "pointSize",
+                        "line": 718
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 30,
+                        "durationMicroseconds": 52,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: criticalVehicleMessagePopup",
+                        "functionName": "width",
+                        "line": 726
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 34,
+                        "durationMicroseconds": 187,
+                        "errorMessage": "",
+                        "functionName": "wrapMode",
+                        "line": 728
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 34,
+                        "durationMicroseconds": 196,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 729
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 34,
+                        "durationMicroseconds": 119,
+                        "errorMessage": "",
+                        "functionName": "textFormat",
+                        "line": 730
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 34,
+                        "durationMicroseconds": 102,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 727
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 24,
+                        "durationMicroseconds": 59,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: criticalVehicleMessagePopup",
+                        "functionName": "onClicked",
+                        "line": 735
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 27,
+                        "durationMicroseconds": 105,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 734
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 26,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"x\".",
+                        "functionName": "x",
+                        "line": 762
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 26,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"y\".",
+                        "functionName": "y",
+                        "line": 763
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 26,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"padding\".",
+                        "functionName": "padding",
+                        "line": 768
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 26,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"closePolicy\".",
+                        "functionName": "closePolicy",
+                        "line": 772
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 38,
+                        "durationMicroseconds": 270,
+                        "errorMessage": "",
+                        "functionName": "_margins",
+                        "line": 778
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 9,
+                        "durationMicroseconds": 127,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: mainWindow",
+                        "functionName": "calcXPosition",
+                        "line": 780
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 19,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"opened\".",
+                        "functionName": "onOpened",
+                        "line": 789
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 19,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"closed\".",
+                        "functionName": "onClosed",
+                        "line": 793
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 34,
+                        "durationMicroseconds": 2286,
+                        "errorMessage": "Cannot access value for name QGroundControl",
+                        "functionName": "color",
+                        "line": 803
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 34,
+                        "durationMicroseconds": 45,
+                        "errorMessage": "Cannot access value for name indicatorDrawer",
+                        "functionName": "radius",
+                        "line": 804
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 34,
+                        "durationMicroseconds": 22,
+                        "errorMessage": "Cannot access value for name parent",
+                        "functionName": "fill",
+                        "line": 802
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 46,
+                        "durationMicroseconds": 388,
+                        "errorMessage": "Cannot access value for name ScreenTools",
+                        "functionName": "width",
+                        "line": 811
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 46,
+                        "durationMicroseconds": 15,
+                        "errorMessage": "Cannot access value for name width",
+                        "functionName": "height",
+                        "line": 812
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 46,
+                        "durationMicroseconds": 13,
+                        "errorMessage": "Cannot access value for name width",
+                        "functionName": "radius",
+                        "line": 813
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 46,
+                        "durationMicroseconds": 390,
+                        "errorMessage": "Cannot access value for name QGroundControl",
+                        "functionName": "color",
+                        "line": 814
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 46,
+                        "durationMicroseconds": 34,
+                        "errorMessage": "Cannot access value for name indicatorDrawerLoader",
+                        "functionName": "visible",
+                        "line": 816
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 46,
+                        "durationMicroseconds": 36,
+                        "errorMessage": "Cannot access value for name backgroundRect",
+                        "functionName": "horizontalCenter",
+                        "line": 809
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 46,
+                        "durationMicroseconds": 21,
+                        "errorMessage": "Cannot access value for name backgroundRect",
+                        "functionName": "verticalCenter",
+                        "line": 810
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 46,
+                        "durationMicroseconds": 421,
+                        "errorMessage": "Cannot access value for name QGroundControl",
+                        "functionName": "color",
+                        "line": 815
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 42,
+                        "durationMicroseconds": 782,
+                        "errorMessage": "Cannot access value for name QGroundControl",
+                        "functionName": "color",
+                        "line": 821
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 42,
+                        "durationMicroseconds": 23,
+                        "errorMessage": "Cannot access value for name parent",
+                        "functionName": "centerIn",
+                        "line": 819
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 31,
+                        "durationMicroseconds": 17,
+                        "errorMessage": "Cannot access value for name parent",
+                        "functionName": "fillItem",
+                        "line": 825
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 32,
+                        "durationMicroseconds": 37,
+                        "errorMessage": "Cannot access value for name indicatorDrawer",
+                        "functionName": "onClicked",
+                        "line": 826
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 30,
+                        "durationMicroseconds": 412,
+                        "errorMessage": "Cannot access value for name Math",
+                        "functionName": "implicitWidth",
+                        "line": 833
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 30,
+                        "durationMicroseconds": 380,
+                        "errorMessage": "Cannot access value for name Math",
+                        "functionName": "implicitHeight",
+                        "line": 834
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 30,
+                        "durationMicroseconds": 29,
+                        "errorMessage": "Cannot access value for name indicatorDrawerLoader",
+                        "functionName": "contentWidth",
+                        "line": 835
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 30,
+                        "durationMicroseconds": 20,
+                        "errorMessage": "Cannot access value for name indicatorDrawerLoader",
+                        "functionName": "contentHeight",
+                        "line": 836
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 34,
+                        "durationMicroseconds": 37,
+                        "errorMessage": "Cannot access value for name indicatorDrawerLoader",
+                        "functionName": "target",
+                        "line": 842
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 34,
+                        "durationMicroseconds": 20,
+                        "errorMessage": "Cannot access value for name indicatorDrawer",
+                        "functionName": "value",
+                        "line": 844
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 34,
+                        "durationMicroseconds": 41,
+                        "errorMessage": "Cannot access value for name indicatorDrawerLoader",
+                        "functionName": "target",
+                        "line": 848
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 34,
+                        "durationMicroseconds": 22,
+                        "errorMessage": "Cannot access value for name indicatorDrawer",
+                        "functionName": "value",
+                        "line": 850
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 26,
+                        "durationMicroseconds": 316,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 870
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 26,
+                        "durationMicroseconds": 233,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 871
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/UI/MainWindow.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.MainWindow(MainWindowModule)"
+    }
+]

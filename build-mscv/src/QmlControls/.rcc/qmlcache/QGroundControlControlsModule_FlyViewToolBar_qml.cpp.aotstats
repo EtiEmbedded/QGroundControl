@@ -1,0 +1,628 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 13,
+                        "durationMicroseconds": 518,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 24
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 13,
+                        "durationMicroseconds": 7641,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 25
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 13,
+                        "durationMicroseconds": 269,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 26
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 288,
+                        "errorMessage": "",
+                        "functionName": "_activeVehicle",
+                        "line": 28
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 62,
+                        "errorMessage": "Cannot load property vehicleLinkManager from (component in C:/Users/User/qgroundcontrol/src/QmlControls/FlyViewToolBar.qml)::_activeVehicle with type QVariant.",
+                        "functionName": "_communicationLost",
+                        "line": 29
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 241,
+                        "errorMessage": "",
+                        "functionName": "_mainStatusBGColor",
+                        "line": 30
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 5,
+                        "durationMicroseconds": 242,
+                        "errorMessage": "",
+                        "functionName": "dropMainStatusIndicatorTool",
+                        "line": 32
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 369,
+                        "errorMessage": "",
+                        "functionName": "visible",
+                        "line": 45
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 252,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 40
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 265,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 41
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 214,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 42
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 23,
+                        "durationMicroseconds": 159,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 49
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 26,
+                        "durationMicroseconds": 182,
+                        "errorMessage": "",
+                        "functionName": "orientation",
+                        "line": 52
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 84,
+                        "durationMicroseconds": 78,
+                        "errorMessage": "Cannot access value for name _mainStatusBGColor",
+                        "functionName": "color",
+                        "line": 53
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 38,
+                        "durationMicroseconds": 64,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: currentButton",
+                        "functionName": "position",
+                        "line": 54
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 84,
+                        "durationMicroseconds": 44,
+                        "errorMessage": "Cannot access value for name _mainStatusBGColor",
+                        "functionName": "color",
+                        "line": 54
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 84,
+                        "durationMicroseconds": 425,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 55
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 321,
+                        "errorMessage": "",
+                        "functionName": "spacing",
+                        "line": 64
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 281,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 62
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 228,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 63
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"clicked\".",
+                        "functionName": "onClicked",
+                        "line": 71
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 197,
+                        "errorMessage": "",
+                        "functionName": "preferredHeight",
+                        "line": 68
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 164,
+                        "errorMessage": "",
+                        "functionName": "preferredHeight",
+                        "line": 76
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"clicked\".",
+                        "functionName": "onClicked",
+                        "line": 82
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"visible\".",
+                        "functionName": "visible",
+                        "line": 83
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 207,
+                        "errorMessage": "",
+                        "functionName": "contentWidth",
+                        "line": 96
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 169,
+                        "errorMessage": "",
+                        "functionName": "flickableDirection",
+                        "line": 97
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 563,
+                        "errorMessage": "",
+                        "functionName": "leftMargin",
+                        "line": 89
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 286,
+                        "errorMessage": "",
+                        "functionName": "rightMargin",
+                        "line": 90
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 284,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 91
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 233,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 93
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 213,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 94
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 234,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 95
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 112,
+                        "errorMessage": "Cannot access value for name _activeVehicle",
+                        "functionName": "visible",
+                        "line": 109
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 192,
+                        "errorMessage": "",
+                        "functionName": "fillMode",
+                        "line": 110
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 414,
+                        "errorMessage": "",
+                        "functionName": "source",
+                        "line": 111
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 381,
+                        "errorMessage": "",
+                        "functionName": "_outdoorPalette",
+                        "line": 114
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 56,
+                        "errorMessage": "Cannot load property corePlugin from QGroundControlQmlGlobal.",
+                        "functionName": "_corePluginBranding",
+                        "line": 115
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 116,
+                        "errorMessage": "Cannot load property userBrandImageIndoor from SettingsManager::brandImageSettings with type QObject.",
+                        "functionName": "_userBrandImageIndoor",
+                        "line": 116
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 74,
+                        "errorMessage": "Cannot load property userBrandImageOutdoor from SettingsManager::brandImageSettings with type QObject.",
+                        "functionName": "_userBrandImageOutdoor",
+                        "line": 117
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 63,
+                        "errorMessage": "Cannot load property visible from SettingsManager::brandImageSettings with type QObject.",
+                        "functionName": "_userBrandingIndoor",
+                        "line": 118
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 56,
+                        "errorMessage": "Cannot load property visible from SettingsManager::brandImageSettings with type QObject.",
+                        "functionName": "_userBrandingOutdoor",
+                        "line": 119
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 186,
+                        "errorMessage": "",
+                        "functionName": "_brandImageIndoor",
+                        "line": 120
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 195,
+                        "errorMessage": "",
+                        "functionName": "_brandImageOutdoor",
+                        "line": 121
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 9,
+                        "durationMicroseconds": 72,
+                        "errorMessage": "function without return type annotation returns (component in C:/Users/User/qgroundcontrol/src/QmlControls/FlyViewToolBar.qml)::_userBrandImageIndoor with type QString. This may prevent proper compilation to Cpp.",
+                        "functionName": "brandImageIndoor",
+                        "line": 123
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 9,
+                        "durationMicroseconds": 47,
+                        "errorMessage": "function without return type annotation returns (component in C:/Users/User/qgroundcontrol/src/QmlControls/FlyViewToolBar.qml)::_userBrandImageOutdoor with type QString. This may prevent proper compilation to Cpp.",
+                        "functionName": "brandImageOutdoor",
+                        "line": 139
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 299,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 105
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 277,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 106
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 253,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 107
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 341,
+                        "errorMessage": "",
+                        "functionName": "margins",
+                        "line": 108
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 344,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 159
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 66,
+                        "errorMessage": "Cannot access value for name _activeVehicle",
+                        "functionName": "width",
+                        "line": 160
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 353,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 161
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 236,
+                        "errorMessage": "",
+                        "functionName": "visible",
+                        "line": 162
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 256,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 158
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 230,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 171
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 310,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 172
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 120,
+                        "errorMessage": "",
+                        "functionName": "visible",
+                        "line": 173
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 70,
+                        "errorMessage": "Cannot access value for name _activeVehicle",
+                        "functionName": "_initialDownloadComplete",
+                        "line": 175
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 827,
+                        "errorMessage": "",
+                        "functionName": "_showLargeProgress",
+                        "line": 177
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 344,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 168
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 304,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 169
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 282,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 170
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 235,
+                        "errorMessage": "",
+                        "functionName": "target",
+                        "line": 180
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 13,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "onActiveVehicleChanged",
+                        "line": 181
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 77,
+                        "errorMessage": "Cannot access value for name _activeVehicle",
+                        "functionName": "width",
+                        "line": 187
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 304,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 188
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 256,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 185
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 251,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 186
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 155,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 192
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 200,
+                        "errorMessage": "",
+                        "functionName": "pointSize",
+                        "line": 194
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 36,
+                        "durationMicroseconds": 315,
+                        "errorMessage": "",
+                        "functionName": "_margin",
+                        "line": 203
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 148,
+                        "errorMessage": "",
+                        "functionName": "margins",
+                        "line": 198
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 252,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 199
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 233,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 200
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 335,
+                        "errorMessage": "",
+                        "functionName": "onClicked",
+                        "line": 208
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 136,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 207
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/QmlControls/FlyViewToolBar.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.Controls(QGroundControlControlsModule)"
+    }
+]

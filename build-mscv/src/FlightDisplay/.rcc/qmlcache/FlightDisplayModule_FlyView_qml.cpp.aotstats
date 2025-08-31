@@ -1,0 +1,620 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 425,
+                        "errorMessage": "",
+                        "functionName": "planController",
+                        "line": 36
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 176,
+                        "errorMessage": "",
+                        "functionName": "guidedController",
+                        "line": 37
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 320,
+                        "errorMessage": "Cannot load property fullState from FlyViewMap::pipState with type QQuickItem.",
+                        "functionName": "_mainWindowIsMap",
+                        "line": 48
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 432,
+                        "errorMessage": "",
+                        "functionName": "_isFullWindowItemDark",
+                        "line": 49
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 355,
+                        "errorMessage": "",
+                        "functionName": "_activeVehicle",
+                        "line": 50
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 238,
+                        "errorMessage": "",
+                        "functionName": "_missionController",
+                        "line": 51
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 205,
+                        "errorMessage": "",
+                        "functionName": "_geoFenceController",
+                        "line": 52
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 218,
+                        "errorMessage": "",
+                        "functionName": "_rallyPointController",
+                        "line": 53
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 8329,
+                        "errorMessage": "",
+                        "functionName": "_margins",
+                        "line": 54
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 200,
+                        "errorMessage": "",
+                        "functionName": "_guidedController",
+                        "line": 55
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 150,
+                        "errorMessage": "",
+                        "functionName": "_guidedValueSlider",
+                        "line": 56
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 143,
+                        "errorMessage": "",
+                        "functionName": "_widgetLayer",
+                        "line": 57
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 335,
+                        "errorMessage": "",
+                        "functionName": "_toolsMargin",
+                        "line": 58
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 792,
+                        "errorMessage": "",
+                        "functionName": "_centerViewport",
+                        "line": 59
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 331,
+                        "errorMessage": "",
+                        "functionName": "_rightPanelWidth",
+                        "line": 60
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 165,
+                        "errorMessage": "",
+                        "functionName": "_mapControl",
+                        "line": 61
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 161,
+                        "errorMessage": "",
+                        "functionName": "_pipItemZorder",
+                        "line": 64
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 806,
+                        "errorMessage": "Cannot access value for name toolstrip",
+                        "functionName": "_calcCenterViewPort",
+                        "line": 66
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 5,
+                        "durationMicroseconds": 243,
+                        "errorMessage": "",
+                        "functionName": "dropMainStatusIndicatorTool",
+                        "line": 71
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 144,
+                        "errorMessage": "",
+                        "functionName": "onCompleted",
+                        "line": 45
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 173,
+                        "errorMessage": "",
+                        "functionName": "leftEdgeBottomInset",
+                        "line": 77
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 187,
+                        "errorMessage": "",
+                        "functionName": "bottomEdgeLeftInset",
+                        "line": 78
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 21,
+                        "durationMicroseconds": 345,
+                        "errorMessage": "",
+                        "functionName": "visible",
+                        "line": 83
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 262,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 88
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 228,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 89
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 233,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 90
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 280,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 91
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 163,
+                        "errorMessage": "",
+                        "functionName": "planMasterController",
+                        "line": 95
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 357,
+                        "errorMessage": "",
+                        "functionName": "rightPanelWidth",
+                        "line": 96
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 135,
+                        "errorMessage": "",
+                        "functionName": "pipView",
+                        "line": 97
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 68,
+                        "errorMessage": "Cannot access value for name _mainWindowIsMap",
+                        "functionName": "pipMode",
+                        "line": 98
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 229,
+                        "errorMessage": "",
+                        "functionName": "toolInsets",
+                        "line": 99
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 214,
+                        "errorMessage": "",
+                        "functionName": "enabled",
+                        "line": 101
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 140,
+                        "errorMessage": "",
+                        "functionName": "pipView",
+                        "line": 106
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 169,
+                        "errorMessage": "",
+                        "functionName": "item1",
+                        "line": 115
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 737,
+                        "errorMessage": "",
+                        "functionName": "item2",
+                        "line": 116
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 393,
+                        "errorMessage": "Cannot load property pipState from FlyViewVideo::pipState with type QQuickItem.",
+                        "functionName": "show",
+                        "line": 117
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 206,
+                        "errorMessage": "",
+                        "functionName": "z",
+                        "line": 119
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 48,
+                        "durationMicroseconds": 631,
+                        "errorMessage": "",
+                        "functionName": "leftEdgeBottomInset",
+                        "line": 121
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 48,
+                        "durationMicroseconds": 654,
+                        "errorMessage": "",
+                        "functionName": "bottomEdgeLeftInset",
+                        "line": 122
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 287,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 111
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 278,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 112
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 72,
+                        "errorMessage": "Cannot access value for name _toolsMargin",
+                        "functionName": "margins",
+                        "line": 113
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 67,
+                        "errorMessage": "Cannot access value for name _fullItemZorder",
+                        "functionName": "z",
+                        "line": 131
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 324,
+                        "errorMessage": "",
+                        "functionName": "parentToolInsets",
+                        "line": 132
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 64,
+                        "errorMessage": "Cannot access value for name _mapControl",
+                        "functionName": "mapControl",
+                        "line": 133
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 393,
+                        "errorMessage": "",
+                        "functionName": "visible",
+                        "line": 134
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 69,
+                        "errorMessage": "Cannot access value for name utmspSendActTrigger",
+                        "functionName": "utmspActTrigger",
+                        "line": 135
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 235,
+                        "errorMessage": "",
+                        "functionName": "isViewer3DOpen",
+                        "line": 136
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 305,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 127
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 246,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 128
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 257,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 129
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 718,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 130
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 75,
+                        "errorMessage": "Cannot access value for name _fullItemZorder",
+                        "functionName": "z",
+                        "line": 142
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 250,
+                        "errorMessage": "",
+                        "functionName": "parentToolInsets",
+                        "line": 143
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 57,
+                        "errorMessage": "Cannot access value for name _mapControl",
+                        "functionName": "mapControl",
+                        "line": 144
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 318,
+                        "errorMessage": "",
+                        "functionName": "visible",
+                        "line": 145
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 169,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 141
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 332,
+                        "errorMessage": "",
+                        "functionName": "z",
+                        "line": 155
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 236,
+                        "errorMessage": "",
+                        "functionName": "insetsToView",
+                        "line": 156
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 267,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 151
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 270,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 152
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 242,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 153
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 686,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 154
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 72,
+                        "errorMessage": "Cannot access value for name _missionController",
+                        "functionName": "missionController",
+                        "line": 162
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 36,
+                        "durationMicroseconds": 53,
+                        "errorMessage": "Cannot access value for name _guidedValueSlider",
+                        "functionName": "guidedValueSlider",
+                        "line": 163
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 209,
+                        "errorMessage": "",
+                        "functionName": "z",
+                        "line": 172
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 291,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 169
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 259,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 170
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 240,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 171
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 27,
+                        "durationMicroseconds": 142,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 178
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 2568,
+                        "errorMessage": "",
+                        "functionName": "activationStartTimestamp",
+                        "line": 183
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 326,
+                        "errorMessage": "Cannot load property utmspManager from QGroundControlQmlGlobal.",
+                        "functionName": "activationApproval",
+                        "line": 184
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 196,
+                        "errorMessage": "",
+                        "functionName": "flightID",
+                        "line": 185
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 9,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "onActivationTriggered",
+                        "line": 188
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 157,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 186
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/FlightDisplay/FlyView.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.FlightDisplay(FlightDisplayModule)"
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 431,
+                        "errorMessage": "",
+                        "functionName": "comboBox",
+                        "line": 22
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 14,
+                        "durationMicroseconds": 7793,
+                        "errorMessage": "",
+                        "functionName": "spacing",
+                        "line": 25
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 23,
+                        "durationMicroseconds": 318,
+                        "errorMessage": "Type (component in C:/Users/User/qgroundcontrol/src/QmlControls/LabelledComboBox.qml)::parent with type QQuickItem does not have a property activated for calling",
+                        "functionName": "onActivated",
+                        "line": 38
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 23,
+                        "durationMicroseconds": 124,
+                        "errorMessage": "",
+                        "functionName": "onActivated",
+                        "line": 38
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 64,
+                        "errorMessage": "Cannot access value for name comboBoxPreferredWidth",
+                        "functionName": "preferredWidth",
+                        "line": 36
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/QmlControls/LabelledComboBox.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.Controls(QGroundControlControlsModule)"
+    }
+]

@@ -1,0 +1,540 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 617,
+                        "errorMessage": "",
+                        "functionName": "_settingsManager",
+                        "line": 25
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 43,
+                        "errorMessage": "Cannot load property appSettings from (component in C:/Users/User/qgroundcontrol/src/UI/AppSettings/GeneralSettings.qml)::_settingsManager with type QVariant.",
+                        "functionName": "_appSettings",
+                        "line": 26
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 23,
+                        "errorMessage": "Cannot load property brandImageSettings from (component in C:/Users/User/qgroundcontrol/src/UI/AppSettings/GeneralSettings.qml)::_settingsManager with type QVariant.",
+                        "functionName": "_brandImageSettings",
+                        "line": 27
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 19,
+                        "errorMessage": "Cannot load property appFontPointSize from (component in C:/Users/User/qgroundcontrol/src/UI/AppSettings/GeneralSettings.qml)::_appSettings with type QVariant.",
+                        "functionName": "_appFontPointSize",
+                        "line": 28
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 19,
+                        "errorMessage": "Cannot load property userBrandImageIndoor from (component in C:/Users/User/qgroundcontrol/src/UI/AppSettings/GeneralSettings.qml)::_brandImageSettings with type QVariant.",
+                        "functionName": "_userBrandImageIndoor",
+                        "line": 29
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 19,
+                        "errorMessage": "Cannot load property userBrandImageOutdoor from (component in C:/Users/User/qgroundcontrol/src/UI/AppSettings/GeneralSettings.qml)::_brandImageSettings with type QVariant.",
+                        "functionName": "_userBrandImageOutdoor",
+                        "line": 30
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 19,
+                        "errorMessage": "Cannot load property savePath from (component in C:/Users/User/qgroundcontrol/src/UI/AppSettings/GeneralSettings.qml)::_appSettings with type QVariant.",
+                        "functionName": "_appSavePath",
+                        "line": 31
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 83,
+                        "errorMessage": "Cannot access value for name _appSettings",
+                        "functionName": "fact",
+                        "line": 39
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 41,
+                        "errorMessage": "Cannot access value for name _appSettings",
+                        "functionName": "visible",
+                        "line": 41
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 41,
+                        "errorMessage": "Cannot access value for name _appSettings",
+                        "functionName": "fact",
+                        "line": 46
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 58,
+                        "errorMessage": "Cannot access value for name _appSettings",
+                        "functionName": "visible",
+                        "line": 48
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 43,
+                        "errorMessage": "Cannot access value for name _appSettings",
+                        "functionName": "fact",
+                        "line": 53
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 40,
+                        "errorMessage": "Cannot access value for name _appSettings",
+                        "functionName": "visible",
+                        "line": 55
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 142,
+                        "errorMessage": "",
+                        "functionName": "fact",
+                        "line": 61
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"visible\".",
+                        "functionName": "visible",
+                        "line": 62
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 40,
+                        "durationMicroseconds": 41,
+                        "errorMessage": "Cannot access value for name _appSettings",
+                        "functionName": "_audioMuted",
+                        "line": 63
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 109,
+                        "errorMessage": "",
+                        "functionName": "fact",
+                        "line": 69
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"visible\".",
+                        "functionName": "visible",
+                        "line": 70
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 55,
+                        "errorMessage": "Cannot access value for name _appSettings",
+                        "functionName": "_androidSaveToSDCard",
+                        "line": 71
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 24,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"clicked\".",
+                        "functionName": "onClicked",
+                        "line": 78
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 7829,
+                        "errorMessage": "",
+                        "functionName": "spacing",
+                        "line": 89
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 77,
+                        "errorMessage": "Cannot access value for name _appFontPointSize",
+                        "functionName": "visible",
+                        "line": 90
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 26,
+                        "durationMicroseconds": 333,
+                        "errorMessage": "",
+                        "functionName": "spacing",
+                        "line": 98
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"height\".",
+                        "functionName": "height",
+                        "line": 102
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 32,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"clicked\".",
+                        "functionName": "onClicked",
+                        "line": 104
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 70,
+                        "errorMessage": "Cannot access value for name height",
+                        "functionName": "preferredWidth",
+                        "line": 101
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 329,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 113
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 169,
+                        "errorMessage": "Cannot load property appFontPointSize from SettingsManager::appSettings with type QObject.",
+                        "functionName": "text",
+                        "line": 114
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"height\".",
+                        "functionName": "height",
+                        "line": 119
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 32,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"clicked\".",
+                        "functionName": "onClicked",
+                        "line": 121
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 72,
+                        "errorMessage": "Cannot access value for name height",
+                        "functionName": "preferredWidth",
+                        "line": 118
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 332,
+                        "errorMessage": "",
+                        "functionName": "spacing",
+                        "line": 132
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 61,
+                        "errorMessage": "Cannot access value for name _appSavePath",
+                        "functionName": "visible",
+                        "line": 133
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 65,
+                        "errorMessage": "Cannot access value for name _appSavePath",
+                        "functionName": "text",
+                        "line": 143
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 186,
+                        "errorMessage": "",
+                        "functionName": "elide",
+                        "line": 144
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 170,
+                        "errorMessage": "",
+                        "functionName": "pointSize",
+                        "line": 142
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"clicked\".",
+                        "functionName": "onClicked",
+                        "line": 150
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 58,
+                        "errorMessage": "Cannot access value for name _appSavePath",
+                        "functionName": "folder",
+                        "line": 154
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 42,
+                        "durationMicroseconds": 55,
+                        "errorMessage": "Cannot access value for name _appSavePath",
+                        "functionName": "onAcceptedForLoad",
+                        "line": 156
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 42,
+                        "durationMicroseconds": 117,
+                        "errorMessage": "",
+                        "functionName": "onAcceptedForLoad",
+                        "line": 156
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 91,
+                        "errorMessage": "Cannot load property visible from SettingsManager::unitsSettings with type QObject.",
+                        "functionName": "visible",
+                        "line": 165
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 20,
+                        "durationMicroseconds": 133,
+                        "errorMessage": "Cannot load property horizontalDistanceUnits from SettingsManager::unitsSettings with type QObject.",
+                        "functionName": "model",
+                        "line": 168
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 546,
+                        "errorMessage": "Cannot access value for name modelData",
+                        "functionName": "label",
+                        "line": 171
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 486,
+                        "errorMessage": "Cannot access value for name modelData",
+                        "functionName": "fact",
+                        "line": 172
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 55,
+                        "errorMessage": "Cannot access value for name _brandImageSettings",
+                        "functionName": "visible",
+                        "line": 181
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 429,
+                        "errorMessage": "",
+                        "functionName": "spacing",
+                        "line": 185
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 54,
+                        "errorMessage": "Cannot access value for name _userBrandImageIndoor",
+                        "functionName": "visible",
+                        "line": 186
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 86,
+                        "errorMessage": "Cannot access value for name _userBrandImageIndoor",
+                        "functionName": "text",
+                        "line": 199
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 187,
+                        "errorMessage": "",
+                        "functionName": "elide",
+                        "line": 200
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 62,
+                        "errorMessage": "Cannot access value for name _userBrandImageIndoor",
+                        "functionName": "visible",
+                        "line": 201
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 162,
+                        "errorMessage": "",
+                        "functionName": "pointSize",
+                        "line": 198
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"clicked\".",
+                        "functionName": "onClicked",
+                        "line": 207
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 64,
+                        "errorMessage": "Cannot access value for name _userBrandImageIndoor",
+                        "functionName": "folder",
+                        "line": 212
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 42,
+                        "durationMicroseconds": 53,
+                        "errorMessage": "Cannot access value for name _userBrandImageIndoor",
+                        "functionName": "onAcceptedForLoad",
+                        "line": 214
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 42,
+                        "durationMicroseconds": 125,
+                        "errorMessage": "",
+                        "functionName": "onAcceptedForLoad",
+                        "line": 214
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 301,
+                        "errorMessage": "",
+                        "functionName": "spacing",
+                        "line": 221
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 51,
+                        "errorMessage": "Cannot access value for name _userBrandImageOutdoor",
+                        "functionName": "visible",
+                        "line": 222
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 76,
+                        "errorMessage": "Cannot access value for name _userBrandImageOutdoor",
+                        "functionName": "text",
+                        "line": 235
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 18723,
+                        "errorMessage": "",
+                        "functionName": "elide",
+                        "line": 236
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 104,
+                        "errorMessage": "Cannot access value for name _userBrandImageOutdoor",
+                        "functionName": "visible",
+                        "line": 237
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 292,
+                        "errorMessage": "",
+                        "functionName": "pointSize",
+                        "line": 234
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"clicked\".",
+                        "functionName": "onClicked",
+                        "line": 243
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 116,
+                        "errorMessage": "Cannot access value for name _userBrandImageOutdoor",
+                        "functionName": "folder",
+                        "line": 248
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 42,
+                        "durationMicroseconds": 69,
+                        "errorMessage": "Cannot access value for name _userBrandImageOutdoor",
+                        "functionName": "onAcceptedForLoad",
+                        "line": 250
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 42,
+                        "durationMicroseconds": 136,
+                        "errorMessage": "",
+                        "functionName": "onAcceptedForLoad",
+                        "line": 250
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 75,
+                        "errorMessage": "Cannot access value for name _userBrandImageIndoor",
+                        "functionName": "onClicked",
+                        "line": 258
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/UI/AppSettings/GeneralSettings.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.AppSettings(AppSettingsModule)"
+    }
+]

@@ -1,0 +1,60 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 495,
+                        "errorMessage": "",
+                        "functionName": "telemetryFailure",
+                        "line": 18
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 325,
+                        "errorMessage": "Cannot access value for name globals",
+                        "functionName": "_unhealthySensors",
+                        "line": 20
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 157,
+                        "errorMessage": "Cannot load property SysStatusSensor3dMag from const QMetaObject.",
+                        "functionName": "_allCheckedSensors",
+                        "line": 21
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 129,
+                        "errorMessage": "",
+                        "functionName": "on_UnhealthySensorsChanged",
+                        "line": 29
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 204,
+                        "errorMessage": "Cannot load property SysStatusSensor3dMag from const QMetaObject.",
+                        "functionName": "updateTelemetryTextFailure",
+                        "line": 33
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 28,
+                        "durationMicroseconds": 128,
+                        "errorMessage": "",
+                        "functionName": "onCompleted",
+                        "line": 31
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/FlightDisplay/PreFlightSensorsHealthCheck.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.FlightDisplay(FlightDisplayModule)"
+    }
+]

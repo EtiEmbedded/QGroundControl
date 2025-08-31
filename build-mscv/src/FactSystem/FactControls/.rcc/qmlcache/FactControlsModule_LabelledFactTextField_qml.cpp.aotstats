@@ -1,0 +1,44 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 46,
+                        "durationMicroseconds": 570,
+                        "errorMessage": "",
+                        "functionName": "label",
+                        "line": 20
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 14,
+                        "durationMicroseconds": 8262,
+                        "errorMessage": "",
+                        "functionName": "spacing",
+                        "line": 28
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 94,
+                        "errorMessage": "Cannot access value for name label",
+                        "functionName": "text",
+                        "line": 32
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 35,
+                        "errorMessage": "Cannot access value for name textFieldPreferredWidth",
+                        "functionName": "preferredWidth",
+                        "line": 37
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/FactSystem/FactControls/LabelledFactTextField.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.FactControls(FactControlsModule)"
+    }
+]

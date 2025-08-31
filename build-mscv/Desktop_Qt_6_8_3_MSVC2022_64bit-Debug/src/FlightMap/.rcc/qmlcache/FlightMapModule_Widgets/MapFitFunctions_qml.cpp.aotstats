@@ -1,0 +1,124 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 96,
+                        "errorMessage": "Cannot load property missionController from (component in C:/Users/User/qgroundcontrol/src/FlightMap/Widgets/MapFitFunctions.qml)::planMasterController with type QVariant.",
+                        "functionName": "_missionController",
+                        "line": 22
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 20,
+                        "errorMessage": "Cannot load property geoFenceController from (component in C:/Users/User/qgroundcontrol/src/FlightMap/Widgets/MapFitFunctions.qml)::planMasterController with type QVariant.",
+                        "functionName": "_geoFenceController",
+                        "line": 23
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 15,
+                        "errorMessage": "Cannot load property rallyPointController from (component in C:/Users/User/qgroundcontrol/src/FlightMap/Widgets/MapFitFunctions.qml)::planMasterController with type QVariant.",
+                        "functionName": "_rallyPointController",
+                        "line": 24
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 616,
+                        "errorMessage": "Cannot access value for name QGroundControl",
+                        "functionName": "fitHomePosition",
+                        "line": 26
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "normalizeLat",
+                        "line": 38
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "normalizeLon",
+                        "line": 43
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "fitMapViewportToAllCoordinates",
+                        "line": 49
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "addMissionItemCoordsForFit",
+                        "line": 99
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 108,
+                        "errorMessage": "Cannot load property visualItems from (component in C:/Users/User/qgroundcontrol/src/FlightMap/Widgets/MapFitFunctions.qml)::_missionController with type QVariant.",
+                        "functionName": "fitMapViewportToMissionItems",
+                        "line": 113
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "addFenceItemCoordsForFit",
+                        "line": 123
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 306,
+                        "errorMessage": "Cannot generate efficient code for storing an array in a non-sequence type",
+                        "functionName": "fitMapViewportToFenceItems",
+                        "line": 140
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "addRallyItemCoordsForFit",
+                        "line": 146
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 206,
+                        "errorMessage": "Cannot generate efficient code for storing an array in a non-sequence type",
+                        "functionName": "fitMapViewportToRallyItems",
+                        "line": 152
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 34,
+                        "errorMessage": "Cannot load property visualItems from (component in C:/Users/User/qgroundcontrol/src/FlightMap/Widgets/MapFitFunctions.qml)::_missionController with type QVariant.",
+                        "functionName": "fitMapViewportToAllItems",
+                        "line": 158
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/FlightMap/Widgets/MapFitFunctions.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.FlightMap(FlightMapModule)"
+    }
+]

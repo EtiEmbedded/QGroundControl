@@ -1,0 +1,100 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 21,
+                        "durationMicroseconds": 534,
+                        "errorMessage": "",
+                        "functionName": "value",
+                        "line": 22
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 21,
+                        "durationMicroseconds": 246,
+                        "errorMessage": "",
+                        "functionName": "from",
+                        "line": 23
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 21,
+                        "durationMicroseconds": 203,
+                        "errorMessage": "",
+                        "functionName": "to",
+                        "line": 24
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 21,
+                        "durationMicroseconds": 194,
+                        "errorMessage": "",
+                        "functionName": "unitsString",
+                        "line": 25
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 21,
+                        "durationMicroseconds": 199,
+                        "errorMessage": "",
+                        "functionName": "decimalPlaces",
+                        "line": 26
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 7751,
+                        "errorMessage": "",
+                        "functionName": "_minMaxVisibilityPadding",
+                        "line": 30
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 355,
+                        "errorMessage": "",
+                        "functionName": "_fact",
+                        "line": 32
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 21,
+                        "durationMicroseconds": 427,
+                        "errorMessage": "",
+                        "functionName": "onValueChanged",
+                        "line": 61
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 28,
+                        "durationMicroseconds": 2969,
+                        "errorMessage": "Cannot generate efficient code for incomparable types (component in C:/Users/User/qgroundcontrol/src/QmlControls/FactSlider.qml)::from with type double and Fact::min with type QVariant",
+                        "functionName": "onCompleted",
+                        "line": 36
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 30,
+                        "durationMicroseconds": 149,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: control",
+                        "functionName": "onDestruction",
+                        "line": 46
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 70,
+                        "errorMessage": "Cannot access value for name _fact",
+                        "functionName": "onTriggered",
+                        "line": 58
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/QmlControls/FactSlider.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.Controls(QGroundControlControlsModule)"
+    }
+]

@@ -1,0 +1,460 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 470,
+                        "errorMessage": "",
+                        "functionName": "theme",
+                        "line": 14
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 179,
+                        "errorMessage": "",
+                        "functionName": "animationOptions",
+                        "line": 16
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 662,
+                        "errorMessage": "Cannot access value for name qgcPal",
+                        "functionName": "backgroundColor",
+                        "line": 18
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 797,
+                        "errorMessage": "Cannot generate efficient code for storing an array in a non-sequence type",
+                        "functionName": "seriesColors",
+                        "line": 24
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "addDimension",
+                        "line": 26
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "delDimension",
+                        "line": 40
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 8201,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 20
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 544,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 21
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 17,
+                        "durationMicroseconds": 204,
+                        "errorMessage": "",
+                        "functionName": "target",
+                        "line": 52
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 9,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "onVehicleRemoved",
+                        "line": 54
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 73,
+                        "errorMessage": "Cannot access value for name chartController",
+                        "functionName": "min",
+                        "line": 63
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 47,
+                        "errorMessage": "Cannot access value for name chartController",
+                        "functionName": "max",
+                        "line": 64
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 38,
+                        "errorMessage": "Cannot access value for name chartController",
+                        "functionName": "visible",
+                        "line": 65
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 277,
+                        "errorMessage": "Cannot access value for name qgcPal",
+                        "functionName": "labelsColor",
+                        "line": 71
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 214,
+                        "errorMessage": "",
+                        "functionName": "family",
+                        "line": 69
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 163,
+                        "errorMessage": "",
+                        "functionName": "pointSize",
+                        "line": 70
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 59,
+                        "errorMessage": "Cannot access value for name chartController",
+                        "functionName": "min",
+                        "line": 76
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 39,
+                        "errorMessage": "Cannot access value for name chartController",
+                        "functionName": "max",
+                        "line": 77
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 38,
+                        "errorMessage": "Cannot access value for name chartController",
+                        "functionName": "visible",
+                        "line": 78
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 333,
+                        "errorMessage": "Cannot access value for name qgcPal",
+                        "functionName": "labelsColor",
+                        "line": 82
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 183,
+                        "errorMessage": "",
+                        "functionName": "family",
+                        "line": 80
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 143,
+                        "errorMessage": "",
+                        "functionName": "pointSize",
+                        "line": 81
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 317,
+                        "errorMessage": "",
+                        "functionName": "spacing",
+                        "line": 93
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 59,
+                        "errorMessage": "Cannot access value for name chartController",
+                        "functionName": "visible",
+                        "line": 94
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 304,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 87
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 298,
+                        "errorMessage": "",
+                        "functionName": "leftMargin",
+                        "line": 88
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 256,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 89
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 318,
+                        "errorMessage": "",
+                        "functionName": "rightMargin",
+                        "line": 90
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 242,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 91
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 280,
+                        "errorMessage": "",
+                        "functionName": "topMargin",
+                        "line": 92
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 147,
+                        "errorMessage": "",
+                        "functionName": "columnSpacing",
+                        "line": 97
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 257,
+                        "errorMessage": "",
+                        "functionName": "rowSpacing",
+                        "line": 98
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 243,
+                        "errorMessage": "",
+                        "functionName": "verticalCenter",
+                        "line": 99
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 314,
+                        "errorMessage": "",
+                        "functionName": "alignment",
+                        "line": 102
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 189,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 107
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 1116,
+                        "errorMessage": "Cannot access value for name controller",
+                        "functionName": "model",
+                        "line": 108
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 77,
+                        "errorMessage": "Cannot access value for name chartController",
+                        "functionName": "currentIndex",
+                        "line": 109
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 31,
+                        "durationMicroseconds": 63,
+                        "errorMessage": "Cannot access value for name chartController",
+                        "functionName": "onActivated",
+                        "line": 110
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 31,
+                        "durationMicroseconds": 124,
+                        "errorMessage": "",
+                        "functionName": "onActivated",
+                        "line": 110
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 38,
+                        "durationMicroseconds": 362,
+                        "errorMessage": "",
+                        "functionName": "minimumWidth",
+                        "line": 105
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 38,
+                        "durationMicroseconds": 277,
+                        "errorMessage": "",
+                        "functionName": "maximumWidth",
+                        "line": 106
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 206,
+                        "errorMessage": "",
+                        "functionName": "alignment",
+                        "line": 111
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 167,
+                        "errorMessage": "",
+                        "functionName": "alignment",
+                        "line": 115
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 190,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 120
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 1147,
+                        "errorMessage": "Cannot access value for name controller",
+                        "functionName": "model",
+                        "line": 121
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 68,
+                        "errorMessage": "Cannot access value for name chartController",
+                        "functionName": "currentIndex",
+                        "line": 122
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 31,
+                        "durationMicroseconds": 70,
+                        "errorMessage": "Cannot access value for name chartController",
+                        "functionName": "onActivated",
+                        "line": 123
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 31,
+                        "durationMicroseconds": 115,
+                        "errorMessage": "",
+                        "functionName": "onActivated",
+                        "line": 123
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 38,
+                        "durationMicroseconds": 307,
+                        "errorMessage": "",
+                        "functionName": "minimumWidth",
+                        "line": 118
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 38,
+                        "durationMicroseconds": 297,
+                        "errorMessage": "",
+                        "functionName": "maximumWidth",
+                        "line": 119
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 188,
+                        "errorMessage": "",
+                        "functionName": "alignment",
+                        "line": 124
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 302,
+                        "errorMessage": "",
+                        "functionName": "verticalCenter",
+                        "line": 128
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 71,
+                        "errorMessage": "Cannot access value for name chartController",
+                        "functionName": "model",
+                        "line": 130
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 747,
+                        "errorMessage": "Cannot access value for name modelData",
+                        "functionName": "text",
+                        "line": 132
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 68,
+                        "errorMessage": "Cannot access value for name chartView",
+                        "functionName": "color",
+                        "line": 133
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 210,
+                        "errorMessage": "",
+                        "functionName": "pointSize",
+                        "line": 134
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/QmlControls/MAVLinkChart.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.Controls(QGroundControlControlsModule)"
+    }
+]

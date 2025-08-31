@@ -1,0 +1,276 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 21,
+                        "durationMicroseconds": 616,
+                        "errorMessage": "",
+                        "functionName": "enabled",
+                        "line": 26
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 842,
+                        "errorMessage": "Cannot access value for name vehicleComponent",
+                        "functionName": "pageName",
+                        "line": 29
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 773,
+                        "errorMessage": "Cannot access value for name vehicleComponent",
+                        "functionName": "pageDescription",
+                        "line": 30
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 435,
+                        "errorMessage": "",
+                        "functionName": "availableWidth",
+                        "line": 31
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 503,
+                        "errorMessage": "",
+                        "functionName": "availableHeight",
+                        "line": 32
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 525,
+                        "errorMessage": "Cannot access value for name globals",
+                        "functionName": "_vehicleIsRover",
+                        "line": 36
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 491,
+                        "errorMessage": "Cannot access value for name globals",
+                        "functionName": "_vehicleArmed",
+                        "line": 37
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 446,
+                        "errorMessage": "Cannot access value for name globals",
+                        "functionName": "_vehicleFlying",
+                        "line": 38
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 778,
+                        "errorMessage": "Cannot access value for name vehicleComponent",
+                        "functionName": "_disableDueToArmed",
+                        "line": 39
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 796,
+                        "errorMessage": "Cannot access value for name vehicleComponent",
+                        "functionName": "_disableDueToFlying",
+                        "line": 41
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 583,
+                        "errorMessage": "",
+                        "functionName": "_disableReason",
+                        "line": 42
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 7960,
+                        "errorMessage": "",
+                        "functionName": "_margins",
+                        "line": 43
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 450,
+                        "errorMessage": "",
+                        "functionName": "_pageTitle",
+                        "line": 44
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 28,
+                        "durationMicroseconds": 182,
+                        "errorMessage": "Cannot load property setupPageCompleted from QQuickLoader::item with type QObject.",
+                        "functionName": "onCompleted",
+                        "line": 46
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 100,
+                        "errorMessage": "Cannot access value for name availableWidth",
+                        "functionName": "contentWidth",
+                        "line": 54
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 80,
+                        "errorMessage": "Cannot access value for name availableHeight",
+                        "functionName": "contentHeight",
+                        "line": 55
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 192,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 53
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 55,
+                        "errorMessage": "Cannot access value for name availableWidth",
+                        "functionName": "width",
+                        "line": 60
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 39,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "spacing",
+                        "line": 61
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 225,
+                        "errorMessage": "",
+                        "functionName": "layoutDirection",
+                        "line": 62
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 58,
+                        "errorMessage": "Cannot access value for name showAdvanced",
+                        "functionName": "visible",
+                        "line": 63
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"visible\".",
+                        "functionName": "visible",
+                        "line": 68
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 61,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "spacing",
+                        "line": 72
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 133,
+                        "errorMessage": "Cannot access value for name _pageTitle",
+                        "functionName": "text",
+                        "line": 78
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 231,
+                        "errorMessage": "",
+                        "functionName": "visible",
+                        "line": 79
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 175,
+                        "errorMessage": "",
+                        "functionName": "pointSize",
+                        "line": 77
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 304,
+                        "errorMessage": "",
+                        "functionName": "wrapMode",
+                        "line": 84
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 67,
+                        "errorMessage": "Cannot access value for name pageDescription",
+                        "functionName": "text",
+                        "line": 85
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 64,
+                        "errorMessage": "Cannot access value for name pageDescription",
+                        "functionName": "visible",
+                        "line": 86
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 51,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "topMargin",
+                        "line": 93
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 320,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 94
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 203,
+                        "errorMessage": "",
+                        "functionName": "visible",
+                        "line": 100
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 131,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 101
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/QmlControls/SetupPage.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.Controls(QGroundControlControlsModule)"
+    }
+]

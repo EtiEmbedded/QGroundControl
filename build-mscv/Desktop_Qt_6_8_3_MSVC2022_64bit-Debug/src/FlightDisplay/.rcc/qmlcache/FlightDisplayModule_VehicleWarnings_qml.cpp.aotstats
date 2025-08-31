@@ -1,0 +1,196 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 517,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 18
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 173,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 19
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 418,
+                        "errorMessage": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: QVariant -> QColor stored as QVariant",
+                        "functionName": "color",
+                        "line": 20
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 5379,
+                        "errorMessage": "",
+                        "functionName": "radius",
+                        "line": 21
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 187,
+                        "errorMessage": "",
+                        "functionName": "visible",
+                        "line": 22
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 432,
+                        "errorMessage": "Cannot access value for name QGroundControl",
+                        "functionName": "_activeVehicle",
+                        "line": 24
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 40,
+                        "errorMessage": "Cannot load property requiresGpsFix from (component in C:/Users/User/qgroundcontrol/src/FlightDisplay/VehicleWarnings.qml)::_activeVehicle with type QVariant.",
+                        "functionName": "_noGPSLockVisible",
+                        "line": 25
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 28,
+                        "errorMessage": "Cannot load property armed from (component in C:/Users/User/qgroundcontrol/src/FlightDisplay/VehicleWarnings.qml)::_activeVehicle with type QVariant.",
+                        "functionName": "_prearmErrorVisible",
+                        "line": 26
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 152,
+                        "errorMessage": "",
+                        "functionName": "margins",
+                        "line": 17
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 21,
+                        "durationMicroseconds": 120,
+                        "errorMessage": "",
+                        "functionName": "spacing",
+                        "line": 30
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 45,
+                        "errorMessage": "Cannot access value for name _noGPSLockVisible",
+                        "functionName": "visible",
+                        "line": 34
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 188,
+                        "errorMessage": "",
+                        "functionName": "horizontalCenter",
+                        "line": 33
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 103,
+                        "errorMessage": "",
+                        "functionName": "pointSize",
+                        "line": 36
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 35,
+                        "errorMessage": "Cannot access value for name _prearmErrorVisible",
+                        "functionName": "visible",
+                        "line": 42
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 29,
+                        "errorMessage": "Cannot access value for name _activeVehicle",
+                        "functionName": "text",
+                        "line": 45
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 166,
+                        "errorMessage": "",
+                        "functionName": "horizontalCenter",
+                        "line": 41
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 98,
+                        "errorMessage": "",
+                        "functionName": "pointSize",
+                        "line": 44
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 50,
+                        "errorMessage": "Cannot access value for name _prearmErrorVisible",
+                        "functionName": "visible",
+                        "line": 50
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 185,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 51
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 126,
+                        "errorMessage": "",
+                        "functionName": "horizontalAlignment",
+                        "line": 52
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 98,
+                        "errorMessage": "",
+                        "functionName": "wrapMode",
+                        "line": 53
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 149,
+                        "errorMessage": "",
+                        "functionName": "horizontalCenter",
+                        "line": 49
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 95,
+                        "errorMessage": "",
+                        "functionName": "pointSize",
+                        "line": 55
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/FlightDisplay/VehicleWarnings.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.FlightDisplay(FlightDisplayModule)"
+    }
+]

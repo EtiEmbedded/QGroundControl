@@ -1,0 +1,14 @@
+--bare
+-I
+C:/Users/User/qgroundcontrol/build-mingw/qml
+-I
+C:/Users/User/qgroundcontrol/build-mingw/qml
+-I
+C:/Qt/6.8.3/mingw_64/qml
+--resource
+C:/Users/User/qgroundcontrol/build-mingw/src/QmlControls/.qt/rcc/qmake_QGroundControl_ScreenTools.qrc
+--resource
+C:/Users/User/qgroundcontrol/build-mingw/src/QmlControls/.qt/rcc/ScreenToolsModule_raw_qml_0.qrc
+C:/Users/User/qgroundcontrol/src/QmlControls/ScreenTools.qml
+--json
+C:/Users/User/qgroundcontrol/build-mingw/ScreenToolsModule_qmllint.json

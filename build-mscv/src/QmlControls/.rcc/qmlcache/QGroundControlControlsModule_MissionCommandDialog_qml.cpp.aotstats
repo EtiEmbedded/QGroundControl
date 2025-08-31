@@ -1,0 +1,228 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 17,
+                        "durationMicroseconds": 356,
+                        "errorMessage": "Cannot access value for name Dialog",
+                        "functionName": "buttons",
+                        "line": 24
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 22,
+                        "durationMicroseconds": 8737,
+                        "errorMessage": "",
+                        "functionName": "spacing",
+                        "line": 33
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 141,
+                        "errorMessage": "Cannot access value for name vehicle",
+                        "functionName": "model",
+                        "line": 42
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 17,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "categorySelected",
+                        "line": 44
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 31,
+                        "durationMicroseconds": 401,
+                        "errorMessage": "Cannot generate efficient code for call to untyped JavaScript function",
+                        "functionName": "onActivated",
+                        "line": 54
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 31,
+                        "durationMicroseconds": 121,
+                        "errorMessage": "",
+                        "functionName": "onActivated",
+                        "line": 54
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 311,
+                        "errorMessage": "",
+                        "functionName": "preferredWidth",
+                        "line": 41
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 40,
+                        "durationMicroseconds": 95,
+                        "errorMessage": "Cannot access value for name missionItem",
+                        "functionName": "onCompleted",
+                        "line": 48
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 248,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 63
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 417,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 64
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 409,
+                        "errorMessage": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: QGCPalette::button with type QColor (stored as QVariant) -> QGCPalette::button with type QColor (stored as QVariant)",
+                        "functionName": "color",
+                        "line": 65
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 592,
+                        "errorMessage": "Cannot access value for name modelData",
+                        "functionName": "mavCmdInfo",
+                        "line": 67
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 395,
+                        "errorMessage": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: QGCPalette::buttonText with type QColor (stored as QVariant) -> QGCPalette::buttonText with type QColor (stored as QVariant)",
+                        "functionName": "textColor",
+                        "line": 68
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 187,
+                        "errorMessage": "",
+                        "functionName": "margins",
+                        "line": 72
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 277,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 73
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 254,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 74
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 249,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 75
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 125,
+                        "errorMessage": "Cannot access value for name mavCmdInfo",
+                        "functionName": "text",
+                        "line": 78
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 60,
+                        "errorMessage": "Cannot access value for name textColor",
+                        "functionName": "color",
+                        "line": 79
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 61,
+                        "errorMessage": "Cannot access value for name mavCmdInfo",
+                        "functionName": "text",
+                        "line": 87
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 222,
+                        "errorMessage": "",
+                        "functionName": "wrapMode",
+                        "line": 88
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 57,
+                        "errorMessage": "Cannot access value for name textColor",
+                        "functionName": "color",
+                        "line": 89
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 212,
+                        "errorMessage": "",
+                        "functionName": "margins",
+                        "line": 84
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 264,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 85
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 368,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 86
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 32,
+                        "durationMicroseconds": 70,
+                        "errorMessage": "Cannot access value for name missionItem",
+                        "functionName": "onClicked",
+                        "line": 95
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 164,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 94
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/QmlControls/MissionCommandDialog.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.Controls(QGroundControlControlsModule)"
+    }
+]

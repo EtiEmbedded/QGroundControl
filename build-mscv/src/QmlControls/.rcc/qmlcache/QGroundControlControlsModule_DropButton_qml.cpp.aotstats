@@ -1,0 +1,292 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 9,
+                        "durationMicroseconds": 675,
+                        "errorMessage": "",
+                        "functionName": "z",
+                        "line": 10
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 8408,
+                        "errorMessage": "",
+                        "functionName": "radius",
+                        "line": 15
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 130,
+                        "errorMessage": "",
+                        "functionName": "dropDirection",
+                        "line": 16
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 8875,
+                        "errorMessage": "Cannot access value for name mainWindow",
+                        "functionName": "topMargin",
+                        "line": 19
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 13,
+                        "durationMicroseconds": 313,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 22
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 13,
+                        "durationMicroseconds": 243,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 23
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 220,
+                        "errorMessage": "",
+                        "functionName": "_arrowBaseWidth",
+                        "line": 31
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 251,
+                        "errorMessage": "",
+                        "functionName": "_arrowPointHeight",
+                        "line": 32
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 365,
+                        "errorMessage": "",
+                        "functionName": "_dropCornerRadius",
+                        "line": 33
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 389,
+                        "errorMessage": "",
+                        "functionName": "_dropCornerRadiusX2",
+                        "line": 34
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 176,
+                        "errorMessage": "",
+                        "functionName": "_dropMargin",
+                        "line": 35
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 236,
+                        "errorMessage": "",
+                        "functionName": "_dropMarginX2",
+                        "line": 36
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 303,
+                        "errorMessage": "",
+                        "functionName": "_viewportMaxLeft",
+                        "line": 38
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 650,
+                        "errorMessage": "",
+                        "functionName": "_viewportMaxRight",
+                        "line": 39
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 408,
+                        "errorMessage": "",
+                        "functionName": "_viewportMaxTop",
+                        "line": 40
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 599,
+                        "errorMessage": "",
+                        "functionName": "_viewportMaxBottom",
+                        "line": 41
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 27,
+                        "durationMicroseconds": 74,
+                        "errorMessage": "Cannot access value for name buttonGroup",
+                        "functionName": "onButtonGroupChanged",
+                        "line": 48
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 5,
+                        "durationMicroseconds": 139,
+                        "errorMessage": "",
+                        "functionName": "hideDropDown",
+                        "line": 54
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 159,
+                        "errorMessage": "Cannot load property width from QQuickLoader::item with type QObject.",
+                        "functionName": "_calcPositions",
+                        "line": 58
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 21,
+                        "durationMicroseconds": 56,
+                        "errorMessage": "Cannot access value for name _viewportMaxLeft",
+                        "functionName": "x",
+                        "line": 149
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 21,
+                        "durationMicroseconds": 35,
+                        "errorMessage": "Cannot access value for name _viewportMaxTop",
+                        "functionName": "y",
+                        "line": 150
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 21,
+                        "durationMicroseconds": 42,
+                        "errorMessage": "Cannot access value for name _viewportMaxRight",
+                        "functionName": "width",
+                        "line": 151
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 21,
+                        "durationMicroseconds": 33,
+                        "errorMessage": "Cannot access value for name _viewportMaxBottom",
+                        "functionName": "height",
+                        "line": 152
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 21,
+                        "durationMicroseconds": 31,
+                        "errorMessage": "Cannot access value for name checked",
+                        "functionName": "visible",
+                        "line": 153
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 21,
+                        "durationMicroseconds": 44,
+                        "errorMessage": "Cannot find name checked",
+                        "functionName": "onClicked",
+                        "line": 154
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 376,
+                        "errorMessage": "",
+                        "functionName": "radius",
+                        "line": 162
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 21,
+                        "durationMicroseconds": 658,
+                        "errorMessage": "method _calcPositions cannot be resolved.",
+                        "functionName": "onClicked",
+                        "line": 163
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 21,
+                        "durationMicroseconds": 42,
+                        "errorMessage": "Cannot access value for name checked",
+                        "functionName": "visible",
+                        "line": 171
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 40,
+                        "durationMicroseconds": 464,
+                        "errorMessage": "",
+                        "functionName": "arrowPoint",
+                        "line": 177
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 40,
+                        "durationMicroseconds": 391,
+                        "errorMessage": "",
+                        "functionName": "arrowBase1",
+                        "line": 178
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 40,
+                        "durationMicroseconds": 366,
+                        "errorMessage": "",
+                        "functionName": "arrowBase2",
+                        "line": 179
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 22,
+                        "durationMicroseconds": 248,
+                        "errorMessage": "Cannot access value for name dropDirection",
+                        "functionName": "onPaint",
+                        "line": 181
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 139,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 175
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 21,
+                        "durationMicroseconds": 46,
+                        "errorMessage": "Cannot access value for name _dropMargin",
+                        "functionName": "x",
+                        "line": 223
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 21,
+                        "durationMicroseconds": 36,
+                        "errorMessage": "Cannot access value for name _dropMargin",
+                        "functionName": "y",
+                        "line": 224
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/QmlControls/DropButton.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.Controls(QGroundControlControlsModule)"
+    }
+]

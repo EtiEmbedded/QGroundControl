@@ -1,0 +1,14 @@
+module QGroundControl.VehicleSetup
+typeinfo VehicleSetupModule.qmltypes
+prefer :/qml/QGroundControl/VehicleSetup/
+FirmwareUpgrade 1.0 FirmwareUpgrade.qml
+JoystickConfig 1.0 JoystickConfig.qml
+JoystickConfigAdvanced 1.0 JoystickConfigAdvanced.qml
+JoystickConfigButtons 1.0 JoystickConfigButtons.qml
+JoystickConfigCalibration 1.0 JoystickConfigCalibration.qml
+JoystickConfigGeneral 1.0 JoystickConfigGeneral.qml
+OpticalFlowSensor 1.0 OpticalFlowSensor.qml
+SetupParameterEditor 1.0 SetupParameterEditor.qml
+SetupView 1.0 SetupView.qml
+VehicleSummary 1.0 VehicleSummary.qml
+

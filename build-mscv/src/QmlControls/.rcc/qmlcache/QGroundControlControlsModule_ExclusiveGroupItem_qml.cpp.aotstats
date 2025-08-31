@@ -1,0 +1,20 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 27,
+                        "durationMicroseconds": 204,
+                        "errorMessage": "Cannot access value for name buttonGroup",
+                        "functionName": "onButtonGroupChanged",
+                        "line": 13
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/QmlControls/ExclusiveGroupItem.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.Controls(QGroundControlControlsModule)"
+    }
+]

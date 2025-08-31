@@ -1,0 +1,20 @@
+module QGroundControl.Toolbar
+typeinfo ToolbarModule.qmltypes
+prefer :/qml/QGroundControl/Toolbar/
+APMBatteryIndicator 1.0 APMBatteryIndicator.qml
+APMFlightModeIndicator 1.0 APMFlightModeIndicator.qml
+APMMainStatusIndicatorContentItem 1.0 APMMainStatusIndicatorContentItem.qml
+APMSupportForwardingIndicator 1.0 APMSupportForwardingIndicator.qml
+ArmedIndicator 1.0 ArmedIndicator.qml
+GCSControlIndicator 1.0 GCSControlIndicator.qml
+GimbalIndicator 1.0 GimbalIndicator.qml
+JoystickIndicator 1.0 JoystickIndicator.qml
+LinkIndicator 1.0 LinkIndicator.qml
+ModeIndicator 1.0 ModeIndicator.qml
+MultiVehicleSelector 1.0 MultiVehicleSelector.qml
+RCRSSIIndicator 1.0 RCRSSIIndicator.qml
+RemoteIDIndicator 1.0 RemoteIDIndicator.qml
+RTKGPSIndicator 1.0 RTKGPSIndicator.qml
+TelemetryRSSIIndicator 1.0 TelemetryRSSIIndicator.qml
+VehicleGPSIndicator 1.0 VehicleGPSIndicator.qml
+

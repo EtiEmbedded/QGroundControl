@@ -1,0 +1,388 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 793,
+                        "errorMessage": "",
+                        "functionName": "activeVehicle",
+                        "line": 26
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 315,
+                        "errorMessage": "",
+                        "functionName": "rtkSettings",
+                        "line": 29
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 47,
+                        "errorMessage": "Cannot load property useFixedBasePosition from (component in C:/Users/User/qgroundcontrol/src/QmlControls/GPSIndicatorPage.qml)::rtkSettings with type QVariant.",
+                        "functionName": "useFixedPosition",
+                        "line": 30
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 22,
+                        "durationMicroseconds": 42368,
+                        "errorMessage": "",
+                        "functionName": "spacing",
+                        "line": 34
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 26,
+                        "durationMicroseconds": 83,
+                        "errorMessage": "Cannot access value for name activeVehicle",
+                        "functionName": "visible",
+                        "line": 38
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 61,
+                        "errorMessage": "Cannot access value for name activeVehicle",
+                        "functionName": "labelText",
+                        "line": 42
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 47,
+                        "errorMessage": "Cannot access value for name activeVehicle",
+                        "functionName": "labelText",
+                        "line": 47
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 45,
+                        "errorMessage": "Cannot access value for name activeVehicle",
+                        "functionName": "labelText",
+                        "line": 52
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 52,
+                        "errorMessage": "Cannot access value for name activeVehicle",
+                        "functionName": "labelText",
+                        "line": 57
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 47,
+                        "errorMessage": "Cannot access value for name activeVehicle",
+                        "functionName": "labelText",
+                        "line": 62
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 90,
+                        "errorMessage": "Cannot load property connected from QGroundControlQmlGlobal::gpsRtk with type FactGroup.",
+                        "functionName": "visible",
+                        "line": 68
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 27,
+                        "durationMicroseconds": 92,
+                        "errorMessage": "Cannot load property active from QGroundControlQmlGlobal::gpsRtk with type FactGroup.",
+                        "functionName": "text",
+                        "line": 71
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 72,
+                        "errorMessage": "Cannot load property numSatellites from QGroundControlQmlGlobal::gpsRtk with type FactGroup.",
+                        "functionName": "labelText",
+                        "line": 76
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 73,
+                        "errorMessage": "Cannot load property currentDuration from QGroundControlQmlGlobal::gpsRtk with type FactGroup.",
+                        "functionName": "labelText",
+                        "line": 81
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 69,
+                        "errorMessage": "Cannot load property valid from QGroundControlQmlGlobal::gpsRtk with type FactGroup.",
+                        "functionName": "label",
+                        "line": 85
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 86,
+                        "errorMessage": "Cannot load property currentAccuracy from QGroundControlQmlGlobal::gpsRtk with type FactGroup.",
+                        "functionName": "labelText",
+                        "line": 86
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 74,
+                        "errorMessage": "Cannot load property currentAccuracy from QGroundControlQmlGlobal::gpsRtk with type FactGroup.",
+                        "functionName": "visible",
+                        "line": 87
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 40,
+                        "durationMicroseconds": 315,
+                        "errorMessage": "",
+                        "functionName": "sliderWidth",
+                        "line": 97
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 78,
+                        "errorMessage": "Cannot load property autoConnectRTKGPS from SettingsManager::autoConnectSettings with type QObject.",
+                        "functionName": "fact",
+                        "line": 102
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"visible\".",
+                        "functionName": "visible",
+                        "line": 103
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 26,
+                        "durationMicroseconds": 47,
+                        "errorMessage": "Cannot access value for name rtkSettings",
+                        "functionName": "visible",
+                        "line": 107
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"checked\".",
+                        "functionName": "checked",
+                        "line": 111
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"clicked\".",
+                        "functionName": "onClicked",
+                        "line": 112
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"checked\".",
+                        "functionName": "checked",
+                        "line": 117
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"clicked\".",
+                        "functionName": "onClicked",
+                        "line": 118
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 78,
+                        "errorMessage": "Cannot load property surveyInAccuracyLimit from SettingsManager::rtkSettings with type QObject.",
+                        "functionName": "fact",
+                        "line": 126
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"visible\".",
+                        "functionName": "visible",
+                        "line": 128
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 42,
+                        "errorMessage": "Cannot access value for name sliderWidth",
+                        "functionName": "preferredWidth",
+                        "line": 124
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 38,
+                        "errorMessage": "Cannot access value for name rtkSettings",
+                        "functionName": "fact",
+                        "line": 135
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"visible\".",
+                        "functionName": "visible",
+                        "line": 137
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 34,
+                        "errorMessage": "Cannot access value for name sliderWidth",
+                        "functionName": "preferredWidth",
+                        "line": 133
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 43,
+                        "errorMessage": "Cannot access value for name rtkSettings",
+                        "functionName": "label",
+                        "line": 141
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 40,
+                        "errorMessage": "Cannot access value for name rtkSettings",
+                        "functionName": "fact",
+                        "line": 142
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 55,
+                        "errorMessage": "Cannot access value for name useFixedPosition",
+                        "functionName": "visible",
+                        "line": 143
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 44,
+                        "errorMessage": "Cannot access value for name rtkSettings",
+                        "functionName": "label",
+                        "line": 147
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 47,
+                        "errorMessage": "Cannot access value for name rtkSettings",
+                        "functionName": "fact",
+                        "line": 148
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 43,
+                        "errorMessage": "Cannot access value for name useFixedPosition",
+                        "functionName": "visible",
+                        "line": 149
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 66,
+                        "errorMessage": "Cannot access value for name rtkSettings",
+                        "functionName": "label",
+                        "line": 153
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 42,
+                        "errorMessage": "Cannot access value for name rtkSettings",
+                        "functionName": "fact",
+                        "line": 154
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 47,
+                        "errorMessage": "Cannot access value for name useFixedPosition",
+                        "functionName": "visible",
+                        "line": 155
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 61,
+                        "errorMessage": "Cannot access value for name rtkSettings",
+                        "functionName": "label",
+                        "line": 159
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 43,
+                        "errorMessage": "Cannot access value for name rtkSettings",
+                        "functionName": "fact",
+                        "line": 160
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 45,
+                        "errorMessage": "Cannot access value for name useFixedPosition",
+                        "functionName": "visible",
+                        "line": 161
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Cannot resolve property type  for binding on buttonText.",
+                        "functionName": "buttonText",
+                        "line": 166
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 52,
+                        "errorMessage": "Cannot access value for name useFixedPosition",
+                        "functionName": "visible",
+                        "line": 167
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 81,
+                        "errorMessage": "Cannot load property valid from QGroundControlQmlGlobal::gpsRtk with type FactGroup.",
+                        "functionName": "enabled",
+                        "line": 168
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 28,
+                        "durationMicroseconds": 68,
+                        "errorMessage": "Cannot access value for name rtkSettings",
+                        "functionName": "onClicked",
+                        "line": 170
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/QmlControls/GPSIndicatorPage.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.Controls(QGroundControlControlsModule)"
+    }
+]

@@ -1,0 +1,65 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"build-mscv/RelWithDebInfo/cpm_modules/shapelib/a995950de7c483318cb49c46205161ff77220e22/cmake/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 32,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 36,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "share/shapelib",
+			"paths" : 
+			[
+				{
+					"from" : "build-mscv/RelWithDebInfo/_deps/shapelib-build/cmake/project-config.cmake",
+					"to" : "shapelib-config.cmake"
+				}
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "share/shapelib",
+			"paths" : 
+			[
+				{
+					"from" : "build-mscv/RelWithDebInfo/_deps/shapelib-build/cmake/project-config-version.cmake",
+					"to" : "shapelib-config-version.cmake"
+				}
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "_deps/shapelib-build/cmake",
+		"source" : "build-mscv/RelWithDebInfo/cpm_modules/shapelib/a995950de7c483318cb49c46205161ff77220e22/cmake"
+	}
+}

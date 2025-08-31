@@ -1,0 +1,476 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 512,
+                        "errorMessage": "",
+                        "functionName": "_settingsManager",
+                        "line": 25
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 39,
+                        "errorMessage": "Cannot load property mavlinkSettings from (component in C:/Users/User/qgroundcontrol/src/UI/AppSettings/TelemetrySettings.qml)::_settingsManager with type QVariant.",
+                        "functionName": "_mavlinkSettings",
+                        "line": 26
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 23,
+                        "errorMessage": "Cannot load property appSettings from (component in C:/Users/User/qgroundcontrol/src/UI/AppSettings/TelemetrySettings.qml)::_settingsManager with type QVariant.",
+                        "functionName": "_appSettings",
+                        "line": 27
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 20,
+                        "errorMessage": "Cannot load property disableAllPersistence from (component in C:/Users/User/qgroundcontrol/src/UI/AppSettings/TelemetrySettings.qml)::_appSettings with type QVariant.",
+                        "functionName": "_disableAllDataPersistence",
+                        "line": 28
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 409,
+                        "errorMessage": "",
+                        "functionName": "_activeVehicle",
+                        "line": 29
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 53,
+                        "errorMessage": "Cannot load property apmFirmware from (component in C:/Users/User/qgroundcontrol/src/UI/AppSettings/TelemetrySettings.qml)::_activeVehicle with type QVariant.",
+                        "functionName": "_isAPM",
+                        "line": 31
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 86,
+                        "errorMessage": "Cannot load property apmMavlinkStreamRateSettings from (component in C:/Users/User/qgroundcontrol/src/UI/AppSettings/TelemetrySettings.qml)::_settingsManager with type QVariant.",
+                        "functionName": "_showAPMStreamRates",
+                        "line": 32
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 21,
+                        "errorMessage": "Cannot load property apmStartMavlinkStreams from (component in C:/Users/User/qgroundcontrol/src/UI/AppSettings/TelemetrySettings.qml)::_mavlinkSettings with type QVariant.",
+                        "functionName": "_apmStartMavlinkStreams",
+                        "line": 33
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 79,
+                        "errorMessage": "Cannot access value for name _mavlinkSettings",
+                        "functionName": "fact",
+                        "line": 42
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 37,
+                        "errorMessage": "Cannot access value for name _mavlinkSettings",
+                        "functionName": "fact",
+                        "line": 48
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 166,
+                        "errorMessage": "Cannot load property visible from (component in C:/Users/User/qgroundcontrol/src/UI/AppSettings/TelemetrySettings.qml)::_mavlink2SigningKey with type Fact.",
+                        "functionName": "visible",
+                        "line": 57
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 44,
+                        "durationMicroseconds": 51,
+                        "errorMessage": "Cannot access value for name _mavlinkSettings",
+                        "functionName": "_mavlink2SigningKey",
+                        "line": 59
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 219,
+                        "errorMessage": "",
+                        "functionName": "target",
+                        "line": 62
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 13,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "onRawValueChanged",
+                        "line": 63
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 22,
+                        "durationMicroseconds": 7854,
+                        "errorMessage": "",
+                        "functionName": "spacing",
+                        "line": 67
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 348,
+                        "errorMessage": "",
+                        "functionName": "textFieldPreferredWidth",
+                        "line": 71
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 187,
+                        "errorMessage": "",
+                        "functionName": "fact",
+                        "line": 73
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"enabled\".",
+                        "functionName": "enabled",
+                        "line": 78
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 28,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"clicked\".",
+                        "functionName": "onClicked",
+                        "line": 80
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 62,
+                        "errorMessage": "Cannot access value for name _mavlinkSettings",
+                        "functionName": "fact",
+                        "line": 102
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"visible\".",
+                        "functionName": "visible",
+                        "line": 103
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 341,
+                        "errorMessage": "",
+                        "functionName": "textFieldPreferredWidth",
+                        "line": 108
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 66,
+                        "errorMessage": "Cannot access value for name _mavlinkSettings",
+                        "functionName": "fact",
+                        "line": 110
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 166,
+                        "errorMessage": "Cannot load property visible from (component in C:/Users/User/qgroundcontrol/src/UI/AppSettings/TelemetrySettings.qml)::fact with type Fact.",
+                        "functionName": "visible",
+                        "line": 111
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 56,
+                        "errorMessage": "Cannot access value for name _mavlinkSettings",
+                        "functionName": "enabled",
+                        "line": 112
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 68,
+                        "errorMessage": "Cannot access value for name _disableAllDataPersistence",
+                        "functionName": "visible",
+                        "line": 119
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 152,
+                        "errorMessage": "",
+                        "functionName": "fact",
+                        "line": 124
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"visible\".",
+                        "functionName": "visible",
+                        "line": 125
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 43,
+                        "durationMicroseconds": 49,
+                        "errorMessage": "Cannot access value for name _mavlinkSettings",
+                        "functionName": "_telemetrySave",
+                        "line": 126
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 128,
+                        "errorMessage": "",
+                        "functionName": "fact",
+                        "line": 132
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"visible\".",
+                        "functionName": "visible",
+                        "line": 133
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"enabled\".",
+                        "functionName": "enabled",
+                        "line": 134
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 51,
+                        "durationMicroseconds": 46,
+                        "errorMessage": "Cannot access value for name _mavlinkSettings",
+                        "functionName": "_telemetrySaveNotArmed",
+                        "line": 135
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 123,
+                        "errorMessage": "",
+                        "functionName": "fact",
+                        "line": 141
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"visible\".",
+                        "functionName": "visible",
+                        "line": 142
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 46,
+                        "durationMicroseconds": 44,
+                        "errorMessage": "Cannot access value for name _mavlinkSettings",
+                        "functionName": "_saveCsvTelemetry",
+                        "line": 143
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 53,
+                        "errorMessage": "Cannot access value for name _showAPMStreamRates",
+                        "functionName": "visible",
+                        "line": 150
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"checked\".",
+                        "functionName": "checked",
+                        "line": 156
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"clicked\".",
+                        "functionName": "onClicked",
+                        "line": 157
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 69,
+                        "errorMessage": "Cannot access value for name _settingsManager",
+                        "functionName": "fact",
+                        "line": 163
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 43,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: controllerByVehicleCheckBox",
+                        "functionName": "enabled",
+                        "line": 165
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 47,
+                        "errorMessage": "Cannot access value for name _settingsManager",
+                        "functionName": "fact",
+                        "line": 171
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 41,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: controllerByVehicleCheckBox",
+                        "functionName": "enabled",
+                        "line": 173
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 48,
+                        "errorMessage": "Cannot access value for name _settingsManager",
+                        "functionName": "fact",
+                        "line": 179
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 36,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: controllerByVehicleCheckBox",
+                        "functionName": "enabled",
+                        "line": 181
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 47,
+                        "errorMessage": "Cannot access value for name _settingsManager",
+                        "functionName": "fact",
+                        "line": 187
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 35,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: controllerByVehicleCheckBox",
+                        "functionName": "enabled",
+                        "line": 189
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 71,
+                        "errorMessage": "Cannot access value for name _settingsManager",
+                        "functionName": "fact",
+                        "line": 195
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 37,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: controllerByVehicleCheckBox",
+                        "functionName": "enabled",
+                        "line": 197
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 45,
+                        "errorMessage": "Cannot access value for name _settingsManager",
+                        "functionName": "fact",
+                        "line": 203
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 34,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: controllerByVehicleCheckBox",
+                        "functionName": "enabled",
+                        "line": 205
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 43,
+                        "errorMessage": "Cannot access value for name _settingsManager",
+                        "functionName": "fact",
+                        "line": 211
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 134,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: controllerByVehicleCheckBox",
+                        "functionName": "enabled",
+                        "line": 213
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 76,
+                        "errorMessage": "Cannot access value for name _activeVehicle",
+                        "functionName": "labelText",
+                        "line": 224
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 46,
+                        "errorMessage": "Cannot access value for name _activeVehicle",
+                        "functionName": "labelText",
+                        "line": 230
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 51,
+                        "errorMessage": "Cannot access value for name _activeVehicle",
+                        "functionName": "labelText",
+                        "line": 236
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 59,
+                        "errorMessage": "Cannot access value for name _activeVehicle",
+                        "functionName": "labelText",
+                        "line": 242
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 71,
+                        "errorMessage": "Cannot access value for name _activeVehicle",
+                        "functionName": "labelText",
+                        "line": 248
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/UI/AppSettings/TelemetrySettings.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.AppSettings(AppSettingsModule)"
+    }
+]

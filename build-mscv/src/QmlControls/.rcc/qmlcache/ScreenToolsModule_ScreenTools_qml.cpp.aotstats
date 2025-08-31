@@ -1,0 +1,396 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 589,
+                        "errorMessage": "",
+                        "functionName": "largeFontPixelHeight",
+                        "line": 43
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 300,
+                        "errorMessage": "",
+                        "functionName": "mediumFontPixelHeight",
+                        "line": 44
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 253,
+                        "errorMessage": "",
+                        "functionName": "smallFontPixelHeight",
+                        "line": 45
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 223,
+                        "errorMessage": "",
+                        "functionName": "largeFontPixelWidth",
+                        "line": 51
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 244,
+                        "errorMessage": "",
+                        "functionName": "mediumFontPixelWidth",
+                        "line": 52
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 239,
+                        "errorMessage": "",
+                        "functionName": "smallFontPixelWidth",
+                        "line": 53
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 48,
+                        "durationMicroseconds": 263,
+                        "errorMessage": "",
+                        "functionName": "defaultDialogControlSpacing",
+                        "line": 59
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 100,
+                        "errorMessage": "Cannot load property corePlugin from QGroundControlQmlGlobal.",
+                        "functionName": "realPixelDensity",
+                        "line": 68
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 520,
+                        "errorMessage": "",
+                        "functionName": "screenWidth",
+                        "line": 87
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 462,
+                        "errorMessage": "",
+                        "functionName": "screenHeight",
+                        "line": 88
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 187,
+                        "errorMessage": "",
+                        "functionName": "isAndroid",
+                        "line": 90
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 190,
+                        "errorMessage": "",
+                        "functionName": "isiOS",
+                        "line": 91
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 147,
+                        "errorMessage": "",
+                        "functionName": "isMobile",
+                        "line": 92
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 139,
+                        "errorMessage": "",
+                        "functionName": "isFakeMobile",
+                        "line": 93
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 137,
+                        "errorMessage": "",
+                        "functionName": "isWindows",
+                        "line": 94
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 168,
+                        "errorMessage": "",
+                        "functionName": "isDebug",
+                        "line": 95
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 146,
+                        "errorMessage": "",
+                        "functionName": "isMac",
+                        "line": 96
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 157,
+                        "errorMessage": "",
+                        "functionName": "isLinux",
+                        "line": 97
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 499,
+                        "errorMessage": "",
+                        "functionName": "isTinyScreen",
+                        "line": 98
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 1295,
+                        "errorMessage": "",
+                        "functionName": "isShortScreen",
+                        "line": 99
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 508,
+                        "errorMessage": "",
+                        "functionName": "isHugeScreen",
+                        "line": 100
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 217,
+                        "errorMessage": "",
+                        "functionName": "isSerialAvailable",
+                        "line": 101
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 672,
+                        "errorMessage": "",
+                        "functionName": "implicitButtonWidth",
+                        "line": 107
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 712,
+                        "errorMessage": "",
+                        "functionName": "implicitButtonHeight",
+                        "line": 108
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 661,
+                        "errorMessage": "",
+                        "functionName": "implicitCheckBoxHeight",
+                        "line": 109
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 123,
+                        "errorMessage": "",
+                        "functionName": "implicitRadioButtonHeight",
+                        "line": 110
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 235,
+                        "errorMessage": "",
+                        "functionName": "implicitTextFieldWidth",
+                        "line": 111
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 801,
+                        "errorMessage": "",
+                        "functionName": "implicitTextFieldHeight",
+                        "line": 112
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 693,
+                        "errorMessage": "",
+                        "functionName": "implicitComboBoxHeight",
+                        "line": 113
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 761,
+                        "errorMessage": "",
+                        "functionName": "implicitComboBoxWidth",
+                        "line": 114
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 123,
+                        "errorMessage": "",
+                        "functionName": "comboBoxPadding",
+                        "line": 115
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 697,
+                        "errorMessage": "",
+                        "functionName": "implicitSliderHeight",
+                        "line": 116
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 250,
+                        "errorMessage": "",
+                        "functionName": "buttonBorderRadius",
+                        "line": 117
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 1191,
+                        "errorMessage": "",
+                        "functionName": "checkBoxIndicatorSize",
+                        "line": 119
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 127,
+                        "errorMessage": "",
+                        "functionName": "radioButtonIndicatorSize",
+                        "line": 120
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 178,
+                        "errorMessage": "",
+                        "functionName": "normalFontFamily",
+                        "line": 122
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 153,
+                        "errorMessage": "",
+                        "functionName": "fixedFontFamily",
+                        "line": 123
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 32,
+                        "durationMicroseconds": 312,
+                        "errorMessage": "Cannot generate efficient code for call to untyped JavaScript function",
+                        "functionName": "onRealPixelDensityChanged",
+                        "line": 134
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 5,
+                        "durationMicroseconds": 1220,
+                        "errorMessage": "",
+                        "functionName": "printScreenStats",
+                        "line": 138
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 86,
+                        "errorMessage": "function without return type annotation returns int. This may prevent proper compilation to Cpp.",
+                        "functionName": "mouseX",
+                        "line": 143
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 50,
+                        "errorMessage": "function without return type annotation returns int. This may prevent proper compilation to Cpp.",
+                        "functionName": "mouseY",
+                        "line": 148
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "_setBasePointSize",
+                        "line": 153
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 17,
+                        "durationMicroseconds": 120,
+                        "errorMessage": "Cannot load property appFontPointSize from SettingsManager::appSettings with type QObject.",
+                        "functionName": "target",
+                        "line": 128
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 9,
+                        "durationMicroseconds": 75,
+                        "errorMessage": "Cannot load property appFontPointSize from SettingsManager::appSettings with type QObject.",
+                        "functionName": "onValueChanged",
+                        "line": 129
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 39,
+                        "durationMicroseconds": 188,
+                        "errorMessage": "",
+                        "functionName": "fontWidth",
+                        "line": 180
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 39,
+                        "durationMicroseconds": 115,
+                        "errorMessage": "",
+                        "functionName": "fontHeight",
+                        "line": 181
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 92,
+                        "errorMessage": "Cannot access value for name normalFontFamily",
+                        "functionName": "family",
+                        "line": 179
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 32,
+                        "durationMicroseconds": 297,
+                        "errorMessage": "Cannot find name platformFontPointSize",
+                        "functionName": "onCompleted",
+                        "line": 182
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/QmlControls/ScreenTools.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.ScreenTools(ScreenToolsModule)"
+    }
+]

@@ -1,0 +1,548 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 567,
+                        "errorMessage": "Cannot access value for name QGroundControl",
+                        "functionName": "_ar",
+                        "line": 29
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 453,
+                        "errorMessage": "Cannot access value for name QGroundControl",
+                        "functionName": "_showGrid",
+                        "line": 32
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 294,
+                        "errorMessage": "Cannot access value for name globals",
+                        "functionName": "_dynamicCameras",
+                        "line": 33
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 271,
+                        "errorMessage": "Cannot access value for name globals",
+                        "functionName": "_connected",
+                        "line": 34
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 74,
+                        "errorMessage": "Cannot load property currentCamera from (component in C:/Users/User/qgroundcontrol/src/FlightDisplay/FlightDisplayViewVideo.qml)::_dynamicCameras with type QVariant.",
+                        "functionName": "_curCameraIndex",
+                        "line": 35
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 32,
+                        "errorMessage": "Cannot load property cameras from (component in C:/Users/User/qgroundcontrol/src/FlightDisplay/FlightDisplayViewVideo.qml)::_dynamicCameras with type QVariant.",
+                        "functionName": "_isCamera",
+                        "line": 36
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 33,
+                        "errorMessage": "Cannot load property cameras from (component in C:/Users/User/qgroundcontrol/src/FlightDisplay/FlightDisplayViewVideo.qml)::_dynamicCameras with type QVariant.",
+                        "functionName": "_camera",
+                        "line": 37
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 28,
+                        "errorMessage": "Cannot load property hasZoom from (component in C:/Users/User/qgroundcontrol/src/FlightDisplay/FlightDisplayViewVideo.qml)::_camera with type QVariant.",
+                        "functionName": "_hasZoom",
+                        "line": 38
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 421,
+                        "errorMessage": "Cannot access value for name QGroundControl",
+                        "functionName": "_fitMode",
+                        "line": 39
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 280,
+                        "errorMessage": "",
+                        "functionName": "_isMode_FIT_WIDTH",
+                        "line": 41
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 158,
+                        "errorMessage": "",
+                        "functionName": "_isMode_FIT_HEIGHT",
+                        "line": 42
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 153,
+                        "errorMessage": "",
+                        "functionName": "_isMode_FILL",
+                        "line": 43
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 138,
+                        "errorMessage": "",
+                        "functionName": "_isMode_NO_CROP",
+                        "line": 44
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 54,
+                        "errorMessage": "function without return type annotation returns QVariant. This may prevent proper compilation to Cpp.",
+                        "functionName": "getWidth",
+                        "line": 46
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 29,
+                        "errorMessage": "function without return type annotation returns QVariant. This may prevent proper compilation to Cpp.",
+                        "functionName": "getHeight",
+                        "line": 49
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 157,
+                        "errorMessage": "",
+                        "functionName": "fillMode",
+                        "line": 59
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 577,
+                        "errorMessage": "Cannot access value for name QGroundControl",
+                        "functionName": "visible",
+                        "line": 60
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 116,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 57
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 4961,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 64
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 280,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 65
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 211,
+                        "errorMessage": "",
+                        "functionName": "radius",
+                        "line": 66
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 98,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 63
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 703,
+                        "errorMessage": "Cannot access value for name QGroundControl",
+                        "functionName": "text",
+                        "line": 73
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 57,
+                        "errorMessage": "Cannot access value for name useSmallFont",
+                        "functionName": "pointSize",
+                        "line": 76
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 132,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 77
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 427,
+                        "errorMessage": "Cannot access value for name QGroundControl",
+                        "functionName": "visible",
+                        "line": 85
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 9,
+                        "durationMicroseconds": 54,
+                        "errorMessage": "Cannot access value for name _ar",
+                        "functionName": "getWidth",
+                        "line": 86
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 9,
+                        "durationMicroseconds": 42,
+                        "errorMessage": "Cannot access value for name _ar",
+                        "functionName": "getHeight",
+                        "line": 101
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 114,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 83
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 100,
+                        "errorMessage": "Cannot access value for name QGroundControl",
+                        "functionName": "target",
+                        "line": 123
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 21,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "onImageFileChanged",
+                        "line": 124
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 413,
+                        "errorMessage": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: QVariant -> QColor stored as QVariant",
+                        "functionName": "color",
+                        "line": 134
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 128,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 135
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 196,
+                        "errorMessage": "",
+                        "functionName": "x",
+                        "line": 137
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 30,
+                        "durationMicroseconds": 48,
+                        "errorMessage": "Cannot access value for name _showGrid",
+                        "functionName": "visible",
+                        "line": 138
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 371,
+                        "errorMessage": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: QVariant -> QColor stored as QVariant",
+                        "functionName": "color",
+                        "line": 141
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 143,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 142
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 206,
+                        "errorMessage": "",
+                        "functionName": "x",
+                        "line": 144
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 30,
+                        "durationMicroseconds": 51,
+                        "errorMessage": "Cannot access value for name _showGrid",
+                        "functionName": "visible",
+                        "line": 145
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 372,
+                        "errorMessage": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: QVariant -> QColor stored as QVariant",
+                        "functionName": "color",
+                        "line": 148
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 150,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 149
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 185,
+                        "errorMessage": "",
+                        "functionName": "y",
+                        "line": 151
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 30,
+                        "durationMicroseconds": 50,
+                        "errorMessage": "Cannot access value for name _showGrid",
+                        "functionName": "visible",
+                        "line": 152
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 351,
+                        "errorMessage": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: QVariant -> QColor stored as QVariant",
+                        "functionName": "color",
+                        "line": 155
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 112,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 156
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 166,
+                        "errorMessage": "",
+                        "functionName": "y",
+                        "line": 158
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 30,
+                        "durationMicroseconds": 42,
+                        "errorMessage": "Cannot access value for name _showGrid",
+                        "functionName": "visible",
+                        "line": 159
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 203,
+                        "errorMessage": "Type (component in C:/Users/User/qgroundcontrol/src/FlightDisplay/FlightDisplayViewVideo.qml)::parent with type QQuickItem does not have a property getHeight for calling",
+                        "functionName": "height",
+                        "line": 167
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 150,
+                        "errorMessage": "Type (component in C:/Users/User/qgroundcontrol/src/FlightDisplay/FlightDisplayViewVideo.qml)::parent with type QQuickItem does not have a property getWidth for calling",
+                        "functionName": "width",
+                        "line": 168
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 426,
+                        "errorMessage": "Cannot access value for name QGroundControl",
+                        "functionName": "visible",
+                        "line": 170
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 115,
+                        "errorMessage": "",
+                        "functionName": "sourceComponent",
+                        "line": 171
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 42,
+                        "durationMicroseconds": 382,
+                        "errorMessage": "Cannot access value for name QGroundControl",
+                        "functionName": "videoDisabled",
+                        "line": 173
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 86,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 169
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 375,
+                        "errorMessage": "Cannot access value for name QGroundControl",
+                        "functionName": "width",
+                        "line": 179
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 48,
+                        "errorMessage": "Cannot access value for name _camera",
+                        "functionName": "height",
+                        "line": 180
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 310,
+                        "errorMessage": "Cannot access value for name QGroundControl",
+                        "functionName": "visible",
+                        "line": 182
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 13,
+                        "durationMicroseconds": 39,
+                        "errorMessage": "Cannot access value for name _camera",
+                        "functionName": "pipOrNot",
+                        "line": 183
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 31,
+                        "durationMicroseconds": 216,
+                        "errorMessage": "",
+                        "functionName": "onVisibleChanged",
+                        "line": 204
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 88,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 181
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 42,
+                        "errorMessage": "Cannot access value for name _camera",
+                        "functionName": "target",
+                        "line": 201
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 17,
+                        "durationMicroseconds": 172,
+                        "errorMessage": "",
+                        "functionName": "onThermalModeChanged",
+                        "line": 202
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"opacity\".",
+                        "functionName": "opacity",
+                        "line": 211
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"fill\".",
+                        "functionName": "fill",
+                        "line": 210
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 37,
+                        "errorMessage": "Cannot access value for name _hasZoom",
+                        "functionName": "enabled",
+                        "line": 217
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 195,
+                        "errorMessage": "",
+                        "functionName": "onPinchStarted",
+                        "line": 219
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 47,
+                        "errorMessage": "Cannot access value for name _hasZoom",
+                        "functionName": "onPinchUpdated",
+                        "line": 220
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 88,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 218
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/FlightDisplay/FlightDisplayViewVideo.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.FlightDisplay(FlightDisplayModule)"
+    }
+]

@@ -1,0 +1,308 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 17,
+                        "durationMicroseconds": 5176,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 22
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 17,
+                        "durationMicroseconds": 310,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 23
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 17,
+                        "durationMicroseconds": 187,
+                        "errorMessage": "",
+                        "functionName": "radius",
+                        "line": 24
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 17,
+                        "durationMicroseconds": 36,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: qgcPal",
+                        "functionName": "color",
+                        "line": 25
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 17,
+                        "durationMicroseconds": 282,
+                        "errorMessage": "",
+                        "functionName": "visible",
+                        "line": 26
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 183,
+                        "errorMessage": "",
+                        "functionName": "_margins",
+                        "line": 39
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 34,
+                        "errorMessage": "Cannot load property actionEmergencyStop from (component in C:/Users/User/qgroundcontrol/src/FlightDisplay/GuidedActionConfirm.qml)::guidedController with type QVariant.",
+                        "functionName": "_emergencyAction",
+                        "line": 40
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 58,
+                        "durationMicroseconds": 559,
+                        "errorMessage": "Cannot access value for name QGroundControl",
+                        "functionName": "_utmspEnabled",
+                        "line": 44
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 23,
+                        "durationMicroseconds": 324,
+                        "errorMessage": "",
+                        "functionName": "onVisibleChanged",
+                        "line": 48
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 27,
+                        "durationMicroseconds": 168,
+                        "errorMessage": "",
+                        "functionName": "onHideTriggerChanged",
+                        "line": 54
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "show",
+                        "line": 60
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 35,
+                        "errorMessage": "Type (component in C:/Users/User/qgroundcontrol/src/FlightDisplay/GuidedActionConfirm.qml)::guidedValueSlider with type QVariant does not have a property visible for writing",
+                        "functionName": "confirmCancelled",
+                        "line": 70
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 28,
+                        "durationMicroseconds": 34,
+                        "errorMessage": "Type (component in C:/Users/User/qgroundcontrol/src/FlightDisplay/GuidedActionConfirm.qml)::guidedController with type QVariant does not have a property confirmDialog for writing",
+                        "functionName": "onCompleted",
+                        "line": 46
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 36,
+                        "errorMessage": "Cannot find name visible",
+                        "functionName": "onTriggered",
+                        "line": 85
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 56,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "width",
+                        "line": 93
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 24,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "spacing",
+                        "line": 94
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 102,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 92
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 139,
+                        "errorMessage": "",
+                        "functionName": "horizontalAlignment",
+                        "line": 99
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 102,
+                        "errorMessage": "",
+                        "functionName": "wrapMode",
+                        "line": 100
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 120,
+                        "errorMessage": "",
+                        "functionName": "pointSize",
+                        "line": 101
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"visible\".",
+                        "functionName": "visible",
+                        "line": 109
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 119,
+                        "errorMessage": "",
+                        "functionName": "alignment",
+                        "line": 107
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 114,
+                        "errorMessage": "",
+                        "functionName": "spacing",
+                        "line": 114
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 437,
+                        "errorMessage": "",
+                        "functionName": "confirmText",
+                        "line": 118
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 26,
+                        "durationMicroseconds": 50,
+                        "errorMessage": "Cannot access value for name _utmspEnabled",
+                        "functionName": "enabled",
+                        "line": 120
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 26,
+                        "durationMicroseconds": 34,
+                        "errorMessage": "Cannot access value for name _utmspEnabled",
+                        "functionName": "opacity",
+                        "line": 121
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 27,
+                        "durationMicroseconds": 74,
+                        "errorMessage": "Cannot access value for name guidedValueSlider",
+                        "functionName": "onAccept",
+                        "line": 123
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 196,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 144
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 70,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 145
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 128,
+                        "errorMessage": "",
+                        "functionName": "radius",
+                        "line": 146
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 28,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: qgcPal",
+                        "functionName": "color",
+                        "line": 147
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 115,
+                        "errorMessage": "",
+                        "functionName": "fillMode",
+                        "line": 153
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 23,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: qgcPal",
+                        "functionName": "color",
+                        "line": 154
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 182,
+                        "errorMessage": "",
+                        "functionName": "margins",
+                        "line": 150
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 62,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 151
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 115,
+                        "errorMessage": "",
+                        "functionName": "fillItem",
+                        "line": 158
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 613,
+                        "errorMessage": "method confirmCancelled cannot be resolved.",
+                        "functionName": "onClicked",
+                        "line": 159
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/FlightDisplay/GuidedActionConfirm.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.FlightDisplay(FlightDisplayModule)"
+    }
+]

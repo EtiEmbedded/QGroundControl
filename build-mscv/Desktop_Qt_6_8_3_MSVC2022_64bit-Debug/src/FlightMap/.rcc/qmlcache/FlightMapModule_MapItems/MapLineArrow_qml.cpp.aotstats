@@ -1,0 +1,108 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 427,
+                        "errorMessage": "",
+                        "functionName": "fromCoord",
+                        "line": 23
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 189,
+                        "errorMessage": "",
+                        "functionName": "toCoord",
+                        "line": 24
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 118,
+                        "errorMessage": "",
+                        "functionName": "_map",
+                        "line": 27
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 113,
+                        "errorMessage": "Cannot load property isValid from (component in C:/Users/User/qgroundcontrol/src/FlightMap/MapItems/MapLineArrow.qml)::fromCoord with type QVariant.",
+                        "functionName": "_updateArrowDetails",
+                        "line": 31
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 118,
+                        "errorMessage": "",
+                        "functionName": "onFromCoordChanged",
+                        "line": 42
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 84,
+                        "errorMessage": "",
+                        "functionName": "onToCoordChanged",
+                        "line": 43
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 17,
+                        "durationMicroseconds": 68,
+                        "errorMessage": "Cannot access value for name _arrowSize",
+                        "functionName": "x",
+                        "line": 46
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 17,
+                        "durationMicroseconds": 30,
+                        "errorMessage": "Cannot access value for name _arrowSize",
+                        "functionName": "width",
+                        "line": 48
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 17,
+                        "durationMicroseconds": 42,
+                        "errorMessage": "Cannot access value for name _arrowSize",
+                        "functionName": "height",
+                        "line": 49
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 18,
+                        "durationMicroseconds": 90,
+                        "errorMessage": "Cannot access value for name arrowColor",
+                        "functionName": "onPaint",
+                        "line": 51
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 35,
+                        "errorMessage": "Cannot access value for name _arrowHeading",
+                        "functionName": "angle",
+                        "line": 68
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 34,
+                        "errorMessage": "Cannot access value for name width",
+                        "functionName": "x",
+                        "line": 66
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/FlightMap/MapItems/MapLineArrow.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.FlightMap(FlightMapModule)"
+    }
+]

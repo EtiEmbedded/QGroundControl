@@ -1,0 +1,92 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 750,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 21
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 142,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 22
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 27,
+                        "durationMicroseconds": 330,
+                        "errorMessage": "",
+                        "functionName": "_qgcPal",
+                        "line": 28
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 14,
+                        "durationMicroseconds": 180,
+                        "errorMessage": "Cannot load property text from (component in C:/Users/User/qgroundcontrol/src/FlightMap/Widgets/CompassHeadingIndicator.qml)::_qgcPal with type QVariant.",
+                        "functionName": "onPaint",
+                        "line": 35
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 145,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 20
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 70,
+                        "errorMessage": "Cannot access value for name _qgcPal",
+                        "functionName": "target",
+                        "line": 31
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 9,
+                        "durationMicroseconds": 228,
+                        "errorMessage": "",
+                        "functionName": "onGlobalThemeChanged",
+                        "line": 32
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 21,
+                        "durationMicroseconds": 50,
+                        "errorMessage": "Cannot access value for name heading",
+                        "functionName": "angle",
+                        "line": 60
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 21,
+                        "durationMicroseconds": 341,
+                        "errorMessage": "",
+                        "functionName": "x",
+                        "line": 58
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 21,
+                        "durationMicroseconds": 327,
+                        "errorMessage": "",
+                        "functionName": "y",
+                        "line": 59
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/FlightMap/Widgets/CompassHeadingIndicator.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.FlightMap(FlightMapModule)"
+    }
+]

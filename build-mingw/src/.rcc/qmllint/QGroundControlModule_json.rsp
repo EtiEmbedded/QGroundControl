@@ -1,0 +1,11 @@
+--bare
+-I
+C:/Users/User/qgroundcontrol/build-mingw/qml
+-I
+C:/Users/User/qgroundcontrol/build-mingw/qml
+-I
+C:/Qt/6.8.3/mingw_64/qml
+--resource
+C:/Users/User/qgroundcontrol/build-mingw/src/.qt/rcc/qmake_QGroundControl.qrc
+--json
+C:/Users/User/qgroundcontrol/build-mingw/QGroundControlModule_qmllint.json

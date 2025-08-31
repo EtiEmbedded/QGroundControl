@@ -1,0 +1,52 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 17,
+                        "durationMicroseconds": 185,
+                        "errorMessage": "Cannot load property landTitle from (component in C:/Users/User/qgroundcontrol/src/FlightDisplay/GuidedActionLand.qml)::_guidedController with type QVariant.",
+                        "functionName": "text",
+                        "line": 14
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 17,
+                        "durationMicroseconds": 34,
+                        "errorMessage": "Cannot load property landMessage from (component in C:/Users/User/qgroundcontrol/src/FlightDisplay/GuidedActionLand.qml)::_guidedController with type QVariant.",
+                        "functionName": "message",
+                        "line": 15
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 17,
+                        "durationMicroseconds": 31,
+                        "errorMessage": "Cannot load property showLand from (component in C:/Users/User/qgroundcontrol/src/FlightDisplay/GuidedActionLand.qml)::_guidedController with type QVariant.",
+                        "functionName": "visible",
+                        "line": 17
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 17,
+                        "durationMicroseconds": 22,
+                        "errorMessage": "Cannot load property showLand from (component in C:/Users/User/qgroundcontrol/src/FlightDisplay/GuidedActionLand.qml)::_guidedController with type QVariant.",
+                        "functionName": "enabled",
+                        "line": 18
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 17,
+                        "durationMicroseconds": 23,
+                        "errorMessage": "Cannot load property actionLand from (component in C:/Users/User/qgroundcontrol/src/FlightDisplay/GuidedActionLand.qml)::_guidedController with type QVariant.",
+                        "functionName": "actionID",
+                        "line": 19
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/FlightDisplay/GuidedActionLand.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.FlightDisplay(FlightDisplayModule)"
+    }
+]

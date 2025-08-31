@@ -1,0 +1,988 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 21,
+                        "durationMicroseconds": 660,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 14
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 61,
+                        "durationMicroseconds": 365,
+                        "errorMessage": "",
+                        "functionName": "activeVehicle",
+                        "line": 18
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 61,
+                        "durationMicroseconds": 66,
+                        "errorMessage": "Cannot load property firstControlStatusReceived from (component in C:/Users/User/qgroundcontrol/src/UI/toolbar/GCSControlIndicator.qml)::activeVehicle with type QVariant.",
+                        "functionName": "showIndicator",
+                        "line": 19
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 61,
+                        "durationMicroseconds": 71,
+                        "errorMessage": "Cannot load property sysidInControl from (component in C:/Users/User/qgroundcontrol/src/UI/toolbar/GCSControlIndicator.qml)::activeVehicle with type QVariant.",
+                        "functionName": "sysidInControl",
+                        "line": 20
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 61,
+                        "durationMicroseconds": 52,
+                        "errorMessage": "Cannot load property gcsControlStatusFlags_SystemManager from (component in C:/Users/User/qgroundcontrol/src/UI/toolbar/GCSControlIndicator.qml)::activeVehicle with type QVariant.",
+                        "functionName": "gcsControlStatusFlags_SystemManager",
+                        "line": 21
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 61,
+                        "durationMicroseconds": 50,
+                        "errorMessage": "Cannot load property gcsControlStatusFlags_TakeoverAllowed from (component in C:/Users/User/qgroundcontrol/src/UI/toolbar/GCSControlIndicator.qml)::activeVehicle with type QVariant.",
+                        "functionName": "gcsControlStatusFlags_TakeoverAllowed",
+                        "line": 22
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 61,
+                        "durationMicroseconds": 120,
+                        "errorMessage": "Cannot load property requestControlAllowTakeover from SettingsManager::flyViewSettings with type QObject.",
+                        "functionName": "requestControlAllowTakeoverFact",
+                        "line": 23
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 61,
+                        "durationMicroseconds": 267,
+                        "errorMessage": "",
+                        "functionName": "requestControlAllowTakeover",
+                        "line": 24
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 61,
+                        "durationMicroseconds": 125,
+                        "errorMessage": "Cannot load property gcsMavlinkSystemID from SettingsManager::mavlinkSettings with type QObject.",
+                        "functionName": "isThisGCSinControl",
+                        "line": 25
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 61,
+                        "durationMicroseconds": 55,
+                        "errorMessage": "Cannot load property sendControlRequestAllowed from (component in C:/Users/User/qgroundcontrol/src/UI/toolbar/GCSControlIndicator.qml)::activeVehicle with type QVariant.",
+                        "functionName": "sendControlRequestAllowed",
+                        "line": 26
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 61,
+                        "durationMicroseconds": 9768,
+                        "errorMessage": "",
+                        "functionName": "margins",
+                        "line": 28
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 61,
+                        "durationMicroseconds": 351,
+                        "errorMessage": "",
+                        "functionName": "panelRadius",
+                        "line": 29
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 61,
+                        "durationMicroseconds": 285,
+                        "errorMessage": "",
+                        "functionName": "buttonHeight",
+                        "line": 30
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 61,
+                        "durationMicroseconds": 210,
+                        "errorMessage": "",
+                        "functionName": "squareButtonPadding",
+                        "line": 31
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 61,
+                        "durationMicroseconds": 317,
+                        "errorMessage": "",
+                        "functionName": "separatorHeight",
+                        "line": 32
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 61,
+                        "durationMicroseconds": 906,
+                        "errorMessage": "Cannot access value for name qgcPal",
+                        "functionName": "outdoorPalette",
+                        "line": 34
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 61,
+                        "durationMicroseconds": 128,
+                        "errorMessage": "Cannot load property requestControlTimeout from SettingsManager::flyViewSettings with type QObject.",
+                        "functionName": "receivedRequestTimeoutMs",
+                        "line": 37
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 21,
+                        "durationMicroseconds": 323,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 15
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 21,
+                        "durationMicroseconds": 264,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 16
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 17,
+                        "durationMicroseconds": 57,
+                        "errorMessage": "Cannot access value for name activeVehicle",
+                        "functionName": "target",
+                        "line": 44
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 9,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "onRequestOperatorControlReceived",
+                        "line": 46
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 9,
+                        "durationMicroseconds": 277,
+                        "errorMessage": "method triggerAnimations cannot be resolved.",
+                        "functionName": "onGcsControlStatusChanged",
+                        "line": 61
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 146,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 71
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 348,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 72
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 63,
+                        "errorMessage": "Cannot access value for name isThisGCSinControl",
+                        "functionName": "color",
+                        "line": 73
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 43,
+                        "errorMessage": "Cannot access value for name margins",
+                        "functionName": "radius",
+                        "line": 74
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 9,
+                        "durationMicroseconds": 262,
+                        "errorMessage": "",
+                        "functionName": "doOpacityAnimation",
+                        "line": 77
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 193,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 70
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 66,
+                        "errorMessage": "Cannot access value for name receivedRequestTimeoutMs",
+                        "functionName": "timeoutSeconds",
+                        "line": 95
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 630,
+                        "errorMessage": "Cannot access value for name mainWindow",
+                        "functionName": "onTimeout",
+                        "line": 96
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 36,
+                        "durationMicroseconds": 294,
+                        "errorMessage": "",
+                        "functionName": "onCompleted",
+                        "line": 99
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 119,
+                        "errorMessage": "Cannot access value for name requestSysIdRequestingControl",
+                        "functionName": "text",
+                        "line": 110
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 297,
+                        "errorMessage": "",
+                        "functionName": "pointSize",
+                        "line": 109
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 32,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"clicked\".",
+                        "functionName": "onClicked",
+                        "line": 120
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 79,
+                        "errorMessage": "Cannot access value for name margins",
+                        "functionName": "leftMargin",
+                        "line": 117
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 207,
+                        "errorMessage": "",
+                        "functionName": "alignment",
+                        "line": 118
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 106,
+                        "errorMessage": "Cannot access value for name requestProgressTracker",
+                        "functionName": "text",
+                        "line": 132
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 321,
+                        "errorMessage": "",
+                        "functionName": "pointSize",
+                        "line": 131
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"clicked\".",
+                        "functionName": "onClicked",
+                        "line": 137
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 224,
+                        "errorMessage": "",
+                        "functionName": "alignment",
+                        "line": 138
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 198,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 143
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 120,
+                        "errorMessage": "Cannot access value for name requestProgressTracker",
+                        "functionName": "width",
+                        "line": 144
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 437,
+                        "errorMessage": "Cannot access value for name qgcPal",
+                        "functionName": "color",
+                        "line": 145
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 51,
+                        "durationMicroseconds": 59,
+                        "errorMessage": "Cannot access value for name control",
+                        "functionName": "isThisGCSinControlLocal",
+                        "line": 169
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 47,
+                        "durationMicroseconds": 710,
+                        "errorMessage": "Cannot access value for name mainWindow",
+                        "functionName": "onIsThisGCSinControlLocalChanged",
+                        "line": 170
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 77,
+                        "errorMessage": "Cannot access value for name control",
+                        "functionName": "timeoutSeconds",
+                        "line": 162
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 466,
+                        "errorMessage": "Cannot access value for name mainWindow",
+                        "functionName": "onTimeout",
+                        "line": 163
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 36,
+                        "durationMicroseconds": 269,
+                        "errorMessage": "",
+                        "functionName": "onCompleted",
+                        "line": 176
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 109,
+                        "errorMessage": "Cannot access value for name requestSysIdRequestingControl",
+                        "functionName": "text",
+                        "line": 187
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 385,
+                        "errorMessage": "",
+                        "functionName": "pointSize",
+                        "line": 186
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"clicked\".",
+                        "functionName": "onClicked",
+                        "line": 194
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 213,
+                        "errorMessage": "",
+                        "functionName": "alignment",
+                        "line": 195
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 48,
+                        "durationMicroseconds": 62,
+                        "errorMessage": "Cannot access value for name control",
+                        "functionName": "takeoverAllowedLocal",
+                        "line": 212
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 44,
+                        "durationMicroseconds": 752,
+                        "errorMessage": "",
+                        "functionName": "onTakeoverAllowedLocalChanged",
+                        "line": 213
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 13,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "startProgressTracker",
+                        "line": 228
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 129,
+                        "errorMessage": "Cannot load property requestControlTimeout from SettingsManager::flyViewSettings with type QObject.",
+                        "functionName": "timeoutSeconds",
+                        "line": 209
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 36,
+                        "durationMicroseconds": 76,
+                        "errorMessage": "Cannot access value for name sendControlRequestAllowed",
+                        "functionName": "onCompleted",
+                        "line": 219
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 70,
+                        "errorMessage": "Cannot access value for name isThisGCSinControl",
+                        "functionName": "text",
+                        "line": 242
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 84,
+                        "errorMessage": "Cannot access value for name isThisGCSinControl",
+                        "functionName": "color",
+                        "line": 244
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 205,
+                        "errorMessage": "",
+                        "functionName": "horizontalAlignment",
+                        "line": 247
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 73,
+                        "errorMessage": "Cannot access value for name isThisGCSinControl",
+                        "functionName": "bold",
+                        "line": 243
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 296,
+                        "errorMessage": "",
+                        "functionName": "alignment",
+                        "line": 245
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 96,
+                        "errorMessage": "Cannot access value for name gcsControlStatusFlags_TakeoverAllowed",
+                        "functionName": "text",
+                        "line": 250
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 170,
+                        "errorMessage": "",
+                        "functionName": "horizontalAlignment",
+                        "line": 254
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 59,
+                        "errorMessage": "Cannot access value for name gcsControlStatusFlags_TakeoverAllowed",
+                        "functionName": "color",
+                        "line": 255
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 177,
+                        "errorMessage": "",
+                        "functionName": "alignment",
+                        "line": 252
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 488,
+                        "errorMessage": "Cannot access value for name qgcPal",
+                        "functionName": "color",
+                        "line": 262
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 55,
+                        "errorMessage": "Cannot access value for name outdoorPalette",
+                        "functionName": "height",
+                        "line": 263
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 235,
+                        "errorMessage": "",
+                        "functionName": "preferredWidth",
+                        "line": 260
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 171,
+                        "errorMessage": "",
+                        "functionName": "alignment",
+                        "line": 261
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 58,
+                        "errorMessage": "Cannot access value for name isThisGCSinControl",
+                        "functionName": "visible",
+                        "line": 268
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 49,
+                        "errorMessage": "Cannot access value for name isThisGCSinControl",
+                        "functionName": "visible",
+                        "line": 273
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 536,
+                        "errorMessage": "Cannot access value for name sendRequestProgressTracker",
+                        "functionName": "text",
+                        "line": 277
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 76,
+                        "errorMessage": "Cannot access value for name sendRequestProgressTracker",
+                        "functionName": "visible",
+                        "line": 279
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 54,
+                        "errorMessage": "Cannot access value for name requestControlAllowTakeoverFact",
+                        "functionName": "fact",
+                        "line": 283
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"enabled\".",
+                        "functionName": "enabled",
+                        "line": 284
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"text\".",
+                        "functionName": "text",
+                        "line": 287
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 32,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"clicked\".",
+                        "functionName": "onClicked",
+                        "line": 288
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"visible\".",
+                        "functionName": "visible",
+                        "line": 297
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"enabled\".",
+                        "functionName": "enabled",
+                        "line": 298
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 239,
+                        "errorMessage": "",
+                        "functionName": "alignment",
+                        "line": 296
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 92,
+                        "errorMessage": "Cannot access value for name isThisGCSinControl",
+                        "functionName": "visible",
+                        "line": 302
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 145,
+                        "errorMessage": "Cannot load property requestControlTimeout from SettingsManager::flyViewSettings with type QObject.",
+                        "functionName": "fact",
+                        "line": 305
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"visible\".",
+                        "functionName": "visible",
+                        "line": 306
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 759,
+                        "errorMessage": "",
+                        "functionName": "alignment",
+                        "line": 307
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 399,
+                        "errorMessage": "",
+                        "functionName": "preferredWidth",
+                        "line": 308
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"clicked\".",
+                        "functionName": "onClicked",
+                        "line": 312
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"visible\".",
+                        "functionName": "visible",
+                        "line": 313
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"enabled\".",
+                        "functionName": "enabled",
+                        "line": 315
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 227,
+                        "errorMessage": "",
+                        "functionName": "alignment",
+                        "line": 314
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 580,
+                        "errorMessage": "Cannot access value for name qgcPal",
+                        "functionName": "color",
+                        "line": 322
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 73,
+                        "errorMessage": "Cannot access value for name outdoorPalette",
+                        "functionName": "height",
+                        "line": 323
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 248,
+                        "errorMessage": "",
+                        "functionName": "preferredWidth",
+                        "line": 320
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 221,
+                        "errorMessage": "",
+                        "functionName": "alignment",
+                        "line": 321
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 134,
+                        "errorMessage": "Cannot load property gcsMavlinkSystemID from SettingsManager::mavlinkSettings with type QObject.",
+                        "functionName": "fact",
+                        "line": 329
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 34,
+                        "durationMicroseconds": 167,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 338
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 34,
+                        "durationMicroseconds": 180,
+                        "errorMessage": "",
+                        "functionName": "fillMode",
+                        "line": 342
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 34,
+                        "durationMicroseconds": 62,
+                        "errorMessage": "Cannot access value for name isThisGCSinControl",
+                        "functionName": "color",
+                        "line": 344
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 34,
+                        "durationMicroseconds": 322,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 339
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 34,
+                        "durationMicroseconds": 289,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 340
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 34,
+                        "durationMicroseconds": 164,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 343
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 34,
+                        "durationMicroseconds": 130,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 348
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 34,
+                        "durationMicroseconds": 167,
+                        "errorMessage": "",
+                        "functionName": "fillMode",
+                        "line": 352
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 34,
+                        "durationMicroseconds": 68,
+                        "errorMessage": "Cannot access value for name isThisGCSinControl",
+                        "functionName": "color",
+                        "line": 354
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 34,
+                        "durationMicroseconds": 285,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 349
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 34,
+                        "durationMicroseconds": 306,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 350
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 34,
+                        "durationMicroseconds": 286,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 353
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 34,
+                        "durationMicroseconds": 140,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 358
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 34,
+                        "durationMicroseconds": 174,
+                        "errorMessage": "",
+                        "functionName": "fillMode",
+                        "line": 362
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 34,
+                        "durationMicroseconds": 492,
+                        "errorMessage": "Cannot access value for name qgcPal",
+                        "functionName": "color",
+                        "line": 364
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 34,
+                        "durationMicroseconds": 308,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 359
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 34,
+                        "durationMicroseconds": 254,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 360
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 34,
+                        "durationMicroseconds": 159,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 363
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 69,
+                        "errorMessage": "Cannot access value for name sysidInControl",
+                        "functionName": "text",
+                        "line": 369
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 58,
+                        "errorMessage": "Cannot access value for name isThisGCSinControl",
+                        "functionName": "color",
+                        "line": 372
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 315,
+                        "errorMessage": "",
+                        "functionName": "pointSize",
+                        "line": 371
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 304,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 373
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 64,
+                        "errorMessage": "Cannot access value for name margins",
+                        "functionName": "bottomMargin",
+                        "line": 374
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 257,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 375
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 59,
+                        "errorMessage": "Cannot access value for name margins",
+                        "functionName": "rightMargin",
+                        "line": 376
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 20,
+                        "durationMicroseconds": 755,
+                        "errorMessage": "Cannot access value for name mainWindow",
+                        "functionName": "onClicked",
+                        "line": 382
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 23,
+                        "durationMicroseconds": 146,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 381
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/UI/toolbar/GCSControlIndicator.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.Toolbar(ToolbarModule)"
+    }
+]

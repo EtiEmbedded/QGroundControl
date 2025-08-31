@@ -1,0 +1,116 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 257,
+                        "errorMessage": "Cannot load property width from (component in C:/Users/User/qgroundcontrol/src/QmlControls/QGCMouseArea.qml)::fillItem with type QVariant.",
+                        "functionName": "_itemWidth",
+                        "line": 19
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 198,
+                        "errorMessage": "Cannot load property height from (component in C:/Users/User/qgroundcontrol/src/QmlControls/QGCMouseArea.qml)::fillItem with type QVariant.",
+                        "functionName": "_itemHeight",
+                        "line": 20
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 10010,
+                        "errorMessage": "",
+                        "functionName": "_touchWidth",
+                        "line": 21
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 511,
+                        "errorMessage": "",
+                        "functionName": "_touchHeight",
+                        "line": 22
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 928,
+                        "errorMessage": "",
+                        "functionName": "_touchMarginHorizontal",
+                        "line": 23
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 767,
+                        "errorMessage": "",
+                        "functionName": "_touchMarginVertical",
+                        "line": 24
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 360,
+                        "errorMessage": "",
+                        "functionName": "leftMargin",
+                        "line": 10
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 354,
+                        "errorMessage": "",
+                        "functionName": "rightMargin",
+                        "line": 11
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 318,
+                        "errorMessage": "",
+                        "functionName": "topMargin",
+                        "line": 12
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 371,
+                        "errorMessage": "",
+                        "functionName": "bottomMargin",
+                        "line": 13
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 355,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 14
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 187,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 27
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 72,
+                        "errorMessage": "Cannot load property corePlugin from QGroundControlQmlGlobal.",
+                        "functionName": "width",
+                        "line": 29
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/QmlControls/QGCMouseArea.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.Controls(QGroundControlControlsModule)"
+    }
+]

@@ -1,0 +1,60 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 31,
+                        "durationMicroseconds": 448,
+                        "errorMessage": "Cannot use shadowable base type for further lookups: Fact::enumValues with type QVariantList (stored as QVariant)",
+                        "functionName": "indexModel",
+                        "line": 11
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 12,
+                        "durationMicroseconds": 584,
+                        "errorMessage": "",
+                        "functionName": "model",
+                        "line": 13
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 19,
+                        "durationMicroseconds": 739,
+                        "errorMessage": "",
+                        "functionName": "currentIndex",
+                        "line": 15
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 21,
+                        "durationMicroseconds": 409,
+                        "errorMessage": "Cannot generate efficient code for LoadClosure",
+                        "functionName": "onModelChanged",
+                        "line": 17
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 19,
+                        "durationMicroseconds": 979,
+                        "errorMessage": "Cannot generate efficient code for LoadElement with non-list base type Fact::enumValues with type QVariantList (stored as QVariant)",
+                        "functionName": "onActivated",
+                        "line": 28
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 19,
+                        "durationMicroseconds": 115,
+                        "errorMessage": "",
+                        "functionName": "onActivated",
+                        "line": 28
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/FactSystem/FactControls/FactComboBox.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.FactControls(FactControlsModule)"
+    }
+]

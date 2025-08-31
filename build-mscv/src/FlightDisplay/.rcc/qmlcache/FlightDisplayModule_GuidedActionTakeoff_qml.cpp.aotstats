@@ -1,0 +1,44 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 17,
+                        "durationMicroseconds": 160,
+                        "errorMessage": "Cannot load property takeoffTitle from (component in C:/Users/User/qgroundcontrol/src/FlightDisplay/GuidedActionTakeoff.qml)::_guidedController with type QVariant.",
+                        "functionName": "text",
+                        "line": 14
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 17,
+                        "durationMicroseconds": 39,
+                        "errorMessage": "Cannot load property showTakeoff from (component in C:/Users/User/qgroundcontrol/src/FlightDisplay/GuidedActionTakeoff.qml)::_guidedController with type QVariant.",
+                        "functionName": "visible",
+                        "line": 16
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 17,
+                        "durationMicroseconds": 22,
+                        "errorMessage": "Cannot load property showTakeoff from (component in C:/Users/User/qgroundcontrol/src/FlightDisplay/GuidedActionTakeoff.qml)::_guidedController with type QVariant.",
+                        "functionName": "enabled",
+                        "line": 17
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 17,
+                        "durationMicroseconds": 21,
+                        "errorMessage": "Cannot load property actionTakeoff from (component in C:/Users/User/qgroundcontrol/src/FlightDisplay/GuidedActionTakeoff.qml)::_guidedController with type QVariant.",
+                        "functionName": "actionID",
+                        "line": 18
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/FlightDisplay/GuidedActionTakeoff.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.FlightDisplay(FlightDisplayModule)"
+    }
+]

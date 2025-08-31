@@ -1,0 +1,84 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 17,
+                        "durationMicroseconds": 175,
+                        "errorMessage": "Cannot load property anyActionAvailable from (component in C:/Users/User/qgroundcontrol/src/FlightDisplay/FlyViewAdditionalActionsButton.qml)::_additionalActions with type QVariant.",
+                        "functionName": "visible",
+                        "line": 23
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 346,
+                        "errorMessage": "Cannot access value for name globals",
+                        "functionName": "_guidedController",
+                        "line": 26
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 27,
+                        "durationMicroseconds": 50,
+                        "errorMessage": "Cannot access value for name _guidedController",
+                        "functionName": "guidedController",
+                        "line": 29
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 110,
+                        "errorMessage": "Cannot load property flyViewActionsFile from SettingsManager::mavlinkActionsSettings with type QObject.",
+                        "functionName": "actionFileNameFact",
+                        "line": 33
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 43,
+                        "durationMicroseconds": 1013,
+                        "errorMessage": "",
+                        "functionName": "anyActionAvailable",
+                        "line": 35
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 27,
+                        "durationMicroseconds": 54,
+                        "errorMessage": "Cannot access value for name _guidedController",
+                        "functionName": "guidedController",
+                        "line": 39
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 55,
+                        "errorMessage": "Cannot access value for name _additionalActions",
+                        "functionName": "additionalActions",
+                        "line": 44
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 44,
+                        "errorMessage": "Cannot access value for name _mavlinkActions",
+                        "functionName": "mavlinkActions",
+                        "line": 45
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 43,
+                        "errorMessage": "Cannot access value for name _customActions",
+                        "functionName": "customActions",
+                        "line": 46
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/FlightDisplay/FlyViewAdditionalActionsButton.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.FlightDisplay(FlightDisplayModule)"
+    }
+]

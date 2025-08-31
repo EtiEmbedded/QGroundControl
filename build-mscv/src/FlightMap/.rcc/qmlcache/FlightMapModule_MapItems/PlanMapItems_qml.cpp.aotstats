@@ -1,0 +1,156 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 364,
+                        "errorMessage": "",
+                        "functionName": "_map",
+                        "line": 28
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 155,
+                        "errorMessage": "",
+                        "functionName": "_vehicle",
+                        "line": 29
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 65,
+                        "errorMessage": "Cannot load property missionController from (component in C:/Users/User/qgroundcontrol/src/FlightMap/MapItems/PlanMapItems.qml)::planMasterController with type QVariant.",
+                        "functionName": "_missionController",
+                        "line": 30
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 21,
+                        "errorMessage": "Cannot load property geoFenceController from (component in C:/Users/User/qgroundcontrol/src/FlightMap/MapItems/PlanMapItems.qml)::planMasterController with type QVariant.",
+                        "functionName": "_geoFenceController",
+                        "line": 31
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 19,
+                        "errorMessage": "Cannot load property rallyPointController from (component in C:/Users/User/qgroundcontrol/src/FlightMap/MapItems/PlanMapItems.qml)::planMasterController with type QVariant.",
+                        "functionName": "_rallyPointController",
+                        "line": 32
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 486,
+                        "errorMessage": "Cannot access value for name globals",
+                        "functionName": "_guidedController",
+                        "line": 33
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 28,
+                        "durationMicroseconds": 40,
+                        "errorMessage": "Cannot load property flightMode from (component in C:/Users/User/qgroundcontrol/src/FlightMap/MapItems/PlanMapItems.qml)::vehicle with type QVariant.",
+                        "functionName": "fmode",
+                        "line": 36
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 16,
+                        "durationMicroseconds": 52,
+                        "errorMessage": "Cannot access value for name largeMapView",
+                        "functionName": "model",
+                        "line": 40
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 43,
+                        "errorMessage": "Cannot access value for name _map",
+                        "functionName": "map",
+                        "line": 43
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 30,
+                        "errorMessage": "Cannot access value for name _vehicle",
+                        "functionName": "vehicle",
+                        "line": 44
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 57,
+                        "errorMessage": "Cannot access value for name _guidedController",
+                        "functionName": "onClicked",
+                        "line": 45
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 28,
+                        "durationMicroseconds": 157,
+                        "errorMessage": "Cannot load property status from (component in C:/Users/User/qgroundcontrol/src/FlightMap/MapItems/PlanMapItems.qml)::_missionLineViewComponent with type QVariant.",
+                        "functionName": "onCompleted",
+                        "line": 49
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 30,
+                        "durationMicroseconds": 844,
+                        "errorMessage": "Cannot generate efficient code for call to untyped JavaScript function",
+                        "functionName": "onDestruction",
+                        "line": 56
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 24,
+                        "durationMicroseconds": 59,
+                        "errorMessage": "Cannot access value for name _missionController",
+                        "functionName": "model",
+                        "line": 69
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 24,
+                        "durationMicroseconds": 36,
+                        "errorMessage": "Cannot access value for name _missionController",
+                        "functionName": "model",
+                        "line": 73
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 511,
+                        "errorMessage": "Cannot access value for name object",
+                        "functionName": "fromCoord",
+                        "line": 76
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 487,
+                        "errorMessage": "Cannot access value for name object",
+                        "functionName": "toCoord",
+                        "line": 77
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 366,
+                        "errorMessage": "",
+                        "functionName": "z",
+                        "line": 79
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/FlightMap/MapItems/PlanMapItems.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.FlightMap(FlightMapModule)"
+    }
+]

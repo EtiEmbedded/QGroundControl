@@ -1,0 +1,204 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 21,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"padding\".",
+                        "functionName": "padding",
+                        "line": 23
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 21,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"leftPadding\".",
+                        "functionName": "leftPadding",
+                        "line": 24
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 21,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"rightPadding\".",
+                        "functionName": "rightPadding",
+                        "line": 25
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 21,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"closePolicy\".",
+                        "functionName": "closePolicy",
+                        "line": 28
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 812,
+                        "errorMessage": "",
+                        "functionName": "clickRect",
+                        "line": 33
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 175,
+                        "errorMessage": "Cannot access value for name parent",
+                        "functionName": "dropViewPort",
+                        "line": 34
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 254,
+                        "errorMessage": "",
+                        "functionName": "_qgcPal",
+                        "line": 36
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 8030,
+                        "errorMessage": "",
+                        "functionName": "_innerMargin",
+                        "line": 37
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 280,
+                        "errorMessage": "",
+                        "functionName": "_arrowPointWidth",
+                        "line": 38
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 145,
+                        "errorMessage": "Cannot access value for name height",
+                        "functionName": "_arrowPointPositionY",
+                        "line": 39
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 20,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"aboutToShow\".",
+                        "functionName": "onAboutToShow",
+                        "line": 42
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 533,
+                        "errorMessage": "Cannot access value for name contentItem",
+                        "functionName": "implicitWidth",
+                        "line": 69
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 435,
+                        "errorMessage": "Cannot access value for name contentItem",
+                        "functionName": "implicitHeight",
+                        "line": 70
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 21,
+                        "durationMicroseconds": 49,
+                        "errorMessage": "Cannot access value for name _dropRight",
+                        "functionName": "x",
+                        "line": 73
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 21,
+                        "durationMicroseconds": 521,
+                        "errorMessage": "Cannot access value for name ScreenTools",
+                        "functionName": "radius",
+                        "line": 74
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 21,
+                        "durationMicroseconds": 30,
+                        "errorMessage": "Cannot access value for name parent",
+                        "functionName": "width",
+                        "line": 75
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 21,
+                        "durationMicroseconds": 12,
+                        "errorMessage": "Cannot access value for name parent",
+                        "functionName": "height",
+                        "line": 76
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 21,
+                        "durationMicroseconds": 30,
+                        "errorMessage": "Cannot access value for name _qgcPal",
+                        "functionName": "color",
+                        "line": 77
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 21,
+                        "durationMicroseconds": 44,
+                        "errorMessage": "Cannot access value for name _dropRight",
+                        "functionName": "x",
+                        "line": 82
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 21,
+                        "durationMicroseconds": 30,
+                        "errorMessage": "Cannot access value for name _arrowPointPositionY",
+                        "functionName": "y",
+                        "line": 83
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 21,
+                        "durationMicroseconds": 37,
+                        "errorMessage": "Cannot access value for name _arrowPointWidth",
+                        "functionName": "width",
+                        "line": 84
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 21,
+                        "durationMicroseconds": 29,
+                        "errorMessage": "Cannot access value for name _arrowPointWidth",
+                        "functionName": "height",
+                        "line": 85
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 22,
+                        "durationMicroseconds": 664,
+                        "errorMessage": "method getContext cannot be resolved.",
+                        "functionName": "onPaint",
+                        "line": 87
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 30,
+                        "durationMicroseconds": 47,
+                        "errorMessage": "Cannot access value for name _root",
+                        "functionName": "sourceComponent",
+                        "line": 103
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/QmlControls/DropPanel.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.Controls(QGroundControlControlsModule)"
+    }
+]

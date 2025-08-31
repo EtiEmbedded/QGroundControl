@@ -1,0 +1,75 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"build-mscv/RelWithDebInfo/cpm_modules/zlib/b6adfce2bc5987edc7cfab3490c73021e521991f/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"id" : "zlibstatic_autogen_timestamp_deps::@c9556b0b6bf47963f9da"
+		}
+	],
+	"folder" : 
+	{
+		"name" : "QtInternalTargets"
+	},
+	"id" : "zlibstatic_autogen::@c9556b0b6bf47963f9da",
+	"isGeneratorProvided" : true,
+	"name" : "zlibstatic_autogen",
+	"paths" : 
+	{
+		"build" : "_deps/zlib-build",
+		"source" : "build-mscv/RelWithDebInfo/cpm_modules/zlib/b6adfce2bc5987edc7cfab3490c73021e521991f"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1,
+				2
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/RelWithDebInfo/_deps/zlib-build/CMakeFiles/zlibstatic_autogen",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/RelWithDebInfo/_deps/zlib-build/CMakeFiles/zlibstatic_autogen.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/RelWithDebInfo/_deps/zlib-build/zlibstatic_autogen/timestamp.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}

@@ -1,0 +1,204 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 21,
+                        "durationMicroseconds": 344,
+                        "errorMessage": "",
+                        "functionName": "implicitWidth",
+                        "line": 19
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 21,
+                        "durationMicroseconds": 76,
+                        "errorMessage": "",
+                        "functionName": "implicitHeight",
+                        "line": 20
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 6009,
+                        "errorMessage": "",
+                        "functionName": "compassRadius",
+                        "line": 22
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 226,
+                        "errorMessage": "",
+                        "functionName": "attitudeSize",
+                        "line": 25
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 182,
+                        "errorMessage": "",
+                        "functionName": "attitudeSpacing",
+                        "line": 26
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 346,
+                        "errorMessage": "",
+                        "functionName": "_totalRadius",
+                        "line": 28
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 301,
+                        "errorMessage": "",
+                        "functionName": "_attitudeRadius",
+                        "line": 29
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 284,
+                        "errorMessage": "",
+                        "functionName": "_maxRadians",
+                        "line": 31
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 175,
+                        "errorMessage": "",
+                        "functionName": "_zeroAttitudeRadians",
+                        "line": 32
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 525,
+                        "errorMessage": "",
+                        "functionName": "_clampedAngleDegrees",
+                        "line": 33
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 159,
+                        "errorMessage": "",
+                        "functionName": "_attitudeAnglePercent",
+                        "line": 34
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 27,
+                        "durationMicroseconds": 493,
+                        "errorMessage": "Cannot access value for name QGroundControl",
+                        "functionName": "qgcPal",
+                        "line": 36
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 161,
+                        "errorMessage": "",
+                        "functionName": "on_AttitudeAnglePercentChanged",
+                        "line": 38
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 18,
+                        "durationMicroseconds": 12089,
+                        "errorMessage": "Cannot access value for name qgcPal",
+                        "functionName": "onPaint",
+                        "line": 44
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 23,
+                        "durationMicroseconds": 185,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 42
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 75,
+                        "errorMessage": "Cannot access value for name attitudeAngleDegrees",
+                        "functionName": "visible",
+                        "line": 61
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 26,
+                        "errorMessage": "Cannot access value for name _zeroAttitudeRadians",
+                        "functionName": "startRollRadiansRaw",
+                        "line": 63
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 24,
+                        "errorMessage": "Cannot access value for name _zeroAttitudeRadians",
+                        "functionName": "endRollRadiansRaw",
+                        "line": 64
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 296,
+                        "errorMessage": "",
+                        "functionName": "startRollRadiansOrdered",
+                        "line": 65
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 258,
+                        "errorMessage": "",
+                        "functionName": "endRollRadiansOrdered",
+                        "line": 66
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 18,
+                        "durationMicroseconds": 139,
+                        "errorMessage": "Cannot access value for name qgcPal",
+                        "functionName": "onPaint",
+                        "line": 68
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 90,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 60
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 18,
+                        "durationMicroseconds": 240,
+                        "errorMessage": "Cannot access value for name qgcPal",
+                        "functionName": "onPaint",
+                        "line": 85
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 23,
+                        "durationMicroseconds": 98,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 83
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/FlightMap/Widgets/IntegratedAttitudeIndicator.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.FlightMap(FlightMapModule)"
+    }
+]

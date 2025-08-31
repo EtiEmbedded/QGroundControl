@@ -1,0 +1,620 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 95,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: _planController",
+                        "functionName": "planController",
+                        "line": 36
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 230,
+                        "errorMessage": "",
+                        "functionName": "guidedController",
+                        "line": 37
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 222,
+                        "errorMessage": "Cannot load property fullState from FlyViewMap::pipState with type QQuickItem.",
+                        "functionName": "_mainWindowIsMap",
+                        "line": 48
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 280,
+                        "errorMessage": "",
+                        "functionName": "_isFullWindowItemDark",
+                        "line": 49
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 584,
+                        "errorMessage": "Cannot access value for name QGroundControl",
+                        "functionName": "_activeVehicle",
+                        "line": 50
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 33,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: _planController",
+                        "functionName": "_missionController",
+                        "line": 51
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 19,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: _planController",
+                        "functionName": "_geoFenceController",
+                        "line": 52
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 17,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: _planController",
+                        "functionName": "_rallyPointController",
+                        "line": 53
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 5323,
+                        "errorMessage": "",
+                        "functionName": "_margins",
+                        "line": 54
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 120,
+                        "errorMessage": "",
+                        "functionName": "_guidedController",
+                        "line": 55
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 90,
+                        "errorMessage": "",
+                        "functionName": "_guidedValueSlider",
+                        "line": 56
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 85,
+                        "errorMessage": "",
+                        "functionName": "_widgetLayer",
+                        "line": 57
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 201,
+                        "errorMessage": "",
+                        "functionName": "_toolsMargin",
+                        "line": 58
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 436,
+                        "errorMessage": "",
+                        "functionName": "_centerViewport",
+                        "line": 59
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 193,
+                        "errorMessage": "",
+                        "functionName": "_rightPanelWidth",
+                        "line": 60
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 102,
+                        "errorMessage": "",
+                        "functionName": "_mapControl",
+                        "line": 61
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 570,
+                        "errorMessage": "Cannot access value for name QGroundControl",
+                        "functionName": "_pipItemZorder",
+                        "line": 64
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 491,
+                        "errorMessage": "Cannot access value for name toolstrip",
+                        "functionName": "_calcCenterViewPort",
+                        "line": 66
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 5,
+                        "durationMicroseconds": 167,
+                        "errorMessage": "",
+                        "functionName": "dropMainStatusIndicatorTool",
+                        "line": 71
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 43,
+                        "errorMessage": "method start cannot be resolved.",
+                        "functionName": "onCompleted",
+                        "line": 45
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 135,
+                        "errorMessage": "",
+                        "functionName": "leftEdgeBottomInset",
+                        "line": 77
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 111,
+                        "errorMessage": "",
+                        "functionName": "bottomEdgeLeftInset",
+                        "line": 78
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 21,
+                        "durationMicroseconds": 437,
+                        "errorMessage": "Cannot access value for name QGroundControl",
+                        "functionName": "visible",
+                        "line": 83
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 211,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 88
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 169,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 89
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 161,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 90
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 154,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 91
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 47,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: _planController",
+                        "functionName": "planMasterController",
+                        "line": 95
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 240,
+                        "errorMessage": "",
+                        "functionName": "rightPanelWidth",
+                        "line": 96
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 91,
+                        "errorMessage": "",
+                        "functionName": "pipView",
+                        "line": 97
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 50,
+                        "errorMessage": "Cannot access value for name _mainWindowIsMap",
+                        "functionName": "pipMode",
+                        "line": 98
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 125,
+                        "errorMessage": "",
+                        "functionName": "toolInsets",
+                        "line": 99
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 135,
+                        "errorMessage": "",
+                        "functionName": "enabled",
+                        "line": 101
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 79,
+                        "errorMessage": "",
+                        "functionName": "pipView",
+                        "line": 106
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 113,
+                        "errorMessage": "",
+                        "functionName": "item1",
+                        "line": 115
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 538,
+                        "errorMessage": "Cannot access value for name QGroundControl",
+                        "functionName": "item2",
+                        "line": 116
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 1283,
+                        "errorMessage": "Cannot access value for name QGroundControl",
+                        "functionName": "show",
+                        "line": 117
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 482,
+                        "errorMessage": "Cannot access value for name QGroundControl",
+                        "functionName": "z",
+                        "line": 119
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 48,
+                        "durationMicroseconds": 426,
+                        "errorMessage": "",
+                        "functionName": "leftEdgeBottomInset",
+                        "line": 121
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 48,
+                        "durationMicroseconds": 343,
+                        "errorMessage": "",
+                        "functionName": "bottomEdgeLeftInset",
+                        "line": 122
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 207,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 111
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 204,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 112
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 55,
+                        "errorMessage": "Cannot access value for name _toolsMargin",
+                        "functionName": "margins",
+                        "line": 113
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 46,
+                        "errorMessage": "Cannot access value for name _fullItemZorder",
+                        "functionName": "z",
+                        "line": 131
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 124,
+                        "errorMessage": "",
+                        "functionName": "parentToolInsets",
+                        "line": 132
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 31,
+                        "errorMessage": "Cannot access value for name _mapControl",
+                        "functionName": "mapControl",
+                        "line": 133
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 774,
+                        "errorMessage": "Cannot access value for name QGroundControl",
+                        "functionName": "visible",
+                        "line": 134
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 140,
+                        "errorMessage": "Cannot access value for name utmspSendActTrigger",
+                        "functionName": "utmspActTrigger",
+                        "line": 135
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 185,
+                        "errorMessage": "",
+                        "functionName": "isViewer3DOpen",
+                        "line": 136
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 187,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 127
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 151,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 128
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 175,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 129
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 446,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 130
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 56,
+                        "errorMessage": "Cannot access value for name _fullItemZorder",
+                        "functionName": "z",
+                        "line": 142
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 153,
+                        "errorMessage": "",
+                        "functionName": "parentToolInsets",
+                        "line": 143
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 39,
+                        "errorMessage": "Cannot access value for name _mapControl",
+                        "functionName": "mapControl",
+                        "line": 144
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 786,
+                        "errorMessage": "Cannot access value for name QGroundControl",
+                        "functionName": "visible",
+                        "line": 145
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 145,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 141
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 361,
+                        "errorMessage": "",
+                        "functionName": "z",
+                        "line": 155
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 562,
+                        "errorMessage": "",
+                        "functionName": "insetsToView",
+                        "line": 156
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 343,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 151
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 167,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 152
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 168,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 153
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 473,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 154
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 55,
+                        "errorMessage": "Cannot access value for name _missionController",
+                        "functionName": "missionController",
+                        "line": 162
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 36,
+                        "durationMicroseconds": 26,
+                        "errorMessage": "Cannot access value for name _guidedValueSlider",
+                        "functionName": "guidedValueSlider",
+                        "line": 163
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 656,
+                        "errorMessage": "Cannot access value for name QGroundControl",
+                        "functionName": "z",
+                        "line": 172
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 235,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 169
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 158,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 170
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 176,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 171
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 27,
+                        "durationMicroseconds": 89,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 178
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 1839,
+                        "errorMessage": "",
+                        "functionName": "activationStartTimestamp",
+                        "line": 183
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 472,
+                        "errorMessage": "Cannot access value for name QGroundControl",
+                        "functionName": "activationApproval",
+                        "line": 184
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 133,
+                        "errorMessage": "",
+                        "functionName": "flightID",
+                        "line": 185
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 9,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "onActivationTriggered",
+                        "line": 188
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 101,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 186
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/FlightDisplay/FlyView.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.FlightDisplay(FlightDisplayModule)"
+    }
+]

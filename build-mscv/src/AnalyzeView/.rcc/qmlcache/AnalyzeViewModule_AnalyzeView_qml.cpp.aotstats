@@ -1,0 +1,356 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 13,
+                        "durationMicroseconds": 458,
+                        "errorMessage": "Cannot access value for name qgcPal",
+                        "functionName": "color",
+                        "line": 22
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 13,
+                        "durationMicroseconds": 342,
+                        "errorMessage": "",
+                        "functionName": "z",
+                        "line": 23
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 5816,
+                        "errorMessage": "",
+                        "functionName": "_defaultTextHeight",
+                        "line": 27
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 124,
+                        "errorMessage": "",
+                        "functionName": "_defaultTextWidth",
+                        "line": 28
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 198,
+                        "errorMessage": "",
+                        "functionName": "_horizontalMargin",
+                        "line": 29
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 155,
+                        "errorMessage": "",
+                        "functionName": "_verticalMargin",
+                        "line": 30
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 157,
+                        "errorMessage": "",
+                        "functionName": "_buttonWidth",
+                        "line": 31
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 145,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 39
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 107,
+                        "errorMessage": "",
+                        "functionName": "contentHeight",
+                        "line": 45
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 148,
+                        "errorMessage": "",
+                        "functionName": "flickableDirection",
+                        "line": 46
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 61,
+                        "errorMessage": "Cannot access value for name _defaultTextHeight",
+                        "functionName": "topMargin",
+                        "line": 40
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 198,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 41
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 176,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 42
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 50,
+                        "errorMessage": "Cannot access value for name _horizontalMargin",
+                        "functionName": "leftMargin",
+                        "line": 43
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 150,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 44
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 94,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 51
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 51,
+                        "errorMessage": "Cannot access value for name _defaultTextHeight",
+                        "functionName": "spacing",
+                        "line": 52
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 13,
+                        "durationMicroseconds": 4393,
+                        "errorMessage": "",
+                        "functionName": "reflowWidths",
+                        "line": 64
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 36,
+                        "durationMicroseconds": 165,
+                        "errorMessage": "",
+                        "functionName": "onCompleted",
+                        "line": 56
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 111,
+                        "errorMessage": "Cannot load property appFontPointSize from SettingsManager::appSettings with type QObject.",
+                        "functionName": "target",
+                        "line": 60
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 17,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "onValueChanged",
+                        "line": 61
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 27,
+                        "errorMessage": "Cannot load property corePlugin from QGroundControlQmlGlobal.",
+                        "functionName": "model",
+                        "line": 76
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 47,
+                        "errorMessage": "Type QQuickItem does not have a property checked for writing",
+                        "functionName": "onCompleted",
+                        "line": 78
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 78,
+                        "errorMessage": "Cannot access value for name modelData",
+                        "functionName": "imageResource",
+                        "line": 82
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"text\".",
+                        "functionName": "text",
+                        "line": 84
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 32,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"clicked\".",
+                        "functionName": "onClicked",
+                        "line": 86
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 254,
+                        "errorMessage": "Cannot access value for name qgcPal",
+                        "functionName": "color",
+                        "line": 105
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 30,
+                        "errorMessage": "Cannot access value for name _verticalMargin",
+                        "functionName": "topMargin",
+                        "line": 98
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 21,
+                        "errorMessage": "Cannot access value for name _verticalMargin",
+                        "functionName": "bottomMargin",
+                        "line": 99
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 21,
+                        "errorMessage": "Cannot access value for name _horizontalMargin",
+                        "functionName": "leftMargin",
+                        "line": 100
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 213,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 101
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 146,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 102
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 130,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 103
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 36,
+                        "errorMessage": "Cannot access value for name _verticalMargin",
+                        "functionName": "topMargin",
+                        "line": 110
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 22,
+                        "errorMessage": "Cannot access value for name _verticalMargin",
+                        "functionName": "bottomMargin",
+                        "line": 111
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 21,
+                        "errorMessage": "Cannot access value for name _horizontalMargin",
+                        "functionName": "leftMargin",
+                        "line": 112
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 21,
+                        "errorMessage": "Cannot access value for name _horizontalMargin",
+                        "functionName": "rightMargin",
+                        "line": 113
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 141,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 114
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 144,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 115
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 128,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 116
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 149,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 117
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 142,
+                        "errorMessage": "",
+                        "functionName": "target",
+                        "line": 123
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 13,
+                        "durationMicroseconds": 145,
+                        "errorMessage": "Cannot access value for name mainWindow",
+                        "functionName": "onPopout",
+                        "line": 124
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/AnalyzeView/AnalyzeView.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.AnalyzeView(AnalyzeViewModule)"
+    }
+]

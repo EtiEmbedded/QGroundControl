@@ -1,0 +1,252 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 21,
+                        "durationMicroseconds": 680,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 23
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 49,
+                        "errorMessage": "Cannot load property available from (component in C:/Users/User/qgroundcontrol/src/UI/toolbar/RemoteIDIndicator.qml)::remoteIDManager with type QVariant.",
+                        "functionName": "showIndicator",
+                        "line": 27
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 369,
+                        "errorMessage": "",
+                        "functionName": "activeVehicle",
+                        "line": 29
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 62,
+                        "errorMessage": "Cannot load property remoteIDManager from (component in C:/Users/User/qgroundcontrol/src/UI/toolbar/RemoteIDIndicator.qml)::activeVehicle with type QVariant.",
+                        "functionName": "remoteIDManager",
+                        "line": 30
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 55,
+                        "errorMessage": "Cannot load property gcsGPSGood from (component in C:/Users/User/qgroundcontrol/src/UI/toolbar/RemoteIDIndicator.qml)::remoteIDManager with type QVariant.",
+                        "functionName": "gpsFlag",
+                        "line": 32
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 47,
+                        "errorMessage": "Cannot load property basicIDGood from (component in C:/Users/User/qgroundcontrol/src/UI/toolbar/RemoteIDIndicator.qml)::remoteIDManager with type QVariant.",
+                        "functionName": "basicIDFlag",
+                        "line": 33
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 53,
+                        "errorMessage": "Cannot load property armStatusGood from (component in C:/Users/User/qgroundcontrol/src/UI/toolbar/RemoteIDIndicator.qml)::remoteIDManager with type QVariant.",
+                        "functionName": "armFlag",
+                        "line": 34
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 44,
+                        "errorMessage": "Cannot load property commsGood from (component in C:/Users/User/qgroundcontrol/src/UI/toolbar/RemoteIDIndicator.qml)::remoteIDManager with type QVariant.",
+                        "functionName": "commsFlag",
+                        "line": 35
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 52,
+                        "errorMessage": "Cannot load property emergencyDeclared from (component in C:/Users/User/qgroundcontrol/src/UI/toolbar/RemoteIDIndicator.qml)::remoteIDManager with type QVariant.",
+                        "functionName": "emergencyDeclared",
+                        "line": 36
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 49,
+                        "errorMessage": "Cannot load property operatorIDGood from (component in C:/Users/User/qgroundcontrol/src/UI/toolbar/RemoteIDIndicator.qml)::remoteIDManager with type QVariant.",
+                        "functionName": "operatorIDFlag",
+                        "line": 37
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 207,
+                        "errorMessage": "",
+                        "functionName": "remoteIDState",
+                        "line": 38
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 99,
+                        "errorMessage": "Cannot load property region from SettingsManager::remoteIDSettings with type QObject.",
+                        "functionName": "regionOperation",
+                        "line": 40
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 14364,
+                        "errorMessage": "Cannot access value for name qgcPal",
+                        "functionName": "getRidColor",
+                        "line": 54
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 110,
+                        "errorMessage": "function without return type annotation returns RemoteIDIndicator::RIDState::UNAVAILABLE (stored as int). This may prevent proper compilation to Cpp.",
+                        "functionName": "getRemoteIDState",
+                        "line": 73
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 625,
+                        "errorMessage": "Cannot access value for name mainWindow",
+                        "functionName": "goToSettings",
+                        "line": 92
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 21,
+                        "durationMicroseconds": 341,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 24
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 21,
+                        "durationMicroseconds": 265,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 25
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 309,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 101
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 623,
+                        "errorMessage": "method getRidColor cannot be resolved.",
+                        "functionName": "color",
+                        "line": 105
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 472,
+                        "errorMessage": "",
+                        "functionName": "fillMode",
+                        "line": 106
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 313,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 102
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 258,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 103
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 214,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 107
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 138,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 110
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 172,
+                        "errorMessage": "",
+                        "functionName": "fillMode",
+                        "line": 114
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 469,
+                        "errorMessage": "Cannot access value for name qgcPal",
+                        "functionName": "color",
+                        "line": 115
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 144,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 111
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 148,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 112
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 579,
+                        "errorMessage": "Cannot access value for name mainWindow",
+                        "functionName": "onClicked",
+                        "line": 121
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 152,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 120
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/UI/toolbar/RemoteIDIndicator.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.Toolbar(ToolbarModule)"
+    }
+]

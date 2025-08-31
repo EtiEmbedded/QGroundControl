@@ -1,0 +1,60 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 360,
+                        "errorMessage": "",
+                        "functionName": "telemetryFailure",
+                        "line": 18
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 225,
+                        "errorMessage": "Cannot access value for name globals",
+                        "functionName": "_unhealthySensors",
+                        "line": 20
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 188,
+                        "errorMessage": "Cannot access value for name Vehicle",
+                        "functionName": "_allCheckedSensors",
+                        "line": 21
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 93,
+                        "errorMessage": "",
+                        "functionName": "on_UnhealthySensorsChanged",
+                        "line": 29
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 252,
+                        "errorMessage": "Cannot access value for name Vehicle",
+                        "functionName": "updateTelemetryTextFailure",
+                        "line": 33
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 28,
+                        "durationMicroseconds": 93,
+                        "errorMessage": "",
+                        "functionName": "onCompleted",
+                        "line": 31
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/FlightDisplay/PreFlightSensorsHealthCheck.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.FlightDisplay(FlightDisplayModule)"
+    }
+]

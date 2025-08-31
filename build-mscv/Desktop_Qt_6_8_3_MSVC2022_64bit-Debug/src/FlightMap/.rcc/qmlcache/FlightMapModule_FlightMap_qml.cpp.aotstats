@@ -1,0 +1,356 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 736,
+                        "errorMessage": "Cannot generate efficient code for call to untyped JavaScript function",
+                        "functionName": "isSatelliteMap",
+                        "line": 32
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 513,
+                        "errorMessage": "Cannot access value for name QGroundControl",
+                        "functionName": "gcsPosition",
+                        "line": 33
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 479,
+                        "errorMessage": "Cannot access value for name QGroundControl",
+                        "functionName": "gcsHeading",
+                        "line": 34
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 441,
+                        "errorMessage": "Cannot access value for name QGroundControl",
+                        "functionName": "_activeVehicle",
+                        "line": 41
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 34,
+                        "errorMessage": "Cannot load property coordinate from (component in C:/Users/User/qgroundcontrol/src/FlightMap/FlightMap.qml)::_activeVehicle with type QVariant.",
+                        "functionName": "_activeVehicleCoordinate",
+                        "line": 42
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "setVisibleRegion",
+                        "line": 44
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 31,
+                        "errorMessage": "Cannot load property isValid from (component in C:/Users/User/qgroundcontrol/src/FlightMap/FlightMap.qml)::_activeVehicleCoordinate with type QVariant.",
+                        "functionName": "_possiblyCenterToVehiclePosition",
+                        "line": 57
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 389,
+                        "errorMessage": "Cannot access value for name mainWindow",
+                        "functionName": "centerToSpecifiedLocation",
+                        "line": 65
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 27,
+                        "durationMicroseconds": 22,
+                        "errorMessage": "Cannot load property isValid from (component in C:/Users/User/qgroundcontrol/src/FlightMap/FlightMap.qml)::gcsPosition with type QVariant.",
+                        "functionName": "onGcsPositionChanged",
+                        "line": 79
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 469,
+                        "errorMessage": "Cannot access value for name QGroundControl",
+                        "functionName": "updateActiveMapType",
+                        "line": 89
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 40,
+                        "durationMicroseconds": 82,
+                        "errorMessage": "",
+                        "functionName": "on_ActiveVehicleCoordinateChanged",
+                        "line": 101
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 24,
+                        "durationMicroseconds": 170,
+                        "errorMessage": "",
+                        "functionName": "onMapReadyChanged",
+                        "line": 103
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Cannot resolve property type  for binding on coordinate.",
+                        "functionName": "coordinate",
+                        "line": 73
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 19,
+                        "errorMessage": "Cannot access value for name coordinate",
+                        "functionName": "onCoordinateChanged",
+                        "line": 74
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 17,
+                        "durationMicroseconds": 61,
+                        "errorMessage": "Cannot access value for name QGroundControl",
+                        "functionName": "target",
+                        "line": 111
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 9,
+                        "durationMicroseconds": 67,
+                        "errorMessage": "method updateActiveMapType cannot be resolved.",
+                        "functionName": "onRawValueChanged",
+                        "line": 112
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 17,
+                        "durationMicroseconds": 51,
+                        "errorMessage": "Cannot access value for name QGroundControl",
+                        "functionName": "target",
+                        "line": 116
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 9,
+                        "durationMicroseconds": 59,
+                        "errorMessage": "method updateActiveMapType cannot be resolved.",
+                        "functionName": "onRawValueChanged",
+                        "line": 117
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 26,
+                        "durationMicroseconds": 441,
+                        "errorMessage": "",
+                        "functionName": "onActiveChanged",
+                        "line": 130
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 26,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "onScaleChanged",
+                        "line": 135
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 26,
+                        "durationMicroseconds": 38,
+                        "errorMessage": "",
+                        "functionName": "onScaleChanged",
+                        "line": 135
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 642,
+                        "errorMessage": "",
+                        "functionName": "acceptedDevices",
+                        "line": 146
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 89,
+                        "errorMessage": "",
+                        "functionName": "rotationScale",
+                        "line": 148
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 21,
+                        "durationMicroseconds": 33,
+                        "errorMessage": "Cannot load property x from conversion to QVariant.",
+                        "functionName": "onPressed",
+                        "line": 165
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 21,
+                        "durationMicroseconds": 68,
+                        "errorMessage": "",
+                        "functionName": "onPressed",
+                        "line": 165
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 28,
+                        "durationMicroseconds": 259,
+                        "errorMessage": "method mapPanStart cannot be resolved.",
+                        "functionName": "onGestureStarted",
+                        "line": 170
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 28,
+                        "durationMicroseconds": 42,
+                        "errorMessage": "",
+                        "functionName": "onGestureStarted",
+                        "line": 170
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 21,
+                        "durationMicroseconds": 60,
+                        "errorMessage": "Cannot load property x from conversion to QVariant.",
+                        "functionName": "onUpdated",
+                        "line": 176
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 21,
+                        "durationMicroseconds": 49,
+                        "errorMessage": "",
+                        "functionName": "onUpdated",
+                        "line": 176
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 22,
+                        "durationMicroseconds": 50,
+                        "errorMessage": "Cannot load property x from conversion to QVariant.",
+                        "functionName": "onReleased",
+                        "line": 188
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 22,
+                        "durationMicroseconds": 48,
+                        "errorMessage": "",
+                        "functionName": "onReleased",
+                        "line": 188
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 23,
+                        "durationMicroseconds": 56,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 157
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 24,
+                        "errorMessage": "Cannot access value for name gcsPosition",
+                        "functionName": "visible",
+                        "line": 203
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 13,
+                        "errorMessage": "Cannot access value for name gcsPosition",
+                        "functionName": "coordinate",
+                        "line": 204
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 149,
+                        "errorMessage": "",
+                        "functionName": "x",
+                        "line": 201
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 113,
+                        "errorMessage": "",
+                        "functionName": "y",
+                        "line": 202
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 28,
+                        "errorMessage": "Cannot access value for name gcsHeading",
+                        "functionName": "source",
+                        "line": 208
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 72,
+                        "errorMessage": "",
+                        "functionName": "fillMode",
+                        "line": 211
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 4702,
+                        "errorMessage": "Cannot access value for name gcsHeading",
+                        "functionName": "height",
+                        "line": 212
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 32,
+                        "durationMicroseconds": 158,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 213
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 51,
+                        "errorMessage": "Cannot access value for name gcsHeading",
+                        "functionName": "angle",
+                        "line": 217
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 216,
+                        "errorMessage": "",
+                        "functionName": "x",
+                        "line": 215
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 183,
+                        "errorMessage": "",
+                        "functionName": "y",
+                        "line": 216
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/FlightMap/FlightMap.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.FlightMap(FlightMapModule)"
+    }
+]

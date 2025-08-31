@@ -1,0 +1,44 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 17,
+                        "durationMicroseconds": 165,
+                        "errorMessage": "Cannot load property pauseTitle from (component in C:/Users/User/qgroundcontrol/src/FlightDisplay/GuidedActionPause.qml)::_guidedController with type QVariant.",
+                        "functionName": "text",
+                        "line": 14
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 17,
+                        "durationMicroseconds": 28,
+                        "errorMessage": "Cannot load property showPause from (component in C:/Users/User/qgroundcontrol/src/FlightDisplay/GuidedActionPause.qml)::_guidedController with type QVariant.",
+                        "functionName": "visible",
+                        "line": 16
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 17,
+                        "durationMicroseconds": 22,
+                        "errorMessage": "Cannot load property showPause from (component in C:/Users/User/qgroundcontrol/src/FlightDisplay/GuidedActionPause.qml)::_guidedController with type QVariant.",
+                        "functionName": "enabled",
+                        "line": 17
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 17,
+                        "durationMicroseconds": 21,
+                        "errorMessage": "Cannot load property actionPause from (component in C:/Users/User/qgroundcontrol/src/FlightDisplay/GuidedActionPause.qml)::_guidedController with type QVariant.",
+                        "functionName": "actionID",
+                        "line": 18
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/FlightDisplay/GuidedActionPause.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.FlightDisplay(FlightDisplayModule)"
+    }
+]

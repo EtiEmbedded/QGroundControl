@@ -1,0 +1,1260 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 21,
+                        "durationMicroseconds": 1262,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 24
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 484,
+                        "errorMessage": "",
+                        "functionName": "activeVehicle",
+                        "line": 28
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 45,
+                        "errorMessage": "Cannot load property gimbalController from (component in C:/Users/User/qgroundcontrol/src/UI/toolbar/GimbalIndicator.qml)::activeVehicle with type QVariant.",
+                        "functionName": "gimbalController",
+                        "line": 29
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 57,
+                        "errorMessage": "Cannot load property gimbals from (component in C:/Users/User/qgroundcontrol/src/UI/toolbar/GimbalIndicator.qml)::gimbalController with type QVariant.",
+                        "functionName": "showIndicator",
+                        "line": 30
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 43,
+                        "errorMessage": "Cannot load property activeGimbal from (component in C:/Users/User/qgroundcontrol/src/UI/toolbar/GimbalIndicator.qml)::gimbalController with type QVariant.",
+                        "functionName": "activeGimbal",
+                        "line": 31
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 30,
+                        "errorMessage": "Cannot load property gimbals from (component in C:/Users/User/qgroundcontrol/src/UI/toolbar/GimbalIndicator.qml)::gimbalController with type QVariant.",
+                        "functionName": "multiGimbalSetup",
+                        "line": 32
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 26,
+                        "errorMessage": "Cannot load property joystickEnabled from (component in C:/Users/User/qgroundcontrol/src/UI/toolbar/GimbalIndicator.qml)::activeVehicle with type QVariant.",
+                        "functionName": "joystickButtonsAvailable",
+                        "line": 33
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 8409,
+                        "errorMessage": "",
+                        "functionName": "margins",
+                        "line": 35
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 332,
+                        "errorMessage": "",
+                        "functionName": "panelRadius",
+                        "line": 36
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 242,
+                        "errorMessage": "",
+                        "functionName": "buttonHeight",
+                        "line": 37
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 206,
+                        "errorMessage": "",
+                        "functionName": "squareButtonPadding",
+                        "line": 38
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 270,
+                        "errorMessage": "",
+                        "functionName": "separatorHeight",
+                        "line": 39
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 21,
+                        "durationMicroseconds": 270,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 25
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 21,
+                        "durationMicroseconds": 243,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 26
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 153,
+                        "errorMessage": "Cannot access value for name multiGimbalSetup",
+                        "functionName": "text",
+                        "line": 50
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 187,
+                        "errorMessage": "",
+                        "functionName": "pointSize",
+                        "line": 54
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 177,
+                        "errorMessage": "",
+                        "functionName": "weight",
+                        "line": 56
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 71,
+                        "errorMessage": "Cannot access value for name buttonHeight",
+                        "functionName": "preferredWidth",
+                        "line": 55
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 59,
+                        "durationMicroseconds": 65,
+                        "errorMessage": "Cannot access value for name gimbalController",
+                        "functionName": "hasControl",
+                        "line": 62
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 59,
+                        "durationMicroseconds": 127,
+                        "errorMessage": "Cannot load property toolbarIndicatorShowAcquireReleaseControl from SettingsManager::gimbalControllerSettings with type QObject.",
+                        "functionName": "acqControlButtonEnabled",
+                        "line": 63
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 28,
+                        "durationMicroseconds": 109,
+                        "errorMessage": "Cannot access value for name activeGimbal",
+                        "functionName": "model",
+                        "line": 65
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 52,
+                        "durationMicroseconds": 1716,
+                        "errorMessage": "Cannot generate efficient code for LoadClosure",
+                        "functionName": "callbackList",
+                        "line": 75
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 31,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"text\".",
+                        "functionName": "text",
+                        "line": 90
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 225,
+                        "errorMessage": "",
+                        "functionName": "fontWeight",
+                        "line": 91
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 34,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"visible\".",
+                        "functionName": "visible",
+                        "line": 92
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 36,
+                        "durationMicroseconds": 189,
+                        "errorMessage": "",
+                        "functionName": "pointSize",
+                        "line": 93
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 85,
+                        "errorMessage": "Cannot access value for name panelRadius",
+                        "functionName": "backRadius",
+                        "line": 94
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 38,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"leftPadding\".",
+                        "functionName": "leftPadding",
+                        "line": 95
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 39,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"rightPadding\".",
+                        "functionName": "rightPadding",
+                        "line": 96
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 36,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"clicked\".",
+                        "functionName": "onClicked",
+                        "line": 97
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 48,
+                        "durationMicroseconds": 177,
+                        "errorMessage": "",
+                        "functionName": "preferredWidth",
+                        "line": 87
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 65,
+                        "errorMessage": "Cannot access value for name buttonHeight",
+                        "functionName": "preferredHeight",
+                        "line": 88
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 43,
+                        "durationMicroseconds": 386,
+                        "errorMessage": "",
+                        "functionName": "alignment",
+                        "line": 89
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 395,
+                        "errorMessage": "Cannot access value for name qgcPal",
+                        "functionName": "color",
+                        "line": 113
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 57,
+                        "errorMessage": "Cannot access value for name multiGimbalSetup",
+                        "functionName": "visible",
+                        "line": 114
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 56,
+                        "errorMessage": "Cannot access value for name margins",
+                        "functionName": "leftMargin",
+                        "line": 110
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 42,
+                        "errorMessage": "Cannot access value for name separatorHeight",
+                        "functionName": "preferredHeight",
+                        "line": 112
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 91,
+                        "errorMessage": "Cannot access value for name activeGimbal",
+                        "functionName": "text",
+                        "line": 119
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 49,
+                        "errorMessage": "Cannot access value for name multiGimbalSetup",
+                        "functionName": "visible",
+                        "line": 124
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 204,
+                        "errorMessage": "",
+                        "functionName": "pointSize",
+                        "line": 120
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 147,
+                        "errorMessage": "",
+                        "functionName": "weight",
+                        "line": 123
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 54,
+                        "errorMessage": "Cannot access value for name buttonHeight",
+                        "functionName": "preferredWidth",
+                        "line": 121
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 57,
+                        "errorMessage": "Cannot access value for name margins",
+                        "functionName": "leftMargin",
+                        "line": 122
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 154,
+                        "errorMessage": "",
+                        "functionName": "fontWeight",
+                        "line": 132
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 141,
+                        "errorMessage": "",
+                        "functionName": "pointSize",
+                        "line": 133
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 53,
+                        "errorMessage": "Cannot access value for name panelRadius",
+                        "functionName": "backRadius",
+                        "line": 134
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"visible\".",
+                        "functionName": "visible",
+                        "line": 135
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 168,
+                        "errorMessage": "",
+                        "functionName": "preferredWidth",
+                        "line": 128
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 52,
+                        "errorMessage": "Cannot access value for name buttonHeight",
+                        "functionName": "preferredHeight",
+                        "line": 129
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 348,
+                        "errorMessage": "",
+                        "functionName": "alignment",
+                        "line": 130
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 161,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 143
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 54,
+                        "errorMessage": "Cannot access value for name panelRadius",
+                        "functionName": "height",
+                        "line": 144
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 422,
+                        "errorMessage": "Cannot access value for name qgcPal",
+                        "functionName": "color",
+                        "line": 145
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 158,
+                        "errorMessage": "",
+                        "functionName": "visible",
+                        "line": 146
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 218,
+                        "errorMessage": "",
+                        "functionName": "verticalCenter",
+                        "line": 141
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 210,
+                        "errorMessage": "",
+                        "functionName": "horizontalCenter",
+                        "line": 142
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 95,
+                        "errorMessage": "Cannot access value for name buttonHeight",
+                        "functionName": "width",
+                        "line": 151
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 121,
+                        "errorMessage": "Cannot access value for name margins",
+                        "functionName": "height",
+                        "line": 152
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 35,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: gimbalSelectorButton",
+                        "functionName": "visible",
+                        "line": 153
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 441,
+                        "errorMessage": "Cannot access value for name qgcPal",
+                        "functionName": "color",
+                        "line": 154
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 65,
+                        "errorMessage": "Cannot access value for name panelRadius",
+                        "functionName": "radius",
+                        "line": 155
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 54,
+                        "durationMicroseconds": 80,
+                        "errorMessage": "Cannot access value for name margins",
+                        "functionName": "buttonWidth",
+                        "line": 164
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 54,
+                        "durationMicroseconds": 145,
+                        "errorMessage": "Cannot access value for name margins",
+                        "functionName": "panelHeight",
+                        "line": 165
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 54,
+                        "durationMicroseconds": 56,
+                        "errorMessage": "Cannot access value for name margins",
+                        "functionName": "gridRowSpacing",
+                        "line": 166
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 54,
+                        "durationMicroseconds": 307,
+                        "errorMessage": "",
+                        "functionName": "buttonFontSize",
+                        "line": 167
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 79,
+                        "errorMessage": "Cannot access value for name settingsPanelVisible",
+                        "functionName": "color",
+                        "line": 157
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 254,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 160
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 226,
+                        "errorMessage": "",
+                        "functionName": "horizontalCenter",
+                        "line": 161
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 75,
+                        "errorMessage": "Cannot access value for name margins",
+                        "functionName": "topMargin",
+                        "line": 162
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 47,
+                        "durationMicroseconds": 169,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 171
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 47,
+                        "durationMicroseconds": 183,
+                        "errorMessage": "",
+                        "functionName": "rowSpacing",
+                        "line": 172
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 55,
+                        "durationMicroseconds": 212,
+                        "errorMessage": "",
+                        "functionName": "horizontalCenter",
+                        "line": 175
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 55,
+                        "durationMicroseconds": 321,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 176
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 55,
+                        "durationMicroseconds": 62,
+                        "errorMessage": "Cannot access value for name margins",
+                        "functionName": "topMargin",
+                        "line": 177
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 40,
+                        "durationMicroseconds": 55,
+                        "errorMessage": "Cannot access value for name gimbalController",
+                        "functionName": "model",
+                        "line": 180
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 61,
+                        "durationMicroseconds": 189,
+                        "errorMessage": "",
+                        "functionName": "fontWeight",
+                        "line": 185
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 61,
+                        "durationMicroseconds": 147,
+                        "errorMessage": "",
+                        "functionName": "pointSize",
+                        "line": 186
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 61,
+                        "durationMicroseconds": 65,
+                        "errorMessage": "Cannot access value for name panelRadius",
+                        "functionName": "backRadius",
+                        "line": 187
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 61,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"text\".",
+                        "functionName": "text",
+                        "line": 188
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 61,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"checked\".",
+                        "functionName": "checked",
+                        "line": 189
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 48,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"clicked\".",
+                        "functionName": "onClicked",
+                        "line": 190
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 61,
+                        "durationMicroseconds": 172,
+                        "errorMessage": "",
+                        "functionName": "preferredWidth",
+                        "line": 182
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 61,
+                        "durationMicroseconds": 62,
+                        "errorMessage": "Cannot access value for name buttonHeight",
+                        "functionName": "preferredHeight",
+                        "line": 183
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 61,
+                        "durationMicroseconds": 347,
+                        "errorMessage": "",
+                        "functionName": "alignment",
+                        "line": 184
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 430,
+                        "errorMessage": "Cannot access value for name qgcPal",
+                        "functionName": "color",
+                        "line": 205
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 52,
+                        "errorMessage": "Cannot access value for name margins",
+                        "functionName": "leftMargin",
+                        "line": 202
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 55,
+                        "errorMessage": "Cannot access value for name separatorHeight",
+                        "functionName": "preferredHeight",
+                        "line": 204
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 215,
+                        "errorMessage": "",
+                        "functionName": "fontWeight",
+                        "line": 218
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 153,
+                        "errorMessage": "",
+                        "functionName": "pointSize",
+                        "line": 219
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 81,
+                        "errorMessage": "Cannot access value for name panelRadius",
+                        "functionName": "backRadius",
+                        "line": 220
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"checked\".",
+                        "functionName": "checked",
+                        "line": 222
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"leftPadding\".",
+                        "functionName": "leftPadding",
+                        "line": 223
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"rightPadding\".",
+                        "functionName": "rightPadding",
+                        "line": 224
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 39,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"checkedChanged\".",
+                        "functionName": "onCheckedChanged",
+                        "line": 225
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 74,
+                        "errorMessage": "Cannot access value for name margins",
+                        "functionName": "leftMargin",
+                        "line": 213
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 153,
+                        "errorMessage": "",
+                        "functionName": "preferredWidth",
+                        "line": 214
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 48,
+                        "errorMessage": "Cannot access value for name buttonHeight",
+                        "functionName": "preferredHeight",
+                        "line": 215
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 439,
+                        "errorMessage": "",
+                        "functionName": "alignment",
+                        "line": 216
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 89,
+                        "errorMessage": "Cannot access value for name buttonHeight",
+                        "functionName": "height",
+                        "line": 237
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 82,
+                        "errorMessage": "Cannot access value for name settingsPanelVisible",
+                        "functionName": "visible",
+                        "line": 238
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 67,
+                        "errorMessage": "Cannot access value for name margins",
+                        "functionName": "rowSpacing",
+                        "line": 240
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"text\".",
+                        "functionName": "text",
+                        "line": 245
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 97,
+                        "errorMessage": "Cannot load property EnableOnScreenControl from SettingsManager::gimbalControllerSettings with type QObject.",
+                        "functionName": "fact",
+                        "line": 246
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 47,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: enableOnScreenControlCheckbox",
+                        "functionName": "visible",
+                        "line": 255
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 77,
+                        "errorMessage": "Cannot load property ControlType from SettingsManager::gimbalControllerSettings with type QObject.",
+                        "functionName": "fact",
+                        "line": 259
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 35,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: enableOnScreenControlCheckbox",
+                        "functionName": "visible",
+                        "line": 260
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 37,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: enableOnScreenControlCheckbox",
+                        "functionName": "visible",
+                        "line": 265
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 64,
+                        "errorMessage": "Cannot load property CameraHFov from SettingsManager::gimbalControllerSettings with type QObject.",
+                        "functionName": "fact",
+                        "line": 268
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"visible\".",
+                        "functionName": "visible",
+                        "line": 269
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 35,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: enableOnScreenControlCheckbox",
+                        "functionName": "visible",
+                        "line": 274
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 66,
+                        "errorMessage": "Cannot load property CameraVFov from SettingsManager::gimbalControllerSettings with type QObject.",
+                        "functionName": "fact",
+                        "line": 277
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"visible\".",
+                        "functionName": "visible",
+                        "line": 278
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 45,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: enableOnScreenControlCheckbox",
+                        "functionName": "visible",
+                        "line": 283
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 77,
+                        "errorMessage": "Cannot load property CameraSlideSpeed from SettingsManager::gimbalControllerSettings with type QObject.",
+                        "functionName": "fact",
+                        "line": 286
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"visible\".",
+                        "functionName": "visible",
+                        "line": 287
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 50,
+                        "durationMicroseconds": 426,
+                        "errorMessage": "Cannot access value for name qgcPal",
+                        "functionName": "color",
+                        "line": 296
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 50,
+                        "durationMicroseconds": 39,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: gimbalAzimuthMapCheckbox",
+                        "functionName": "preferredWidth",
+                        "line": 294
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 50,
+                        "durationMicroseconds": 57,
+                        "errorMessage": "Cannot access value for name margins",
+                        "functionName": "margins",
+                        "line": 295
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 52,
+                        "errorMessage": "Cannot access value for name joystickButtonsAvailable",
+                        "functionName": "visible",
+                        "line": 301
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 81,
+                        "errorMessage": "Cannot load property joystickButtonsSpeed from SettingsManager::gimbalControllerSettings with type QObject.",
+                        "functionName": "fact",
+                        "line": 304
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"visible\".",
+                        "functionName": "visible",
+                        "line": 305
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 50,
+                        "durationMicroseconds": 377,
+                        "errorMessage": "Cannot access value for name qgcPal",
+                        "functionName": "color",
+                        "line": 315
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 50,
+                        "durationMicroseconds": 53,
+                        "errorMessage": "Cannot access value for name joystickButtonsAvailable",
+                        "functionName": "visible",
+                        "line": 316
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 50,
+                        "durationMicroseconds": 52,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: gimbalAzimuthMapCheckbox",
+                        "functionName": "preferredWidth",
+                        "line": 313
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 50,
+                        "durationMicroseconds": 49,
+                        "errorMessage": "Cannot access value for name margins",
+                        "functionName": "margins",
+                        "line": 314
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"text\".",
+                        "functionName": "text",
+                        "line": 321
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 92,
+                        "errorMessage": "Cannot load property showAzimuthIndicatorOnMap from SettingsManager::gimbalControllerSettings with type QObject.",
+                        "functionName": "fact",
+                        "line": 322
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"text\".",
+                        "functionName": "text",
+                        "line": 330
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 70,
+                        "errorMessage": "Cannot load property toolbarIndicatorShowAzimuth from SettingsManager::gimbalControllerSettings with type QObject.",
+                        "functionName": "fact",
+                        "line": 331
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"text\".",
+                        "functionName": "text",
+                        "line": 339
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 76,
+                        "errorMessage": "Cannot load property toolbarIndicatorShowAcquireReleaseControl from SettingsManager::gimbalControllerSettings with type QObject.",
+                        "functionName": "fact",
+                        "line": 340
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 34,
+                        "durationMicroseconds": 245,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 353
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 34,
+                        "durationMicroseconds": 178,
+                        "errorMessage": "",
+                        "functionName": "fillMode",
+                        "line": 357
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 34,
+                        "durationMicroseconds": 453,
+                        "errorMessage": "Cannot access value for name qgcPal",
+                        "functionName": "color",
+                        "line": 359
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 34,
+                        "durationMicroseconds": 258,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 354
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 34,
+                        "durationMicroseconds": 212,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 355
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 34,
+                        "durationMicroseconds": 141,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 358
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 34,
+                        "durationMicroseconds": 64,
+                        "errorMessage": "Cannot access value for name activeGimbal",
+                        "functionName": "text",
+                        "line": 364
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 34,
+                        "durationMicroseconds": 40,
+                        "errorMessage": "Cannot access value for name multiGimbalSetup",
+                        "functionName": "visible",
+                        "line": 365
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 34,
+                        "durationMicroseconds": 239,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 366
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 34,
+                        "durationMicroseconds": 52,
+                        "errorMessage": "Cannot access value for name margins",
+                        "functionName": "topMargin",
+                        "line": 367
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 34,
+                        "durationMicroseconds": 238,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 368
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 34,
+                        "durationMicroseconds": 58,
+                        "errorMessage": "Cannot access value for name margins",
+                        "functionName": "rightMargin",
+                        "line": 369
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 36,
+                        "durationMicroseconds": 49,
+                        "errorMessage": "Cannot access value for name margins",
+                        "functionName": "columnSpacing",
+                        "line": 382
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 36,
+                        "durationMicroseconds": 90,
+                        "errorMessage": "Cannot load property toolbarIndicatorShowAzimuth from SettingsManager::gimbalControllerSettings with type QObject.",
+                        "functionName": "showAzimuth",
+                        "line": 383
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 36,
+                        "durationMicroseconds": 254,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 376
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 36,
+                        "durationMicroseconds": 49,
+                        "errorMessage": "Cannot access value for name margins",
+                        "functionName": "leftMargin",
+                        "line": 377
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 36,
+                        "durationMicroseconds": 224,
+                        "errorMessage": "",
+                        "functionName": "verticalCenter",
+                        "line": 378
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 74,
+                        "errorMessage": "Cannot access value for name activeGimbal",
+                        "functionName": "text",
+                        "line": 387
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 365,
+                        "errorMessage": "",
+                        "functionName": "alignment",
+                        "line": 391
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 71,
+                        "errorMessage": "Cannot access value for name activeGimbal",
+                        "functionName": "text",
+                        "line": 395
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 78,
+                        "errorMessage": "Cannot access value for name activeGimbal",
+                        "functionName": "text",
+                        "line": 399
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 649,
+                        "errorMessage": "Cannot access value for name mainWindow",
+                        "functionName": "onClicked",
+                        "line": 408
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 158,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 407
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 51,
+                        "errorMessage": "Cannot access value for name gimbalController",
+                        "functionName": "target",
+                        "line": 414
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 9,
+                        "durationMicroseconds": 242,
+                        "errorMessage": "Cannot access value for name mainWindow",
+                        "functionName": "onShowAcquireGimbalControlPopup",
+                        "line": 415
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/UI/toolbar/GimbalIndicator.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.Toolbar(ToolbarModule)"
+    }
+]

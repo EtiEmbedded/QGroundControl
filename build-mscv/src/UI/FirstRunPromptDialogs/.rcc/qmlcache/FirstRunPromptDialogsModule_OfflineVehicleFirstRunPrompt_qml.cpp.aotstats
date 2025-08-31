@@ -1,0 +1,196 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 17,
+                        "durationMicroseconds": 173,
+                        "errorMessage": "Cannot load property corePlugin from QGroundControlQmlGlobal.",
+                        "functionName": "promptId",
+                        "line": 22
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 8061,
+                        "errorMessage": "",
+                        "functionName": "_margins",
+                        "line": 24
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 327,
+                        "errorMessage": "",
+                        "functionName": "_appSettings",
+                        "line": 25
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 226,
+                        "errorMessage": "",
+                        "functionName": "_multipleFirmware",
+                        "line": 26
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 177,
+                        "errorMessage": "",
+                        "functionName": "_multipleVehicleTypes",
+                        "line": 27
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 314,
+                        "errorMessage": "",
+                        "functionName": "_fieldWidth",
+                        "line": 28
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 18,
+                        "durationMicroseconds": 198,
+                        "errorMessage": "",
+                        "functionName": "spacing",
+                        "line": 31
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 189,
+                        "errorMessage": "",
+                        "functionName": "wrapMode",
+                        "line": 37
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 172,
+                        "errorMessage": "",
+                        "functionName": "preferredWidth",
+                        "line": 35
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 407,
+                        "errorMessage": "Cannot access value for name qgcPal",
+                        "functionName": "color",
+                        "line": 44
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 103,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "preferredHeight",
+                        "line": 42
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 77,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "preferredWidth",
+                        "line": 43
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 50,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "margins",
+                        "line": 49
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 293,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 50
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 226,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 51
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 73,
+                        "errorMessage": "Cannot access value for name _multipleFirmware",
+                        "functionName": "visible",
+                        "line": 57
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 112,
+                        "errorMessage": "Cannot load property offlineEditingFirmwareClass from SettingsManager::appSettings with type QObject.",
+                        "functionName": "fact",
+                        "line": 61
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 56,
+                        "errorMessage": "Cannot access value for name _multipleFirmware",
+                        "functionName": "visible",
+                        "line": 63
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 54,
+                        "errorMessage": "Cannot access value for name _fieldWidth",
+                        "functionName": "preferredWidth",
+                        "line": 60
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 50,
+                        "errorMessage": "Cannot access value for name _multipleVehicleTypes",
+                        "functionName": "visible",
+                        "line": 69
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 81,
+                        "errorMessage": "Cannot load property offlineEditingVehicleClass from SettingsManager::appSettings with type QObject.",
+                        "functionName": "fact",
+                        "line": 73
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 72,
+                        "errorMessage": "Cannot access value for name _multipleVehicleTypes",
+                        "functionName": "visible",
+                        "line": 75
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 49,
+                        "errorMessage": "Cannot access value for name _fieldWidth",
+                        "functionName": "preferredWidth",
+                        "line": 72
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/UI/FirstRunPromptDialogs/OfflineVehicleFirstRunPrompt.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.FirstRunPromptDialogs(FirstRunPromptDialogsModule)"
+    }
+]

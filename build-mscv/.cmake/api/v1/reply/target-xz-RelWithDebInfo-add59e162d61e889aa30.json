@@ -1,0 +1,373 @@
+{
+	"archive" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "/machine:x64",
+				"role" : "flags"
+			}
+		]
+	},
+	"artifacts" : 
+	[
+		{
+			"path" : "RelWithDebInfo/lib/xz.lib"
+		}
+	],
+	"backtrace" : 4,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"_qt_internal_add_library",
+			"qt6_add_library",
+			"qt_add_library",
+			"target_compile_definitions",
+			"target_include_directories",
+			"target_sources",
+			"qt6_extract_metatypes",
+			"qt6_finalize_target"
+		],
+		"files" : 
+		[
+			"C:/Qt/6.8.3/msvc2022_64/lib/cmake/Qt6Core/Qt6CoreMacros.cmake",
+			"src/Utilities/Compression/CMakeLists.txt",
+			"C:/Qt/6.8.3/msvc2022_64/lib/cmake/Qt6Core/Qt6CoreMacros.cmake:861:EVAL"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 50,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 2823,
+				"parent" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 2711,
+				"parent" : 2
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 2798,
+				"parent" : 3
+			},
+			{
+				"command" : 4,
+				"file" : 1,
+				"line" : 70,
+				"parent" : 0
+			},
+			{
+				"command" : 5,
+				"file" : 1,
+				"line" : 62,
+				"parent" : 0
+			},
+			{
+				"file" : 1,
+				"line" : -1,
+				"parent" : 0
+			},
+			{
+				"command" : 8,
+				"file" : 2,
+				"line" : 1,
+				"parent" : 7
+			},
+			{
+				"command" : 7,
+				"file" : 0,
+				"line" : 847,
+				"parent" : 8
+			},
+			{
+				"command" : 6,
+				"file" : 0,
+				"line" : 1500,
+				"parent" : 9
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-DQT_QML_DEBUG /DWIN32 /D_WINDOWS /EHsc /O2 /Ob1 /DNDEBUG -std:c++20 -MD"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 5,
+					"define" : "XZ_DEC_ANY_CHECK"
+				},
+				{
+					"backtrace" : 5,
+					"define" : "XZ_USE_CRC64"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"path" : "C:/Users/User/qgroundcontrol/build-mscv/src/Utilities/Compression"
+				},
+				{
+					"path" : "C:/Users/User/qgroundcontrol/src/Utilities/Compression"
+				},
+				{
+					"backtrace" : 0,
+					"path" : "C:/Users/User/qgroundcontrol/build-mscv/src/Utilities/Compression/xz_autogen/include"
+				},
+				{
+					"backtrace" : 6,
+					"path" : "C:/Users/User/qgroundcontrol/build-mscv/cpm_modules/xz-embedded/89e65918af62198be203b1131c88f91ffdee79cf/linux/include/linux"
+				},
+				{
+					"backtrace" : 6,
+					"path" : "C:/Users/User/qgroundcontrol/build-mscv/cpm_modules/xz-embedded/89e65918af62198be203b1131c88f91ffdee79cf/linux/lib/xz"
+				},
+				{
+					"backtrace" : 6,
+					"path" : "C:/Users/User/qgroundcontrol/build-mscv/cpm_modules/xz-embedded/89e65918af62198be203b1131c88f91ffdee79cf/userspace"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					4
+				],
+				"standard" : "20"
+			},
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "/DWIN32 /D_WINDOWS /O2 /Ob1 /DNDEBUG -MD"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 5,
+					"define" : "XZ_DEC_ANY_CHECK"
+				},
+				{
+					"backtrace" : 5,
+					"define" : "XZ_USE_CRC64"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"path" : "C:/Users/User/qgroundcontrol/build-mscv/src/Utilities/Compression"
+				},
+				{
+					"path" : "C:/Users/User/qgroundcontrol/src/Utilities/Compression"
+				},
+				{
+					"backtrace" : 0,
+					"path" : "C:/Users/User/qgroundcontrol/build-mscv/src/Utilities/Compression/xz_autogen/include"
+				},
+				{
+					"backtrace" : 6,
+					"path" : "C:/Users/User/qgroundcontrol/build-mscv/cpm_modules/xz-embedded/89e65918af62198be203b1131c88f91ffdee79cf/linux/include/linux"
+				},
+				{
+					"backtrace" : 6,
+					"path" : "C:/Users/User/qgroundcontrol/build-mscv/cpm_modules/xz-embedded/89e65918af62198be203b1131c88f91ffdee79cf/linux/lib/xz"
+				},
+				{
+					"backtrace" : 6,
+					"path" : "C:/Users/User/qgroundcontrol/build-mscv/cpm_modules/xz-embedded/89e65918af62198be203b1131c88f91ffdee79cf/userspace"
+				}
+			],
+			"language" : "C",
+			"sourceIndexes" : 
+			[
+				2,
+				3,
+				4,
+				5
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"id" : "xz_autogen_timestamp_deps::@82f67fdaf3bad773fadf"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "xz_autogen::@82f67fdaf3bad773fadf"
+		}
+	],
+	"id" : "xz::@82f67fdaf3bad773fadf",
+	"name" : "xz",
+	"nameOnDisk" : "xz.lib",
+	"paths" : 
+	{
+		"build" : "src/Utilities/Compression",
+		"source" : "src/Utilities/Compression"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files\\Generated",
+			"sourceIndexes" : 
+			[
+				0,
+				11
+			]
+		},
+		{
+			"name" : "Header Files",
+			"sourceIndexes" : 
+			[
+				1,
+				6,
+				7,
+				8,
+				9
+			]
+		},
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				2,
+				3,
+				4,
+				5
+			]
+		},
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				10
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				12,
+				13,
+				14
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/Utilities/Compression/xz_autogen/mocs_compilation.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 4,
+			"path" : "build-mscv/cpm_modules/xz-embedded/89e65918af62198be203b1131c88f91ffdee79cf/linux/include/linux/xz.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"compileGroupIndex" : 1,
+			"path" : "build-mscv/cpm_modules/xz-embedded/89e65918af62198be203b1131c88f91ffdee79cf/linux/lib/xz/xz_crc32.c",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 4,
+			"compileGroupIndex" : 1,
+			"path" : "build-mscv/cpm_modules/xz-embedded/89e65918af62198be203b1131c88f91ffdee79cf/linux/lib/xz/xz_crc64.c",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 4,
+			"compileGroupIndex" : 1,
+			"path" : "build-mscv/cpm_modules/xz-embedded/89e65918af62198be203b1131c88f91ffdee79cf/linux/lib/xz/xz_dec_lzma2.c",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 4,
+			"compileGroupIndex" : 1,
+			"path" : "build-mscv/cpm_modules/xz-embedded/89e65918af62198be203b1131c88f91ffdee79cf/linux/lib/xz/xz_dec_stream.c",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 4,
+			"path" : "build-mscv/cpm_modules/xz-embedded/89e65918af62198be203b1131c88f91ffdee79cf/linux/lib/xz/xz_lzma2.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"path" : "build-mscv/cpm_modules/xz-embedded/89e65918af62198be203b1131c88f91ffdee79cf/linux/lib/xz/xz_private.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"path" : "build-mscv/cpm_modules/xz-embedded/89e65918af62198be203b1131c88f91ffdee79cf/linux/lib/xz/xz_stream.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"path" : "build-mscv/cpm_modules/xz-embedded/89e65918af62198be203b1131c88f91ffdee79cf/userspace/xz_config.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 10,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/Utilities/Compression/meta_types/qt6xz_relwithdebinfo_metatypes.json.gen",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/Utilities/Compression/xz_autogen/timestamp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/Utilities/Compression/meta_types/qt6xz_relwithdebinfo_metatypes.json.gen.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/Utilities/Compression/xz_autogen/timestamp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/Utilities/Compression/meta_types/xz_json_file_list.txt.rule",
+			"sourceGroupIndex" : 4
+		}
+	],
+	"type" : "STATIC_LIBRARY"
+}

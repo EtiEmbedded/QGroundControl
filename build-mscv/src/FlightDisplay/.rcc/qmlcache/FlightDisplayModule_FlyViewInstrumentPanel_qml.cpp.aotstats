@@ -1,0 +1,52 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"z\".",
+                        "functionName": "z",
+                        "line": 16
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 255,
+                        "errorMessage": "Cannot load property instrumentQmlFile2 from SettingsManager::flyViewSettings with type QObject.",
+                        "functionName": "selectedControl",
+                        "line": 18
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 200,
+                        "errorMessage": "Cannot access value for name _missionController",
+                        "functionName": "missionController",
+                        "line": 20
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 42,
+                        "errorMessage": "Cannot load property extraInset from (component in C:/Users/User/qgroundcontrol/src/FlightDisplay/FlyViewInstrumentPanel.qml)::innerControl with type QVariant.",
+                        "functionName": "extraInset",
+                        "line": 21
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 31,
+                        "errorMessage": "Cannot load property extraValuesWidth from (component in C:/Users/User/qgroundcontrol/src/FlightDisplay/FlyViewInstrumentPanel.qml)::innerControl with type QVariant.",
+                        "functionName": "extraValuesWidth",
+                        "line": 22
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/FlightDisplay/FlyViewInstrumentPanel.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.FlightDisplay(FlightDisplayModule)"
+    }
+]

@@ -1,0 +1,1772 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 7936,
+                        "errorMessage": "",
+                        "functionName": "_margins",
+                        "line": 26
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 359,
+                        "errorMessage": "",
+                        "functionName": "_labelWidth",
+                        "line": 27
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 319,
+                        "errorMessage": "",
+                        "functionName": "_valueWidth",
+                        "line": 28
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 273,
+                        "errorMessage": "",
+                        "functionName": "_columnSpacing",
+                        "line": 29
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 281,
+                        "errorMessage": "",
+                        "functionName": "_comboFieldWidth",
+                        "line": 30
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 327,
+                        "errorMessage": "",
+                        "functionName": "_valueFieldWidth",
+                        "line": 31
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 289,
+                        "errorMessage": "",
+                        "functionName": "flagsWidth",
+                        "line": 34
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 308,
+                        "errorMessage": "",
+                        "functionName": "flagsHeight",
+                        "line": 35
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 72,
+                        "errorMessage": "Cannot load property remoteIDManager from (component in C:/Users/User/qgroundcontrol/src/UI/AppSettings/RemoteIDSettings.qml)::_activeVehicle with type QVariant.",
+                        "functionName": "_activeRID",
+                        "line": 39
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 40,
+                        "errorMessage": "Cannot load property remoteIDManager from (component in C:/Users/User/qgroundcontrol/src/UI/AppSettings/RemoteIDSettings.qml)::_activeVehicle with type QVariant.",
+                        "functionName": "commsGood",
+                        "line": 42
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 332,
+                        "errorMessage": "",
+                        "functionName": "_activeVehicle",
+                        "line": 45
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 295,
+                        "errorMessage": "",
+                        "functionName": "_offlineVehicle",
+                        "line": 46
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 99,
+                        "errorMessage": "Cannot load property region from SettingsManager::remoteIDSettings with type QObject.",
+                        "functionName": "_regionOperation",
+                        "line": 47
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 69,
+                        "errorMessage": "Cannot load property locationType from SettingsManager::remoteIDSettings with type QObject.",
+                        "functionName": "_locationType",
+                        "line": 48
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 101,
+                        "errorMessage": "Cannot load property classificationType from SettingsManager::remoteIDSettings with type QObject.",
+                        "functionName": "_classificationType",
+                        "line": 49
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 51,
+                        "errorMessage": "Cannot load property remoteIDManager from (component in C:/Users/User/qgroundcontrol/src/UI/AppSettings/RemoteIDSettings.qml)::_activeVehicle with type QVariant.",
+                        "functionName": "_remoteIDManager",
+                        "line": 50
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 36,
+                        "durationMicroseconds": 290,
+                        "errorMessage": "",
+                        "functionName": "remoteIDSettings",
+                        "line": 53
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 25,
+                        "errorMessage": "Cannot load property region from (component in C:/Users/User/qgroundcontrol/src/UI/AppSettings/RemoteIDSettings.qml)::remoteIDSettings with type QVariant.",
+                        "functionName": "regionFact",
+                        "line": 54
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 19,
+                        "errorMessage": "Cannot load property sendOperatorID from (component in C:/Users/User/qgroundcontrol/src/UI/AppSettings/RemoteIDSettings.qml)::remoteIDSettings with type QVariant.",
+                        "functionName": "sendOperatorIdFact",
+                        "line": 55
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 18,
+                        "errorMessage": "Cannot load property locationType from (component in C:/Users/User/qgroundcontrol/src/UI/AppSettings/RemoteIDSettings.qml)::remoteIDSettings with type QVariant.",
+                        "functionName": "locationTypeFact",
+                        "line": 56
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 18,
+                        "errorMessage": "Cannot load property operatorID from (component in C:/Users/User/qgroundcontrol/src/UI/AppSettings/RemoteIDSettings.qml)::remoteIDSettings with type QVariant.",
+                        "functionName": "operatorIDFact",
+                        "line": 57
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 94,
+                        "errorMessage": "Cannot load property RegionOperation from const QMetaObject.",
+                        "functionName": "isEURegion",
+                        "line": 58
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 76,
+                        "errorMessage": "Cannot load property RegionOperation from const QMetaObject.",
+                        "functionName": "isFAARegion",
+                        "line": 59
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 308,
+                        "errorMessage": "",
+                        "functionName": "textFieldWidth",
+                        "line": 60
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 260,
+                        "errorMessage": "",
+                        "functionName": "textLabelWidth",
+                        "line": 61
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 59,
+                        "errorMessage": "Cannot load property gcsPosition from QGroundControlQmlGlobal::qgcPositionManger with type QGCPositionManager.",
+                        "functionName": "gcsPosition",
+                        "line": 80
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 247,
+                        "errorMessage": "",
+                        "functionName": "gcsHeading",
+                        "line": 81
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 313,
+                        "errorMessage": "",
+                        "functionName": "gcsHDOP",
+                        "line": 82
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 1033,
+                        "errorMessage": "Cannot access value for name selfIDComboBox",
+                        "functionName": "getSelfIdLabelText",
+                        "line": 89
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 1025,
+                        "errorMessage": "Cannot access value for name selfIDComboBox",
+                        "functionName": "getSelfIDFact",
+                        "line": 106
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 251,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 125
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 187,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 126
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 204,
+                        "errorMessage": "",
+                        "functionName": "alignment",
+                        "line": 127
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 63,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "spacing",
+                        "line": 132
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 291,
+                        "errorMessage": "",
+                        "functionName": "horizontalCenter",
+                        "line": 131
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 250,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 141
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 64,
+                        "errorMessage": "Cannot access value for name _activeVehicle",
+                        "functionName": "visible",
+                        "line": 142
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 145,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "preferredHeight",
+                        "line": 139
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 88,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "preferredWidth",
+                        "line": 140
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 74,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "rowSpacing",
+                        "line": 151
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 52,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "columnSpacing",
+                        "line": 152
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 54,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "margins",
+                        "line": 147
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 324,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 148
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 259,
+                        "errorMessage": "",
+                        "functionName": "horizontalCenter",
+                        "line": 149
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 97,
+                        "errorMessage": "Cannot access value for name _activeRID",
+                        "functionName": "color",
+                        "line": 158
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 57,
+                        "errorMessage": "Cannot access value for name radiusFlags",
+                        "functionName": "radius",
+                        "line": 159
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 48,
+                        "errorMessage": "Cannot access value for name commsGood",
+                        "functionName": "visible",
+                        "line": 160
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 49,
+                        "errorMessage": "Cannot access value for name flagsHeight",
+                        "functionName": "preferredHeight",
+                        "line": 156
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 46,
+                        "errorMessage": "Cannot access value for name flagsWidth",
+                        "functionName": "preferredWidth",
+                        "line": 157
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 216,
+                        "errorMessage": "",
+                        "functionName": "wrapMode",
+                        "line": 165
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 170,
+                        "errorMessage": "",
+                        "functionName": "horizontalAlignment",
+                        "line": 166
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 316,
+                        "errorMessage": "",
+                        "functionName": "verticalAlignment",
+                        "line": 167
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 150,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 163
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 101,
+                        "errorMessage": "Cannot access value for name _activeRID",
+                        "functionName": "color",
+                        "line": 176
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 55,
+                        "errorMessage": "Cannot access value for name radiusFlags",
+                        "functionName": "radius",
+                        "line": 177
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 54,
+                        "errorMessage": "Cannot access value for name flagsHeight",
+                        "functionName": "preferredHeight",
+                        "line": 174
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 54,
+                        "errorMessage": "Cannot access value for name flagsWidth",
+                        "functionName": "preferredWidth",
+                        "line": 175
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 103,
+                        "errorMessage": "Cannot access value for name _activeRID",
+                        "functionName": "text",
+                        "line": 181
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 192,
+                        "errorMessage": "",
+                        "functionName": "wrapMode",
+                        "line": 182
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 193,
+                        "errorMessage": "",
+                        "functionName": "horizontalAlignment",
+                        "line": 183
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 153,
+                        "errorMessage": "",
+                        "functionName": "verticalAlignment",
+                        "line": 184
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 128,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 180
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 76,
+                        "errorMessage": "Cannot access value for name _activeRID",
+                        "functionName": "color",
+                        "line": 193
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 57,
+                        "errorMessage": "Cannot access value for name radiusFlags",
+                        "functionName": "radius",
+                        "line": 194
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 44,
+                        "errorMessage": "Cannot access value for name commsGood",
+                        "functionName": "visible",
+                        "line": 195
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 79,
+                        "errorMessage": "Cannot access value for name flagsHeight",
+                        "functionName": "preferredHeight",
+                        "line": 191
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 46,
+                        "errorMessage": "Cannot access value for name flagsWidth",
+                        "functionName": "preferredWidth",
+                        "line": 192
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 198,
+                        "errorMessage": "",
+                        "functionName": "wrapMode",
+                        "line": 200
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 166,
+                        "errorMessage": "",
+                        "functionName": "horizontalAlignment",
+                        "line": 201
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 174,
+                        "errorMessage": "",
+                        "functionName": "verticalAlignment",
+                        "line": 202
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 180,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 198
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 79,
+                        "errorMessage": "Cannot access value for name _activeRID",
+                        "functionName": "color",
+                        "line": 211
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 79,
+                        "errorMessage": "Cannot access value for name radiusFlags",
+                        "functionName": "radius",
+                        "line": 212
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 54,
+                        "errorMessage": "Cannot access value for name commsGood",
+                        "functionName": "visible",
+                        "line": 213
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 50,
+                        "errorMessage": "Cannot access value for name flagsHeight",
+                        "functionName": "preferredHeight",
+                        "line": 209
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 48,
+                        "errorMessage": "Cannot access value for name flagsWidth",
+                        "functionName": "preferredWidth",
+                        "line": 210
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 215,
+                        "errorMessage": "",
+                        "functionName": "wrapMode",
+                        "line": 218
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 160,
+                        "errorMessage": "",
+                        "functionName": "horizontalAlignment",
+                        "line": 219
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 148,
+                        "errorMessage": "",
+                        "functionName": "verticalAlignment",
+                        "line": 220
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 121,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 216
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 81,
+                        "errorMessage": "Cannot access value for name _activeRID",
+                        "functionName": "color",
+                        "line": 229
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 72,
+                        "errorMessage": "Cannot access value for name radiusFlags",
+                        "functionName": "radius",
+                        "line": 230
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 60,
+                        "errorMessage": "Cannot access value for name commsGood",
+                        "functionName": "visible",
+                        "line": 231
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 54,
+                        "errorMessage": "Cannot access value for name flagsHeight",
+                        "functionName": "preferredHeight",
+                        "line": 227
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 47,
+                        "errorMessage": "Cannot access value for name flagsWidth",
+                        "functionName": "preferredWidth",
+                        "line": 228
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 204,
+                        "errorMessage": "",
+                        "functionName": "wrapMode",
+                        "line": 236
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 166,
+                        "errorMessage": "",
+                        "functionName": "horizontalAlignment",
+                        "line": 237
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 168,
+                        "errorMessage": "",
+                        "functionName": "verticalAlignment",
+                        "line": 238
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 183,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 234
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 18,
+                        "durationMicroseconds": 190,
+                        "errorMessage": "",
+                        "functionName": "spacing",
+                        "line": 248
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 21,
+                        "durationMicroseconds": 64,
+                        "errorMessage": "Cannot access value for name regionFact",
+                        "functionName": "target",
+                        "line": 251
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 13,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "onRawValueChanged",
+                        "line": 252
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 348,
+                        "errorMessage": "",
+                        "functionName": "spacing",
+                        "line": 262
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 215,
+                        "errorMessage": "",
+                        "functionName": "alignment",
+                        "line": 263
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 299,
+                        "errorMessage": "",
+                        "functionName": "label",
+                        "line": 269
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 104,
+                        "errorMessage": "Cannot load property region from SettingsManager::remoteIDSettings with type QObject.",
+                        "functionName": "fact",
+                        "line": 270
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 69,
+                        "errorMessage": "Cannot load property region from SettingsManager::remoteIDSettings with type QObject.",
+                        "functionName": "visible",
+                        "line": 271
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 35,
+                        "durationMicroseconds": 74,
+                        "errorMessage": "Cannot access value for name _activeRID",
+                        "functionName": "outerBorderColor",
+                        "line": 276
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 407,
+                        "errorMessage": "",
+                        "functionName": "visible",
+                        "line": 277
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 83,
+                        "errorMessage": "Cannot access value for name _remoteIDManager",
+                        "functionName": "labelText",
+                        "line": 281
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 252,
+                        "errorMessage": "",
+                        "functionName": "visible",
+                        "line": 282
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 83,
+                        "errorMessage": "Cannot access value for name _activeRID",
+                        "functionName": "outerBorderColor",
+                        "line": 292
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 58,
+                        "errorMessage": "Cannot access value for name textLabelWidth",
+                        "functionName": "preferredWidth",
+                        "line": 291
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 145,
+                        "errorMessage": "",
+                        "functionName": "fact",
+                        "line": 298
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"visible\".",
+                        "functionName": "visible",
+                        "line": 299
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 42,
+                        "durationMicroseconds": 62,
+                        "errorMessage": "Cannot access value for name remoteIDSettings",
+                        "functionName": "_fact",
+                        "line": 302
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 262,
+                        "errorMessage": "",
+                        "functionName": "label",
+                        "line": 307
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 125,
+                        "errorMessage": "",
+                        "functionName": "fact",
+                        "line": 308
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 184,
+                        "errorMessage": "Cannot load property visible from (component in C:/Users/User/qgroundcontrol/src/UI/AppSettings/RemoteIDSettings.qml)::_fact with type Fact.",
+                        "functionName": "visible",
+                        "line": 310
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 54,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: sendBasicIDSlider",
+                        "functionName": "enabled",
+                        "line": 311
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 42,
+                        "durationMicroseconds": 68,
+                        "errorMessage": "Cannot access value for name remoteIDSettings",
+                        "functionName": "_fact",
+                        "line": 314
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 282,
+                        "errorMessage": "",
+                        "functionName": "label",
+                        "line": 318
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 121,
+                        "errorMessage": "",
+                        "functionName": "fact",
+                        "line": 319
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 259,
+                        "errorMessage": "Cannot load property visible from (component in C:/Users/User/qgroundcontrol/src/UI/AppSettings/RemoteIDSettings.qml)::_fact with type Fact.",
+                        "functionName": "visible",
+                        "line": 321
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 50,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: sendBasicIDSlider",
+                        "functionName": "enabled",
+                        "line": 322
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 42,
+                        "durationMicroseconds": 68,
+                        "errorMessage": "Cannot access value for name remoteIDSettings",
+                        "functionName": "_fact",
+                        "line": 325
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 308,
+                        "errorMessage": "",
+                        "functionName": "label",
+                        "line": 329
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 125,
+                        "errorMessage": "",
+                        "functionName": "fact",
+                        "line": 330
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 172,
+                        "errorMessage": "Cannot load property visible from (component in C:/Users/User/qgroundcontrol/src/UI/AppSettings/RemoteIDSettings.qml)::_fact with type Fact.",
+                        "functionName": "visible",
+                        "line": 331
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 62,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: sendBasicIDSlider",
+                        "functionName": "enabled",
+                        "line": 332
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 106,
+                        "errorMessage": "Cannot access value for name textFieldWidth",
+                        "functionName": "textFieldPreferredWidth",
+                        "line": 335
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 42,
+                        "durationMicroseconds": 61,
+                        "errorMessage": "Cannot access value for name remoteIDSettings",
+                        "functionName": "_fact",
+                        "line": 337
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"text\".",
+                        "functionName": "text",
+                        "line": 346
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 73,
+                        "errorMessage": "Cannot access value for name sendOperatorIdFact",
+                        "functionName": "fact",
+                        "line": 347
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"visible\".",
+                        "functionName": "visible",
+                        "line": 348
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"enabled\".",
+                        "functionName": "enabled",
+                        "line": 349
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 42,
+                        "durationMicroseconds": 48,
+                        "errorMessage": "Cannot access value for name remoteIDSettings",
+                        "functionName": "_fact",
+                        "line": 352
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 268,
+                        "errorMessage": "",
+                        "functionName": "label",
+                        "line": 357
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 140,
+                        "errorMessage": "",
+                        "functionName": "fact",
+                        "line": 358
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 176,
+                        "errorMessage": "Cannot load property visible from (component in C:/Users/User/qgroundcontrol/src/UI/AppSettings/RemoteIDSettings.qml)::_fact with type Fact.",
+                        "functionName": "visible",
+                        "line": 360
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 42,
+                        "durationMicroseconds": 69,
+                        "errorMessage": "Cannot access value for name remoteIDSettings",
+                        "functionName": "_fact",
+                        "line": 363
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 30,
+                        "durationMicroseconds": 349,
+                        "errorMessage": "",
+                        "functionName": "spacing",
+                        "line": 367
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 97,
+                        "errorMessage": "Cannot access value for name operatorIDFact",
+                        "functionName": "text",
+                        "line": 371
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"text\".",
+                        "functionName": "text",
+                        "line": 378
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"visible\".",
+                        "functionName": "visible",
+                        "line": 379
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 58,
+                        "durationMicroseconds": 81,
+                        "errorMessage": "Cannot access value for name _regionOperation",
+                        "functionName": "operatorIDInvalid",
+                        "line": 382
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 111,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: operatorIDTextField",
+                        "functionName": "onOperatorIDInvalidChanged",
+                        "line": 385
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 40,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"textChanged\".",
+                        "functionName": "onTextChanged",
+                        "line": 393
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 44,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"editingFinished\".",
+                        "functionName": "onEditingFinished",
+                        "line": 402
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 79,
+                        "errorMessage": "Cannot access value for name textFieldWidth",
+                        "functionName": "preferredWidth",
+                        "line": 376
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 76,
+                        "errorMessage": "Cannot access value for name textLabelWidth",
+                        "functionName": "preferredWidth",
+                        "line": 417
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 165,
+                        "errorMessage": "",
+                        "functionName": "fact",
+                        "line": 422
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"visible\".",
+                        "functionName": "visible",
+                        "line": 423
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 42,
+                        "durationMicroseconds": 60,
+                        "errorMessage": "Cannot access value for name remoteIDSettings",
+                        "functionName": "_fact",
+                        "line": 426
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 138,
+                        "errorMessage": "",
+                        "functionName": "fact",
+                        "line": 432
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 184,
+                        "errorMessage": "Cannot load property visible from (component in C:/Users/User/qgroundcontrol/src/UI/AppSettings/RemoteIDSettings.qml)::_fact with type Fact.",
+                        "functionName": "visible",
+                        "line": 434
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 48,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: sendSelfIDSlider",
+                        "functionName": "enabled",
+                        "line": 435
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 42,
+                        "durationMicroseconds": 65,
+                        "errorMessage": "Cannot access value for name remoteIDSettings",
+                        "functionName": "_fact",
+                        "line": 438
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 262,
+                        "errorMessage": "",
+                        "functionName": "label",
+                        "line": 442
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 105,
+                        "errorMessage": "",
+                        "functionName": "fact",
+                        "line": 443
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 141,
+                        "errorMessage": "Cannot load property visible from (component in C:/Users/User/qgroundcontrol/src/UI/AppSettings/RemoteIDSettings.qml)::_fact with type Fact.",
+                        "functionName": "visible",
+                        "line": 444
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 50,
+                        "durationMicroseconds": 64,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: sendSelfIDSlider",
+                        "functionName": "enabled",
+                        "line": 445
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 65,
+                        "errorMessage": "Cannot access value for name textFieldWidth",
+                        "functionName": "textFieldPreferredWidth",
+                        "line": 448
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 42,
+                        "durationMicroseconds": 55,
+                        "errorMessage": "Cannot access value for name remoteIDSettings",
+                        "functionName": "_fact",
+                        "line": 450
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 312,
+                        "errorMessage": "",
+                        "functionName": "label",
+                        "line": 454
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 120,
+                        "errorMessage": "",
+                        "functionName": "fact",
+                        "line": 455
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 166,
+                        "errorMessage": "Cannot load property visible from (component in C:/Users/User/qgroundcontrol/src/UI/AppSettings/RemoteIDSettings.qml)::_fact with type Fact.",
+                        "functionName": "visible",
+                        "line": 456
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 66,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: sendSelfIDSlider",
+                        "functionName": "enabled",
+                        "line": 457
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 78,
+                        "errorMessage": "Cannot access value for name textFieldWidth",
+                        "functionName": "textFieldPreferredWidth",
+                        "line": 460
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 42,
+                        "durationMicroseconds": 56,
+                        "errorMessage": "Cannot access value for name remoteIDSettings",
+                        "functionName": "_fact",
+                        "line": 462
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 285,
+                        "errorMessage": "",
+                        "functionName": "label",
+                        "line": 466
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 118,
+                        "errorMessage": "",
+                        "functionName": "fact",
+                        "line": 467
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 163,
+                        "errorMessage": "Cannot load property visible from (component in C:/Users/User/qgroundcontrol/src/UI/AppSettings/RemoteIDSettings.qml)::_fact with type Fact.",
+                        "functionName": "visible",
+                        "line": 468
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 70,
+                        "errorMessage": "Cannot access value for name textFieldWidth",
+                        "functionName": "textFieldPreferredWidth",
+                        "line": 471
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 42,
+                        "durationMicroseconds": 94,
+                        "errorMessage": "Cannot access value for name remoteIDSettings",
+                        "functionName": "_fact",
+                        "line": 473
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 348,
+                        "errorMessage": "",
+                        "functionName": "spacing",
+                        "line": 479
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 224,
+                        "errorMessage": "",
+                        "functionName": "alignment",
+                        "line": 480
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 36,
+                        "durationMicroseconds": 91,
+                        "errorMessage": "Cannot access value for name _activeRID",
+                        "functionName": "outerBorderColor",
+                        "line": 484
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 73,
+                        "errorMessage": "Cannot access value for name locationTypeFact",
+                        "functionName": "label",
+                        "line": 486
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 49,
+                        "errorMessage": "Cannot access value for name locationTypeFact",
+                        "functionName": "fact",
+                        "line": 487
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 508,
+                        "errorMessage": "",
+                        "functionName": "label",
+                        "line": 493
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 123,
+                        "errorMessage": "",
+                        "functionName": "fact",
+                        "line": 494
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 94,
+                        "errorMessage": "Cannot access value for name locationTypeFact",
+                        "functionName": "enabled",
+                        "line": 496
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 77,
+                        "errorMessage": "Cannot access value for name textFieldWidth",
+                        "functionName": "textFieldPreferredWidth",
+                        "line": 498
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 42,
+                        "durationMicroseconds": 56,
+                        "errorMessage": "Cannot access value for name remoteIDSettings",
+                        "functionName": "_fact",
+                        "line": 500
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 269,
+                        "errorMessage": "",
+                        "functionName": "label",
+                        "line": 504
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 107,
+                        "errorMessage": "",
+                        "functionName": "fact",
+                        "line": 505
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 75,
+                        "errorMessage": "Cannot access value for name locationTypeFact",
+                        "functionName": "enabled",
+                        "line": 507
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 56,
+                        "errorMessage": "Cannot access value for name textFieldWidth",
+                        "functionName": "textFieldPreferredWidth",
+                        "line": 509
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 42,
+                        "durationMicroseconds": 54,
+                        "errorMessage": "Cannot access value for name remoteIDSettings",
+                        "functionName": "_fact",
+                        "line": 511
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 238,
+                        "errorMessage": "",
+                        "functionName": "label",
+                        "line": 515
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 138,
+                        "errorMessage": "",
+                        "functionName": "fact",
+                        "line": 516
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 80,
+                        "errorMessage": "Cannot access value for name locationTypeFact",
+                        "functionName": "enabled",
+                        "line": 518
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 56,
+                        "errorMessage": "Cannot access value for name textFieldWidth",
+                        "functionName": "textFieldPreferredWidth",
+                        "line": 520
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 42,
+                        "durationMicroseconds": 76,
+                        "errorMessage": "Cannot access value for name remoteIDSettings",
+                        "functionName": "_fact",
+                        "line": 522
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 169,
+                        "errorMessage": "Cannot load property autoConnectNmeaPort from SettingsManager::autoConnectSettings with type QObject.",
+                        "functionName": "visible",
+                        "line": 527
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 72,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "rowSpacing",
+                        "line": 532
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 59,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "columnSpacing",
+                        "line": 534
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 59,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "margins",
+                        "line": 531
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 221,
+                        "errorMessage": "",
+                        "functionName": "alignment",
+                        "line": 535
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 39,
+                        "durationMicroseconds": 143,
+                        "errorMessage": "Cannot load property autoConnectNmeaPort from SettingsManager::autoConnectSettings with type QObject.",
+                        "functionName": "onActivated",
+                        "line": 547
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 39,
+                        "durationMicroseconds": 135,
+                        "errorMessage": "",
+                        "functionName": "onActivated",
+                        "line": 547
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 73,
+                        "errorMessage": "Cannot access value for name _comboFieldWidth",
+                        "functionName": "preferredWidth",
+                        "line": 542
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 48,
+                        "durationMicroseconds": 124,
+                        "errorMessage": "Cannot access value for name gpsDisabled",
+                        "functionName": "onCompleted",
+                        "line": 552
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 43,
+                        "durationMicroseconds": 110,
+                        "errorMessage": "Cannot access value for name gpsUdpPort",
+                        "functionName": "visible",
+                        "line": 568
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 114,
+                        "errorMessage": "Cannot access value for name gpsUdpPort",
+                        "functionName": "visible",
+                        "line": 572
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 788,
+                        "errorMessage": "Cannot generate efficient code for storing an array in a non-sequence type",
+                        "functionName": "model",
+                        "line": 575
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 39,
+                        "durationMicroseconds": 144,
+                        "errorMessage": "Cannot load property autoConnectNmeaBaud from SettingsManager::autoConnectSettings with type QObject.",
+                        "functionName": "onActivated",
+                        "line": 577
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 39,
+                        "durationMicroseconds": 109,
+                        "errorMessage": "",
+                        "functionName": "onActivated",
+                        "line": 577
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 93,
+                        "errorMessage": "Cannot access value for name _comboFieldWidth",
+                        "functionName": "preferredWidth",
+                        "line": 574
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 48,
+                        "durationMicroseconds": 125,
+                        "errorMessage": "Cannot load property autoConnectNmeaBaud from SettingsManager::autoConnectSettings with type QObject.",
+                        "functionName": "onCompleted",
+                        "line": 582
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 101,
+                        "errorMessage": "Cannot access value for name gpsUdpPort",
+                        "functionName": "visible",
+                        "line": 590
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"visible\".",
+                        "functionName": "visible",
+                        "line": 593
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 83,
+                        "errorMessage": "Cannot load property nmeaUdpPort from SettingsManager::autoConnectSettings with type QObject.",
+                        "functionName": "fact",
+                        "line": 595
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 56,
+                        "errorMessage": "Cannot access value for name _valueFieldWidth",
+                        "functionName": "preferredWidth",
+                        "line": 594
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 55,
+                        "errorMessage": "Cannot access value for name isEURegion",
+                        "functionName": "visible",
+                        "line": 603
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"checked\".",
+                        "functionName": "checked",
+                        "line": 609
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"visible\".",
+                        "functionName": "visible",
+                        "line": 610
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"clicked\".",
+                        "functionName": "onClicked",
+                        "line": 612
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 42,
+                        "durationMicroseconds": 73,
+                        "errorMessage": "Cannot access value for name remoteIDSettings",
+                        "functionName": "_fact",
+                        "line": 614
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 312,
+                        "errorMessage": "",
+                        "functionName": "label",
+                        "line": 619
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 115,
+                        "errorMessage": "",
+                        "functionName": "fact",
+                        "line": 620
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 166,
+                        "errorMessage": "Cannot load property visible from (component in C:/Users/User/qgroundcontrol/src/UI/AppSettings/RemoteIDSettings.qml)::_fact with type Fact.",
+                        "functionName": "visible",
+                        "line": 622
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 46,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: euProvideInfoSlider",
+                        "functionName": "enabled",
+                        "line": 623
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 42,
+                        "durationMicroseconds": 67,
+                        "errorMessage": "Cannot access value for name remoteIDSettings",
+                        "functionName": "_fact",
+                        "line": 626
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 234,
+                        "errorMessage": "",
+                        "functionName": "label",
+                        "line": 630
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 119,
+                        "errorMessage": "",
+                        "functionName": "fact",
+                        "line": 631
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 159,
+                        "errorMessage": "Cannot load property visible from (component in C:/Users/User/qgroundcontrol/src/UI/AppSettings/RemoteIDSettings.qml)::_fact with type Fact.",
+                        "functionName": "visible",
+                        "line": 633
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 206,
+                        "errorMessage": "",
+                        "functionName": "enabled",
+                        "line": 634
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 42,
+                        "durationMicroseconds": 68,
+                        "errorMessage": "Cannot access value for name remoteIDSettings",
+                        "functionName": "_fact",
+                        "line": 637
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/UI/AppSettings/RemoteIDSettings.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.AppSettings(AppSettingsModule)"
+    }
+]

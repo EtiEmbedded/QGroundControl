@@ -1,0 +1,236 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 679,
+                        "errorMessage": "",
+                        "functionName": "_activeVehicle",
+                        "line": 29
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 78,
+                        "errorMessage": "Cannot load property armed from (component in C:/Users/User/qgroundcontrol/src/FlightDisplay/FlyViewMissionCompleteDialog.qml)::_activeVehicle with type QVariant.",
+                        "functionName": "_vehicleArmed",
+                        "line": 30
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 56,
+                        "errorMessage": "Cannot load property flightMode from (component in C:/Users/User/qgroundcontrol/src/FlightDisplay/FlyViewMissionCompleteDialog.qml)::_activeVehicle with type QVariant.",
+                        "functionName": "_vehicleInMissionFlightMode",
+                        "line": 32
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 99,
+                        "errorMessage": "Cannot load property containsItems from (component in C:/Users/User/qgroundcontrol/src/FlightDisplay/FlyViewMissionCompleteDialog.qml)::missionController with type QVariant.",
+                        "functionName": "_showMissionCompleteDialog",
+                        "line": 34
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 746,
+                        "errorMessage": "Cannot access value for name mainWindow",
+                        "functionName": "on_VehicleArmedChanged",
+                        "line": 38
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 43,
+                        "durationMicroseconds": 426,
+                        "errorMessage": "",
+                        "functionName": "on_VehicleInMissionFlightModeChanged",
+                        "line": 51
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 187,
+                        "errorMessage": "Cannot access value for name Dialog",
+                        "functionName": "buttons",
+                        "line": 63
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 41,
+                        "errorMessage": "Cannot access value for name _activeVehicle",
+                        "functionName": "activeVehicleCopy",
+                        "line": 65
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 17,
+                        "durationMicroseconds": 98,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: missionCompleteDialog",
+                        "functionName": "onActiveVehicleCopyChanged",
+                        "line": 67
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 9336,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 73
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 190,
+                        "errorMessage": "",
+                        "functionName": "spacing",
+                        "line": 74
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 131,
+                        "errorMessage": "Cannot access value for name _activeVehicle",
+                        "functionName": "text",
+                        "line": 78
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 200,
+                        "errorMessage": "",
+                        "functionName": "horizontalAlignment",
+                        "line": 79
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 59,
+                        "errorMessage": "Cannot access value for name _activeVehicle",
+                        "functionName": "visible",
+                        "line": 80
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"visible\".",
+                        "functionName": "visible",
+                        "line": 86
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 32,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"clicked\".",
+                        "functionName": "onClicked",
+                        "line": 87
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"clicked\".",
+                        "functionName": "onClicked",
+                        "line": 97
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 214,
+                        "errorMessage": "",
+                        "functionName": "alignment",
+                        "line": 95
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 401,
+                        "errorMessage": "Cannot access value for name qgcPal",
+                        "functionName": "color",
+                        "line": 103
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 198,
+                        "errorMessage": "",
+                        "functionName": "spacing",
+                        "line": 109
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 65,
+                        "errorMessage": "Cannot access value for name _activeVehicle",
+                        "functionName": "visible",
+                        "line": 110
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"text\".",
+                        "functionName": "text",
+                        "line": 115
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 36,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"clicked\".",
+                        "functionName": "onClicked",
+                        "line": 117
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 213,
+                        "errorMessage": "",
+                        "functionName": "alignment",
+                        "line": 114
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 180,
+                        "errorMessage": "",
+                        "functionName": "wrapMode",
+                        "line": 125
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 168,
+                        "errorMessage": "",
+                        "functionName": "wrapMode",
+                        "line": 132
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 623,
+                        "errorMessage": "Cannot access value for name qgcPal",
+                        "functionName": "color",
+                        "line": 133
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 771,
+                        "errorMessage": "Cannot access value for name globals",
+                        "functionName": "visible",
+                        "line": 135
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/FlightDisplay/FlyViewMissionCompleteDialog.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.FlightDisplay(FlightDisplayModule)"
+    }
+]

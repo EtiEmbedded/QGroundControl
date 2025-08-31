@@ -1,0 +1,116 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 1228,
+                        "errorMessage": "",
+                        "functionName": "batt1Monitor",
+                        "line": 28
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 104,
+                        "errorMessage": "Cannot access value for name batt1Monitor",
+                        "functionName": "visible",
+                        "line": 34
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 759,
+                        "errorMessage": "",
+                        "functionName": "fact",
+                        "line": 38
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 397,
+                        "errorMessage": "Cannot access value for name disabledString",
+                        "functionName": "label",
+                        "line": 44
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 531,
+                        "errorMessage": "",
+                        "functionName": "fact",
+                        "line": 45
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 159,
+                        "errorMessage": "Cannot access value for name disabledString",
+                        "functionName": "label",
+                        "line": 53
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 380,
+                        "errorMessage": "",
+                        "functionName": "fact",
+                        "line": 54
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 76,
+                        "errorMessage": "Cannot access value for name batt1Monitor",
+                        "functionName": "visible",
+                        "line": 64
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 374,
+                        "errorMessage": "",
+                        "functionName": "fact",
+                        "line": 68
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 136,
+                        "errorMessage": "Cannot access value for name disabledString",
+                        "functionName": "label",
+                        "line": 74
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 377,
+                        "errorMessage": "",
+                        "functionName": "fact",
+                        "line": 75
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 134,
+                        "errorMessage": "Cannot access value for name disabledString",
+                        "functionName": "label",
+                        "line": 83
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 381,
+                        "errorMessage": "",
+                        "functionName": "fact",
+                        "line": 84
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/UI/toolbar/APMBatteryIndicator.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.Toolbar(ToolbarModule)"
+    }
+]

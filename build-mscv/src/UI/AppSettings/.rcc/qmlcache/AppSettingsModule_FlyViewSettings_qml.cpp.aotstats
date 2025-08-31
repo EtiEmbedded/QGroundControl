@@ -1,0 +1,820 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 61,
+                        "durationMicroseconds": 613,
+                        "errorMessage": "",
+                        "functionName": "_settingsManager",
+                        "line": 26
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 61,
+                        "durationMicroseconds": 48,
+                        "errorMessage": "Cannot load property flyViewSettings from (component in C:/Users/User/qgroundcontrol/src/UI/AppSettings/FlyViewSettings.qml)::_settingsManager with type QVariant.",
+                        "functionName": "_flyViewSettings",
+                        "line": 27
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 61,
+                        "durationMicroseconds": 33,
+                        "errorMessage": "Cannot load property mavlinkActionsSettings from (component in C:/Users/User/qgroundcontrol/src/UI/AppSettings/FlyViewSettings.qml)::_settingsManager with type QVariant.",
+                        "functionName": "_mavlinkActionsSettings",
+                        "line": 28
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 61,
+                        "durationMicroseconds": 29,
+                        "errorMessage": "Cannot load property appSettings from (component in C:/Users/User/qgroundcontrol/src/UI/AppSettings/FlyViewSettings.qml)::_settingsManager with type QVariant.",
+                        "functionName": "_virtualJoystick",
+                        "line": 29
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 61,
+                        "durationMicroseconds": 28,
+                        "errorMessage": "Cannot load property appSettings from (component in C:/Users/User/qgroundcontrol/src/UI/AppSettings/FlyViewSettings.qml)::_settingsManager with type QVariant.",
+                        "functionName": "_virtualJoystickAutoCenterThrottle",
+                        "line": 30
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 61,
+                        "durationMicroseconds": 27,
+                        "errorMessage": "Cannot load property appSettings from (component in C:/Users/User/qgroundcontrol/src/UI/AppSettings/FlyViewSettings.qml)::_settingsManager with type QVariant.",
+                        "functionName": "_virtualJoystickLeftHandedMode",
+                        "line": 31
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 61,
+                        "durationMicroseconds": 27,
+                        "errorMessage": "Cannot load property appSettings from (component in C:/Users/User/qgroundcontrol/src/UI/AppSettings/FlyViewSettings.qml)::_settingsManager with type QVariant.",
+                        "functionName": "_enableMultiVehiclePanel",
+                        "line": 32
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 61,
+                        "durationMicroseconds": 27,
+                        "errorMessage": "Cannot load property showAdditionalIndicatorsCompass from (component in C:/Users/User/qgroundcontrol/src/UI/AppSettings/FlyViewSettings.qml)::_flyViewSettings with type QVariant.",
+                        "functionName": "_showAdditionalIndicatorsCompass",
+                        "line": 33
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 61,
+                        "durationMicroseconds": 27,
+                        "errorMessage": "Cannot load property lockNoseUpCompass from (component in C:/Users/User/qgroundcontrol/src/UI/AppSettings/FlyViewSettings.qml)::_flyViewSettings with type QVariant.",
+                        "functionName": "_lockNoseUpCompass",
+                        "line": 34
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 61,
+                        "durationMicroseconds": 29,
+                        "errorMessage": "Cannot load property guidedMinimumAltitude from (component in C:/Users/User/qgroundcontrol/src/UI/AppSettings/FlyViewSettings.qml)::_flyViewSettings with type QVariant.",
+                        "functionName": "_guidedMinimumAltitude",
+                        "line": 35
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 61,
+                        "durationMicroseconds": 26,
+                        "errorMessage": "Cannot load property guidedMaximumAltitude from (component in C:/Users/User/qgroundcontrol/src/UI/AppSettings/FlyViewSettings.qml)::_flyViewSettings with type QVariant.",
+                        "functionName": "_guidedMaximumAltitude",
+                        "line": 36
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 61,
+                        "durationMicroseconds": 26,
+                        "errorMessage": "Cannot load property maxGoToLocationDistance from (component in C:/Users/User/qgroundcontrol/src/UI/AppSettings/FlyViewSettings.qml)::_flyViewSettings with type QVariant.",
+                        "functionName": "_maxGoToLocationDistance",
+                        "line": 37
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 61,
+                        "durationMicroseconds": 27,
+                        "errorMessage": "Cannot load property forwardFlightGoToLocationLoiterRad from (component in C:/Users/User/qgroundcontrol/src/UI/AppSettings/FlyViewSettings.qml)::_flyViewSettings with type QVariant.",
+                        "functionName": "_forwardFlightGoToLocationLoiterRad",
+                        "line": 38
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 61,
+                        "durationMicroseconds": 26,
+                        "errorMessage": "Cannot load property goToLocationRequiresConfirmInGuided from (component in C:/Users/User/qgroundcontrol/src/UI/AppSettings/FlyViewSettings.qml)::_flyViewSettings with type QVariant.",
+                        "functionName": "_goToLocationRequiresConfirmInGuided",
+                        "line": 39
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 61,
+                        "durationMicroseconds": 27,
+                        "errorMessage": "Cannot load property viewer3DSettings from (component in C:/Users/User/qgroundcontrol/src/UI/AppSettings/FlyViewSettings.qml)::_settingsManager with type QVariant.",
+                        "functionName": "_viewer3DSettings",
+                        "line": 40
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 61,
+                        "durationMicroseconds": 28,
+                        "errorMessage": "Cannot load property enabled from (component in C:/Users/User/qgroundcontrol/src/UI/AppSettings/FlyViewSettings.qml)::_viewer3DSettings with type QVariant.",
+                        "functionName": "_viewer3DEnabled",
+                        "line": 41
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 61,
+                        "durationMicroseconds": 30,
+                        "errorMessage": "Cannot load property osmFilePath from (component in C:/Users/User/qgroundcontrol/src/UI/AppSettings/FlyViewSettings.qml)::_viewer3DSettings with type QVariant.",
+                        "functionName": "_viewer3DOsmFilePath",
+                        "line": 42
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 61,
+                        "durationMicroseconds": 26,
+                        "errorMessage": "Cannot load property buildingLevelHeight from (component in C:/Users/User/qgroundcontrol/src/UI/AppSettings/FlyViewSettings.qml)::_viewer3DSettings with type QVariant.",
+                        "functionName": "_viewer3DBuildingLevelHeight",
+                        "line": 43
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 61,
+                        "durationMicroseconds": 26,
+                        "errorMessage": "Cannot load property altitudeBias from (component in C:/Users/User/qgroundcontrol/src/UI/AppSettings/FlyViewSettings.qml)::_viewer3DSettings with type QVariant.",
+                        "functionName": "_viewer3DAltitudeBias",
+                        "line": 44
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 69,
+                        "errorMessage": "Cannot load property appSettings from (component in C:/Users/User/qgroundcontrol/src/UI/AppSettings/FlyViewSettings.qml)::_settingsManager with type QVariant.",
+                        "functionName": "mavlinkActionList",
+                        "line": 46
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 188,
+                        "errorMessage": "",
+                        "functionName": "fact",
+                        "line": 60
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"visible\".",
+                        "functionName": "visible",
+                        "line": 61
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 47,
+                        "durationMicroseconds": 80,
+                        "errorMessage": "Cannot access value for name _settingsManager",
+                        "functionName": "_useChecklist",
+                        "line": 62
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 143,
+                        "errorMessage": "",
+                        "functionName": "fact",
+                        "line": 68
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"enabled\".",
+                        "functionName": "enabled",
+                        "line": 69
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"visible\".",
+                        "functionName": "visible",
+                        "line": 70
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 46,
+                        "durationMicroseconds": 53,
+                        "errorMessage": "Cannot access value for name _settingsManager",
+                        "functionName": "_enforceChecklist",
+                        "line": 71
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 49,
+                        "errorMessage": "Cannot access value for name _enableMultiVehiclePanel",
+                        "functionName": "fact",
+                        "line": 77
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"visible\".",
+                        "functionName": "visible",
+                        "line": 78
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 134,
+                        "errorMessage": "",
+                        "functionName": "fact",
+                        "line": 84
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"visible\".",
+                        "functionName": "visible",
+                        "line": 85
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 54,
+                        "durationMicroseconds": 48,
+                        "errorMessage": "Cannot access value for name _flyViewSettings",
+                        "functionName": "_keepMapCenteredOnVehicle",
+                        "line": 86
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 126,
+                        "errorMessage": "",
+                        "functionName": "fact",
+                        "line": 92
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"visible\".",
+                        "functionName": "visible",
+                        "line": 93
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 52,
+                        "durationMicroseconds": 46,
+                        "errorMessage": "Cannot access value for name _flyViewSettings",
+                        "functionName": "_showLogReplayStatusBar",
+                        "line": 94
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"visible\".",
+                        "functionName": "visible",
+                        "line": 100
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 135,
+                        "errorMessage": "",
+                        "functionName": "fact",
+                        "line": 101
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 51,
+                        "durationMicroseconds": 49,
+                        "errorMessage": "Cannot access value for name _flyViewSettings",
+                        "functionName": "_showDumbCameraControl",
+                        "line": 103
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 136,
+                        "errorMessage": "",
+                        "functionName": "fact",
+                        "line": 109
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"visible\".",
+                        "functionName": "visible",
+                        "line": 110
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 48,
+                        "durationMicroseconds": 45,
+                        "errorMessage": "Cannot access value for name _flyViewSettings",
+                        "functionName": "_updateHomePosition",
+                        "line": 111
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 97,
+                        "errorMessage": "Cannot access value for name _guidedMinimumAltitude",
+                        "functionName": "visible",
+                        "line": 118
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 55,
+                        "errorMessage": "Cannot access value for name _guidedMinimumAltitude",
+                        "functionName": "fact",
+                        "line": 125
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 181,
+                        "errorMessage": "Cannot load property visible from (component in C:/Users/User/qgroundcontrol/src/UI/AppSettings/FlyViewSettings.qml)::fact with type Fact.",
+                        "functionName": "visible",
+                        "line": 126
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 56,
+                        "errorMessage": "Cannot access value for name _guidedMaximumAltitude",
+                        "functionName": "fact",
+                        "line": 132
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 175,
+                        "errorMessage": "Cannot load property visible from (component in C:/Users/User/qgroundcontrol/src/UI/AppSettings/FlyViewSettings.qml)::fact with type Fact.",
+                        "functionName": "visible",
+                        "line": 133
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 58,
+                        "errorMessage": "Cannot access value for name _maxGoToLocationDistance",
+                        "functionName": "fact",
+                        "line": 139
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 153,
+                        "errorMessage": "Cannot load property visible from (component in C:/Users/User/qgroundcontrol/src/UI/AppSettings/FlyViewSettings.qml)::fact with type Fact.",
+                        "functionName": "visible",
+                        "line": 140
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 56,
+                        "errorMessage": "Cannot access value for name _forwardFlightGoToLocationLoiterRad",
+                        "functionName": "fact",
+                        "line": 146
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 150,
+                        "errorMessage": "Cannot load property visible from (component in C:/Users/User/qgroundcontrol/src/UI/AppSettings/FlyViewSettings.qml)::fact with type Fact.",
+                        "functionName": "visible",
+                        "line": 147
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 53,
+                        "errorMessage": "Cannot access value for name _goToLocationRequiresConfirmInGuided",
+                        "functionName": "fact",
+                        "line": 153
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"visible\".",
+                        "functionName": "visible",
+                        "line": 154
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 162,
+                        "errorMessage": "Cannot load property mavlinkActionsSavePath from SettingsManager::appSettings with type QObject.",
+                        "functionName": "headingDescription",
+                        "line": 162
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 38285,
+                        "errorMessage": "",
+                        "functionName": "preferredWidth",
+                        "line": 160
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 810,
+                        "errorMessage": "method mavlinkActionList cannot be resolved.",
+                        "functionName": "model",
+                        "line": 167
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 34,
+                        "durationMicroseconds": 119,
+                        "errorMessage": "Cannot access value for name _mavlinkActionsSettings",
+                        "functionName": "onActivated",
+                        "line": 168
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 34,
+                        "durationMicroseconds": 118,
+                        "errorMessage": "",
+                        "functionName": "onActivated",
+                        "line": 168
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 40,
+                        "errorMessage": "Cannot load property length from (component in C:/Users/User/qgroundcontrol/src/UI/AppSettings/FlyViewSettings.qml)::model with type QVariant.",
+                        "functionName": "enabled",
+                        "line": 169
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 36,
+                        "durationMicroseconds": 84,
+                        "errorMessage": "Cannot access value for name _mavlinkActionsSettings",
+                        "functionName": "onCompleted",
+                        "line": 171
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 760,
+                        "errorMessage": "method mavlinkActionList cannot be resolved.",
+                        "functionName": "model",
+                        "line": 180
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 34,
+                        "durationMicroseconds": 82,
+                        "errorMessage": "Cannot access value for name _mavlinkActionsSettings",
+                        "functionName": "onActivated",
+                        "line": 181
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 34,
+                        "durationMicroseconds": 96,
+                        "errorMessage": "",
+                        "functionName": "onActivated",
+                        "line": 181
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 104,
+                        "errorMessage": "Cannot load property length from (component in C:/Users/User/qgroundcontrol/src/UI/AppSettings/FlyViewSettings.qml)::model with type QVariant.",
+                        "functionName": "enabled",
+                        "line": 182
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 36,
+                        "durationMicroseconds": 115,
+                        "errorMessage": "Cannot access value for name _mavlinkActionsSettings",
+                        "functionName": "onCompleted",
+                        "line": 184
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 62,
+                        "errorMessage": "Cannot access value for name _virtualJoystick",
+                        "functionName": "visible",
+                        "line": 194
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"visible\".",
+                        "functionName": "visible",
+                        "line": 199
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 40,
+                        "errorMessage": "Cannot access value for name _virtualJoystick",
+                        "functionName": "fact",
+                        "line": 200
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"visible\".",
+                        "functionName": "visible",
+                        "line": 206
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"enabled\".",
+                        "functionName": "enabled",
+                        "line": 207
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 65,
+                        "errorMessage": "Cannot access value for name _virtualJoystickAutoCenterThrottle",
+                        "functionName": "fact",
+                        "line": 208
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"visible\".",
+                        "functionName": "visible",
+                        "line": 214
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"enabled\".",
+                        "functionName": "enabled",
+                        "line": 215
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 83,
+                        "errorMessage": "Cannot access value for name _virtualJoystickLeftHandedMode",
+                        "functionName": "fact",
+                        "line": 216
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 71,
+                        "errorMessage": "Cannot access value for name _showAdditionalIndicatorsCompass",
+                        "functionName": "visible",
+                        "line": 223
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"visible\".",
+                        "functionName": "visible",
+                        "line": 228
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 56,
+                        "errorMessage": "Cannot access value for name _showAdditionalIndicatorsCompass",
+                        "functionName": "fact",
+                        "line": 229
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"visible\".",
+                        "functionName": "visible",
+                        "line": 235
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 72,
+                        "errorMessage": "Cannot access value for name _lockNoseUpCompass",
+                        "functionName": "fact",
+                        "line": 236
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 60,
+                        "errorMessage": "Cannot access value for name _viewer3DSettings",
+                        "functionName": "visible",
+                        "line": 243
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 47,
+                        "errorMessage": "Cannot access value for name _viewer3DEnabled",
+                        "functionName": "fact",
+                        "line": 248
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"visible\".",
+                        "functionName": "visible",
+                        "line": 249
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 254,
+                        "errorMessage": "",
+                        "functionName": "spacing",
+                        "line": 254
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 61,
+                        "errorMessage": "Cannot access value for name _viewer3DEnabled",
+                        "functionName": "enabled",
+                        "line": 255
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 52,
+                        "errorMessage": "Cannot access value for name _viewer3DOsmFilePath",
+                        "functionName": "visible",
+                        "line": 256
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 341,
+                        "errorMessage": "",
+                        "functionName": "spacing",
+                        "line": 260
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 470,
+                        "errorMessage": "",
+                        "functionName": "wrapMode",
+                        "line": 263
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"height\".",
+                        "functionName": "height",
+                        "line": 270
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"text\".",
+                        "functionName": "text",
+                        "line": 276
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 241,
+                        "errorMessage": "",
+                        "functionName": "spacing",
+                        "line": 282
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 211,
+                        "errorMessage": "",
+                        "functionName": "alignment",
+                        "line": 281
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 32,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"clicked\".",
+                        "functionName": "onClicked",
+                        "line": 287
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 32,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"clicked\".",
+                        "functionName": "onClicked",
+                        "line": 296
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 723,
+                        "errorMessage": "Cannot generate efficient code for storing an array in a non-sequence type",
+                        "functionName": "nameFilters",
+                        "line": 308
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 71,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: osmFileTextField",
+                        "functionName": "onAcceptedForLoad",
+                        "line": 311
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 120,
+                        "errorMessage": "",
+                        "functionName": "onAcceptedForLoad",
+                        "line": 311
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 111,
+                        "errorMessage": "Cannot access value for name _viewer3DBuildingLevelHeight",
+                        "functionName": "fact",
+                        "line": 323
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 55,
+                        "errorMessage": "Cannot access value for name _viewer3DEnabled",
+                        "functionName": "enabled",
+                        "line": 324
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 50,
+                        "errorMessage": "Cannot access value for name _viewer3DBuildingLevelHeight",
+                        "functionName": "visible",
+                        "line": 325
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 55,
+                        "errorMessage": "Cannot access value for name _viewer3DAltitudeBias",
+                        "functionName": "fact",
+                        "line": 331
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 49,
+                        "errorMessage": "Cannot access value for name _viewer3DEnabled",
+                        "functionName": "enabled",
+                        "line": 332
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 58,
+                        "errorMessage": "Cannot access value for name _viewer3DAltitudeBias",
+                        "functionName": "visible",
+                        "line": 333
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/UI/AppSettings/FlyViewSettings.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.AppSettings(AppSettingsModule)"
+    }
+]

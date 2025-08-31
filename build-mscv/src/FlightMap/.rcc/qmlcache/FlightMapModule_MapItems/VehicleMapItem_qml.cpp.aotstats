@@ -1,0 +1,372 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 487,
+                        "errorMessage": "Cannot generate efficient code for lookup in QJSValue",
+                        "functionName": "altitude",
+                        "line": 26
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 77,
+                        "errorMessage": "Cannot load property heading from (component in C:/Users/User/qgroundcontrol/src/FlightMap/MapItems/VehicleMapItem.qml)::vehicle with type QVariant.",
+                        "functionName": "heading",
+                        "line": 28
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 8561,
+                        "errorMessage": "",
+                        "functionName": "size",
+                        "line": 29
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 21,
+                        "durationMicroseconds": 303,
+                        "errorMessage": "",
+                        "functionName": "visible",
+                        "line": 34
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 433,
+                        "errorMessage": "",
+                        "functionName": "_activeVehicle",
+                        "line": 36
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 356,
+                        "errorMessage": "",
+                        "functionName": "_adsbVehicle",
+                        "line": 37
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 207,
+                        "errorMessage": "",
+                        "functionName": "_map",
+                        "line": 38
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 225,
+                        "errorMessage": "Cannot use shadowable base type for further lookups: MultiVehicleManager::vehicles with type QmlObjectListModel (stored as QVariant)",
+                        "functionName": "_multiVehicle",
+                        "line": 39
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 21,
+                        "durationMicroseconds": 2776,
+                        "errorMessage": "",
+                        "functionName": "x",
+                        "line": 32
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 21,
+                        "durationMicroseconds": 470,
+                        "errorMessage": "",
+                        "functionName": "y",
+                        "line": 33
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 21,
+                        "durationMicroseconds": 1591,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 43
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 21,
+                        "durationMicroseconds": 280,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 44
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 21,
+                        "durationMicroseconds": 182,
+                        "errorMessage": "Cannot access value for name _adsbVehicle",
+                        "functionName": "opacity",
+                        "line": 45
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 21,
+                        "durationMicroseconds": 283,
+                        "errorMessage": "",
+                        "functionName": "source",
+                        "line": 48
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 28,
+                        "durationMicroseconds": 177,
+                        "errorMessage": "Cannot access value for name _adsbVehicle",
+                        "functionName": "shadowEnabled",
+                        "line": 49
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 26,
+                        "durationMicroseconds": 570,
+                        "errorMessage": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: QVariant -> QColor stored as QVariant",
+                        "functionName": "shadowColor",
+                        "line": 50
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 20,
+                        "durationMicroseconds": 70,
+                        "errorMessage": "Cannot access value for name vehicle",
+                        "functionName": "model",
+                        "line": 61
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 47,
+                        "durationMicroseconds": 100,
+                        "errorMessage": "Cannot access value for name vehicleItem",
+                        "functionName": "width",
+                        "line": 66
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 47,
+                        "durationMicroseconds": 48,
+                        "errorMessage": "Cannot access value for name vehicleItem",
+                        "functionName": "height",
+                        "line": 67
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 47,
+                        "durationMicroseconds": 332,
+                        "errorMessage": "Cannot access value for name object",
+                        "functionName": "gimbalYaw",
+                        "line": 68
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 47,
+                        "durationMicroseconds": 350,
+                        "errorMessage": "",
+                        "functionName": "rotation",
+                        "line": 69
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 47,
+                        "durationMicroseconds": 243,
+                        "errorMessage": "",
+                        "functionName": "onGimbalYawChanged",
+                        "line": 70
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 47,
+                        "durationMicroseconds": 69,
+                        "errorMessage": "Cannot access value for name vehicle",
+                        "functionName": "visible",
+                        "line": 71
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 47,
+                        "durationMicroseconds": 330,
+                        "errorMessage": "Cannot access value for name object",
+                        "functionName": "opacity",
+                        "line": 72
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 47,
+                        "durationMicroseconds": 54,
+                        "errorMessage": "Cannot access value for name vehicleItem",
+                        "functionName": "centerIn",
+                        "line": 65
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 51,
+                        "durationMicroseconds": 69,
+                        "errorMessage": "Cannot access value for name vehicleItem",
+                        "functionName": "width",
+                        "line": 78
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 51,
+                        "durationMicroseconds": 40,
+                        "errorMessage": "Cannot access value for name vehicleItem",
+                        "functionName": "height",
+                        "line": 79
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 51,
+                        "durationMicroseconds": 207,
+                        "errorMessage": "",
+                        "functionName": "onPaint",
+                        "line": 81
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 21,
+                        "durationMicroseconds": 133,
+                        "errorMessage": "Cannot access value for name vehicleIcon",
+                        "functionName": "paintHeading",
+                        "line": 83
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 51,
+                        "durationMicroseconds": 156,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 76
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 51,
+                        "durationMicroseconds": 52,
+                        "errorMessage": "Cannot access value for name vehicleItem",
+                        "functionName": "verticalCenterOffset",
+                        "line": 77
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 71,
+                        "errorMessage": "Cannot access value for name _adsbVehicle",
+                        "functionName": "source",
+                        "line": 124
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 205,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 126
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 189,
+                        "errorMessage": "",
+                        "functionName": "fillMode",
+                        "line": 128
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 183,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 127
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 72,
+                        "errorMessage": "Cannot access value for name heading",
+                        "functionName": "angle",
+                        "line": 132
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 318,
+                        "errorMessage": "",
+                        "functionName": "x",
+                        "line": 130
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 285,
+                        "errorMessage": "",
+                        "functionName": "y",
+                        "line": 131
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 70,
+                        "errorMessage": "Cannot access value for name _map",
+                        "functionName": "map",
+                        "line": 140
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 137,
+                        "errorMessage": "",
+                        "functionName": "text",
+                        "line": 141
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 63,
+                        "errorMessage": "Cannot access value for name _adsbVehicle",
+                        "functionName": "visible",
+                        "line": 143
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 47,
+                        "durationMicroseconds": 104,
+                        "errorMessage": "Cannot access value for name _adsbVehicle",
+                        "functionName": "vehicleLabelText",
+                        "line": 144
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 430,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 138
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 328,
+                        "errorMessage": "",
+                        "functionName": "horizontalCenter",
+                        "line": 139
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 86,
+                        "errorMessage": "Cannot access value for name _adsbVehicle",
+                        "functionName": "pointSize",
+                        "line": 142
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/FlightMap/MapItems/VehicleMapItem.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.FlightMap(FlightMapModule)"
+    }
+]

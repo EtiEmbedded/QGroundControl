@@ -1,0 +1,76 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 788,
+                        "errorMessage": "",
+                        "functionName": "alternateText",
+                        "line": 24
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 600,
+                        "errorMessage": "Cannot generate efficient code for storing an array in a non-sequence type",
+                        "functionName": "model",
+                        "line": 25
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 410,
+                        "errorMessage": "",
+                        "functionName": "_activeVehicle",
+                        "line": 32
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 192,
+                        "errorMessage": "Cannot load property armed from (component in C:/Users/User/qgroundcontrol/src/UI/toolbar/ArmedIndicator.qml)::_activeVehicle with type QVariant.",
+                        "functionName": "_armed",
+                        "line": 33
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 19,
+                        "durationMicroseconds": 1170,
+                        "errorMessage": "Cannot access value for name mainWindow",
+                        "functionName": "onActivated",
+                        "line": 35
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 19,
+                        "durationMicroseconds": 116,
+                        "errorMessage": "",
+                        "functionName": "onActivated",
+                        "line": 35
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 311,
+                        "errorMessage": "",
+                        "functionName": "verticalCenter",
+                        "line": 23
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 13104,
+                        "errorMessage": "",
+                        "functionName": "pointSize",
+                        "line": 26
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/UI/toolbar/ArmedIndicator.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.Toolbar(ToolbarModule)"
+    }
+]

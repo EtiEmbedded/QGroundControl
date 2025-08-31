@@ -1,0 +1,24 @@
+module QGroundControl.MainWindow
+typeinfo MainWindowModule.qmltypes
+prefer :/qml/QGroundControl/MainWindow/
+MainWindow 1.0 MainWindow.qml
+SideMenu 1.0 SideMenu.qml
+TopStatusPanel 1.0 TopStatusPanel.qml
+TopStatusPanel_GPS 1.0 TopStatusPanel_GPS.qml
+TopStatusPanel_GPS_Settings 1.0 TopStatusPanel_GPS_Settings.qml
+TopStatusPanel_Battery 1.0 TopStatusPanel_Battery.qml
+TopStatusPanel_UcusRejimi 1.0 TopStatusPanel_UcusRejimi.qml
+TopStatusPanel_UcusRejimi_Settings 1.0 TopStatusPanel_UcusRejimi_Settings.qml
+TopStatusPanel_RCSignal 1.0 TopStatusPanel_RCSignal.qml
+TopStatusPanel_RCSignal_Settings 1.0 TopStatusPanel_RCSignal_Settings.qml
+TopStatusPanel_Battery_Settings 1.0 TopStatusPanel_Battery_Settings.qml
+SideMenu_AparatQurgusu 1.0 SideMenu_AparatQurgusu.qml
+SideMenu_Radio 1.0 SideMenu_Radio.qml
+SideMenu_FlightMode 1.0 SideMenu_FlightMode.qml
+SideMenu_Sensors 1.0 SideMenu_Sensors.qml
+SideMenu_Sensors_Accelerometer 1.0 SideMenu_Sensors_Accelerometer.qml
+SideMenu_Enerji 1.0 SideMenu_Enerji.qml
+SideMenu_Motors 1.0 SideMenu_Motors.qml
+SideMenu_Tehlukesizlik 1.0 SideMenu_Tehlukesizlik.qml
+Side_Parameter 1.0 Side_Parameter.qml
+

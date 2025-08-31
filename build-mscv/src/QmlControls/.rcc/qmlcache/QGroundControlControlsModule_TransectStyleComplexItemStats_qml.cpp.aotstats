@@ -1,0 +1,52 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 21,
+                        "durationMicroseconds": 7893,
+                        "errorMessage": "",
+                        "functionName": "columnSpacing",
+                        "line": 14
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 22,
+                        "durationMicroseconds": 79,
+                        "errorMessage": "Cannot load property unitsConversion from QGroundControlQmlGlobal.",
+                        "functionName": "text",
+                        "line": 17
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 22,
+                        "durationMicroseconds": 863,
+                        "errorMessage": "Cannot access value for name missionItem",
+                        "functionName": "text",
+                        "line": 20
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 22,
+                        "durationMicroseconds": 752,
+                        "errorMessage": "Cannot access value for name missionItem",
+                        "functionName": "text",
+                        "line": 23
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 22,
+                        "durationMicroseconds": 811,
+                        "errorMessage": "Cannot access value for name missionItem",
+                        "functionName": "text",
+                        "line": 26
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/QmlControls/TransectStyleComplexItemStats.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.Controls(QGroundControlControlsModule)"
+    }
+]

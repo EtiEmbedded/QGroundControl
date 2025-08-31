@@ -1,0 +1,172 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 21,
+                        "durationMicroseconds": 494,
+                        "errorMessage": "",
+                        "functionName": "visible",
+                        "line": 23
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 653,
+                        "errorMessage": "",
+                        "functionName": "_minlength",
+                        "line": 28
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 500,
+                        "errorMessage": "",
+                        "functionName": "_ratio",
+                        "line": 29
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 21,
+                        "durationMicroseconds": 160,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 22
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 219,
+                        "errorMessage": "",
+                        "functionName": "vehicle",
+                        "line": 33
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 248,
+                        "errorMessage": "",
+                        "functionName": "onRotationValueChanged",
+                        "line": 34
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 18,
+                        "durationMicroseconds": 405,
+                        "errorMessage": "Cannot access value for name _minlength",
+                        "functionName": "onPaint",
+                        "line": 42
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 154,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 39
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 23,
+                        "durationMicroseconds": 196,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 63
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 20,
+                        "durationMicroseconds": 64,
+                        "errorMessage": "Cannot load property length from ProximityRadarValues::rgRotationValues with type QVariant.",
+                        "functionName": "model",
+                        "line": 66
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 73,
+                        "errorMessage": "Cannot access value for name _sectorViewEllipsoid",
+                        "functionName": "x",
+                        "line": 69
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 47,
+                        "errorMessage": "Cannot access value for name _sectorViewEllipsoid",
+                        "functionName": "y",
+                        "line": 70
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 65,
+                        "errorMessage": "Cannot access value for name proximityValues",
+                        "functionName": "text",
+                        "line": 71
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 49,
+                        "errorMessage": "Cannot access value for name proximityValues",
+                        "functionName": "visible",
+                        "line": 73
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 24,
+                        "durationMicroseconds": 267,
+                        "errorMessage": "Cannot access value for name index",
+                        "functionName": "x",
+                        "line": 76
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 24,
+                        "durationMicroseconds": 234,
+                        "errorMessage": "Cannot access value for name index",
+                        "functionName": "y",
+                        "line": 77
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 77,
+                        "errorMessage": "Cannot access value for name _minlength",
+                        "functionName": "xScale",
+                        "line": 84
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 64,
+                        "errorMessage": "Cannot access value for name _minlength",
+                        "functionName": "yScale",
+                        "line": 85
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 329,
+                        "errorMessage": "",
+                        "functionName": "x",
+                        "line": 82
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 283,
+                        "errorMessage": "",
+                        "functionName": "y",
+                        "line": 83
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/FlightDisplay/ProximityRadarVideoView.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.FlightDisplay(FlightDisplayModule)"
+    }
+]

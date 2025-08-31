@@ -1,0 +1,252 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 8872,
+                        "errorMessage": "Cannot generate efficient code for storing an array in a non-sequence type",
+                        "functionName": "_rgFontSizes",
+                        "line": 22
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 846,
+                        "errorMessage": "Cannot generate efficient code for storing an array in a non-sequence type",
+                        "functionName": "_rgFontSizeRatios",
+                        "line": 23
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 455,
+                        "errorMessage": "",
+                        "functionName": "_doubleDescent",
+                        "line": 24
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 290,
+                        "errorMessage": "",
+                        "functionName": "_tightDefaultFontHeight",
+                        "line": 25
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 2744,
+                        "errorMessage": "Cannot generate efficient code for LoadElement with non-list base type (component in C:/Users/User/qgroundcontrol/src/QmlControls/InstrumentValueLabel.qml)::_rgFontSizeRatios with type QVariant (stored as QJSValue)",
+                        "functionName": "_rgFontSizeTightHeights",
+                        "line": 26
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 66,
+                        "errorMessage": "Cannot load property factValueGrid from (component in C:/Users/User/qgroundcontrol/src/QmlControls/InstrumentValueLabel.qml)::instrumentValueData with type QVariant.",
+                        "functionName": "_tightHeight",
+                        "line": 27
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 27,
+                        "errorMessage": "Cannot load property rangeType from (component in C:/Users/User/qgroundcontrol/src/QmlControls/InstrumentValueLabel.qml)::instrumentValueData with type QVariant.",
+                        "functionName": "_iconVisible",
+                        "line": 28
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 43,
+                        "errorMessage": "Cannot load property currentColor from (component in C:/Users/User/qgroundcontrol/src/QmlControls/InstrumentValueLabel.qml)::instrumentValueData with type QVariant.",
+                        "functionName": "_color",
+                        "line": 29
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 175,
+                        "errorMessage": "Cannot access value for name enabled",
+                        "functionName": "colorGroupEnabled",
+                        "line": 31
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 68,
+                        "errorMessage": "Cannot access value for name _tightHeight",
+                        "functionName": "height",
+                        "line": 36
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 68,
+                        "errorMessage": "Cannot access value for name _tightHeight",
+                        "functionName": "width",
+                        "line": 37
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 324,
+                        "errorMessage": "",
+                        "functionName": "fillMode",
+                        "line": 39
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 56,
+                        "errorMessage": "Cannot access value for name _color",
+                        "functionName": "color",
+                        "line": 42
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 41,
+                        "errorMessage": "Cannot access value for name instrumentValueData",
+                        "functionName": "opacity",
+                        "line": 43
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 41,
+                        "errorMessage": "Cannot access value for name _iconVisible",
+                        "functionName": "visible",
+                        "line": 44
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 9,
+                        "durationMicroseconds": 248,
+                        "errorMessage": "Cannot access value for name instrumentValueData",
+                        "functionName": "updateIcon",
+                        "line": 48
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 224,
+                        "errorMessage": "",
+                        "functionName": "alignment",
+                        "line": 35
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 167,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 38
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 55,
+                        "errorMessage": "Cannot access value for name instrumentValueData",
+                        "functionName": "target",
+                        "line": 59
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 13,
+                        "durationMicroseconds": 241,
+                        "errorMessage": "",
+                        "functionName": "onRangeTypeChanged",
+                        "line": 60
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 13,
+                        "durationMicroseconds": 348,
+                        "errorMessage": "",
+                        "functionName": "onCurrentIconChanged",
+                        "line": 61
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 13,
+                        "durationMicroseconds": 188,
+                        "errorMessage": "",
+                        "functionName": "onIconChanged",
+                        "line": 62
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 153,
+                        "errorMessage": "",
+                        "functionName": "onCompleted",
+                        "line": 64
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 91,
+                        "errorMessage": "Cannot access value for name _tightHeight",
+                        "functionName": "height",
+                        "line": 69
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 61,
+                        "errorMessage": "Cannot access value for name instrumentValueData",
+                        "functionName": "text",
+                        "line": 71
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 38,
+                        "errorMessage": "Cannot access value for name _color",
+                        "functionName": "color",
+                        "line": 72
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 35,
+                        "errorMessage": "Cannot access value for name instrumentValueData",
+                        "functionName": "opacity",
+                        "line": 73
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 36,
+                        "errorMessage": "Cannot access value for name _iconVisible",
+                        "functionName": "visible",
+                        "line": 74
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 202,
+                        "errorMessage": "",
+                        "functionName": "alignment",
+                        "line": 68
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 181,
+                        "errorMessage": "",
+                        "functionName": "pointSize",
+                        "line": 70
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/QmlControls/InstrumentValueLabel.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.Controls(QGroundControlControlsModule)"
+    }
+]

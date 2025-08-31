@@ -1,0 +1,10 @@
+include("C:/Users/User/qgroundcontrol/build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/qtc_Ninja/.qt/QtDeploySupport.cmake")
+include("${CMAKE_CURRENT_LIST_DIR}/QGroundControl-plugins.cmake" OPTIONAL)
+set(__QT_DEPLOY_I18N_CATALOGS "qtbase;qtdeclarative;qtdeclarative;qtdeclarative;qtdeclarative;qtdeclarative;qtdeclarative;qtdeclarative;qtdeclarative;qtmultimedia;qtdeclarative;qtdeclarative;qtdeclarative;qtconnectivity;qtmultimedia;qtdeclarative;qtdeclarative;qtdeclarative;qtserialport")
+
+qt6_deploy_qml_imports(TARGET QGroundControl PLUGINS_FOUND plugins_found)
+qt6_deploy_runtime_dependencies(
+    EXECUTABLE C:/Users/User/qgroundcontrol/build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/qtc_Ninja/Debug/QGroundControl.exe
+    ADDITIONAL_MODULES ${plugins_found}
+    GENERATE_QT_CONF
+DEPLOY_TOOL_OPTIONS;-qmldir=C:/Users/User/qgroundcontrol)

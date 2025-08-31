@@ -1,0 +1,28 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 16,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"clicked\".",
+                        "functionName": "onClicked",
+                        "line": 23
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 16,
+                        "durationMicroseconds": 99,
+                        "errorMessage": "Cannot access value for name fact",
+                        "functionName": "value",
+                        "line": 16
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/FactSystem/FactControls/FactCheckBox.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.FactControls(FactControlsModule)"
+    }
+]

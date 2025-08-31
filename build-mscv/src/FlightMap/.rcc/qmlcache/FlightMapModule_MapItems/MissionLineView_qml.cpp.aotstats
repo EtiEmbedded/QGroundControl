@@ -1,0 +1,60 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 21,
+                        "durationMicroseconds": 512,
+                        "errorMessage": "",
+                        "functionName": "z",
+                        "line": 26
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 21,
+                        "durationMicroseconds": 295,
+                        "errorMessage": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: QVariant -> QList<QGeoCoordinate> stored as QVariant",
+                        "functionName": "path",
+                        "line": 27
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 603,
+                        "errorMessage": "Cannot access value for name object",
+                        "functionName": "_terrainCollision",
+                        "line": 29
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 451,
+                        "errorMessage": "Cannot access value for name object",
+                        "functionName": "_showSpecialVisual",
+                        "line": 30
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 9,
+                        "durationMicroseconds": 533,
+                        "errorMessage": "Cannot access value for name object",
+                        "functionName": "_calcMissionLinePath",
+                        "line": 34
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 21,
+                        "durationMicroseconds": 1182,
+                        "errorMessage": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: QGCPalette::mapMissionTrajectory with type QColor (stored as QVariant) -> QGCPalette::mapMissionTrajectory with type QColor (stored as QVariant)",
+                        "functionName": "color",
+                        "line": 23
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/FlightMap/MapItems/MissionLineView.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.FlightMap(FlightMapModule)"
+    }
+]

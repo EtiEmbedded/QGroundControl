@@ -1,0 +1,308 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 388,
+                        "errorMessage": "",
+                        "functionName": "pipState",
+                        "line": 21
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 21,
+                        "durationMicroseconds": 346,
+                        "errorMessage": "",
+                        "functionName": "pipView",
+                        "line": 28
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 30,
+                        "durationMicroseconds": 567,
+                        "errorMessage": "",
+                        "functionName": "onWindowAboutToOpen",
+                        "line": 31
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 31,
+                        "durationMicroseconds": 452,
+                        "errorMessage": "",
+                        "functionName": "onWindowAboutToClose",
+                        "line": 36
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 233,
+                        "errorMessage": "Cannot load property state from (component in C:/Users/User/qgroundcontrol/src/FlightDisplay/FlyViewVideo.qml)::pipState with type QString.",
+                        "functionName": "onStateChanged",
+                        "line": 41
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 23,
+                        "durationMicroseconds": 536,
+                        "errorMessage": "",
+                        "functionName": "onTriggered",
+                        "line": 53
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 263,
+                        "errorMessage": "Cannot load property fullState from (component in C:/Users/User/qgroundcontrol/src/FlightDisplay/FlyViewVideo.qml)::pipState with type QQuickItem.",
+                        "functionName": "useSmallFont",
+                        "line": 60
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 296,
+                        "errorMessage": "",
+                        "functionName": "visible",
+                        "line": 61
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 159,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 59
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 321,
+                        "errorMessage": "",
+                        "functionName": "visible",
+                        "line": 67
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 549,
+                        "errorMessage": "",
+                        "functionName": "source",
+                        "line": 68
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 141,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 66
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 18,
+                        "durationMicroseconds": 594,
+                        "errorMessage": "",
+                        "functionName": "visible",
+                        "line": 74
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 27,
+                        "durationMicroseconds": 660,
+                        "errorMessage": "",
+                        "functionName": "onVisibleChanged",
+                        "line": 77
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 7417,
+                        "errorMessage": "",
+                        "functionName": "pointSize",
+                        "line": 73
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 27,
+                        "durationMicroseconds": 133,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 75
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 26,
+                        "durationMicroseconds": 166,
+                        "errorMessage": "",
+                        "functionName": "type",
+                        "line": 88
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 34,
+                        "durationMicroseconds": 220,
+                        "errorMessage": "",
+                        "functionName": "screenX",
+                        "line": 95
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 34,
+                        "durationMicroseconds": 190,
+                        "errorMessage": "",
+                        "functionName": "screenY",
+                        "line": 96
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 34,
+                        "durationMicroseconds": 86,
+                        "errorMessage": "Cannot load property trackingEnabled from FlightDisplayViewVideo::_camera with type QVariant.",
+                        "functionName": "cameraTrackingEnabled",
+                        "line": 97
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 34,
+                        "durationMicroseconds": 106,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 94
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 126,
+                        "errorMessage": "Cannot access value for name pipState",
+                        "functionName": "enabled",
+                        "line": 103
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 38,
+                        "durationMicroseconds": 637,
+                        "errorMessage": "",
+                        "functionName": "trackingStatus",
+                        "line": 114
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 26,
+                        "durationMicroseconds": 274,
+                        "errorMessage": "",
+                        "functionName": "onClicked",
+                        "line": 116
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 26,
+                        "durationMicroseconds": 675,
+                        "errorMessage": "",
+                        "functionName": "onDoubleClicked",
+                        "line": 117
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 20,
+                        "durationMicroseconds": 138,
+                        "errorMessage": "Cannot find name _track_rec_x",
+                        "functionName": "onPressed",
+                        "line": 119
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 20,
+                        "durationMicroseconds": 109,
+                        "errorMessage": "",
+                        "functionName": "onPressed",
+                        "line": 119
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 145,
+                        "errorMessage": "Cannot load property x from (component in C:/Users/User/qgroundcontrol/src/FlightDisplay/FlyViewVideo.qml)::trackingROI with type QVariant.",
+                        "functionName": "onPositionChanged",
+                        "line": 135
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 103,
+                        "errorMessage": "",
+                        "functionName": "onPositionChanged",
+                        "line": 135
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 22,
+                        "durationMicroseconds": 338,
+                        "errorMessage": "Cannot load property trackingEnabled from FlightDisplayViewVideo::_camera with type QVariant.",
+                        "functionName": "onReleased",
+                        "line": 152
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 22,
+                        "durationMicroseconds": 109,
+                        "errorMessage": "",
+                        "functionName": "onReleased",
+                        "line": 152
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 136,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 102
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 553,
+                        "errorMessage": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: QVariant -> QColor stored as QVariant",
+                        "functionName": "color",
+                        "line": 202
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 26,
+                        "durationMicroseconds": 192,
+                        "errorMessage": "Cannot load property trackingEnabled from FlightDisplayViewVideo::_camera with type QVariant.",
+                        "functionName": "onTriggered",
+                        "line": 224
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 309,
+                        "errorMessage": "",
+                        "functionName": "vehicle",
+                        "line": 253
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 147,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 252
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 19,
+                        "durationMicroseconds": 52,
+                        "errorMessage": "Cannot access value for name pipState",
+                        "functionName": "showText",
+                        "line": 258
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/FlightDisplay/FlyViewVideo.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.FlightDisplay(FlightDisplayModule)"
+    }
+]

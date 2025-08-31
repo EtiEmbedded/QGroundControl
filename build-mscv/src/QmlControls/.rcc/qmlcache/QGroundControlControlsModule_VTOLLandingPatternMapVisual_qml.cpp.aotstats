@@ -1,0 +1,436 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 611,
+                        "errorMessage": "Cannot access value for name object",
+                        "functionName": "_missionItem",
+                        "line": 32
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 308,
+                        "errorMessage": "Cannot generate efficient code for storing an array in a non-sequence type",
+                        "functionName": "_dragAreas",
+                        "line": 34
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 75,
+                        "errorMessage": "Cannot load property useLoiterToAlt from (component in C:/Users/User/qgroundcontrol/src/QmlControls/VTOLLandingPatternMapVisual.qml)::_missionItem with type QVariant.",
+                        "functionName": "_useLoiterToAlt",
+                        "line": 38
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 43,
+                        "errorMessage": "Cannot load property landingCoordinate from (component in C:/Users/User/qgroundcontrol/src/QmlControls/VTOLLandingPatternMapVisual.qml)::_missionItem with type QVariant.",
+                        "functionName": "_landingAreaBearing",
+                        "line": 39
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 5,
+                        "durationMicroseconds": 290,
+                        "errorMessage": "",
+                        "functionName": "hideItemVisuals",
+                        "line": 41
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 99,
+                        "errorMessage": "Cannot load property length from QGCDynamicObjectManager::rgDynamicObjects with type QVariant.",
+                        "functionName": "showItemVisuals",
+                        "line": 45
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 555,
+                        "errorMessage": "Cannot generate efficient code for call to untyped JavaScript function",
+                        "functionName": "hideMouseArea",
+                        "line": 55
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 5,
+                        "durationMicroseconds": 634,
+                        "errorMessage": "",
+                        "functionName": "showMouseArea",
+                        "line": 62
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 72,
+                        "errorMessage": "Cannot load property length from (component in C:/Users/User/qgroundcontrol/src/QmlControls/VTOLLandingPatternMapVisual.qml)::_dragAreas with type QVariant.",
+                        "functionName": "hideDragAreas",
+                        "line": 68
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 45,
+                        "errorMessage": "Cannot load property length from (component in C:/Users/User/qgroundcontrol/src/QmlControls/VTOLLandingPatternMapVisual.qml)::_dragAreas with type QVariant.",
+                        "functionName": "showDragAreas",
+                        "line": 75
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 53,
+                        "errorMessage": "Cannot load property slopeStartCoordinate from (component in C:/Users/User/qgroundcontrol/src/QmlControls/VTOLLandingPatternMapVisual.qml)::_missionItem with type QVariant.",
+                        "functionName": "_setFlightPath",
+                        "line": 82
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 31,
+                        "durationMicroseconds": 131,
+                        "errorMessage": "",
+                        "functionName": "on_UseLoiterToAltChanged",
+                        "line": 112
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 28,
+                        "durationMicroseconds": 41,
+                        "errorMessage": "Cannot load property landingCoordSet from (component in C:/Users/User/qgroundcontrol/src/QmlControls/VTOLLandingPatternMapVisual.qml)::_missionItem with type QVariant.",
+                        "functionName": "onCompleted",
+                        "line": 94
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 30,
+                        "durationMicroseconds": 218,
+                        "errorMessage": "",
+                        "functionName": "onDestruction",
+                        "line": 106
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 17,
+                        "durationMicroseconds": 54,
+                        "errorMessage": "Cannot access value for name _missionItem",
+                        "functionName": "target",
+                        "line": 115
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"isCurrentItemChanged\".",
+                        "functionName": "onIsCurrentItemChanged",
+                        "line": 117
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 35,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"landingCoordSetChanged\".",
+                        "functionName": "onLandingCoordSetChanged",
+                        "line": 133
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"landingCoordinateChanged\".",
+                        "functionName": "onLandingCoordinateChanged",
+                        "line": 148
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"slopeStartCoordinateChanged\".",
+                        "functionName": "onSlopeStartCoordinateChanged",
+                        "line": 149
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"finalApproachCoordinateChanged\".",
+                        "functionName": "onFinalApproachCoordinateChanged",
+                        "line": 150
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 359,
+                        "errorMessage": "",
+                        "functionName": "z",
+                        "line": 159
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 74,
+                        "errorMessage": "Cannot access value for name map",
+                        "functionName": "onClicked",
+                        "line": 163
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 152,
+                        "errorMessage": "",
+                        "functionName": "onClicked",
+                        "line": 163
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 42,
+                        "errorMessage": "Cannot access value for name map",
+                        "functionName": "fill",
+                        "line": 158
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 44,
+                        "errorMessage": "Cannot access value for name _root",
+                        "functionName": "mapControl",
+                        "line": 179
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 37,
+                        "errorMessage": "Cannot access value for name _loiterPointObject",
+                        "functionName": "itemIndicator",
+                        "line": 180
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 36,
+                        "errorMessage": "Cannot access value for name _missionItem",
+                        "functionName": "itemCoordinate",
+                        "line": 181
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 38,
+                        "durationMicroseconds": 153,
+                        "errorMessage": "Cannot access value for name _missionItem",
+                        "functionName": "onItemCoordinateChanged",
+                        "line": 185
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 40,
+                        "errorMessage": "Cannot access value for name _root",
+                        "functionName": "mapControl",
+                        "line": 204
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 37,
+                        "errorMessage": "Cannot access value for name _landingPointObject",
+                        "functionName": "itemIndicator",
+                        "line": 205
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 36,
+                        "errorMessage": "Cannot access value for name _missionItem",
+                        "functionName": "itemCoordinate",
+                        "line": 206
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 38,
+                        "durationMicroseconds": 41,
+                        "errorMessage": "Cannot access value for name _missionItem",
+                        "functionName": "onItemCoordinateChanged",
+                        "line": 208
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 238,
+                        "errorMessage": "",
+                        "functionName": "z",
+                        "line": 217
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 43,
+                        "errorMessage": "Cannot access value for name _flightPath",
+                        "functionName": "path",
+                        "line": 220
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 191,
+                        "errorMessage": "",
+                        "functionName": "z",
+                        "line": 231
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 45,
+                        "errorMessage": "Cannot access value for name _missionItem",
+                        "functionName": "coordinate",
+                        "line": 232
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 206,
+                        "errorMessage": "Cannot load property anchorPointX from (component in C:/Users/User/qgroundcontrol/src/QmlControls/VTOLLandingPatternMapVisual.qml)::sourceItem with type QQuickItem.",
+                        "functionName": "x",
+                        "line": 229
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 168,
+                        "errorMessage": "Cannot load property anchorPointY from (component in C:/Users/User/qgroundcontrol/src/QmlControls/VTOLLandingPatternMapVisual.qml)::sourceItem with type QQuickItem.",
+                        "functionName": "y",
+                        "line": 230
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 46,
+                        "errorMessage": "Cannot access value for name _missionItem",
+                        "functionName": "index",
+                        "line": 236
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 52,
+                        "errorMessage": "Cannot access value for name _useLoiterToAlt",
+                        "functionName": "label",
+                        "line": 237
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 38,
+                        "errorMessage": "Cannot access value for name _missionItem",
+                        "functionName": "checked",
+                        "line": 238
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 28,
+                        "durationMicroseconds": 50,
+                        "errorMessage": "Cannot access value for name _root",
+                        "functionName": "onClicked",
+                        "line": 240
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 187,
+                        "errorMessage": "",
+                        "functionName": "z",
+                        "line": 252
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 48,
+                        "errorMessage": "Cannot access value for name _missionItem",
+                        "functionName": "coordinate",
+                        "line": 253
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 208,
+                        "errorMessage": "Cannot load property anchorPointX from (component in C:/Users/User/qgroundcontrol/src/QmlControls/VTOLLandingPatternMapVisual.qml)::sourceItem with type QQuickItem.",
+                        "functionName": "x",
+                        "line": 250
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 190,
+                        "errorMessage": "Cannot load property anchorPointY from (component in C:/Users/User/qgroundcontrol/src/QmlControls/VTOLLandingPatternMapVisual.qml)::sourceItem with type QQuickItem.",
+                        "functionName": "y",
+                        "line": 251
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 50,
+                        "errorMessage": "Cannot access value for name _missionItem",
+                        "functionName": "index",
+                        "line": 257
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 39,
+                        "errorMessage": "Cannot access value for name _missionItem",
+                        "functionName": "checked",
+                        "line": 259
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 28,
+                        "durationMicroseconds": 52,
+                        "errorMessage": "Cannot access value for name _root",
+                        "functionName": "onClicked",
+                        "line": 261
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 219,
+                        "errorMessage": "",
+                        "functionName": "z",
+                        "line": 270
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 51,
+                        "errorMessage": "Cannot access value for name _missionItem",
+                        "functionName": "center",
+                        "line": 271
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 37,
+                        "errorMessage": "Cannot access value for name _missionItem",
+                        "functionName": "radius",
+                        "line": 272
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 38,
+                        "errorMessage": "Cannot access value for name _useLoiterToAlt",
+                        "functionName": "visible",
+                        "line": 276
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/QmlControls/VTOLLandingPatternMapVisual.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.Controls(QGroundControlControlsModule)"
+    }
+]

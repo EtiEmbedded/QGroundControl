@@ -1,0 +1,1332 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 627,
+                        "errorMessage": "",
+                        "functionName": "_activeVehicle",
+                        "line": 24
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 92,
+                        "errorMessage": "Cannot load property remoteIDManager from (component in C:/Users/User/qgroundcontrol/src/QmlControls/RemoteIDIndicatorPage.qml)::_activeVehicle with type QVariant.",
+                        "functionName": "gpsFlag",
+                        "line": 26
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 42,
+                        "errorMessage": "Cannot load property remoteIDManager from (component in C:/Users/User/qgroundcontrol/src/QmlControls/RemoteIDIndicatorPage.qml)::_activeVehicle with type QVariant.",
+                        "functionName": "basicIDFlag",
+                        "line": 27
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 43,
+                        "errorMessage": "Cannot load property remoteIDManager from (component in C:/Users/User/qgroundcontrol/src/QmlControls/RemoteIDIndicatorPage.qml)::_activeVehicle with type QVariant.",
+                        "functionName": "armFlag",
+                        "line": 28
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 38,
+                        "errorMessage": "Cannot load property remoteIDManager from (component in C:/Users/User/qgroundcontrol/src/QmlControls/RemoteIDIndicatorPage.qml)::_activeVehicle with type QVariant.",
+                        "functionName": "commsFlag",
+                        "line": 29
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 42,
+                        "errorMessage": "Cannot load property remoteIDManager from (component in C:/Users/User/qgroundcontrol/src/QmlControls/RemoteIDIndicatorPage.qml)::_activeVehicle with type QVariant.",
+                        "functionName": "emergencyDeclared",
+                        "line": 30
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 35,
+                        "errorMessage": "Cannot load property remoteIDManager from (component in C:/Users/User/qgroundcontrol/src/QmlControls/RemoteIDIndicatorPage.qml)::_activeVehicle with type QVariant.",
+                        "functionName": "operatorIDFlag",
+                        "line": 31
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 160,
+                        "errorMessage": "Cannot load property region from SettingsManager::remoteIDSettings with type QObject.",
+                        "functionName": "_regionOperation",
+                        "line": 33
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 22061,
+                        "errorMessage": "",
+                        "functionName": "flagsWidth",
+                        "line": 36
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 296,
+                        "errorMessage": "",
+                        "functionName": "flagsHeight",
+                        "line": 37
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 163,
+                        "errorMessage": "",
+                        "functionName": "_margins",
+                        "line": 41
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 797,
+                        "errorMessage": "Cannot access value for name mainWindow",
+                        "functionName": "goToSettings",
+                        "line": 59
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 606,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 68
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 931,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 69
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 288,
+                        "errorMessage": "",
+                        "functionName": "radius",
+                        "line": 70
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 395,
+                        "errorMessage": "Cannot access value for name qgcPal",
+                        "functionName": "color",
+                        "line": 71
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 386,
+                        "errorMessage": "Cannot access value for name qgcPal",
+                        "functionName": "color",
+                        "line": 72
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 320,
+                        "errorMessage": "",
+                        "functionName": "spacing",
+                        "line": 76
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 575,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 77
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 179,
+                        "errorMessage": "",
+                        "functionName": "margins",
+                        "line": 78
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 235,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 79
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 273,
+                        "errorMessage": "",
+                        "functionName": "horizontalCenter",
+                        "line": 80
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 237,
+                        "errorMessage": "",
+                        "functionName": "horizontalCenter",
+                        "line": 86
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 152,
+                        "errorMessage": "",
+                        "functionName": "columnSpacing",
+                        "line": 92
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 158,
+                        "errorMessage": "",
+                        "functionName": "margins",
+                        "line": 91
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 228,
+                        "errorMessage": "",
+                        "functionName": "horizontalCenter",
+                        "line": 93
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 82,
+                        "errorMessage": "Cannot access value for name flagsWidth",
+                        "functionName": "width",
+                        "line": 98
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 64,
+                        "errorMessage": "Cannot access value for name flagsHeight",
+                        "functionName": "height",
+                        "line": 99
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 59,
+                        "errorMessage": "Cannot access value for name armFlag",
+                        "functionName": "source",
+                        "line": 100
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 190,
+                        "errorMessage": "",
+                        "functionName": "fillMode",
+                        "line": 101
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 54,
+                        "errorMessage": "Cannot access value for name commsFlag",
+                        "functionName": "visible",
+                        "line": 103
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 135,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 102
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 332,
+                        "errorMessage": "",
+                        "functionName": "wrapMode",
+                        "line": 108
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 137,
+                        "errorMessage": "",
+                        "functionName": "horizontalAlignment",
+                        "line": 109
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 130,
+                        "errorMessage": "",
+                        "functionName": "verticalAlignment",
+                        "line": 110
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 124,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 106
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 156,
+                        "errorMessage": "",
+                        "functionName": "pointSize",
+                        "line": 112
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 801,
+                        "errorMessage": "method goToSettings cannot be resolved.",
+                        "functionName": "onClicked",
+                        "line": 117
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 159,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 116
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 73,
+                        "errorMessage": "Cannot access value for name flagsWidth",
+                        "functionName": "width",
+                        "line": 123
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 52,
+                        "errorMessage": "Cannot access value for name flagsHeight",
+                        "functionName": "height",
+                        "line": 124
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 53,
+                        "errorMessage": "Cannot access value for name commsFlag",
+                        "functionName": "source",
+                        "line": 125
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 169,
+                        "errorMessage": "",
+                        "functionName": "fillMode",
+                        "line": 126
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 170,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 127
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 85,
+                        "errorMessage": "Cannot access value for name commsFlag",
+                        "functionName": "text",
+                        "line": 131
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 161,
+                        "errorMessage": "",
+                        "functionName": "wrapMode",
+                        "line": 132
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 138,
+                        "errorMessage": "",
+                        "functionName": "horizontalAlignment",
+                        "line": 133
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 176,
+                        "errorMessage": "",
+                        "functionName": "verticalAlignment",
+                        "line": 134
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 110,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 130
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 155,
+                        "errorMessage": "",
+                        "functionName": "pointSize",
+                        "line": 136
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 794,
+                        "errorMessage": "method goToSettings cannot be resolved.",
+                        "functionName": "onClicked",
+                        "line": 141
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 149,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 140
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 75,
+                        "errorMessage": "Cannot access value for name flagsWidth",
+                        "functionName": "width",
+                        "line": 147
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 54,
+                        "errorMessage": "Cannot access value for name flagsHeight",
+                        "functionName": "height",
+                        "line": 148
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 56,
+                        "errorMessage": "Cannot access value for name gpsFlag",
+                        "functionName": "source",
+                        "line": 149
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 191,
+                        "errorMessage": "",
+                        "functionName": "fillMode",
+                        "line": 150
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 55,
+                        "errorMessage": "Cannot access value for name commsFlag",
+                        "functionName": "visible",
+                        "line": 152
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 142,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 151
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 201,
+                        "errorMessage": "",
+                        "functionName": "wrapMode",
+                        "line": 157
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 162,
+                        "errorMessage": "",
+                        "functionName": "horizontalAlignment",
+                        "line": 158
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 130,
+                        "errorMessage": "",
+                        "functionName": "verticalAlignment",
+                        "line": 159
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 117,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 155
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 241,
+                        "errorMessage": "",
+                        "functionName": "pointSize",
+                        "line": 161
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 824,
+                        "errorMessage": "method goToSettings cannot be resolved.",
+                        "functionName": "onClicked",
+                        "line": 166
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 168,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 165
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 77,
+                        "errorMessage": "Cannot access value for name flagsWidth",
+                        "functionName": "width",
+                        "line": 172
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 54,
+                        "errorMessage": "Cannot access value for name flagsHeight",
+                        "functionName": "height",
+                        "line": 173
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 75,
+                        "errorMessage": "Cannot access value for name basicIDFlag",
+                        "functionName": "source",
+                        "line": 174
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 215,
+                        "errorMessage": "",
+                        "functionName": "fillMode",
+                        "line": 175
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 65,
+                        "errorMessage": "Cannot access value for name commsFlag",
+                        "functionName": "visible",
+                        "line": 177
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 151,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 176
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 154,
+                        "errorMessage": "",
+                        "functionName": "wrapMode",
+                        "line": 182
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 163,
+                        "errorMessage": "",
+                        "functionName": "horizontalAlignment",
+                        "line": 183
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 140,
+                        "errorMessage": "",
+                        "functionName": "verticalAlignment",
+                        "line": 184
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 219,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 180
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 288,
+                        "errorMessage": "",
+                        "functionName": "pointSize",
+                        "line": 186
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 1115,
+                        "errorMessage": "method goToSettings cannot be resolved.",
+                        "functionName": "onClicked",
+                        "line": 191
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 263,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 190
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 107,
+                        "errorMessage": "Cannot access value for name flagsWidth",
+                        "functionName": "width",
+                        "line": 197
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 65,
+                        "errorMessage": "Cannot access value for name flagsHeight",
+                        "functionName": "height",
+                        "line": 198
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 63,
+                        "errorMessage": "Cannot access value for name operatorIDFlag",
+                        "functionName": "source",
+                        "line": 199
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 227,
+                        "errorMessage": "",
+                        "functionName": "fillMode",
+                        "line": 200
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 77,
+                        "errorMessage": "Cannot access value for name commsFlag",
+                        "functionName": "visible",
+                        "line": 202
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 161,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 201
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 214,
+                        "errorMessage": "",
+                        "functionName": "wrapMode",
+                        "line": 207
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 176,
+                        "errorMessage": "",
+                        "functionName": "horizontalAlignment",
+                        "line": 208
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 207,
+                        "errorMessage": "",
+                        "functionName": "verticalAlignment",
+                        "line": 209
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 166,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 205
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 236,
+                        "errorMessage": "",
+                        "functionName": "pointSize",
+                        "line": 211
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 972,
+                        "errorMessage": "method goToSettings cannot be resolved.",
+                        "functionName": "onClicked",
+                        "line": 216
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 160,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 215
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 168,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "height",
+                        "line": 227
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 47,
+                        "errorMessage": "Cannot access value for name commsFlag",
+                        "functionName": "visible",
+                        "line": 228
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 290,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 224
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 262,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 225
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 294,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 226
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 116,
+                        "errorMessage": "Cannot access value for name emergencyDeclared",
+                        "functionName": "text",
+                        "line": 232
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 210,
+                        "errorMessage": "",
+                        "functionName": "wrapMode",
+                        "line": 239
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 167,
+                        "errorMessage": "",
+                        "functionName": "horizontalAlignment",
+                        "line": 240
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 335,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 234
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 278,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 235
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 276,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 236
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 68,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "margins",
+                        "line": 237
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 62,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "topMargin",
+                        "line": 238
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 66,
+                        "errorMessage": "Cannot access value for name flagsWidth",
+                        "functionName": "width",
+                        "line": 246
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 60,
+                        "errorMessage": "Cannot access value for name flagsHeight",
+                        "functionName": "height",
+                        "line": 247
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 181,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 249
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 306,
+                        "errorMessage": "",
+                        "functionName": "horizontalCenter",
+                        "line": 250
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 276,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 251
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 84,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "margins",
+                        "line": 252
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 82,
+                        "errorMessage": "Cannot access value for name emergencyDeclared",
+                        "functionName": "text",
+                        "line": 257
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 212,
+                        "errorMessage": "",
+                        "functionName": "wrapMode",
+                        "line": 258
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 171,
+                        "errorMessage": "",
+                        "functionName": "horizontalAlignment",
+                        "line": 259
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 167,
+                        "errorMessage": "",
+                        "functionName": "verticalAlignment",
+                        "line": 260
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 152,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 256
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 178,
+                        "errorMessage": "",
+                        "functionName": "pointSize",
+                        "line": 262
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 38,
+                        "durationMicroseconds": 1241,
+                        "errorMessage": "Cannot generate efficient code for incomparable types QString and QQuickImageBase::source with type QUrl",
+                        "functionName": "onTriggered",
+                        "line": 268
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 311,
+                        "errorMessage": "",
+                        "functionName": "onEntered",
+                        "line": 280
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 305,
+                        "errorMessage": "",
+                        "functionName": "onExited",
+                        "line": 281
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 83,
+                        "errorMessage": "Cannot access value for name emergencyDeclared",
+                        "functionName": "pressAndHoldInterval",
+                        "line": 282
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 303,
+                        "errorMessage": "Cannot access value for name _activeVehicle",
+                        "functionName": "onPressAndHold",
+                        "line": 283
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 163,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 278
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 22,
+                        "durationMicroseconds": 226,
+                        "errorMessage": "",
+                        "functionName": "spacing",
+                        "line": 302
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 44,
+                        "durationMicroseconds": 340,
+                        "errorMessage": "",
+                        "functionName": "remoteIDSettings",
+                        "line": 304
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 57,
+                        "errorMessage": "Cannot load property region from (component in C:/Users/User/qgroundcontrol/src/QmlControls/RemoteIDIndicatorPage.qml)::remoteIDSettings with type QVariant.",
+                        "functionName": "regionFact",
+                        "line": 305
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 61,
+                        "errorMessage": "Cannot load property sendOperatorID from (component in C:/Users/User/qgroundcontrol/src/QmlControls/RemoteIDIndicatorPage.qml)::remoteIDSettings with type QVariant.",
+                        "functionName": "sendOperatorIdFact",
+                        "line": 306
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 30,
+                        "errorMessage": "Cannot load property locationType from (component in C:/Users/User/qgroundcontrol/src/QmlControls/RemoteIDIndicatorPage.qml)::remoteIDSettings with type QVariant.",
+                        "functionName": "locationTypeFact",
+                        "line": 307
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 108,
+                        "errorMessage": "Cannot load property operatorID from (component in C:/Users/User/qgroundcontrol/src/QmlControls/RemoteIDIndicatorPage.qml)::remoteIDSettings with type QVariant.",
+                        "functionName": "operatorIDFact",
+                        "line": 308
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 37735,
+                        "errorMessage": "Cannot generate efficient code for incomparable types RemoteIDIndicatorPage::RegionOperation::EU (stored as int) and Fact::rawValue with type QVariant",
+                        "functionName": "isEURegion",
+                        "line": 309
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 524,
+                        "errorMessage": "Cannot generate efficient code for incomparable types RemoteIDIndicatorPage::RegionOperation::FAA (stored as int) and Fact::rawValue with type QVariant",
+                        "functionName": "isFAARegion",
+                        "line": 310
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 305,
+                        "errorMessage": "",
+                        "functionName": "textFieldWidth",
+                        "line": 311
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 305,
+                        "errorMessage": "",
+                        "functionName": "textLabelWidth",
+                        "line": 312
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 74,
+                        "errorMessage": "Cannot access value for name regionFact",
+                        "functionName": "target",
+                        "line": 315
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 36,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"rawValueChanged\".",
+                        "functionName": "onRawValueChanged",
+                        "line": 316
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 316,
+                        "errorMessage": "",
+                        "functionName": "spacing",
+                        "line": 327
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 222,
+                        "errorMessage": "",
+                        "functionName": "alignment",
+                        "line": 328
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 346,
+                        "errorMessage": "",
+                        "functionName": "visible",
+                        "line": 332
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 717,
+                        "errorMessage": "Cannot access value for name remoteIDManager",
+                        "functionName": "labelText",
+                        "line": 336
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 79,
+                        "errorMessage": "Cannot access value for name textLabelWidth",
+                        "functionName": "preferredWidth",
+                        "line": 345
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 178,
+                        "errorMessage": "",
+                        "functionName": "fact",
+                        "line": 350
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"visible\".",
+                        "functionName": "visible",
+                        "line": 351
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 46,
+                        "durationMicroseconds": 66,
+                        "errorMessage": "Cannot access value for name remoteIDSettings",
+                        "functionName": "_fact",
+                        "line": 354
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 129,
+                        "errorMessage": "",
+                        "functionName": "fact",
+                        "line": 360
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 186,
+                        "errorMessage": "Cannot load property visible from (component in C:/Users/User/qgroundcontrol/src/QmlControls/RemoteIDIndicatorPage.qml)::_fact with type Fact.",
+                        "functionName": "visible",
+                        "line": 362
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 51,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: sendSelfIDSlider",
+                        "functionName": "enabled",
+                        "line": 363
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 46,
+                        "durationMicroseconds": 72,
+                        "errorMessage": "Cannot access value for name remoteIDSettings",
+                        "functionName": "_fact",
+                        "line": 366
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 255,
+                        "errorMessage": "",
+                        "functionName": "label",
+                        "line": 370
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 105,
+                        "errorMessage": "",
+                        "functionName": "fact",
+                        "line": 371
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 151,
+                        "errorMessage": "Cannot load property visible from (component in C:/Users/User/qgroundcontrol/src/QmlControls/RemoteIDIndicatorPage.qml)::_fact with type Fact.",
+                        "functionName": "visible",
+                        "line": 372
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 54,
+                        "durationMicroseconds": 56,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: sendSelfIDSlider",
+                        "functionName": "enabled",
+                        "line": 373
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 75,
+                        "errorMessage": "Cannot access value for name textFieldWidth",
+                        "functionName": "textFieldPreferredWidth",
+                        "line": 376
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 46,
+                        "durationMicroseconds": 60,
+                        "errorMessage": "Cannot access value for name remoteIDSettings",
+                        "functionName": "_fact",
+                        "line": 378
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 261,
+                        "errorMessage": "",
+                        "functionName": "label",
+                        "line": 382
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 103,
+                        "errorMessage": "",
+                        "functionName": "fact",
+                        "line": 383
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 152,
+                        "errorMessage": "Cannot load property visible from (component in C:/Users/User/qgroundcontrol/src/QmlControls/RemoteIDIndicatorPage.qml)::_fact with type Fact.",
+                        "functionName": "visible",
+                        "line": 384
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 46,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: sendSelfIDSlider",
+                        "functionName": "enabled",
+                        "line": 385
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 85,
+                        "errorMessage": "Cannot access value for name textFieldWidth",
+                        "functionName": "textFieldPreferredWidth",
+                        "line": 388
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 46,
+                        "durationMicroseconds": 61,
+                        "errorMessage": "Cannot access value for name remoteIDSettings",
+                        "functionName": "_fact",
+                        "line": 390
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 292,
+                        "errorMessage": "",
+                        "functionName": "label",
+                        "line": 394
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 105,
+                        "errorMessage": "",
+                        "functionName": "fact",
+                        "line": 395
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 175,
+                        "errorMessage": "Cannot load property visible from (component in C:/Users/User/qgroundcontrol/src/QmlControls/RemoteIDIndicatorPage.qml)::_fact with type Fact.",
+                        "functionName": "visible",
+                        "line": 396
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 74,
+                        "errorMessage": "Cannot access value for name textFieldWidth",
+                        "functionName": "textFieldPreferredWidth",
+                        "line": 399
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 46,
+                        "durationMicroseconds": 59,
+                        "errorMessage": "Cannot access value for name remoteIDSettings",
+                        "functionName": "_fact",
+                        "line": 401
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 45,
+                        "errorMessage": "Cannot load property corePlugin from QGroundControlQmlGlobal.",
+                        "functionName": "visible",
+                        "line": 407
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 40,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"clicked\".",
+                        "functionName": "onClicked",
+                        "line": 415
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/QmlControls/RemoteIDIndicatorPage.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.Controls(QGroundControlControlsModule)"
+    }
+]

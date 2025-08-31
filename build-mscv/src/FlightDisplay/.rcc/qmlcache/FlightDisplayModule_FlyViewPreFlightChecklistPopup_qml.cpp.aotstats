@@ -1,0 +1,116 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 17,
+                        "durationMicroseconds": 338,
+                        "errorMessage": "Cannot access value for name Dialog",
+                        "functionName": "buttons",
+                        "line": 22
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 519,
+                        "errorMessage": "",
+                        "functionName": "_activeVehicle",
+                        "line": 24
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 116,
+                        "errorMessage": "Cannot load property useChecklist from SettingsManager::appSettings with type QObject.",
+                        "functionName": "_useChecklist",
+                        "line": 25
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 98,
+                        "errorMessage": "Cannot load property enforceChecklist from SettingsManager::appSettings with type QObject.",
+                        "functionName": "_enforceChecklist",
+                        "line": 26
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 49,
+                        "errorMessage": "Cannot load property checkListState from (component in C:/Users/User/qgroundcontrol/src/FlightDisplay/FlyViewPreFlightChecklistPopup.qml)::_activeVehicle with type QVariant.",
+                        "functionName": "_checklistComplete",
+                        "line": 27
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 30,
+                        "durationMicroseconds": 148,
+                        "errorMessage": "",
+                        "functionName": "on_ActiveVehicleChanged",
+                        "line": 29
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 5,
+                        "durationMicroseconds": 689,
+                        "errorMessage": "",
+                        "functionName": "_showPreFlightChecklistIfNeeded",
+                        "line": 36
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 149,
+                        "errorMessage": "Cannot access value for name mainWindow",
+                        "functionName": "target",
+                        "line": 32
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"showPreFlightChecklistIfNeeded\".",
+                        "functionName": "onShowPreFlightChecklistIfNeeded",
+                        "line": 33
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 22,
+                        "durationMicroseconds": 64,
+                        "errorMessage": "Cannot access value for name _checklistComplete",
+                        "functionName": "onTriggered",
+                        "line": 46
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 17,
+                        "durationMicroseconds": 49,
+                        "errorMessage": "Cannot load property corePlugin from QGroundControlQmlGlobal.",
+                        "functionName": "source",
+                        "line": 57
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 17,
+                        "durationMicroseconds": 202,
+                        "errorMessage": "",
+                        "functionName": "target",
+                        "line": 63
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 35,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"allChecksPassedChanged\".",
+                        "functionName": "onAllChecksPassedChanged",
+                        "line": 64
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/FlightDisplay/FlyViewPreFlightChecklistPopup.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.FlightDisplay(FlightDisplayModule)"
+    }
+]

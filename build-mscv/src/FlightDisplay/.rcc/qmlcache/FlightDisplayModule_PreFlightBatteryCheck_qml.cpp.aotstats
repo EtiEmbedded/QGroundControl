@@ -1,0 +1,68 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 391,
+                        "errorMessage": "",
+                        "functionName": "telemetryFailure",
+                        "line": 20
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 1026,
+                        "errorMessage": "",
+                        "functionName": "telemetryTextFailure",
+                        "line": 21
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 151,
+                        "errorMessage": "",
+                        "functionName": "allowTelemetryFailureOverride",
+                        "line": 24
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 358,
+                        "errorMessage": "Cannot access value for name globals",
+                        "functionName": "_batteryGroup",
+                        "line": 28
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 69,
+                        "errorMessage": "Cannot load property percentRemaining from (component in C:/Users/User/qgroundcontrol/src/FlightDisplay/PreFlightBatteryCheck.qml)::_batteryGroup with type QVariant.",
+                        "functionName": "_batteryValue",
+                        "line": 29
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 590,
+                        "errorMessage": "Cannot generate efficient code for call to untyped JavaScript function",
+                        "functionName": "_batPercentRemaining",
+                        "line": 30
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 335,
+                        "errorMessage": "",
+                        "functionName": "_batLow",
+                        "line": 31
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/FlightDisplay/PreFlightBatteryCheck.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.FlightDisplay(FlightDisplayModule)"
+    }
+]

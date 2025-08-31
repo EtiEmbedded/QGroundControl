@@ -1,0 +1,124 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 176,
+                        "errorMessage": "Cannot load property corridorPolyline from (component in C:/Users/User/qgroundcontrol/src/QmlControls/CorridorScanEditor.qml)::_missionItem with type QVariant.",
+                        "functionName": "transectAreaDefinitionComplete",
+                        "line": 15
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 353,
+                        "errorMessage": "",
+                        "functionName": "transectValuesComponent",
+                        "line": 18
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 187,
+                        "errorMessage": "",
+                        "functionName": "presetsTransectValuesComponent",
+                        "line": 19
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 9666,
+                        "errorMessage": "",
+                        "functionName": "_margin",
+                        "line": 25
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 833,
+                        "errorMessage": "Cannot access value for name missionItem",
+                        "functionName": "_missionItem",
+                        "line": 26
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 60,
+                        "errorMessage": "Cannot access value for name _margin",
+                        "functionName": "columnSpacing",
+                        "line": 32
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 64,
+                        "errorMessage": "Cannot access value for name _margin",
+                        "functionName": "rowSpacing",
+                        "line": 33
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 44,
+                        "errorMessage": "Cannot access value for name _missionItem",
+                        "functionName": "fact",
+                        "line": 38
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 817,
+                        "errorMessage": "Cannot access value for name forPresets",
+                        "functionName": "visible",
+                        "line": 44
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 46,
+                        "errorMessage": "Cannot access value for name _missionItem",
+                        "functionName": "fact",
+                        "line": 47
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"visible\".",
+                        "functionName": "visible",
+                        "line": 49
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 48,
+                        "errorMessage": "Cannot access value for name _missionItem",
+                        "functionName": "fact",
+                        "line": 55
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"enabled\".",
+                        "functionName": "enabled",
+                        "line": 56
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"visible\".",
+                        "functionName": "visible",
+                        "line": 57
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/QmlControls/CorridorScanEditor.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.Controls(QGroundControlControlsModule)"
+    }
+]

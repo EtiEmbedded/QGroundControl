@@ -1,0 +1,14 @@
+-I
+C:/Users/User/qgroundcontrol/build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug
+-I
+C:/Users/User/qgroundcontrol/build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/qml
+-I
+C:/Qt/6.8.3/msvc2022_64/qml
+--resource
+C:/Users/User/qgroundcontrol/build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/.qt/rcc/qmake_QGC.qrc
+--resource
+C:/Users/User/qgroundcontrol/build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/.qt/rcc/qgcresources_cmake.qrc
+--resource
+C:/Users/User/qgroundcontrol/build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/.qt/rcc/QGroundControl_translations.qrc
+--module
+QGC

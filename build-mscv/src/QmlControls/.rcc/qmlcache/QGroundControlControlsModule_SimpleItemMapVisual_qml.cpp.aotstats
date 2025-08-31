@@ -1,0 +1,380 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 590,
+                        "errorMessage": "Cannot access value for name object",
+                        "functionName": "_missionItem",
+                        "line": 29
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 5,
+                        "durationMicroseconds": 772,
+                        "errorMessage": "",
+                        "functionName": "hideItemVisuals",
+                        "line": 35
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 5,
+                        "durationMicroseconds": 548,
+                        "errorMessage": "",
+                        "functionName": "showItemVisuals",
+                        "line": 43
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 5,
+                        "durationMicroseconds": 352,
+                        "errorMessage": "",
+                        "functionName": "hideDragArea",
+                        "line": 51
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 5,
+                        "durationMicroseconds": 351,
+                        "errorMessage": "",
+                        "functionName": "showDragArea",
+                        "line": 58
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 56,
+                        "errorMessage": "Cannot load property isCurrentItem from (component in C:/Users/User/qgroundcontrol/src/QmlControls/SimpleItemMapVisual.qml)::_missionItem with type QVariant.",
+                        "functionName": "updateDragArea",
+                        "line": 65
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 28,
+                        "durationMicroseconds": 215,
+                        "errorMessage": "",
+                        "functionName": "onCompleted",
+                        "line": 73
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 17,
+                        "durationMicroseconds": 50,
+                        "errorMessage": "Cannot access value for name _missionItem",
+                        "functionName": "target",
+                        "line": 79
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 9,
+                        "durationMicroseconds": 160,
+                        "errorMessage": "method updateDragArea cannot be resolved.",
+                        "functionName": "onIsCurrentItemChanged",
+                        "line": 81
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 9,
+                        "durationMicroseconds": 8287,
+                        "errorMessage": "method updateDragArea cannot be resolved.",
+                        "functionName": "onSpecifiesCoordinateChanged",
+                        "line": 82
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 17,
+                        "durationMicroseconds": 75,
+                        "errorMessage": "Cannot access value for name _missionItem",
+                        "functionName": "target",
+                        "line": 86
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 9,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "onLoiterRadiusChanged",
+                        "line": 88
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 9,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "onCoordinateChanged",
+                        "line": 94
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 26,
+                        "durationMicroseconds": 223,
+                        "errorMessage": "",
+                        "functionName": "sourceComponent",
+                        "line": 107
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 19,
+                        "durationMicroseconds": 113,
+                        "errorMessage": "Cannot access value for name map",
+                        "functionName": "onLoaded",
+                        "line": 109
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 26,
+                        "durationMicroseconds": 137,
+                        "errorMessage": "",
+                        "functionName": "sourceComponent",
+                        "line": 122
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 19,
+                        "durationMicroseconds": 90,
+                        "errorMessage": "Cannot access value for name map",
+                        "functionName": "onLoaded",
+                        "line": 124
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 26,
+                        "durationMicroseconds": 129,
+                        "errorMessage": "",
+                        "functionName": "sourceComponent",
+                        "line": 138
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 19,
+                        "durationMicroseconds": 109,
+                        "errorMessage": "Cannot access value for name map",
+                        "functionName": "onLoaded",
+                        "line": 140
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 38,
+                        "durationMicroseconds": 47,
+                        "errorMessage": "Cannot access value for name _root",
+                        "functionName": "mapControl",
+                        "line": 153
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 38,
+                        "durationMicroseconds": 37,
+                        "errorMessage": "Cannot access value for name itemVisualLoader",
+                        "functionName": "itemIndicator",
+                        "line": 154
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 38,
+                        "durationMicroseconds": 35,
+                        "errorMessage": "Cannot access value for name _missionItem",
+                        "functionName": "itemCoordinate",
+                        "line": 155
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 38,
+                        "durationMicroseconds": 33,
+                        "errorMessage": "Cannot access value for name _root",
+                        "functionName": "visible",
+                        "line": 156
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 38,
+                        "durationMicroseconds": 49,
+                        "errorMessage": "Cannot access value for name _missionItem",
+                        "functionName": "onItemCoordinateChanged",
+                        "line": 157
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 52,
+                        "errorMessage": "Cannot access value for name _missionItem",
+                        "functionName": "coordinate",
+                        "line": 165
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 39,
+                        "errorMessage": "Cannot access value for name _missionItem",
+                        "functionName": "visible",
+                        "line": 166
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 229,
+                        "errorMessage": "",
+                        "functionName": "z",
+                        "line": 167
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 50,
+                        "errorMessage": "Cannot access value for name _missionItem",
+                        "functionName": "missionItem",
+                        "line": 168
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 54,
+                        "errorMessage": "Cannot access value for name _missionItem",
+                        "functionName": "sequenceNumber",
+                        "line": 169
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 67,
+                        "errorMessage": "Cannot access value for name _root",
+                        "functionName": "onClicked",
+                        "line": 170
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 37,
+                        "errorMessage": "Cannot access value for name _root",
+                        "functionName": "opacity",
+                        "line": 171
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 47,
+                        "durationMicroseconds": 44,
+                        "errorMessage": "Cannot access value for name _root",
+                        "functionName": "coordinate",
+                        "line": 180
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 47,
+                        "durationMicroseconds": 41,
+                        "errorMessage": "Cannot access value for name _root",
+                        "functionName": "visible",
+                        "line": 181
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 13,
+                        "durationMicroseconds": 68,
+                        "errorMessage": "Cannot access value for name _missionItem",
+                        "functionName": "handleLoiterRadiusChange",
+                        "line": 187
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 13,
+                        "durationMicroseconds": 54,
+                        "errorMessage": "Cannot access value for name _missionItem",
+                        "functionName": "handleCoordinateChange",
+                        "line": 194
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 47,
+                        "durationMicroseconds": 181,
+                        "errorMessage": "Type  stored as QGCMapCircle does not have a property center for writing",
+                        "functionName": "onCoordinateChanged",
+                        "line": 198
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 42,
+                        "durationMicroseconds": 121,
+                        "errorMessage": "Cannot access value for name _root",
+                        "functionName": "mapControl",
+                        "line": 202
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 42,
+                        "durationMicroseconds": 198,
+                        "errorMessage": "",
+                        "functionName": "mapCircle",
+                        "line": 203
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 42,
+                        "durationMicroseconds": 62,
+                        "errorMessage": "Cannot access value for name _missionItem",
+                        "functionName": "borderColor",
+                        "line": 205
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 17,
+                        "durationMicroseconds": 47,
+                        "errorMessage": "Cannot access value for name _missionItem",
+                        "functionName": "updateMissionItem",
+                        "line": 209
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Cannot resolve property type QGeoCoordinate for binding on center.",
+                        "functionName": "center",
+                        "line": 215
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 97,
+                        "errorMessage": "Cannot access value for name _root",
+                        "functionName": "interactive",
+                        "line": 216
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 66,
+                        "errorMessage": "Cannot access value for name blockSignals",
+                        "functionName": "onClockwiseRotationChanged",
+                        "line": 218
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 40,
+                        "durationMicroseconds": 237,
+                        "errorMessage": "",
+                        "functionName": "target",
+                        "line": 222
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 21,
+                        "durationMicroseconds": 67,
+                        "errorMessage": "Cannot access value for name blockSignals",
+                        "functionName": "onRawValueChanged",
+                        "line": 223
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 36,
+                        "durationMicroseconds": 219,
+                        "errorMessage": "",
+                        "functionName": "onCompleted",
+                        "line": 229
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/QmlControls/SimpleItemMapVisual.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.Controls(QGroundControlControlsModule)"
+    }
+]

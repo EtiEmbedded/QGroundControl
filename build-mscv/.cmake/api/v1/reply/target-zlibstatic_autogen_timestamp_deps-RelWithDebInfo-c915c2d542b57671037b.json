@@ -1,0 +1,31 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"build-mscv/cpm_modules/zlib/b6adfce2bc5987edc7cfab3490c73021e521991f/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"folder" : 
+	{
+		"name" : "QtInternalTargets"
+	},
+	"id" : "zlibstatic_autogen_timestamp_deps::@c9556b0b6bf47963f9da",
+	"isGeneratorProvided" : true,
+	"name" : "zlibstatic_autogen_timestamp_deps",
+	"paths" : 
+	{
+		"build" : "_deps/zlib-build",
+		"source" : "build-mscv/cpm_modules/zlib/b6adfce2bc5987edc7cfab3490c73021e521991f"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

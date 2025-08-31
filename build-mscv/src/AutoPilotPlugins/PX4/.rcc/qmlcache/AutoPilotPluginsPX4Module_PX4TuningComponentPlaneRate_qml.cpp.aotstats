@@ -1,0 +1,84 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 801,
+                        "errorMessage": "Cannot access value for name availableHeight",
+                        "functionName": "_availableHeight",
+                        "line": 22
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 603,
+                        "errorMessage": "Cannot access value for name availableWidth",
+                        "functionName": "_availableWidth",
+                        "line": 23
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 80,
+                        "errorMessage": "Cannot access value for name _availableWidth",
+                        "functionName": "availableWidth",
+                        "line": 27
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 67,
+                        "errorMessage": "Cannot access value for name _availableHeight",
+                        "functionName": "availableHeight",
+                        "line": 28
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 21,
+                        "durationMicroseconds": 436,
+                        "errorMessage": "",
+                        "functionName": "tuningMode",
+                        "line": 162
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 15,
+                        "durationMicroseconds": 567,
+                        "errorMessage": "Cannot generate efficient code for storing an array in a non-sequence type",
+                        "functionName": "axis",
+                        "line": 164
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 32,
+                        "durationMicroseconds": 132,
+                        "errorMessage": "Cannot access value for name globals",
+                        "functionName": "plot",
+                        "line": 32
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 32,
+                        "durationMicroseconds": 110,
+                        "errorMessage": "Cannot access value for name globals",
+                        "functionName": "plot",
+                        "line": 73
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 32,
+                        "durationMicroseconds": 102,
+                        "errorMessage": "Cannot access value for name globals",
+                        "functionName": "plot",
+                        "line": 114
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/AutoPilotPlugins/PX4/PX4TuningComponentPlaneRate.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.AutoPilotPlugins.PX4(AutoPilotPluginsPX4Module)"
+    }
+]

@@ -1,0 +1,15 @@
+--bare
+-I
+C:/Users/User/qgroundcontrol/build-mingw/qml
+-I
+C:/Users/User/qgroundcontrol/build-mingw/qml
+-I
+C:/Qt/6.8.3/mingw_64/qml
+--resource
+C:/Users/User/qgroundcontrol/build-mingw/src/UI/FirstRunPromptDialogs/.qt/rcc/qmake_QGroundControl_FirstRunPromptDialogs.qrc
+--resource
+C:/Users/User/qgroundcontrol/build-mingw/src/UI/FirstRunPromptDialogs/.qt/rcc/FirstRunPromptDialogsModule_raw_qml_0.qrc
+C:/Users/User/qgroundcontrol/src/UI/FirstRunPromptDialogs/OfflineVehicleFirstRunPrompt.qml
+C:/Users/User/qgroundcontrol/src/UI/FirstRunPromptDialogs/UnitsFirstRunPrompt.qml
+--json
+C:/Users/User/qgroundcontrol/build-mingw/FirstRunPromptDialogsModule_qmllint.json

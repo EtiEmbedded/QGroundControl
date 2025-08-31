@@ -119,6 +119,8 @@ else()
     set(QGC_QT_ANDROID_MIN_SDK_VERSION "28" CACHE STRING "Android Min SDK Version")
 endif()
 
+
+
 find_package(Qt6
     ${QGC_QT_MINIMUM_VERSION}...${QGC_QT_MAXIMUM_VERSION}
     REQUIRED
@@ -280,6 +282,10 @@ qt_import_plugins(${CMAKE_PROJECT_NAME}
     INCLUDE_BY_TYPE sqldrivers Qt6::QSQLiteDriverPlugin
     # INCLUDE_BY_TYPE styles Qt6::qtquickcontrols2basicstyleplugin Qt6::qtquickcontrols2basicstyleimplplugin
 )
+
+
+
+
 
 include(Install)
 

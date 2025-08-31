@@ -1,0 +1,28 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 39,
+                        "durationMicroseconds": 99,
+                        "errorMessage": "Cannot load property showStartMission from (component in C:/Users/User/qgroundcontrol/src/FlightDisplay/FlyViewAdditionalActionsList.qml)::guidedController with type QVariant.",
+                        "functionName": "anyActionAvailable",
+                        "line": 15
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 38,
+                        "errorMessage": "Cannot load property startMissionTitle from (component in C:/Users/User/qgroundcontrol/src/FlightDisplay/FlyViewAdditionalActionsList.qml)::guidedController with type QVariant.",
+                        "functionName": "model",
+                        "line": 18
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/FlightDisplay/FlyViewAdditionalActionsList.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.FlightDisplay(FlightDisplayModule)"
+    }
+]

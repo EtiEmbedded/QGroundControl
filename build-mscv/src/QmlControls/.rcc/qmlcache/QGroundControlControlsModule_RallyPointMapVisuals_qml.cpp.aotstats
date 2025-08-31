@@ -1,0 +1,180 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 8,
+                        "durationMicroseconds": 455,
+                        "errorMessage": "",
+                        "functionName": "z",
+                        "line": 24
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 129,
+                        "errorMessage": "",
+                        "functionName": "_interactive",
+                        "line": 31
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 37,
+                        "errorMessage": "Cannot load property supported from (component in C:/Users/User/qgroundcontrol/src/QmlControls/RallyPointMapVisuals.qml)::myRallyPointController with type QVariant.",
+                        "functionName": "_rallyPointsSupported",
+                        "line": 33
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 24,
+                        "errorMessage": "Cannot load property points from (component in C:/Users/User/qgroundcontrol/src/QmlControls/RallyPointMapVisuals.qml)::myRallyPointController with type QVariant.",
+                        "functionName": "_rallyPoints",
+                        "line": 34
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 28,
+                        "durationMicroseconds": 517,
+                        "errorMessage": "",
+                        "functionName": "onCompleted",
+                        "line": 36
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 30,
+                        "durationMicroseconds": 333,
+                        "errorMessage": "Cannot generate efficient code for call to untyped JavaScript function",
+                        "functionName": "onDestruction",
+                        "line": 40
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 68,
+                        "errorMessage": "Cannot access value for name _root",
+                        "functionName": "mapControl",
+                        "line": 48
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 29,
+                        "errorMessage": "Cannot load property coordinate from (component in C:/Users/User/qgroundcontrol/src/QmlControls/RallyPointMapVisuals.qml)::rallyPointObject with type QVariant.",
+                        "functionName": "itemCoordinate",
+                        "line": 49
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 64,
+                        "errorMessage": "Cannot access value for name myRallyPointController",
+                        "functionName": "visible",
+                        "line": 50
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 38,
+                        "durationMicroseconds": 46,
+                        "errorMessage": "Type (component in C:/Users/User/qgroundcontrol/src/QmlControls/RallyPointMapVisuals.qml)::rallyPointObject with type QVariant does not have a property coordinate for writing",
+                        "functionName": "onItemCoordinateChanged",
+                        "line": 54
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 210,
+                        "errorMessage": "",
+                        "functionName": "z",
+                        "line": 65
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 43,
+                        "errorMessage": "Cannot access value for name _root",
+                        "functionName": "opacity",
+                        "line": 66
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 216,
+                        "errorMessage": "Cannot load property anchorPointX from (component in C:/Users/User/qgroundcontrol/src/QmlControls/RallyPointMapVisuals.qml)::sourceItem with type QQuickItem.",
+                        "functionName": "x",
+                        "line": 63
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 199,
+                        "errorMessage": "Cannot load property anchorPointY from (component in C:/Users/User/qgroundcontrol/src/QmlControls/RallyPointMapVisuals.qml)::sourceItem with type QQuickItem.",
+                        "functionName": "y",
+                        "line": 64
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 1046,
+                        "errorMessage": "Cannot access value for name _editingLayer",
+                        "functionName": "checked",
+                        "line": 73
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 63,
+                        "errorMessage": "Cannot access value for name myRallyPointController",
+                        "functionName": "onClicked",
+                        "line": 75
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 20,
+                        "durationMicroseconds": 36,
+                        "errorMessage": "Cannot access value for name _rallyPoints",
+                        "functionName": "model",
+                        "line": 85
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 52,
+                        "errorMessage": "Cannot access value for name _root",
+                        "functionName": "opacity",
+                        "line": 88
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 40,
+                        "durationMicroseconds": 159,
+                        "errorMessage": "Cannot generate efficient code for storing an array in a non-sequence type",
+                        "functionName": "_visuals",
+                        "line": 89
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 40,
+                        "durationMicroseconds": 70,
+                        "errorMessage": "Cannot access value for name rallyPointComponent",
+                        "functionName": "onCompleted",
+                        "line": 91
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 42,
+                        "durationMicroseconds": 77,
+                        "errorMessage": "Cannot load property length from (component in C:/Users/User/qgroundcontrol/src/QmlControls/RallyPointMapVisuals.qml)::_visuals with type QVariant.",
+                        "functionName": "onDestruction",
+                        "line": 102
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/QmlControls/RallyPointMapVisuals.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.Controls(QGroundControlControlsModule)"
+    }
+]

@@ -1,0 +1,5 @@
+module QGroundControl.ScreenTools
+typeinfo ScreenToolsModule.qmltypes
+prefer :/qml/QGroundControl/ScreenTools/
+singleton ScreenTools 1.0 ScreenTools.qml
+

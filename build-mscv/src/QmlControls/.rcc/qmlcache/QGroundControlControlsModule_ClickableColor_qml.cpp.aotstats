@@ -1,0 +1,36 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 21,
+                        "durationMicroseconds": 1025,
+                        "errorMessage": "",
+                        "functionName": "onAccepted",
+                        "line": 17
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 20,
+                        "durationMicroseconds": 628,
+                        "errorMessage": "",
+                        "functionName": "onClicked",
+                        "line": 26
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 23,
+                        "durationMicroseconds": 174,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 24
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/QmlControls/ClickableColor.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.Controls(QGroundControlControlsModule)"
+    }
+]

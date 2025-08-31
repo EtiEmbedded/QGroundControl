@@ -1,0 +1,52 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 12,
+                        "durationMicroseconds": 544,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 9
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 17,
+                        "durationMicroseconds": 86,
+                        "errorMessage": "Cannot access value for name labelText",
+                        "functionName": "text",
+                        "line": 13
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 49,
+                        "errorMessage": "Cannot access value for name valueText",
+                        "functionName": "text",
+                        "line": 16
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 231,
+                        "errorMessage": "",
+                        "functionName": "elide",
+                        "line": 17
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 161,
+                        "errorMessage": "",
+                        "functionName": "horizontalAlignment",
+                        "line": 18
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/QmlControls/VehicleSummaryRow.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.Controls(QGroundControlControlsModule)"
+    }
+]

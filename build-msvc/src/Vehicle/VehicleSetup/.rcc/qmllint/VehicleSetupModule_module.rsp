@@ -1,0 +1,12 @@
+-I
+C:/Users/User/qgroundcontrol/build-msvc/qml
+-I
+C:/Users/User/qgroundcontrol/build-msvc/qml
+-I
+C:/Qt/6.8.3/msvc2022_64/qml
+--resource
+C:/Users/User/qgroundcontrol/build-msvc/src/Vehicle/VehicleSetup/.qt/rcc/qmake_QGroundControl_VehicleSetup.qrc
+--resource
+C:/Users/User/qgroundcontrol/build-msvc/src/Vehicle/VehicleSetup/.qt/rcc/VehicleSetupModule_raw_qml_0.qrc
+--module
+QGroundControl.VehicleSetup

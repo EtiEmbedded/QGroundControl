@@ -1,0 +1,2540 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 630,
+                        "errorMessage": "",
+                        "functionName": "_settingsManager",
+                        "line": 36
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 208,
+                        "errorMessage": "Cannot load property offlineMapsSettings from (component in C:/Users/User/qgroundcontrol/src/QmlControls/OfflineMapEditor.qml)::_settingsManager with type QVariant.",
+                        "functionName": "_settings",
+                        "line": 37
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 47,
+                        "errorMessage": "Cannot load property flightMapSettings from (component in C:/Users/User/qgroundcontrol/src/QmlControls/OfflineMapEditor.qml)::_settingsManager with type QVariant.",
+                        "functionName": "_fmSettings",
+                        "line": 38
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 22,
+                        "errorMessage": "Cannot load property appSettings from (component in C:/Users/User/qgroundcontrol/src/QmlControls/OfflineMapEditor.qml)::_settingsManager with type QVariant.",
+                        "functionName": "_appSettings",
+                        "line": 39
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 37,
+                        "errorMessage": "Cannot load property appSettings from (component in C:/Users/User/qgroundcontrol/src/QmlControls/OfflineMapEditor.qml)::_settingsManager with type QVariant.",
+                        "functionName": "_mapboxFact",
+                        "line": 40
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 35,
+                        "errorMessage": "Cannot load property appSettings from (component in C:/Users/User/qgroundcontrol/src/QmlControls/OfflineMapEditor.qml)::_settingsManager with type QVariant.",
+                        "functionName": "_mapboxAccountFact",
+                        "line": 41
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 57,
+                        "errorMessage": "Cannot load property appSettings from (component in C:/Users/User/qgroundcontrol/src/QmlControls/OfflineMapEditor.qml)::_settingsManager with type QVariant.",
+                        "functionName": "_mapboxStyleFact",
+                        "line": 42
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 36,
+                        "errorMessage": "Cannot load property appSettings from (component in C:/Users/User/qgroundcontrol/src/QmlControls/OfflineMapEditor.qml)::_settingsManager with type QVariant.",
+                        "functionName": "_esriFact",
+                        "line": 43
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 42,
+                        "errorMessage": "Cannot load property appSettings from (component in C:/Users/User/qgroundcontrol/src/QmlControls/OfflineMapEditor.qml)::_settingsManager with type QVariant.",
+                        "functionName": "_customURLFact",
+                        "line": 44
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 34,
+                        "errorMessage": "Cannot load property appSettings from (component in C:/Users/User/qgroundcontrol/src/QmlControls/OfflineMapEditor.qml)::_settingsManager with type QVariant.",
+                        "functionName": "_vworldFact",
+                        "line": 45
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 55,
+                        "errorMessage": "Cannot load property mapProvider from (component in C:/Users/User/qgroundcontrol/src/QmlControls/OfflineMapEditor.qml)::_fmSettings with type QVariant.",
+                        "functionName": "mapType",
+                        "line": 47
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 125,
+                        "errorMessage": "",
+                        "functionName": "savedCenter",
+                        "line": 49
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 43,
+                        "errorMessage": "Cannot load property defaultSet from (component in C:/Users/User/qgroundcontrol/src/QmlControls/OfflineMapEditor.qml)::tileSet with type QVariant.",
+                        "functionName": "_defaultSet",
+                        "line": 53
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 7834,
+                        "errorMessage": "",
+                        "functionName": "_margins",
+                        "line": 54
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 348,
+                        "errorMessage": "",
+                        "functionName": "_buttonSize",
+                        "line": 55
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 284,
+                        "errorMessage": "",
+                        "functionName": "_bigButtonSize",
+                        "line": 56
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 47,
+                        "durationMicroseconds": 347,
+                        "errorMessage": "",
+                        "functionName": "_saveRealEstate",
+                        "line": 58
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 47,
+                        "durationMicroseconds": 392,
+                        "errorMessage": "",
+                        "functionName": "_adjustableFontPointSize",
+                        "line": 59
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 415,
+                        "errorMessage": "",
+                        "functionName": "_mapAdjustedColor",
+                        "line": 61
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 66,
+                        "errorMessage": "Cannot load property mapEngineManager from QGroundControlQmlGlobal.",
+                        "functionName": "_tooManyTiles",
+                        "line": 62
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 868,
+                        "errorMessage": "",
+                        "functionName": "sliderTouchArea",
+                        "line": 67
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 88,
+                        "errorMessage": "Cannot load property maxTilesForDownload from (component in C:/Users/User/qgroundcontrol/src/QmlControls/OfflineMapEditor.qml)::_settings with type QVariant.",
+                        "functionName": "_maxTilesForDownload",
+                        "line": 69
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 420,
+                        "errorMessage": "Cannot load property mapEngineManager from QGroundControlQmlGlobal.",
+                        "functionName": "handleChanges",
+                        "line": 88
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 2910,
+                        "errorMessage": "Cannot generate efficient code for access to 'length' property of sequence wrapped in non-sequence",
+                        "functionName": "updateMap",
+                        "line": 100
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 158,
+                        "errorMessage": "Cannot load property mapProvider from (component in C:/Users/User/qgroundcontrol/src/QmlControls/OfflineMapEditor.qml)::_fmSettings with type QVariant.",
+                        "functionName": "addNewSet",
+                        "line": 110
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 325,
+                        "errorMessage": "Cannot load property defaultSet from (component in C:/Users/User/qgroundcontrol/src/QmlControls/OfflineMapEditor.qml)::tileSet with type QVariant.",
+                        "functionName": "showInfo",
+                        "line": 118
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "toRadian",
+                        "line": 142
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "toDegree",
+                        "line": 146
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "midPoint",
+                        "line": 150
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 66,
+                        "errorMessage": "Cannot load property flightMapPosition from QGroundControlQmlGlobal.",
+                        "functionName": "resetMapToDefaults",
+                        "line": 162
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 23,
+                        "durationMicroseconds": 78,
+                        "errorMessage": "Cannot load property mapEngineManager from QGroundControlQmlGlobal.",
+                        "functionName": "onMapTypeChanged",
+                        "line": 167
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 35,
+                        "durationMicroseconds": 1231,
+                        "errorMessage": "Cannot generate efficient code for call to untyped JavaScript function",
+                        "functionName": "isSatelliteMap",
+                        "line": 174
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 158,
+                        "errorMessage": "",
+                        "functionName": "onCenterChanged",
+                        "line": 185
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 138,
+                        "errorMessage": "",
+                        "functionName": "onZoomLevelChanged",
+                        "line": 186
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 139,
+                        "errorMessage": "",
+                        "functionName": "onWidthChanged",
+                        "line": 187
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 108,
+                        "errorMessage": "",
+                        "functionName": "onHeightChanged",
+                        "line": 188
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 28,
+                        "durationMicroseconds": 77,
+                        "errorMessage": "Cannot load property mapEngineManager from QGroundControlQmlGlobal.",
+                        "functionName": "onCompleted",
+                        "line": 73
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 30,
+                        "durationMicroseconds": 1403,
+                        "errorMessage": "Cannot access value for name settingsPage",
+                        "functionName": "onDestruction",
+                        "line": 81
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 57,
+                        "errorMessage": "Cannot load property mapEngineManager from QGroundControlQmlGlobal.",
+                        "functionName": "target",
+                        "line": 84
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"errorMessageChanged\".",
+                        "functionName": "onErrorMessageChanged",
+                        "line": 85
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 560,
+                        "errorMessage": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: QVariant -> QColor stored as QVariant",
+                        "functionName": "color",
+                        "line": 180
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 160,
+                        "errorMessage": "",
+                        "functionName": "mapControl",
+                        "line": 195
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 347,
+                        "errorMessage": "",
+                        "functionName": "leftMargin",
+                        "line": 191
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 185,
+                        "errorMessage": "",
+                        "functionName": "bottomMargin",
+                        "line": 192
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 255,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 193
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 242,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 194
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 545,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 209
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 479,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 210
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 100,
+                        "errorMessage": "Cannot access value for name qgcPal",
+                        "functionName": "color",
+                        "line": 211
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 269,
+                        "errorMessage": "",
+                        "functionName": "radius",
+                        "line": 212
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 47,
+                        "durationMicroseconds": 74,
+                        "errorMessage": "Cannot access value for name tileSet",
+                        "functionName": "_extraButton",
+                        "line": 214
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 266,
+                        "errorMessage": "",
+                        "functionName": "_labelWidth",
+                        "line": 221
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 242,
+                        "errorMessage": "",
+                        "functionName": "_valueWidth",
+                        "line": 222
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 159,
+                        "errorMessage": "",
+                        "functionName": "margins",
+                        "line": 206
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 238,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 207
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 230,
+                        "errorMessage": "",
+                        "functionName": "verticalCenter",
+                        "line": 208
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 269,
+                        "errorMessage": "",
+                        "functionName": "spacing",
+                        "line": 226
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 247,
+                        "errorMessage": "",
+                        "functionName": "margins",
+                        "line": 225
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 109,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 227
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 163,
+                        "errorMessage": "",
+                        "functionName": "wrapMode",
+                        "line": 231
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 83,
+                        "errorMessage": "Cannot access value for name tileSet",
+                        "functionName": "text",
+                        "line": 232
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 42,
+                        "durationMicroseconds": 143,
+                        "errorMessage": "",
+                        "functionName": "horizontalAlignment",
+                        "line": 234
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 60,
+                        "errorMessage": "Cannot access value for name _defaultSet",
+                        "functionName": "visible",
+                        "line": 235
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 275,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 229
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 242,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 230
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 71,
+                        "errorMessage": "Cannot access value for name _saveRealEstate",
+                        "functionName": "pointSize",
+                        "line": 233
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"visible\".",
+                        "functionName": "visible",
+                        "line": 241
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"text\".",
+                        "functionName": "text",
+                        "line": 242
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"left\".",
+                        "functionName": "left",
+                        "line": 239
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"right\".",
+                        "functionName": "right",
+                        "line": 240
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 201,
+                        "errorMessage": "",
+                        "functionName": "wrapMode",
+                        "line": 247
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 27,
+                        "durationMicroseconds": 76,
+                        "errorMessage": "Cannot access value for name tileSet",
+                        "functionName": "text",
+                        "line": 248
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 42,
+                        "durationMicroseconds": 185,
+                        "errorMessage": "",
+                        "functionName": "horizontalAlignment",
+                        "line": 257
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 281,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 245
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 269,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 246
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 181,
+                        "errorMessage": "",
+                        "functionName": "spacing",
+                        "line": 261
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 74,
+                        "errorMessage": "Cannot access value for name _defaultSet",
+                        "functionName": "visible",
+                        "line": 263
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 47,
+                        "durationMicroseconds": 246,
+                        "errorMessage": "",
+                        "functionName": "horizontalCenter",
+                        "line": 262
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 68,
+                        "durationMicroseconds": 150,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 264
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 39,
+                        "durationMicroseconds": 79,
+                        "errorMessage": "Cannot access value for name tileSet",
+                        "functionName": "text",
+                        "line": 265
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 120,
+                        "durationMicroseconds": 157,
+                        "errorMessage": "",
+                        "functionName": "horizontalAlignment",
+                        "line": 265
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 144,
+                        "durationMicroseconds": 146,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 265
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 141,
+                        "errorMessage": "",
+                        "functionName": "spacing",
+                        "line": 268
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 68,
+                        "errorMessage": "Cannot access value for name _defaultSet",
+                        "functionName": "visible",
+                        "line": 270
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 47,
+                        "durationMicroseconds": 258,
+                        "errorMessage": "",
+                        "functionName": "horizontalCenter",
+                        "line": 269
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 62,
+                        "durationMicroseconds": 164,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 271
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 39,
+                        "durationMicroseconds": 79,
+                        "errorMessage": "Cannot access value for name tileSet",
+                        "functionName": "text",
+                        "line": 272
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 162,
+                        "durationMicroseconds": 170,
+                        "errorMessage": "",
+                        "functionName": "horizontalAlignment",
+                        "line": 272
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 186,
+                        "durationMicroseconds": 146,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 272
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 143,
+                        "errorMessage": "",
+                        "functionName": "spacing",
+                        "line": 275
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 62,
+                        "errorMessage": "Cannot access value for name tileSet",
+                        "functionName": "visible",
+                        "line": 277
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 47,
+                        "durationMicroseconds": 287,
+                        "errorMessage": "",
+                        "functionName": "horizontalCenter",
+                        "line": 276
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 63,
+                        "durationMicroseconds": 155,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 278
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 39,
+                        "durationMicroseconds": 67,
+                        "errorMessage": "Cannot access value for name tileSet",
+                        "functionName": "text",
+                        "line": 279
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 163,
+                        "durationMicroseconds": 236,
+                        "errorMessage": "",
+                        "functionName": "horizontalAlignment",
+                        "line": 279
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 187,
+                        "durationMicroseconds": 152,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 279
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 128,
+                        "errorMessage": "",
+                        "functionName": "spacing",
+                        "line": 283
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 57,
+                        "errorMessage": "Cannot access value for name tileSet",
+                        "functionName": "visible",
+                        "line": 285
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 47,
+                        "durationMicroseconds": 227,
+                        "errorMessage": "",
+                        "functionName": "horizontalCenter",
+                        "line": 284
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 67,
+                        "durationMicroseconds": 135,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 286
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 39,
+                        "durationMicroseconds": 68,
+                        "errorMessage": "Cannot access value for name tileSet",
+                        "functionName": "text",
+                        "line": 287
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 161,
+                        "durationMicroseconds": 159,
+                        "errorMessage": "",
+                        "functionName": "horizontalAlignment",
+                        "line": 287
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 185,
+                        "durationMicroseconds": 140,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 287
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 148,
+                        "errorMessage": "",
+                        "functionName": "spacing",
+                        "line": 290
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 65,
+                        "errorMessage": "Cannot access value for name tileSet",
+                        "functionName": "visible",
+                        "line": 292
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 47,
+                        "durationMicroseconds": 227,
+                        "errorMessage": "",
+                        "functionName": "horizontalCenter",
+                        "line": 291
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 68,
+                        "durationMicroseconds": 140,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 293
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 39,
+                        "durationMicroseconds": 56,
+                        "errorMessage": "Cannot access value for name tileSet",
+                        "functionName": "text",
+                        "line": 294
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 98,
+                        "durationMicroseconds": 164,
+                        "errorMessage": "",
+                        "functionName": "horizontalAlignment",
+                        "line": 294
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 122,
+                        "durationMicroseconds": 138,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 294
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 133,
+                        "errorMessage": "",
+                        "functionName": "spacing",
+                        "line": 298
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 54,
+                        "errorMessage": "Cannot access value for name _defaultSet",
+                        "functionName": "visible",
+                        "line": 300
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 47,
+                        "durationMicroseconds": 224,
+                        "errorMessage": "",
+                        "functionName": "horizontalCenter",
+                        "line": 299
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 60,
+                        "durationMicroseconds": 150,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 301
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 38,
+                        "durationMicroseconds": 69,
+                        "errorMessage": "Cannot access value for name tileSet",
+                        "functionName": "text",
+                        "line": 302
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 101,
+                        "durationMicroseconds": 146,
+                        "errorMessage": "",
+                        "functionName": "horizontalAlignment",
+                        "line": 302
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 125,
+                        "durationMicroseconds": 135,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 302
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 145,
+                        "errorMessage": "",
+                        "functionName": "spacing",
+                        "line": 305
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 51,
+                        "errorMessage": "Cannot access value for name _defaultSet",
+                        "functionName": "visible",
+                        "line": 307
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 47,
+                        "durationMicroseconds": 222,
+                        "errorMessage": "",
+                        "functionName": "horizontalCenter",
+                        "line": 306
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 66,
+                        "durationMicroseconds": 131,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 308
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 38,
+                        "durationMicroseconds": 58,
+                        "errorMessage": "Cannot access value for name tileSet",
+                        "functionName": "text",
+                        "line": 309
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 101,
+                        "durationMicroseconds": 160,
+                        "errorMessage": "",
+                        "functionName": "horizontalAlignment",
+                        "line": 309
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 125,
+                        "durationMicroseconds": 145,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 309
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 152,
+                        "errorMessage": "",
+                        "functionName": "spacing",
+                        "line": 312
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 47,
+                        "durationMicroseconds": 216,
+                        "errorMessage": "",
+                        "functionName": "horizontalCenter",
+                        "line": 313
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"visible\".",
+                        "functionName": "visible",
+                        "line": 316
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"width\".",
+                        "functionName": "width",
+                        "line": 317
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 36,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"clicked\".",
+                        "functionName": "onClicked",
+                        "line": 318
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"visible\".",
+                        "functionName": "visible",
+                        "line": 325
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"width\".",
+                        "functionName": "width",
+                        "line": 326
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 36,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"clicked\".",
+                        "functionName": "onClicked",
+                        "line": 327
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"width\".",
+                        "functionName": "width",
+                        "line": 334
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"clicked\".",
+                        "functionName": "onClicked",
+                        "line": 335
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"enabled\".",
+                        "functionName": "enabled",
+                        "line": 336
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"width\".",
+                        "functionName": "width",
+                        "line": 340
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"visible\".",
+                        "functionName": "visible",
+                        "line": 341
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"enabled\".",
+                        "functionName": "enabled",
+                        "line": 342
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 36,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"clicked\".",
+                        "functionName": "onClicked",
+                        "line": 343
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"text\".",
+                        "functionName": "text",
+                        "line": 351
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"width\".",
+                        "functionName": "width",
+                        "line": 352
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"clicked\".",
+                        "functionName": "onClicked",
+                        "line": 353
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 80,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: sliderMinZoom",
+                        "functionName": "sliderMinZoom",
+                        "line": 367
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 37,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: sliderMaxZoom",
+                        "functionName": "sliderMaxZoom",
+                        "line": 368
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 156,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 365
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 72,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "spacing",
+                        "line": 374
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 319,
+                        "errorMessage": "",
+                        "functionName": "verticalCenter",
+                        "line": 371
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 64,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "leftMargin",
+                        "line": 372
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 361,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 373
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"visible\".",
+                        "functionName": "visible",
+                        "line": 378
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"clicked\".",
+                        "functionName": "onClicked",
+                        "line": 379
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 363,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 384
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 277,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 385
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 70,
+                        "errorMessage": "Cannot access value for name _map",
+                        "functionName": "center",
+                        "line": 386
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 45,
+                        "errorMessage": "Cannot access value for name _map",
+                        "functionName": "activeMapType",
+                        "line": 387
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 59,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: sliderMinZoom",
+                        "functionName": "zoomLevel",
+                        "line": 388
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 50,
+                        "errorMessage": "Cannot access value for name _showPreview",
+                        "functionName": "visible",
+                        "line": 389
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 51,
+                        "durationMicroseconds": 1339,
+                        "errorMessage": "Cannot generate efficient code for call to untyped JavaScript function",
+                        "functionName": "isSatelliteMap",
+                        "line": 391
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 189,
+                        "errorMessage": "",
+                        "functionName": "mapControl",
+                        "line": 400
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 333,
+                        "errorMessage": "",
+                        "functionName": "leftMargin",
+                        "line": 396
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 197,
+                        "errorMessage": "",
+                        "functionName": "bottomMargin",
+                        "line": 397
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 266,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 398
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 246,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 399
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 142,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 405
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 81,
+                        "errorMessage": "Cannot access value for name _mapAdjustedColor",
+                        "functionName": "color",
+                        "line": 406
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 181,
+                        "errorMessage": "",
+                        "functionName": "map",
+                        "line": 411
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 104,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: sliderMinZoom",
+                        "functionName": "text",
+                        "line": 412
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 136,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 410
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 75,
+                        "errorMessage": "Cannot find name _showPreview",
+                        "functionName": "onClicked",
+                        "line": 416
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 126,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 415
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 228,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 423
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 160,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 424
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 81,
+                        "errorMessage": "Cannot access value for name _map",
+                        "functionName": "center",
+                        "line": 425
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 50,
+                        "errorMessage": "Cannot access value for name _map",
+                        "functionName": "activeMapType",
+                        "line": 426
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 46,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: sliderMaxZoom",
+                        "functionName": "zoomLevel",
+                        "line": 427
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 49,
+                        "errorMessage": "Cannot access value for name _showPreview",
+                        "functionName": "visible",
+                        "line": 428
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 51,
+                        "durationMicroseconds": 1328,
+                        "errorMessage": "Cannot generate efficient code for call to untyped JavaScript function",
+                        "functionName": "isSatelliteMap",
+                        "line": 430
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 197,
+                        "errorMessage": "",
+                        "functionName": "mapControl",
+                        "line": 439
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 318,
+                        "errorMessage": "",
+                        "functionName": "leftMargin",
+                        "line": 435
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 195,
+                        "errorMessage": "",
+                        "functionName": "bottomMargin",
+                        "line": 436
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 235,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 437
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 242,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 438
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 117,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 444
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 70,
+                        "errorMessage": "Cannot access value for name _mapAdjustedColor",
+                        "functionName": "color",
+                        "line": 445
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 169,
+                        "errorMessage": "",
+                        "functionName": "map",
+                        "line": 450
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 171,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: sliderMaxZoom",
+                        "functionName": "text",
+                        "line": 451
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 228,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 449
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 76,
+                        "errorMessage": "Cannot find name _showPreview",
+                        "functionName": "onClicked",
+                        "line": 455
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 127,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 454
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 572,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 465
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 1418,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 466
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 105,
+                        "errorMessage": "Cannot access value for name qgcPal",
+                        "functionName": "color",
+                        "line": 467
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 273,
+                        "errorMessage": "",
+                        "functionName": "radius",
+                        "line": 468
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 157,
+                        "errorMessage": "",
+                        "functionName": "margins",
+                        "line": 462
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 254,
+                        "errorMessage": "",
+                        "functionName": "verticalCenter",
+                        "line": 463
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 520,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 464
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 35,
+                        "durationMicroseconds": 178,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 472
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 199,
+                        "errorMessage": "",
+                        "functionName": "wrapMode",
+                        "line": 481
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 42,
+                        "durationMicroseconds": 142,
+                        "errorMessage": "",
+                        "functionName": "horizontalAlignment",
+                        "line": 484
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 302,
+                        "errorMessage": "",
+                        "functionName": "margins",
+                        "line": 477
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 232,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 478
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 226,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 479
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 209,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 480
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 82,
+                        "errorMessage": "Cannot access value for name _saveRealEstate",
+                        "functionName": "pointSize",
+                        "line": 483
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 179,
+                        "errorMessage": "",
+                        "functionName": "contentHeight",
+                        "line": 498
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 192,
+                        "errorMessage": "",
+                        "functionName": "leftMargin",
+                        "line": 489
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 241,
+                        "errorMessage": "",
+                        "functionName": "rightMargin",
+                        "line": 490
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 267,
+                        "errorMessage": "",
+                        "functionName": "topMargin",
+                        "line": 491
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 161,
+                        "errorMessage": "",
+                        "functionName": "bottomMargin",
+                        "line": 492
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 252,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 493
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 249,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 494
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 224,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 495
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 239,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 496
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 523,
+                        "errorMessage": "",
+                        "functionName": "spacing",
+                        "line": 504
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 258,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 502
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 244,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 503
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 594,
+                        "errorMessage": "",
+                        "functionName": "spacing",
+                        "line": 507
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 253,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 508
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 225,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 509
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 57,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"left\".",
+                        "functionName": "left",
+                        "line": 513
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 57,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"right\".",
+                        "functionName": "right",
+                        "line": 514
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 57,
+                        "durationMicroseconds": 77,
+                        "errorMessage": "Cannot load property mapEngineManager from QGroundControlQmlGlobal.",
+                        "functionName": "onCompleted",
+                        "line": 515
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 57,
+                        "durationMicroseconds": 37,
+                        "errorMessage": "Cannot load property mapEngineManager from QGroundControlQmlGlobal.",
+                        "functionName": "target",
+                        "line": 517
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 57,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"tileSetsChanged\".",
+                        "functionName": "onTileSetsChanged",
+                        "line": 518
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 555,
+                        "errorMessage": "",
+                        "functionName": "spacing",
+                        "line": 524
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 265,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 525
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 248,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 526
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 97,
+                        "errorMessage": "Cannot access value for name _saveRealEstate",
+                        "functionName": "visible",
+                        "line": 529
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 64,
+                        "errorMessage": "Cannot load property mapEngineManager from QGroundControlQmlGlobal.",
+                        "functionName": "model",
+                        "line": 535
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 47,
+                        "durationMicroseconds": 106,
+                        "errorMessage": "Cannot find name mapType",
+                        "functionName": "onActivated",
+                        "line": 536
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 47,
+                        "durationMicroseconds": 109,
+                        "errorMessage": "",
+                        "functionName": "onActivated",
+                        "line": 536
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 281,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 533
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 229,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 534
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 56,
+                        "durationMicroseconds": 148,
+                        "errorMessage": "Cannot access value for name mapType",
+                        "functionName": "onCompleted",
+                        "line": 539
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"checked\".",
+                        "functionName": "checked",
+                        "line": 552
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 44,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"clicked\".",
+                        "functionName": "onClicked",
+                        "line": 553
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"left\".",
+                        "functionName": "left",
+                        "line": 549
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"right\".",
+                        "functionName": "right",
+                        "line": 550
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 531,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 563
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 81,
+                        "errorMessage": "Cannot access value for name qgcPal",
+                        "functionName": "color",
+                        "line": 564
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 295,
+                        "errorMessage": "",
+                        "functionName": "radius",
+                        "line": 566
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 297,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 561
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 259,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 562
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 85,
+                        "errorMessage": "Cannot access value for name qgcPal",
+                        "functionName": "color",
+                        "line": 565
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 576,
+                        "errorMessage": "",
+                        "functionName": "spacing",
+                        "line": 570
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 291,
+                        "errorMessage": "",
+                        "functionName": "margins",
+                        "line": 571
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 246,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 572
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 216,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 573
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 242,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 574
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 96,
+                        "errorMessage": "Cannot access value for name _adjustableFontPointSize",
+                        "functionName": "pointSize",
+                        "line": 578
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 63,
+                        "durationMicroseconds": 270,
+                        "errorMessage": "",
+                        "functionName": "horizontalCenter",
+                        "line": 579
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 65,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"height\".",
+                        "functionName": "height",
+                        "line": 586
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 65,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"from\".",
+                        "functionName": "from",
+                        "line": 587
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 65,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"to\".",
+                        "functionName": "to",
+                        "line": 588
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"valueChanged\".",
+                        "functionName": "onValueChanged",
+                        "line": 596
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 65,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"left\".",
+                        "functionName": "left",
+                        "line": 584
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 65,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"right\".",
+                        "functionName": "right",
+                        "line": 585
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 60,
+                        "durationMicroseconds": 89,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: sliderMinZoom",
+                        "functionName": "onCompleted",
+                        "line": 592
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 44,
+                        "durationMicroseconds": 95,
+                        "errorMessage": "Cannot access value for name sliderMinZoom",
+                        "functionName": "x",
+                        "line": 607
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 44,
+                        "durationMicroseconds": 73,
+                        "errorMessage": "Cannot access value for name sliderMinZoom",
+                        "functionName": "y",
+                        "line": 608
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 57,
+                        "durationMicroseconds": 55,
+                        "errorMessage": "Cannot access value for name sliderTouchArea",
+                        "functionName": "implicitWidth",
+                        "line": 609
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 57,
+                        "durationMicroseconds": 46,
+                        "errorMessage": "Cannot access value for name sliderTouchArea",
+                        "functionName": "implicitHeight",
+                        "line": 610
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 57,
+                        "durationMicroseconds": 46,
+                        "errorMessage": "Cannot access value for name sliderTouchArea",
+                        "functionName": "radius",
+                        "line": 611
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 57,
+                        "durationMicroseconds": 47,
+                        "errorMessage": "Cannot access value for name qgcPal",
+                        "functionName": "color",
+                        "line": 612
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 57,
+                        "durationMicroseconds": 56,
+                        "errorMessage": "Cannot access value for name qgcPal",
+                        "functionName": "color",
+                        "line": 614
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 65,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"text\".",
+                        "functionName": "text",
+                        "line": 616
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 65,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"color\".",
+                        "functionName": "color",
+                        "line": 620
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 65,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"centerIn\".",
+                        "functionName": "centerIn",
+                        "line": 617
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 65,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"family\".",
+                        "functionName": "family",
+                        "line": 618
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 65,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"pointSize\".",
+                        "functionName": "pointSize",
+                        "line": 619
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 65,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"height\".",
+                        "functionName": "height",
+                        "line": 629
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 65,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"from\".",
+                        "functionName": "from",
+                        "line": 630
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 65,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"to\".",
+                        "functionName": "to",
+                        "line": 631
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"valueChanged\".",
+                        "functionName": "onValueChanged",
+                        "line": 639
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 65,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"left\".",
+                        "functionName": "left",
+                        "line": 627
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 65,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"right\".",
+                        "functionName": "right",
+                        "line": 628
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 60,
+                        "durationMicroseconds": 80,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: sliderMaxZoom",
+                        "functionName": "onCompleted",
+                        "line": 635
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 44,
+                        "durationMicroseconds": 92,
+                        "errorMessage": "Cannot access value for name sliderMaxZoom",
+                        "functionName": "x",
+                        "line": 650
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 44,
+                        "durationMicroseconds": 56,
+                        "errorMessage": "Cannot access value for name sliderMaxZoom",
+                        "functionName": "y",
+                        "line": 651
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 57,
+                        "durationMicroseconds": 51,
+                        "errorMessage": "Cannot access value for name sliderTouchArea",
+                        "functionName": "implicitWidth",
+                        "line": 652
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 57,
+                        "durationMicroseconds": 48,
+                        "errorMessage": "Cannot access value for name sliderTouchArea",
+                        "functionName": "implicitHeight",
+                        "line": 653
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 57,
+                        "durationMicroseconds": 52,
+                        "errorMessage": "Cannot access value for name sliderTouchArea",
+                        "functionName": "radius",
+                        "line": 654
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 57,
+                        "durationMicroseconds": 53,
+                        "errorMessage": "Cannot access value for name qgcPal",
+                        "functionName": "color",
+                        "line": 655
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 57,
+                        "durationMicroseconds": 50,
+                        "errorMessage": "Cannot access value for name qgcPal",
+                        "functionName": "color",
+                        "line": 657
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 65,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"text\".",
+                        "functionName": "text",
+                        "line": 659
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 65,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"color\".",
+                        "functionName": "color",
+                        "line": 663
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 65,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"centerIn\".",
+                        "functionName": "centerIn",
+                        "line": 660
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 65,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"family\".",
+                        "functionName": "family",
+                        "line": 661
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 65,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"pointSize\".",
+                        "functionName": "pointSize",
+                        "line": 662
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 658,
+                        "errorMessage": "",
+                        "functionName": "rowSpacing",
+                        "line": 670
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 57,
+                        "durationMicroseconds": 98,
+                        "errorMessage": "Cannot access value for name _adjustableFontPointSize",
+                        "functionName": "pointSize",
+                        "line": 673
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 58,
+                        "durationMicroseconds": 62,
+                        "errorMessage": "Cannot load property mapEngineManager from QGroundControlQmlGlobal.",
+                        "functionName": "text",
+                        "line": 676
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 57,
+                        "durationMicroseconds": 84,
+                        "errorMessage": "Cannot access value for name _adjustableFontPointSize",
+                        "functionName": "pointSize",
+                        "line": 677
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 57,
+                        "durationMicroseconds": 65,
+                        "errorMessage": "Cannot access value for name _adjustableFontPointSize",
+                        "functionName": "pointSize",
+                        "line": 682
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 57,
+                        "durationMicroseconds": 42,
+                        "errorMessage": "Cannot load property mapEngineManager from QGroundControlQmlGlobal.",
+                        "functionName": "text",
+                        "line": 685
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 57,
+                        "durationMicroseconds": 86,
+                        "errorMessage": "Cannot access value for name _adjustableFontPointSize",
+                        "functionName": "pointSize",
+                        "line": 686
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 62,
+                        "errorMessage": "Cannot access value for name _tooManyTiles",
+                        "functionName": "visible",
+                        "line": 694
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 56,
+                        "errorMessage": "Cannot access value for name qgcPal",
+                        "functionName": "color",
+                        "line": 695
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 55,
+                        "durationMicroseconds": 321,
+                        "errorMessage": "",
+                        "functionName": "horizontalCenter",
+                        "line": 696
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 38,
+                        "durationMicroseconds": 217,
+                        "errorMessage": "",
+                        "functionName": "spacing",
+                        "line": 701
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 55,
+                        "durationMicroseconds": 300,
+                        "errorMessage": "",
+                        "functionName": "horizontalCenter",
+                        "line": 702
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"width\".",
+                        "functionName": "width",
+                        "line": 705
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"enabled\".",
+                        "functionName": "enabled",
+                        "line": 706
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 44,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"clicked\".",
+                        "functionName": "onClicked",
+                        "line": 707
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"width\".",
+                        "functionName": "width",
+                        "line": 718
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"clicked\".",
+                        "functionName": "onClicked",
+                        "line": 719
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 219,
+                        "errorMessage": "",
+                        "functionName": "map",
+                        "line": 734
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 66,
+                        "errorMessage": "Cannot access value for name _addNewSetViewObject",
+                        "functionName": "visible",
+                        "line": 737
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 59,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "margins",
+                        "line": 731
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 37,
+                        "errorMessage": "Cannot load property left from (component in C:/Users/User/qgroundcontrol/src/QmlControls/OfflineMapEditor.qml)::map with type QVariant.",
+                        "functionName": "left",
+                        "line": 732
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 22,
+                        "errorMessage": "Cannot load property top from (component in C:/Users/User/qgroundcontrol/src/QmlControls/OfflineMapEditor.qml)::map with type QVariant.",
+                        "functionName": "top",
+                        "line": 733
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 329,
+                        "errorMessage": "Cannot access value for name _mapEngineManager",
+                        "functionName": "text",
+                        "line": 745
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 167,
+                        "errorMessage": "Cannot access value for name Dialog",
+                        "functionName": "buttons",
+                        "line": 746
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 81,
+                        "errorMessage": "Cannot access value for name tileSet",
+                        "functionName": "text",
+                        "line": 755
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 173,
+                        "errorMessage": "Cannot access value for name Dialog",
+                        "functionName": "buttons",
+                        "line": 758
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 62,
+                        "errorMessage": "Cannot load property mapEngineManager from QGroundControlQmlGlobal.",
+                        "functionName": "onAccepted",
+                        "line": 760
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/QmlControls/OfflineMapEditor.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.Controls(QGroundControlControlsModule)"
+    }
+]

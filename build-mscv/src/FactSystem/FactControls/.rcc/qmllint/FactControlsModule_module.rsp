@@ -1,0 +1,12 @@
+-I
+C:/Users/User/qgroundcontrol/build-mscv/qml
+-I
+C:/Users/User/qgroundcontrol/build-mscv/qml
+-I
+C:/Qt/6.8.3/msvc2022_64/qml
+--resource
+C:/Users/User/qgroundcontrol/build-mscv/src/FactSystem/FactControls/.qt/rcc/qmake_QGroundControl_FactControls.qrc
+--resource
+C:/Users/User/qgroundcontrol/build-mscv/src/FactSystem/FactControls/.qt/rcc/FactControlsModule_raw_qml_0.qrc
+--module
+QGroundControl.FactControls

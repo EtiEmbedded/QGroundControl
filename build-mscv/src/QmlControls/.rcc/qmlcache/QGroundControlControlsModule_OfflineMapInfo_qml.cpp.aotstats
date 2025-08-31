@@ -1,0 +1,92 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 8039,
+                        "errorMessage": "",
+                        "functionName": "spacing",
+                        "line": 21
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 30,
+                        "durationMicroseconds": 43,
+                        "errorMessage": "Cannot load property totalTileCount from (component in C:/Users/User/qgroundcontrol/src/QmlControls/OfflineMapInfo.qml)::tileSet with type QVariant.",
+                        "functionName": "_tileCount",
+                        "line": 27
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 66,
+                        "errorMessage": "Cannot access value for name tileSet",
+                        "functionName": "text",
+                        "line": 31
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 17,
+                        "durationMicroseconds": 53,
+                        "errorMessage": "Cannot access value for name tileSet",
+                        "functionName": "text",
+                        "line": 36
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 18,
+                        "durationMicroseconds": 336,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 40
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 18,
+                        "durationMicroseconds": 481,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 41
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 18,
+                        "durationMicroseconds": 251,
+                        "errorMessage": "",
+                        "functionName": "radius",
+                        "line": 42
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 18,
+                        "durationMicroseconds": 58,
+                        "errorMessage": "Cannot access value for name tileSet",
+                        "functionName": "color",
+                        "line": 43
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 18,
+                        "durationMicroseconds": 622,
+                        "errorMessage": "",
+                        "functionName": "opacity",
+                        "line": 44
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 21,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"clicked\".",
+                        "functionName": "onClicked",
+                        "line": 49
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/QmlControls/OfflineMapInfo.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.Controls(QGroundControlControlsModule)"
+    }
+]

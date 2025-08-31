@@ -1,0 +1,180 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 9494,
+                        "errorMessage": "",
+                        "functionName": "spacing",
+                        "line": 23
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 355,
+                        "errorMessage": "",
+                        "functionName": "_activeVehicle",
+                        "line": 25
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 298,
+                        "errorMessage": "",
+                        "functionName": "_toolIndicatorMargins",
+                        "line": 26
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 286,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 20
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 267,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 21
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 123,
+                        "errorMessage": "",
+                        "functionName": "margins",
+                        "line": 22
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 17,
+                        "durationMicroseconds": 51,
+                        "errorMessage": "Cannot load property corePlugin from QGroundControlQmlGlobal.",
+                        "functionName": "model",
+                        "line": 30
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 543,
+                        "errorMessage": "Cannot access value for name modelData",
+                        "functionName": "source",
+                        "line": 34
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 58,
+                        "errorMessage": "Cannot load property showIndicator from (component in C:/Users/User/qgroundcontrol/src/QmlControls/FlyViewToolBarIndicators.qml)::item with type QObject.",
+                        "functionName": "visible",
+                        "line": 35
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 249,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 32
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 242,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 33
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 17,
+                        "durationMicroseconds": 49,
+                        "errorMessage": "Cannot access value for name _activeVehicle",
+                        "functionName": "model",
+                        "line": 41
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 513,
+                        "errorMessage": "Cannot access value for name modelData",
+                        "functionName": "source",
+                        "line": 46
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 59,
+                        "errorMessage": "Cannot load property showIndicator from (component in C:/Users/User/qgroundcontrol/src/QmlControls/FlyViewToolBarIndicators.qml)::item with type QObject.",
+                        "functionName": "visible",
+                        "line": 47
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 251,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 44
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 228,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 45
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 16,
+                        "durationMicroseconds": 43,
+                        "errorMessage": "Cannot access value for name _activeVehicle",
+                        "functionName": "model",
+                        "line": 52
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 515,
+                        "errorMessage": "Cannot access value for name modelData",
+                        "functionName": "source",
+                        "line": 56
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 62,
+                        "errorMessage": "Cannot load property showIndicator from (component in C:/Users/User/qgroundcontrol/src/QmlControls/FlyViewToolBarIndicators.qml)::item with type QObject.",
+                        "functionName": "visible",
+                        "line": 57
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 296,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 54
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 267,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 55
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/QmlControls/FlyViewToolBarIndicators.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.Controls(QGroundControlControlsModule)"
+    }
+]

@@ -1,0 +1,60 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 552,
+                        "errorMessage": "method displayPreFlightChecklist cannot be resolved.",
+                        "functionName": "onTriggered",
+                        "line": 47
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 328,
+                        "errorMessage": "Cannot access value for name viewer3DWindow",
+                        "functionName": "_is3DViewOpen",
+                        "line": 22
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 122,
+                        "errorMessage": "Cannot load property enabled from SettingsManager::viewer3DSettings with type QObject.",
+                        "functionName": "_viewer3DEnabled",
+                        "line": 23
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 22,
+                        "durationMicroseconds": 275,
+                        "errorMessage": "",
+                        "functionName": "visible",
+                        "line": 26
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 388,
+                        "errorMessage": "Cannot access value for name viewer3DWindow",
+                        "functionName": "onTriggered",
+                        "line": 29
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 1005,
+                        "errorMessage": "",
+                        "functionName": "on_Is3DViewOpenChanged",
+                        "line": 37
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/FlightDisplay/FlyViewToolStripActionList.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.FlightDisplay(FlightDisplayModule)"
+    }
+]

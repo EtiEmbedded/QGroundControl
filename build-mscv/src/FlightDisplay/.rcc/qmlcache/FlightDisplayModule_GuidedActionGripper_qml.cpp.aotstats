@@ -1,0 +1,68 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 871,
+                        "errorMessage": "",
+                        "functionName": "activeVehicle",
+                        "line": 14
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 72,
+                        "errorMessage": "Cannot load property initialConnectComplete from (component in C:/Users/User/qgroundcontrol/src/FlightDisplay/GuidedActionGripper.qml)::activeVehicle with type QVariant.",
+                        "functionName": "_initialConnectComplete",
+                        "line": 15
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 46,
+                        "errorMessage": "Cannot load property hasGripper from (component in C:/Users/User/qgroundcontrol/src/FlightDisplay/GuidedActionGripper.qml)::activeVehicle with type QVariant.",
+                        "functionName": "_grip_enable",
+                        "line": 16
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 35,
+                        "errorMessage": "Cannot load property armed from (component in C:/Users/User/qgroundcontrol/src/FlightDisplay/GuidedActionGripper.qml)::activeVehicle with type QVariant.",
+                        "functionName": "_isVehicleArmed",
+                        "line": 17
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 17,
+                        "durationMicroseconds": 327,
+                        "errorMessage": "",
+                        "functionName": "visible",
+                        "line": 21
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 17,
+                        "durationMicroseconds": 118,
+                        "errorMessage": "",
+                        "functionName": "enabled",
+                        "line": 22
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 17,
+                        "durationMicroseconds": 34,
+                        "errorMessage": "Cannot load property actionGripper from (component in C:/Users/User/qgroundcontrol/src/FlightDisplay/GuidedActionGripper.qml)::_guidedController with type QVariant.",
+                        "functionName": "actionID",
+                        "line": 23
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/FlightDisplay/GuidedActionGripper.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.FlightDisplay(FlightDisplayModule)"
+    }
+]

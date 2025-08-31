@@ -1,0 +1,292 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 623,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 9
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 208,
+                        "errorMessage": "",
+                        "functionName": "maxWidth",
+                        "line": 13
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 21,
+                        "durationMicroseconds": 605,
+                        "errorMessage": "",
+                        "functionName": "implicitWidth",
+                        "line": 17
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 21,
+                        "durationMicroseconds": 171,
+                        "errorMessage": "",
+                        "functionName": "implicitHeight",
+                        "line": 18
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 355,
+                        "errorMessage": "",
+                        "functionName": "_scrollMarquee",
+                        "line": 22
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 357,
+                        "errorMessage": "",
+                        "functionName": "_scrollWidth",
+                        "line": 23
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 373,
+                        "errorMessage": "",
+                        "functionName": "_scrollDuration",
+                        "line": 24
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 145,
+                        "errorMessage": "",
+                        "functionName": "_innerText2StartX",
+                        "line": 26
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 28,
+                        "durationMicroseconds": 206,
+                        "errorMessage": "",
+                        "functionName": "on_ScrollWidthChanged",
+                        "line": 37
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 21,
+                        "durationMicroseconds": 16645,
+                        "errorMessage": "",
+                        "functionName": "pointSize",
+                        "line": 19
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 21,
+                        "durationMicroseconds": 188,
+                        "errorMessage": "",
+                        "functionName": "family",
+                        "line": 20
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 28,
+                        "durationMicroseconds": 816,
+                        "errorMessage": "",
+                        "functionName": "onCompleted",
+                        "line": 29
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 22,
+                        "durationMicroseconds": 92,
+                        "errorMessage": "Cannot access value for name _componentCompleted",
+                        "functionName": "onTriggered",
+                        "line": 43
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 84,
+                        "errorMessage": "Cannot access value for name enabled",
+                        "functionName": "colorGroupEnabled",
+                        "line": 60
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 302,
+                        "errorMessage": "",
+                        "functionName": "font",
+                        "line": 65
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 32,
+                        "durationMicroseconds": 240,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 66
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 187,
+                        "errorMessage": "",
+                        "functionName": "text",
+                        "line": 68
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 31,
+                        "durationMicroseconds": 76,
+                        "errorMessage": "Cannot access value for name _innerText1StartX",
+                        "functionName": "startX",
+                        "line": 70
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 312,
+                        "errorMessage": "",
+                        "functionName": "verticalCenter",
+                        "line": 64
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 232,
+                        "errorMessage": "",
+                        "functionName": "from",
+                        "line": 74
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 101,
+                        "errorMessage": "Cannot access value for name _scrollWidth",
+                        "functionName": "to",
+                        "line": 75
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 45,
+                        "errorMessage": "Cannot access value for name _scrollDuration",
+                        "functionName": "duration",
+                        "line": 76
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 1194,
+                        "errorMessage": "",
+                        "functionName": "onFinished",
+                        "line": 78
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 258,
+                        "errorMessage": "",
+                        "functionName": "font",
+                        "line": 93
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 32,
+                        "durationMicroseconds": 249,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 94
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 164,
+                        "errorMessage": "",
+                        "functionName": "text",
+                        "line": 96
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 64,
+                        "errorMessage": "Cannot access value for name _scrollMarquee",
+                        "functionName": "visible",
+                        "line": 97
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 31,
+                        "durationMicroseconds": 49,
+                        "errorMessage": "Cannot access value for name _innerText2StartX",
+                        "functionName": "startX",
+                        "line": 99
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 260,
+                        "errorMessage": "",
+                        "functionName": "verticalCenter",
+                        "line": 92
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 173,
+                        "errorMessage": "",
+                        "functionName": "from",
+                        "line": 103
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 100,
+                        "errorMessage": "Cannot access value for name _scrollWidth",
+                        "functionName": "to",
+                        "line": 104
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 42,
+                        "errorMessage": "Cannot access value for name _scrollDuration",
+                        "functionName": "duration",
+                        "line": 105
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 251,
+                        "errorMessage": "",
+                        "functionName": "font",
+                        "line": 111
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 160,
+                        "errorMessage": "",
+                        "functionName": "text",
+                        "line": 113
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 236,
+                        "errorMessage": "",
+                        "functionName": "font",
+                        "line": 119
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/QmlControls/QGCMarqueeLabel.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.Controls(QGroundControlControlsModule)"
+    }
+]

@@ -1,0 +1,16 @@
+--bare
+-I
+C:/Users/User/qgroundcontrol/build-mscv/qml
+-I
+C:/Users/User/qgroundcontrol/build-mscv/qml
+-I
+C:/Qt/6.8.3/msvc2022_64/qml
+--resource
+C:/Users/User/qgroundcontrol/build-mscv/src/AutoPilotPlugins/Common/.qt/rcc/qmake_QGroundControl_AutoPilotPlugins_Common.qrc
+--resource
+C:/Users/User/qgroundcontrol/build-mscv/src/AutoPilotPlugins/Common/.qt/rcc/AutoPilotPluginsCommonModule_raw_qml_0.qrc
+C:/Users/User/qgroundcontrol/src/AutoPilotPlugins/Common/ESP8266Component.qml
+C:/Users/User/qgroundcontrol/src/AutoPilotPlugins/Common/ESP8266ComponentSummary.qml
+C:/Users/User/qgroundcontrol/src/AutoPilotPlugins/Common/MotorComponent.qml
+C:/Users/User/qgroundcontrol/src/AutoPilotPlugins/Common/RadioComponent.qml
+C:/Users/User/qgroundcontrol/src/AutoPilotPlugins/Common/SyslinkComponent.qml

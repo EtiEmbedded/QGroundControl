@@ -1,0 +1,84 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 30,
+                        "durationMicroseconds": 191,
+                        "errorMessage": "Cannot load property y from (component in C:/Users/User/qgroundcontrol/src/Viewer3D/Viewer3DQml/Models3D/Waypoint3DModel.qml)::missionItem with type QVariant.",
+                        "functionName": "pose_y",
+                        "line": 13
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 46,
+                        "errorMessage": "Cannot load property z from (component in C:/Users/User/qgroundcontrol/src/Viewer3D/Viewer3DQml/Models3D/Waypoint3DModel.qml)::missionItem with type QVariant.",
+                        "functionName": "pose_z",
+                        "line": 14
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 30,
+                        "durationMicroseconds": 34,
+                        "errorMessage": "Cannot load property x from (component in C:/Users/User/qgroundcontrol/src/Viewer3D/Viewer3DQml/Models3D/Waypoint3DModel.qml)::missionItem with type QVariant.",
+                        "functionName": "pose_x",
+                        "line": 15
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 13,
+                        "durationMicroseconds": 449,
+                        "errorMessage": "",
+                        "functionName": "x",
+                        "line": 18
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 13,
+                        "durationMicroseconds": 352,
+                        "errorMessage": "",
+                        "functionName": "y",
+                        "line": 19
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 13,
+                        "durationMicroseconds": 174,
+                        "errorMessage": "",
+                        "functionName": "z",
+                        "line": 20
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 16,
+                        "durationMicroseconds": 503,
+                        "errorMessage": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: QVariant -> QVector3D stored as QVariant",
+                        "functionName": "scale",
+                        "line": 27
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 35,
+                        "durationMicroseconds": 548,
+                        "errorMessage": "Cannot access value for name itemName",
+                        "functionName": "diffuseColor",
+                        "line": 32
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 19,
+                        "durationMicroseconds": 615,
+                        "errorMessage": "Cannot access value for name itemName",
+                        "functionName": "text",
+                        "line": 51
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/Viewer3D/Viewer3DQml/Models3D/Waypoint3DModel.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.Viewer3D(Viewer3DModule)"
+    }
+]

@@ -1,0 +1,60 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 11,
+                        "durationMicroseconds": 161,
+                        "errorMessage": "Cannot load property length from (component in C:/Users/User/qgroundcontrol/src/FactSystem/FactControls/FactTextFieldGrid.qml)::factList with type QVariant.",
+                        "functionName": "rows",
+                        "line": 13
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 11,
+                        "durationMicroseconds": 361,
+                        "errorMessage": "",
+                        "functionName": "flow",
+                        "line": 14
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 16,
+                        "durationMicroseconds": 195,
+                        "errorMessage": "Cannot load property factList from (component in C:/Users/User/qgroundcontrol/src/FactSystem/FactControls/FactTextFieldGrid.qml)::parent with type QQuickItem.",
+                        "functionName": "model",
+                        "line": 17
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 19,
+                        "durationMicroseconds": 65,
+                        "errorMessage": "Cannot access value for name factLabels",
+                        "functionName": "text",
+                        "line": 20
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 16,
+                        "durationMicroseconds": 165,
+                        "errorMessage": "Cannot load property factList from (component in C:/Users/User/qgroundcontrol/src/FactSystem/FactControls/FactTextFieldGrid.qml)::parent with type QQuickItem.",
+                        "functionName": "model",
+                        "line": 33
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 159,
+                        "errorMessage": "Cannot access value for name modelData",
+                        "functionName": "fact",
+                        "line": 37
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/FactSystem/FactControls/FactTextFieldGrid.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.FactControls(FactControlsModule)"
+    }
+]

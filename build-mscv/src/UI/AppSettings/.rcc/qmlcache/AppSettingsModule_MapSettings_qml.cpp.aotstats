@@ -1,0 +1,700 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 589,
+                        "errorMessage": "",
+                        "functionName": "_settingsManager",
+                        "line": 27
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 40,
+                        "errorMessage": "Cannot load property appSettings from (component in C:/Users/User/qgroundcontrol/src/UI/AppSettings/MapSettings.qml)::_settingsManager with type QVariant.",
+                        "functionName": "_appSettings",
+                        "line": 28
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 21,
+                        "errorMessage": "Cannot load property mapsSettings from (component in C:/Users/User/qgroundcontrol/src/UI/AppSettings/MapSettings.qml)::_settingsManager with type QVariant.",
+                        "functionName": "_mapsSettings",
+                        "line": 29
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 41,
+                        "errorMessage": "Cannot load property mapEngineManager from QGroundControlQmlGlobal.",
+                        "functionName": "_mapEngineManager",
+                        "line": 30
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 31,
+                        "errorMessage": "Cannot load property importAction from (component in C:/Users/User/qgroundcontrol/src/UI/AppSettings/MapSettings.qml)::_mapEngineManager with type QVariant.",
+                        "functionName": "_currentlyImportOrExporting",
+                        "line": 31
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 7656,
+                        "errorMessage": "",
+                        "functionName": "_largeTextFieldWidth",
+                        "line": 32
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 46,
+                        "errorMessage": "Cannot load property flightMapSettings from (component in C:/Users/User/qgroundcontrol/src/UI/AppSettings/MapSettings.qml)::_settingsManager with type QVariant.",
+                        "functionName": "_mapProviderFact",
+                        "line": 34
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 22,
+                        "errorMessage": "Cannot load property flightMapSettings from (component in C:/Users/User/qgroundcontrol/src/UI/AppSettings/MapSettings.qml)::_settingsManager with type QVariant.",
+                        "functionName": "_mapTypeFact",
+                        "line": 35
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 20,
+                        "errorMessage": "Cannot load property flightMapSettings from (component in C:/Users/User/qgroundcontrol/src/UI/AppSettings/MapSettings.qml)::_settingsManager with type QVariant.",
+                        "functionName": "_elevationProviderFact",
+                        "line": 36
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 80,
+                        "errorMessage": "Cannot load property appSettings from (component in C:/Users/User/qgroundcontrol/src/UI/AppSettings/MapSettings.qml)::_settingsManager with type QVariant.",
+                        "functionName": "_mapboxFact",
+                        "line": 37
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 38,
+                        "errorMessage": "Cannot load property appSettings from (component in C:/Users/User/qgroundcontrol/src/UI/AppSettings/MapSettings.qml)::_settingsManager with type QVariant.",
+                        "functionName": "_mapboxAccountFact",
+                        "line": 38
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 36,
+                        "errorMessage": "Cannot load property appSettings from (component in C:/Users/User/qgroundcontrol/src/UI/AppSettings/MapSettings.qml)::_settingsManager with type QVariant.",
+                        "functionName": "_mapboxStyleFact",
+                        "line": 39
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 35,
+                        "errorMessage": "Cannot load property appSettings from (component in C:/Users/User/qgroundcontrol/src/UI/AppSettings/MapSettings.qml)::_settingsManager with type QVariant.",
+                        "functionName": "_esriFact",
+                        "line": 40
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 45,
+                        "errorMessage": "Cannot load property appSettings from (component in C:/Users/User/qgroundcontrol/src/UI/AppSettings/MapSettings.qml)::_settingsManager with type QVariant.",
+                        "functionName": "_customURLFact",
+                        "line": 41
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 36,
+                        "errorMessage": "Cannot load property appSettings from (component in C:/Users/User/qgroundcontrol/src/UI/AppSettings/MapSettings.qml)::_settingsManager with type QVariant.",
+                        "functionName": "_vworldFact",
+                        "line": 42
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 23,
+                        "durationMicroseconds": 157,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 46
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 32,
+                        "durationMicroseconds": 70,
+                        "errorMessage": "Cannot load property mapEngineManager from QGroundControlQmlGlobal.",
+                        "functionName": "onCompleted",
+                        "line": 48
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 61,
+                        "errorMessage": "Cannot access value for name _mapEngineManager",
+                        "functionName": "target",
+                        "line": 53
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 13,
+                        "durationMicroseconds": 154,
+                        "errorMessage": "Cannot access value for name mainWindow",
+                        "functionName": "onErrorMessageChanged",
+                        "line": 54
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 63,
+                        "errorMessage": "Cannot access value for name _mapEngineManager",
+                        "functionName": "model",
+                        "line": 62
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 31,
+                        "durationMicroseconds": 84,
+                        "errorMessage": "Cannot access value for name _mapProviderFact",
+                        "functionName": "onActivated",
+                        "line": 64
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 31,
+                        "durationMicroseconds": 143,
+                        "errorMessage": "",
+                        "functionName": "onActivated",
+                        "line": 64
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 40,
+                        "durationMicroseconds": 103,
+                        "errorMessage": "Cannot access value for name _mapProviderFact",
+                        "functionName": "onCompleted",
+                        "line": 69
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 24,
+                        "durationMicroseconds": 66,
+                        "errorMessage": "Cannot access value for name _mapEngineManager",
+                        "functionName": "model",
+                        "line": 78
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 31,
+                        "durationMicroseconds": 75,
+                        "errorMessage": "Cannot access value for name _mapTypeFact",
+                        "functionName": "onActivated",
+                        "line": 80
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 31,
+                        "durationMicroseconds": 127,
+                        "errorMessage": "",
+                        "functionName": "onActivated",
+                        "line": 80
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 40,
+                        "durationMicroseconds": 98,
+                        "errorMessage": "Cannot access value for name _mapTypeFact",
+                        "functionName": "onCompleted",
+                        "line": 82
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 24,
+                        "durationMicroseconds": 57,
+                        "errorMessage": "Cannot access value for name _mapEngineManager",
+                        "functionName": "model",
+                        "line": 91
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 31,
+                        "durationMicroseconds": 75,
+                        "errorMessage": "Cannot access value for name _elevationProviderFact",
+                        "functionName": "onActivated",
+                        "line": 93
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 31,
+                        "durationMicroseconds": 122,
+                        "errorMessage": "",
+                        "functionName": "onActivated",
+                        "line": 93
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 40,
+                        "durationMicroseconds": 120,
+                        "errorMessage": "Cannot access value for name _elevationProviderFact",
+                        "functionName": "onCompleted",
+                        "line": 95
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 24,
+                        "durationMicroseconds": 46,
+                        "errorMessage": "Cannot load property mapEngineManager from QGroundControlQmlGlobal.",
+                        "functionName": "model",
+                        "line": 109
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 414,
+                        "errorMessage": "Cannot access value for name object",
+                        "functionName": "tileSet",
+                        "line": 112
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 360,
+                        "errorMessage": "Cannot access value for name object",
+                        "functionName": "enabled",
+                        "line": 113
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 86,
+                        "errorMessage": "Cannot access value for name offlineMapEditorComponent",
+                        "functionName": "onClicked",
+                        "line": 114
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 60,
+                        "errorMessage": "Cannot access value for name _currentlyImportOrExporting",
+                        "functionName": "enabled",
+                        "line": 121
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 191,
+                        "errorMessage": "Type QObject does not have a property addNewSet for calling",
+                        "functionName": "onClicked",
+                        "line": 122
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 50,
+                        "errorMessage": "Cannot load property corePlugin from QGroundControlQmlGlobal.",
+                        "functionName": "visible",
+                        "line": 128
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 66,
+                        "errorMessage": "Cannot access value for name _currentlyImportOrExporting",
+                        "functionName": "enabled",
+                        "line": 129
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 28,
+                        "durationMicroseconds": 67,
+                        "errorMessage": "Cannot access value for name _mapEngineManager",
+                        "functionName": "onClicked",
+                        "line": 130
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 40,
+                        "errorMessage": "Cannot load property corePlugin from QGroundControlQmlGlobal.",
+                        "functionName": "visible",
+                        "line": 139
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 50,
+                        "errorMessage": "Cannot access value for name _currentlyImportOrExporting",
+                        "functionName": "enabled",
+                        "line": 140
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 565,
+                        "errorMessage": "Cannot access value for name mainWindow",
+                        "functionName": "onClicked",
+                        "line": 141
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 26,
+                        "durationMicroseconds": 227,
+                        "errorMessage": "",
+                        "functionName": "spacing",
+                        "line": 145
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 26,
+                        "durationMicroseconds": 83,
+                        "errorMessage": "Cannot access value for name _currentlyImportOrExporting",
+                        "functionName": "visible",
+                        "line": 146
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 75,
+                        "errorMessage": "Cannot access value for name _mapEngineManager",
+                        "functionName": "text",
+                        "line": 150
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"width\".",
+                        "functionName": "width",
+                        "line": 154
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"value\".",
+                        "functionName": "value",
+                        "line": 157
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 57,
+                        "errorMessage": "Cannot access value for name _largeTextFieldWidth",
+                        "functionName": "textFieldPreferredWidth",
+                        "line": 168
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 51,
+                        "errorMessage": "Cannot access value for name _appSettings",
+                        "functionName": "fact",
+                        "line": 170
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 53,
+                        "errorMessage": "Cannot access value for name _largeTextFieldWidth",
+                        "functionName": "textFieldPreferredWidth",
+                        "line": 174
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 59,
+                        "errorMessage": "Cannot access value for name _appSettings",
+                        "functionName": "fact",
+                        "line": 176
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 48,
+                        "errorMessage": "Cannot access value for name _largeTextFieldWidth",
+                        "functionName": "textFieldPreferredWidth",
+                        "line": 180
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 48,
+                        "errorMessage": "Cannot access value for name _appSettings",
+                        "functionName": "fact",
+                        "line": 182
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 48,
+                        "errorMessage": "Cannot access value for name _largeTextFieldWidth",
+                        "functionName": "textFieldPreferredWidth",
+                        "line": 191
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 43,
+                        "errorMessage": "Cannot access value for name _appSettings",
+                        "functionName": "fact",
+                        "line": 193
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 47,
+                        "errorMessage": "Cannot access value for name _largeTextFieldWidth",
+                        "functionName": "textFieldPreferredWidth",
+                        "line": 197
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 45,
+                        "errorMessage": "Cannot access value for name _appSettings",
+                        "functionName": "fact",
+                        "line": 199
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 57,
+                        "errorMessage": "Cannot access value for name _largeTextFieldWidth",
+                        "functionName": "textFieldPreferredWidth",
+                        "line": 209
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 46,
+                        "errorMessage": "Cannot access value for name _appSettings",
+                        "functionName": "fact",
+                        "line": 211
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 23,
+                        "durationMicroseconds": 53,
+                        "errorMessage": "Cannot access value for name _mapsSettings",
+                        "functionName": "fact",
+                        "line": 220
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 23,
+                        "durationMicroseconds": 48,
+                        "errorMessage": "Cannot access value for name _mapsSettings",
+                        "functionName": "fact",
+                        "line": 224
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 45,
+                        "errorMessage": "Cannot access value for name _appSettings",
+                        "functionName": "folder",
+                        "line": 230
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 22380,
+                        "errorMessage": "Cannot generate efficient code for storing an array in a non-sequence type",
+                        "functionName": "nameFilters",
+                        "line": 231
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 86,
+                        "errorMessage": "Cannot access value for name _appSettings",
+                        "functionName": "defaultSuffix",
+                        "line": 232
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 75,
+                        "errorMessage": "Cannot access value for name _mapEngineManager",
+                        "functionName": "onAcceptedForSave",
+                        "line": 234
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 585,
+                        "errorMessage": "",
+                        "functionName": "onAcceptedForSave",
+                        "line": 234
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 110,
+                        "errorMessage": "Cannot access value for name _mapEngineManager",
+                        "functionName": "onAcceptedForLoad",
+                        "line": 239
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 132,
+                        "errorMessage": "",
+                        "functionName": "onAcceptedForLoad",
+                        "line": 239
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 186,
+                        "errorMessage": "Cannot access value for name Dialog",
+                        "functionName": "buttons",
+                        "line": 250
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 149,
+                        "errorMessage": "method close cannot be resolved.",
+                        "functionName": "onAccepted",
+                        "line": 252
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 30,
+                        "durationMicroseconds": 389,
+                        "errorMessage": "",
+                        "functionName": "spacing",
+                        "line": 259
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 32,
+                        "durationMicroseconds": 65,
+                        "errorMessage": "Cannot access value for name _mapEngineManager",
+                        "functionName": "model",
+                        "line": 262
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"text\".",
+                        "functionName": "text",
+                        "line": 265
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"checked\".",
+                        "functionName": "checked",
+                        "line": 266
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"clicked\".",
+                        "functionName": "onClicked",
+                        "line": 267
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 186,
+                        "errorMessage": "Cannot access value for name Dialog",
+                        "functionName": "buttons",
+                        "line": 279
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 154,
+                        "errorMessage": "method close cannot be resolved.",
+                        "functionName": "onAccepted",
+                        "line": 281
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 30,
+                        "durationMicroseconds": 429,
+                        "errorMessage": "",
+                        "functionName": "spacing",
+                        "line": 288
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"checked\".",
+                        "functionName": "checked",
+                        "line": 292
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"clicked\".",
+                        "functionName": "onClicked",
+                        "line": 293
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"checked\".",
+                        "functionName": "checked",
+                        "line": 297
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"clicked\".",
+                        "functionName": "onClicked",
+                        "line": 298
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 65,
+                        "errorMessage": "Cannot access value for name _mapEngineManager",
+                        "functionName": "text",
+                        "line": 309
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 259,
+                        "errorMessage": "Cannot access value for name Dialog",
+                        "functionName": "buttons",
+                        "line": 310
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 293,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 320
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/UI/AppSettings/MapSettings.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.AppSettings(AppSettingsModule)"
+    }
+]

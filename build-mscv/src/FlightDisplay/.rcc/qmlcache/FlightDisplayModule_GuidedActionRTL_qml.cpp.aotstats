@@ -1,0 +1,36 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 17,
+                        "durationMicroseconds": 171,
+                        "errorMessage": "Cannot load property rtlTitle from (component in C:/Users/User/qgroundcontrol/src/FlightDisplay/GuidedActionRTL.qml)::_guidedController with type QVariant.",
+                        "functionName": "text",
+                        "line": 14
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 17,
+                        "durationMicroseconds": 30,
+                        "errorMessage": "Cannot load property showRTL from (component in C:/Users/User/qgroundcontrol/src/FlightDisplay/GuidedActionRTL.qml)::_guidedController with type QVariant.",
+                        "functionName": "enabled",
+                        "line": 17
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 17,
+                        "durationMicroseconds": 23,
+                        "errorMessage": "Cannot load property actionRTL from (component in C:/Users/User/qgroundcontrol/src/FlightDisplay/GuidedActionRTL.qml)::_guidedController with type QVariant.",
+                        "functionName": "actionID",
+                        "line": 18
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/FlightDisplay/GuidedActionRTL.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.FlightDisplay(FlightDisplayModule)"
+    }
+]

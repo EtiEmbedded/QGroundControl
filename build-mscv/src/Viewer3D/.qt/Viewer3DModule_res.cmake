@@ -1,0 +1,41 @@
+
+set(target "Viewer3DModule")
+set(working_dir "C:/Users/User/qgroundcontrol/src/Viewer3D")
+set(src_and_dest_list
+    "C:/Users/User/qgroundcontrol/src/Viewer3D/Images/city_3d_map_icon.svg"
+    "C:/Users/User/qgroundcontrol/build-mscv/qml/QGroundControl/Viewer3D/City3DMapIcon.svg"
+    "C:/Users/User/qgroundcontrol/src/Viewer3D/Shaders/earthMaterial.frag"
+    "C:/Users/User/qgroundcontrol/build-mscv/qml/QGroundControl/Viewer3D/ShaderFragment/earthMaterial.frag"
+    "C:/Users/User/qgroundcontrol/src/Viewer3D/Shaders/earthMaterial.vert"
+    "C:/Users/User/qgroundcontrol/build-mscv/qml/QGroundControl/Viewer3D/ShaderVertex/earthMaterial.vert"
+    "C:/Users/User/qgroundcontrol/src/Viewer3D/Viewer3DQml/Drones/Djif450/DroneModel_arm_1/node.mesh"
+    "C:/Users/User/qgroundcontrol/build-mscv/qml/QGroundControl/Viewer3D/Viewer3DQml/Drones/Djif450/DroneModel_arm_1/node.mesh"
+    "C:/Users/User/qgroundcontrol/src/Viewer3D/Viewer3DQml/Drones/Djif450/DroneModel_arm_2/node.mesh"
+    "C:/Users/User/qgroundcontrol/build-mscv/qml/QGroundControl/Viewer3D/Viewer3DQml/Drones/Djif450/DroneModel_arm_2/node.mesh"
+    "C:/Users/User/qgroundcontrol/src/Viewer3D/Viewer3DQml/Drones/Djif450/DroneModel_arm_3/node.mesh"
+    "C:/Users/User/qgroundcontrol/build-mscv/qml/QGroundControl/Viewer3D/Viewer3DQml/Drones/Djif450/DroneModel_arm_3/node.mesh"
+    "C:/Users/User/qgroundcontrol/src/Viewer3D/Viewer3DQml/Drones/Djif450/DroneModel_arm_4/node.mesh"
+    "C:/Users/User/qgroundcontrol/build-mscv/qml/QGroundControl/Viewer3D/Viewer3DQml/Drones/Djif450/DroneModel_arm_4/node.mesh"
+    "C:/Users/User/qgroundcontrol/src/Viewer3D/Viewer3DQml/Drones/Djif450/DroneModel_BLDC_1/node.mesh"
+    "C:/Users/User/qgroundcontrol/build-mscv/qml/QGroundControl/Viewer3D/Viewer3DQml/Drones/Djif450/DroneModel_BLDC_1/node.mesh"
+    "C:/Users/User/qgroundcontrol/src/Viewer3D/Viewer3DQml/Drones/Djif450/DroneModel_BLDC_2/node.mesh"
+    "C:/Users/User/qgroundcontrol/build-mscv/qml/QGroundControl/Viewer3D/Viewer3DQml/Drones/Djif450/DroneModel_BLDC_2/node.mesh"
+    "C:/Users/User/qgroundcontrol/src/Viewer3D/Viewer3DQml/Drones/Djif450/DroneModel_BLDC_3/node.mesh"
+    "C:/Users/User/qgroundcontrol/build-mscv/qml/QGroundControl/Viewer3D/Viewer3DQml/Drones/Djif450/DroneModel_BLDC_3/node.mesh"
+    "C:/Users/User/qgroundcontrol/src/Viewer3D/Viewer3DQml/Drones/Djif450/DroneModel_BLDC_4/node.mesh"
+    "C:/Users/User/qgroundcontrol/build-mscv/qml/QGroundControl/Viewer3D/Viewer3DQml/Drones/Djif450/DroneModel_BLDC_4/node.mesh"
+    "C:/Users/User/qgroundcontrol/src/Viewer3D/Viewer3DQml/Drones/Djif450/DroneModel_propeller2_2/node.mesh"
+    "C:/Users/User/qgroundcontrol/build-mscv/qml/QGroundControl/Viewer3D/Viewer3DQml/Drones/Djif450/DroneModel_propeller2_2/node.mesh"
+    "C:/Users/User/qgroundcontrol/src/Viewer3D/Viewer3DQml/Drones/Djif450/DroneModel_propeller2_7/node.mesh"
+    "C:/Users/User/qgroundcontrol/build-mscv/qml/QGroundControl/Viewer3D/Viewer3DQml/Drones/Djif450/DroneModel_propeller2_7/node.mesh"
+    "C:/Users/User/qgroundcontrol/src/Viewer3D/Viewer3DQml/Drones/Djif450/DroneModel_propeller22_1/node.mesh"
+    "C:/Users/User/qgroundcontrol/build-mscv/qml/QGroundControl/Viewer3D/Viewer3DQml/Drones/Djif450/DroneModel_propeller22_1/node.mesh"
+    "C:/Users/User/qgroundcontrol/src/Viewer3D/Viewer3DQml/Drones/Djif450/DroneModel_propeller22_2/node.mesh"
+    "C:/Users/User/qgroundcontrol/build-mscv/qml/QGroundControl/Viewer3D/Viewer3DQml/Drones/Djif450/DroneModel_propeller22_2/node.mesh"
+    "C:/Users/User/qgroundcontrol/src/Viewer3D/Viewer3DQml/Drones/Djif450/DroneModel_Base_bottom_1/node.mesh"
+    "C:/Users/User/qgroundcontrol/build-mscv/qml/QGroundControl/Viewer3D/Viewer3DQml/Drones/Djif450/DroneModel_Base_bottom_1/node.mesh"
+    "C:/Users/User/qgroundcontrol/src/Viewer3D/Viewer3DQml/Drones/Djif450/DroneModel_Base_Top_1/node.mesh"
+    "C:/Users/User/qgroundcontrol/build-mscv/qml/QGroundControl/Viewer3D/Viewer3DQml/Drones/Djif450/DroneModel_Base_Top_1/node.mesh"
+
+)
+set(timestamp_file "C:/Users/User/qgroundcontrol/build-mscv/src/Viewer3D/.qt/Viewer3DModule_res.txt")

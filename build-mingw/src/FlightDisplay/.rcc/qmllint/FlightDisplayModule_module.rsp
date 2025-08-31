@@ -1,0 +1,12 @@
+-I
+C:/Users/User/qgroundcontrol/build-mingw/qml
+-I
+C:/Users/User/qgroundcontrol/build-mingw/qml
+-I
+C:/Qt/6.8.3/mingw_64/qml
+--resource
+C:/Users/User/qgroundcontrol/build-mingw/src/FlightDisplay/.qt/rcc/qmake_QGroundControl_FlightDisplay.qrc
+--resource
+C:/Users/User/qgroundcontrol/build-mingw/src/FlightDisplay/.qt/rcc/FlightDisplayModule_raw_qml_0.qrc
+--module
+QGroundControl.FlightDisplay

@@ -1,0 +1,52 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 356,
+                        "errorMessage": "",
+                        "functionName": "comboBox",
+                        "line": 23
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 14,
+                        "durationMicroseconds": 5583,
+                        "errorMessage": "",
+                        "functionName": "spacing",
+                        "line": 26
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 23,
+                        "durationMicroseconds": 227,
+                        "errorMessage": "Type (component in C:/Users/User/qgroundcontrol/src/FactSystem/FactControls/LabelledFactComboBox.qml)::parent with type QQuickItem does not have a property activated for calling",
+                        "functionName": "onActivated",
+                        "line": 40
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 23,
+                        "durationMicroseconds": 164,
+                        "errorMessage": "",
+                        "functionName": "onActivated",
+                        "line": 40
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 62,
+                        "errorMessage": "Cannot access value for name comboBoxPreferredWidth",
+                        "functionName": "preferredWidth",
+                        "line": 37
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/FactSystem/FactControls/LabelledFactComboBox.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.FactControls(FactControlsModule)"
+    }
+]

@@ -1,0 +1,140 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 17,
+                        "durationMicroseconds": 8130,
+                        "errorMessage": "",
+                        "functionName": "spacing",
+                        "line": 21
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 149,
+                        "errorMessage": "Cannot load property vehicle from QGroundControlQmlGlobal::multiVehicleManager with type MultiVehicleManager.",
+                        "functionName": "activeVehicle",
+                        "line": 33
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 332,
+                        "errorMessage": "",
+                        "functionName": "parametersReady",
+                        "line": 34
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 31,
+                        "durationMicroseconds": 302,
+                        "errorMessage": "",
+                        "functionName": "_loadPages",
+                        "line": 36
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 21,
+                        "durationMicroseconds": 72,
+                        "errorMessage": "Cannot access value for name waitForParameters",
+                        "functionName": "visible",
+                        "line": 40
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 43,
+                        "errorMessage": "Cannot access value for name _loadPages",
+                        "functionName": "sourceComponent",
+                        "line": 46
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 38,
+                        "durationMicroseconds": 216,
+                        "errorMessage": "",
+                        "functionName": "pageProperties",
+                        "line": 48
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 201,
+                        "errorMessage": "",
+                        "functionName": "alignment",
+                        "line": 45
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 394,
+                        "errorMessage": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: QGCPalette::groupBorder with type QColor (stored as QVariant) -> QGCPalette::groupBorder with type QColor (stored as QVariant)",
+                        "functionName": "color",
+                        "line": 55
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 44,
+                        "errorMessage": "Cannot access value for name expanded",
+                        "functionName": "visible",
+                        "line": 56
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 307,
+                        "errorMessage": "",
+                        "functionName": "preferredWidth",
+                        "line": 53
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 49,
+                        "errorMessage": "Cannot access value for name expanded",
+                        "functionName": "visible",
+                        "line": 63
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 38,
+                        "errorMessage": "Cannot access value for name expanded",
+                        "functionName": "sourceComponent",
+                        "line": 64
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 38,
+                        "durationMicroseconds": 307,
+                        "errorMessage": "",
+                        "functionName": "pageProperties",
+                        "line": 66
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 214,
+                        "errorMessage": "",
+                        "functionName": "alignment",
+                        "line": 61
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 305,
+                        "errorMessage": "",
+                        "functionName": "preferredWidth",
+                        "line": 62
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/QmlControls/ToolIndicatorPage.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.Controls(QGroundControlControlsModule)"
+    }
+]

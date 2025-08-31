@@ -1,0 +1,348 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 21,
+                        "durationMicroseconds": 1142,
+                        "errorMessage": "",
+                        "functionName": "implicitWidth",
+                        "line": 12
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 21,
+                        "durationMicroseconds": 322,
+                        "errorMessage": "",
+                        "functionName": "implicitHeight",
+                        "line": 13
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 21,
+                        "durationMicroseconds": 245,
+                        "errorMessage": "",
+                        "functionName": "radius",
+                        "line": 14
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 21,
+                        "durationMicroseconds": 299,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 15
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 366,
+                        "errorMessage": "",
+                        "functionName": "_diameter",
+                        "line": 23
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 150,
+                        "errorMessage": "",
+                        "functionName": "_dragStartX",
+                        "line": 24
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 526,
+                        "errorMessage": "",
+                        "functionName": "_dragStopX",
+                        "line": 25
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 5,
+                        "durationMicroseconds": 243,
+                        "errorMessage": "",
+                        "functionName": "resetSpaceBarSliding",
+                        "line": 41
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 27,
+                        "durationMicroseconds": 1390,
+                        "errorMessage": "",
+                        "functionName": "onSpacePressed",
+                        "line": 27
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 27,
+                        "durationMicroseconds": 118,
+                        "errorMessage": "",
+                        "functionName": "onSpacePressed",
+                        "line": 27
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 23,
+                        "durationMicroseconds": 882,
+                        "errorMessage": "",
+                        "functionName": "onReleased",
+                        "line": 34
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 23,
+                        "durationMicroseconds": 103,
+                        "errorMessage": "",
+                        "functionName": "onReleased",
+                        "line": 34
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 90,
+                        "errorMessage": "Cannot access value for name _diameter",
+                        "functionName": "x",
+                        "line": 49
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 371,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 50
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 181,
+                        "errorMessage": "",
+                        "functionName": "horizontalAlignment",
+                        "line": 52
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 55,
+                        "errorMessage": "Cannot access value for name confirmText",
+                        "functionName": "text",
+                        "line": 53
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 253,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 54
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 243,
+                        "errorMessage": "",
+                        "functionName": "verticalCenter",
+                        "line": 51
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 21,
+                        "durationMicroseconds": 58,
+                        "errorMessage": "Cannot access value for name _border",
+                        "functionName": "x",
+                        "line": 59
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 21,
+                        "durationMicroseconds": 39,
+                        "errorMessage": "Cannot access value for name _border",
+                        "functionName": "y",
+                        "line": 60
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 21,
+                        "durationMicroseconds": 36,
+                        "errorMessage": "Cannot access value for name _diameter",
+                        "functionName": "height",
+                        "line": 61
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 21,
+                        "durationMicroseconds": 39,
+                        "errorMessage": "Cannot access value for name _diameter",
+                        "functionName": "width",
+                        "line": 62
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 21,
+                        "durationMicroseconds": 40,
+                        "errorMessage": "Cannot access value for name _diameter",
+                        "functionName": "radius",
+                        "line": 63
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 21,
+                        "durationMicroseconds": 256,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 64
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 9,
+                        "durationMicroseconds": 67,
+                        "errorMessage": "Cannot access value for name _border",
+                        "functionName": "reset",
+                        "line": 92
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 347,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 68
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 297,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 69
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 202,
+                        "errorMessage": "",
+                        "functionName": "fillMode",
+                        "line": 71
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 248,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 74
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 109,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 67
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 140,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 70
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 61,
+                        "errorMessage": "Cannot access value for name _dragStartX",
+                        "functionName": "from",
+                        "line": 82
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 36,
+                        "errorMessage": "Cannot access value for name _dragStopX",
+                        "functionName": "to",
+                        "line": 83
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 432,
+                        "errorMessage": "",
+                        "functionName": "onFinished",
+                        "line": 86
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 181,
+                        "errorMessage": "",
+                        "functionName": "fillItem",
+                        "line": 101
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 35,
+                        "durationMicroseconds": 198,
+                        "errorMessage": "",
+                        "functionName": "dragActive",
+                        "line": 108
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 30,
+                        "durationMicroseconds": 204,
+                        "errorMessage": "Cannot access value for name _dragStopX",
+                        "functionName": "onDragActiveChanged",
+                        "line": 110
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 8142,
+                        "errorMessage": "",
+                        "functionName": "leftMargin",
+                        "line": 100
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 201,
+                        "errorMessage": "",
+                        "functionName": "target",
+                        "line": 102
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 188,
+                        "errorMessage": "",
+                        "functionName": "axis",
+                        "line": 103
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 66,
+                        "errorMessage": "Cannot access value for name _dragStartX",
+                        "functionName": "minimumX",
+                        "line": 104
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 42,
+                        "errorMessage": "Cannot access value for name _dragStopX",
+                        "functionName": "maximumX",
+                        "line": 105
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/QmlControls/SliderSwitch.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.Controls(QGroundControlControlsModule)"
+    }
+]

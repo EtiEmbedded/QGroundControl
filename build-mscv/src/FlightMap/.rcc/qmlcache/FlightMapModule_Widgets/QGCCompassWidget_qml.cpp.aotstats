@@ -1,0 +1,516 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 13,
+                        "durationMicroseconds": 347,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 20
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 13,
+                        "durationMicroseconds": 134,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 21
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 13,
+                        "durationMicroseconds": 317,
+                        "errorMessage": "",
+                        "functionName": "radius",
+                        "line": 22
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 13,
+                        "durationMicroseconds": 343,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 23
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 21,
+                        "durationMicroseconds": 86,
+                        "errorMessage": "Cannot load property armed from (component in C:/Users/User/qgroundcontrol/src/FlightMap/Widgets/QGCCompassWidget.qml)::vehicle with type QVariant.",
+                        "functionName": "opacity",
+                        "line": 26
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 145,
+                        "errorMessage": "",
+                        "functionName": "size",
+                        "line": 28
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 9227,
+                        "errorMessage": "",
+                        "functionName": "_defaultSize",
+                        "line": 32
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 930,
+                        "errorMessage": "",
+                        "functionName": "_sizeRatio",
+                        "line": 33
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 820,
+                        "errorMessage": "",
+                        "functionName": "_fontSize",
+                        "line": 34
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 81,
+                        "errorMessage": "Cannot load property heading from (component in C:/Users/User/qgroundcontrol/src/FlightMap/Widgets/QGCCompassWidget.qml)::vehicle with type QVariant.",
+                        "functionName": "_heading",
+                        "line": 35
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 49,
+                        "errorMessage": "Cannot load property headingToHome from (component in C:/Users/User/qgroundcontrol/src/FlightMap/Widgets/QGCCompassWidget.qml)::vehicle with type QVariant.",
+                        "functionName": "_headingToHome",
+                        "line": 36
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 44,
+                        "errorMessage": "Cannot load property groundSpeed from (component in C:/Users/User/qgroundcontrol/src/FlightMap/Widgets/QGCCompassWidget.qml)::vehicle with type QVariant.",
+                        "functionName": "_groundSpeed",
+                        "line": 37
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 43,
+                        "errorMessage": "Cannot load property headingToNextWP from (component in C:/Users/User/qgroundcontrol/src/FlightMap/Widgets/QGCCompassWidget.qml)::vehicle with type QVariant.",
+                        "functionName": "_headingToNextWP",
+                        "line": 38
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 43,
+                        "errorMessage": "Cannot load property gps from (component in C:/Users/User/qgroundcontrol/src/FlightMap/Widgets/QGCCompassWidget.qml)::vehicle with type QVariant.",
+                        "functionName": "_courseOverGround",
+                        "line": 39
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 319,
+                        "errorMessage": "",
+                        "functionName": "_flyViewSettings",
+                        "line": 40
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 54,
+                        "errorMessage": "Cannot load property showAdditionalIndicatorsCompass from (component in C:/Users/User/qgroundcontrol/src/FlightMap/Widgets/QGCCompassWidget.qml)::_flyViewSettings with type QVariant.",
+                        "functionName": "_showAdditionalIndicators",
+                        "line": 41
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 29,
+                        "errorMessage": "Cannot load property lockNoseUpCompass from (component in C:/Users/User/qgroundcontrol/src/FlightMap/Widgets/QGCCompassWidget.qml)::_flyViewSettings with type QVariant.",
+                        "functionName": "_lockNoseUpCompass",
+                        "line": 42
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 60,
+                        "errorMessage": "function without return type annotation returns bool. This may prevent proper compilation to Cpp.",
+                        "functionName": "showCOG",
+                        "line": 44
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 182,
+                        "errorMessage": "function without return type annotation returns conversion to QVariant. This may prevent proper compilation to Cpp.",
+                        "functionName": "showHeadingHome",
+                        "line": 52
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 144,
+                        "errorMessage": "function without return type annotation returns conversion to QVariant. This may prevent proper compilation to Cpp.",
+                        "functionName": "showHeadingToNextWP",
+                        "line": 56
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "translateCenterToAngleX",
+                        "line": 60
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "translateCenterToAngleY",
+                        "line": 64
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 21,
+                        "durationMicroseconds": 271,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 24
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 21,
+                        "durationMicroseconds": 288,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 25
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 78,
+                        "errorMessage": "Cannot access value for name enabled",
+                        "functionName": "colorGroupEnabled",
+                        "line": 68
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 131,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 72
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 28,
+                        "durationMicroseconds": 51,
+                        "errorMessage": "Cannot access value for name _lockNoseUpCompass",
+                        "functionName": "angle",
+                        "line": 77
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 308,
+                        "errorMessage": "",
+                        "functionName": "x",
+                        "line": 75
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 282,
+                        "errorMessage": "",
+                        "functionName": "y",
+                        "line": 76
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 51,
+                        "errorMessage": "Cannot access value for name usedByMultipleVehicleList",
+                        "functionName": "visible",
+                        "line": 82
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 208,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 81
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 51,
+                        "errorMessage": "Cannot access value for name size",
+                        "functionName": "compassSize",
+                        "line": 86
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 39,
+                        "errorMessage": "Cannot access value for name _heading",
+                        "functionName": "heading",
+                        "line": 87
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 39,
+                        "errorMessage": "Cannot access value for name usedByMultipleVehicleList",
+                        "functionName": "simplified",
+                        "line": 88
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 190,
+                        "errorMessage": "",
+                        "functionName": "fillMode",
+                        "line": 95
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 589,
+                        "errorMessage": "method showCOG cannot be resolved.",
+                        "functionName": "visible",
+                        "line": 98
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 134,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 96
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 226,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 97
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 55,
+                        "errorMessage": "Cannot access value for name _courseOverGround",
+                        "functionName": "angle",
+                        "line": 103
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 299,
+                        "errorMessage": "",
+                        "functionName": "x",
+                        "line": 101
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 289,
+                        "errorMessage": "",
+                        "functionName": "y",
+                        "line": 102
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 174,
+                        "errorMessage": "",
+                        "functionName": "fillMode",
+                        "line": 111
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 998,
+                        "errorMessage": "method showHeadingToNextWP cannot be resolved.",
+                        "functionName": "visible",
+                        "line": 114
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 159,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 112
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 284,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 113
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 55,
+                        "errorMessage": "Cannot access value for name _headingToNextWP",
+                        "functionName": "angle",
+                        "line": 119
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 299,
+                        "errorMessage": "",
+                        "functionName": "x",
+                        "line": 117
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 309,
+                        "errorMessage": "",
+                        "functionName": "y",
+                        "line": 118
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 675,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 125
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 127,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 126
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 504,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 127
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 1447,
+                        "errorMessage": "",
+                        "functionName": "radius",
+                        "line": 128
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 696,
+                        "errorMessage": "method showHeadingHome cannot be resolved.",
+                        "functionName": "visible",
+                        "line": 130
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 144,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 129
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 266,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 136
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 148,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 137
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 76,
+                        "errorMessage": "Cannot access value for name _headingToHome",
+                        "functionName": "_angle",
+                        "line": 141
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 20,
+                        "durationMicroseconds": 64,
+                        "errorMessage": "Cannot access value for name parent",
+                        "functionName": "x",
+                        "line": 143
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 20,
+                        "durationMicroseconds": 59,
+                        "errorMessage": "Cannot access value for name parent",
+                        "functionName": "y",
+                        "line": 144
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 67,
+                        "errorMessage": "Cannot access value for name size",
+                        "functionName": "y",
+                        "line": 151
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 56,
+                        "errorMessage": "Cannot access value for name vehicle",
+                        "functionName": "text",
+                        "line": 152
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 188,
+                        "errorMessage": "",
+                        "functionName": "horizontalAlignment",
+                        "line": 153
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 264,
+                        "errorMessage": "",
+                        "functionName": "horizontalCenter",
+                        "line": 150
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/FlightMap/Widgets/QGCCompassWidget.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.FlightMap(FlightMapModule)"
+    }
+]

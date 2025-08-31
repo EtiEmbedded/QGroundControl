@@ -1,0 +1,372 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 50,
+                        "durationMicroseconds": 591,
+                        "errorMessage": "",
+                        "functionName": "_settingsManager",
+                        "line": 22
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 211,
+                        "errorMessage": "",
+                        "functionName": "_videoManager",
+                        "line": 23
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 35,
+                        "errorMessage": "Cannot load property videoSettings from (component in C:/Users/User/qgroundcontrol/src/UI/AppSettings/VideoSettings.qml)::_settingsManager with type QVariant.",
+                        "functionName": "_videoSettings",
+                        "line": 24
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 22,
+                        "errorMessage": "Cannot load property videoSource from (component in C:/Users/User/qgroundcontrol/src/UI/AppSettings/VideoSettings.qml)::_videoSettings with type QVariant.",
+                        "functionName": "_videoSource",
+                        "line": 25
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 20,
+                        "errorMessage": "Cannot load property gstreamerEnabled from (component in C:/Users/User/qgroundcontrol/src/UI/AppSettings/VideoSettings.qml)::_videoManager with type QVariant.",
+                        "functionName": "_isGST",
+                        "line": 26
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 21,
+                        "errorMessage": "Cannot load property isStreamSource from (component in C:/Users/User/qgroundcontrol/src/UI/AppSettings/VideoSettings.qml)::_videoManager with type QVariant.",
+                        "functionName": "_isStreamSource",
+                        "line": 27
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 57,
+                        "errorMessage": "Cannot load property udp264VideoSource from (component in C:/Users/User/qgroundcontrol/src/UI/AppSettings/VideoSettings.qml)::_videoSettings with type QVariant.",
+                        "functionName": "_isUDP264",
+                        "line": 28
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 59,
+                        "errorMessage": "Cannot load property udp265VideoSource from (component in C:/Users/User/qgroundcontrol/src/UI/AppSettings/VideoSettings.qml)::_videoSettings with type QVariant.",
+                        "functionName": "_isUDP265",
+                        "line": 29
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 43,
+                        "errorMessage": "Cannot load property rtspVideoSource from (component in C:/Users/User/qgroundcontrol/src/UI/AppSettings/VideoSettings.qml)::_videoSettings with type QVariant.",
+                        "functionName": "_isRTSP",
+                        "line": 30
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 49,
+                        "errorMessage": "Cannot load property tcpVideoSource from (component in C:/Users/User/qgroundcontrol/src/UI/AppSettings/VideoSettings.qml)::_videoSettings with type QVariant.",
+                        "functionName": "_isTCP",
+                        "line": 31
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 54,
+                        "errorMessage": "Cannot load property mpegtsVideoSource from (component in C:/Users/User/qgroundcontrol/src/UI/AppSettings/VideoSettings.qml)::_videoSettings with type QVariant.",
+                        "functionName": "_isMPEGTS",
+                        "line": 32
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 20,
+                        "errorMessage": "Cannot load property autoStreamConfigured from (component in C:/Users/User/qgroundcontrol/src/UI/AppSettings/VideoSettings.qml)::_videoManager with type QVariant.",
+                        "functionName": "_videoAutoStreamConfig",
+                        "line": 33
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 33,
+                        "errorMessage": "Cannot load property disabledVideoSource from (component in C:/Users/User/qgroundcontrol/src/UI/AppSettings/VideoSettings.qml)::_videoSettings with type QVariant.",
+                        "functionName": "_videoSourceDisabled",
+                        "line": 34
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 7945,
+                        "errorMessage": "",
+                        "functionName": "_urlFieldWidth",
+                        "line": 35
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 363,
+                        "errorMessage": "",
+                        "functionName": "_requiresUDPUrl",
+                        "line": 36
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 103,
+                        "errorMessage": "Cannot access value for name _videoAutoStreamConfig",
+                        "functionName": "headingDescription",
+                        "line": 41
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 45,
+                        "errorMessage": "Cannot access value for name _videoAutoStreamConfig",
+                        "functionName": "enabled",
+                        "line": 42
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 60,
+                        "errorMessage": "Cannot access value for name _videoSettings",
+                        "functionName": "fact",
+                        "line": 48
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 224,
+                        "errorMessage": "Cannot load property visible from (component in C:/Users/User/qgroundcontrol/src/UI/AppSettings/VideoSettings.qml)::fact with type Fact.",
+                        "functionName": "visible",
+                        "line": 49
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 62,
+                        "errorMessage": "Cannot access value for name _videoSourceDisabled",
+                        "functionName": "visible",
+                        "line": 56
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 53,
+                        "errorMessage": "Cannot access value for name _urlFieldWidth",
+                        "functionName": "textFieldPreferredWidth",
+                        "line": 60
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 42,
+                        "errorMessage": "Cannot access value for name _videoSettings",
+                        "functionName": "fact",
+                        "line": 62
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 44,
+                        "errorMessage": "Cannot access value for name _isRTSP",
+                        "functionName": "visible",
+                        "line": 63
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 51,
+                        "errorMessage": "Cannot access value for name _urlFieldWidth",
+                        "functionName": "textFieldPreferredWidth",
+                        "line": 69
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 41,
+                        "errorMessage": "Cannot access value for name _videoSettings",
+                        "functionName": "fact",
+                        "line": 70
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 42,
+                        "errorMessage": "Cannot access value for name _isTCP",
+                        "functionName": "visible",
+                        "line": 71
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 43,
+                        "errorMessage": "Cannot access value for name _urlFieldWidth",
+                        "functionName": "textFieldPreferredWidth",
+                        "line": 76
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 38,
+                        "errorMessage": "Cannot access value for name _videoSettings",
+                        "functionName": "fact",
+                        "line": 78
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 43,
+                        "errorMessage": "Cannot access value for name _requiresUDPUrl",
+                        "functionName": "visible",
+                        "line": 79
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 45,
+                        "errorMessage": "Cannot access value for name _videoSourceDisabled",
+                        "functionName": "visible",
+                        "line": 86
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 44,
+                        "errorMessage": "Cannot access value for name _videoSettings",
+                        "functionName": "fact",
+                        "line": 91
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 59,
+                        "errorMessage": "Cannot access value for name _videoAutoStreamConfig",
+                        "functionName": "visible",
+                        "line": 92
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 47,
+                        "errorMessage": "Cannot access value for name _videoSettings",
+                        "functionName": "fact",
+                        "line": 98
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"visible\".",
+                        "functionName": "visible",
+                        "line": 99
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 34,
+                        "errorMessage": "Cannot access value for name _videoSettings",
+                        "functionName": "fact",
+                        "line": 105
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"visible\".",
+                        "functionName": "visible",
+                        "line": 106
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 43,
+                        "errorMessage": "Cannot access value for name _videoSettings",
+                        "functionName": "fact",
+                        "line": 112
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 161,
+                        "errorMessage": "Cannot load property visible from (component in C:/Users/User/qgroundcontrol/src/UI/AppSettings/VideoSettings.qml)::fact with type Fact.",
+                        "functionName": "visible",
+                        "line": 113
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 65,
+                        "errorMessage": "Cannot access value for name _videoSettings",
+                        "functionName": "fact",
+                        "line": 125
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 40,
+                        "errorMessage": "Cannot access value for name _videoSettings",
+                        "functionName": "visible",
+                        "line": 126
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 46,
+                        "errorMessage": "Cannot access value for name _videoSettings",
+                        "functionName": "fact",
+                        "line": 132
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"visible\".",
+                        "functionName": "visible",
+                        "line": 133
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 48,
+                        "errorMessage": "Cannot access value for name _videoSettings",
+                        "functionName": "fact",
+                        "line": 139
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 166,
+                        "errorMessage": "Cannot load property visible from (component in C:/Users/User/qgroundcontrol/src/UI/AppSettings/VideoSettings.qml)::fact with type Fact.",
+                        "functionName": "visible",
+                        "line": 140
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 43,
+                        "errorMessage": "Cannot access value for name _videoSettings",
+                        "functionName": "enabled",
+                        "line": 141
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/UI/AppSettings/VideoSettings.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.AppSettings(AppSettingsModule)"
+    }
+]

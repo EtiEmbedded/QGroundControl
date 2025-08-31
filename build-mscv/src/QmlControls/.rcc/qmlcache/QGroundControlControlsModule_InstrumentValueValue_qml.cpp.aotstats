@@ -1,0 +1,116 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 8900,
+                        "errorMessage": "Cannot generate efficient code for storing an array in a non-sequence type",
+                        "functionName": "_rgFontSizes",
+                        "line": 24
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 885,
+                        "errorMessage": "Cannot generate efficient code for storing an array in a non-sequence type",
+                        "functionName": "_rgFontSizeRatios",
+                        "line": 25
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 355,
+                        "errorMessage": "",
+                        "functionName": "_doubleDescent",
+                        "line": 26
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 291,
+                        "errorMessage": "",
+                        "functionName": "_tightDefaultFontHeight",
+                        "line": 27
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 2523,
+                        "errorMessage": "Cannot generate efficient code for LoadElement with non-list base type (component in C:/Users/User/qgroundcontrol/src/QmlControls/InstrumentValueValue.qml)::_rgFontSizeRatios with type QVariant (stored as QJSValue)",
+                        "functionName": "_rgFontSizeTightHeights",
+                        "line": 28
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 67,
+                        "errorMessage": "Cannot load property factValueGrid from (component in C:/Users/User/qgroundcontrol/src/QmlControls/InstrumentValueValue.qml)::instrumentValueData with type QVariant.",
+                        "functionName": "_tightHeight",
+                        "line": 29
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 36,
+                        "errorMessage": "Cannot load property factValueGrid from (component in C:/Users/User/qgroundcontrol/src/QmlControls/InstrumentValueValue.qml)::instrumentValueData with type QVariant.",
+                        "functionName": "_fontSize",
+                        "line": 30
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 222,
+                        "errorMessage": "",
+                        "functionName": "_horizontalLabelSpacing",
+                        "line": 31
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 93,
+                        "errorMessage": "Cannot access value for name instrumentValueData",
+                        "functionName": "color",
+                        "line": 39
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 203,
+                        "errorMessage": "",
+                        "functionName": "text",
+                        "line": 40
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 9,
+                        "durationMicroseconds": 76,
+                        "errorMessage": "Cannot access value for name instrumentValueData",
+                        "functionName": "valueText",
+                        "line": 42
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 217,
+                        "errorMessage": "",
+                        "functionName": "alignment",
+                        "line": 37
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 54,
+                        "errorMessage": "Cannot access value for name _fontSize",
+                        "functionName": "pointSize",
+                        "line": 38
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/QmlControls/InstrumentValueValue.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.Controls(QGroundControlControlsModule)"
+    }
+]

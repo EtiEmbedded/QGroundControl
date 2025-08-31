@@ -1,0 +1,14 @@
+prefix=C:/Users/User/qgroundcontrol/build-msvc/staging
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/OFF
+bindir=${exec_prefix}/OFF
+
+Name: GeographicLib
+Description: A library for geographic projections
+Version: 2.5
+URL: https://geographiclib.sourceforge.io
+
+Requires:
+Libs: -L${libdir} -lGeographicLib_d
+Cflags: -I${includedir}

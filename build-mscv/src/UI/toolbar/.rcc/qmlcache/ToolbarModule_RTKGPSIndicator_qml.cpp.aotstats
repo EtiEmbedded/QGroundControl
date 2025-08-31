@@ -1,0 +1,36 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 34,
+                        "durationMicroseconds": 645,
+                        "errorMessage": "",
+                        "functionName": "showIndicator",
+                        "line": 20
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 383,
+                        "errorMessage": "",
+                        "functionName": "_activeVehicle",
+                        "line": 22
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 108,
+                        "errorMessage": "Cannot load property connected from QGroundControlQmlGlobal::gpsRtk with type FactGroup.",
+                        "functionName": "_rtkConnected",
+                        "line": 23
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/UI/toolbar/RTKGPSIndicator.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.Toolbar(ToolbarModule)"
+    }
+]

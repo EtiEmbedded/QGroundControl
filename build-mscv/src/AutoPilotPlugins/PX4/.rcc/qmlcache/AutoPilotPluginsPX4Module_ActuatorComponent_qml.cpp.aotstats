@@ -1,0 +1,1500 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 21,
+                        "durationMicroseconds": 410,
+                        "errorMessage": "",
+                        "functionName": "pageComponent",
+                        "line": 15
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 35,
+                        "durationMicroseconds": 596,
+                        "errorMessage": "Cannot access value for name globals",
+                        "functionName": "actuators",
+                        "line": 18
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 46,
+                        "durationMicroseconds": 40,
+                        "errorMessage": "Cannot access value for name advanced",
+                        "functionName": "_showAdvanced",
+                        "line": 20
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 46,
+                        "durationMicroseconds": 9556,
+                        "errorMessage": "",
+                        "functionName": "_margins",
+                        "line": 21
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 373,
+                        "errorMessage": "",
+                        "functionName": "spacing",
+                        "line": 27
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 299,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "_leftColumnWidth",
+                        "line": 28
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 217,
+                        "errorMessage": "",
+                        "functionName": "spacing",
+                        "line": 31
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 61,
+                        "errorMessage": "Cannot access value for name _leftColumnWidth",
+                        "functionName": "implicitWidth",
+                        "line": 32
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 44,
+                        "errorMessage": "Cannot access value for name _leftColumnWidth",
+                        "functionName": "width",
+                        "line": 36
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 49,
+                        "errorMessage": "Cannot access value for name actuators",
+                        "functionName": "visible",
+                        "line": 37
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 110,
+                        "errorMessage": "Cannot access value for name actuators",
+                        "functionName": "text",
+                        "line": 39
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 201,
+                        "errorMessage": "",
+                        "functionName": "pointSize",
+                        "line": 40
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 76,
+                        "errorMessage": "Cannot access value for name actuators",
+                        "functionName": "text",
+                        "line": 44
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 51,
+                        "errorMessage": "Cannot access value for name actuators",
+                        "functionName": "visible",
+                        "line": 46
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 198,
+                        "errorMessage": "",
+                        "functionName": "textFormat",
+                        "line": 47
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 43,
+                        "durationMicroseconds": 337,
+                        "errorMessage": "",
+                        "functionName": "onLinkActivated",
+                        "line": 48
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 43,
+                        "durationMicroseconds": 105,
+                        "errorMessage": "",
+                        "functionName": "onLinkActivated",
+                        "line": 48
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 209,
+                        "errorMessage": "",
+                        "functionName": "pointSize",
+                        "line": 45
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 70,
+                        "errorMessage": "Cannot access value for name _leftColumnWidth",
+                        "functionName": "implicitWidth",
+                        "line": 55
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 102,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "implicitHeight",
+                        "line": 56
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 392,
+                        "errorMessage": "Cannot access value for name qgcPal",
+                        "functionName": "color",
+                        "line": 57
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 57,
+                        "errorMessage": "Cannot access value for name actuators",
+                        "functionName": "visible",
+                        "line": 58
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 51,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "spacing",
+                        "line": 62
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 50,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: safetySwitch",
+                        "functionName": "enabled",
+                        "line": 68
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 329,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 64
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 69,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "leftMargin",
+                        "line": 65
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 280,
+                        "errorMessage": "",
+                        "functionName": "verticalCenter",
+                        "line": 66
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 76,
+                        "errorMessage": "Cannot access value for name actuators",
+                        "functionName": "model",
+                        "line": 70
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 58,
+                        "durationMicroseconds": 429,
+                        "errorMessage": "Cannot access value for name object",
+                        "functionName": "mixerGroup",
+                        "line": 72
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 66,
+                        "durationMicroseconds": 75,
+                        "errorMessage": "Cannot access value for name mixerGroup",
+                        "functionName": "text",
+                        "line": 76
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 66,
+                        "durationMicroseconds": 348,
+                        "errorMessage": "",
+                        "functionName": "rightPadding",
+                        "line": 78
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 66,
+                        "durationMicroseconds": 75,
+                        "errorMessage": "Cannot access value for name mixerGroup",
+                        "functionName": "countParam",
+                        "line": 81
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 66,
+                        "durationMicroseconds": 391,
+                        "errorMessage": "Cannot generate efficient code for incomparable types std::nullptr_t and (component in C:/Users/User/qgroundcontrol/src/AutoPilotPlugins/PX4/ActuatorComponent.qml)::countParam with type QVariant",
+                        "functionName": "visible",
+                        "line": 82
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 66,
+                        "durationMicroseconds": 59,
+                        "errorMessage": "Cannot load property fact from (component in C:/Users/User/qgroundcontrol/src/AutoPilotPlugins/PX4/ActuatorComponent.qml)::countParam with type QVariant.",
+                        "functionName": "fact",
+                        "line": 83
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 74,
+                        "errorMessage": "Cannot access value for name mixerGroup",
+                        "functionName": "rows",
+                        "line": 88
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 61,
+                        "errorMessage": "Cannot access value for name mixerGroup",
+                        "functionName": "columns",
+                        "line": 89
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 61,
+                        "durationMicroseconds": 73,
+                        "errorMessage": "Cannot access value for name mixerGroup",
+                        "functionName": "model",
+                        "line": 97
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 61,
+                        "durationMicroseconds": 666,
+                        "errorMessage": "Cannot access value for name object",
+                        "functionName": "text",
+                        "line": 99
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 61,
+                        "durationMicroseconds": 630,
+                        "errorMessage": "Cannot access value for name object",
+                        "functionName": "visible",
+                        "line": 100
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 61,
+                        "durationMicroseconds": 58,
+                        "errorMessage": "Cannot access value for name index",
+                        "functionName": "column",
+                        "line": 102
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 61,
+                        "durationMicroseconds": 58,
+                        "errorMessage": "Cannot access value for name mixerGroup",
+                        "functionName": "model",
+                        "line": 107
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 61,
+                        "durationMicroseconds": 629,
+                        "errorMessage": "Cannot access value for name object",
+                        "functionName": "text",
+                        "line": 109
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 61,
+                        "durationMicroseconds": 58,
+                        "errorMessage": "Cannot access value for name index",
+                        "functionName": "row",
+                        "line": 110
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 61,
+                        "durationMicroseconds": 63,
+                        "errorMessage": "Cannot access value for name mixerGroup",
+                        "functionName": "model",
+                        "line": 115
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 67,
+                        "durationMicroseconds": 442,
+                        "errorMessage": "Cannot access value for name object",
+                        "functionName": "channel",
+                        "line": 117
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 72,
+                        "durationMicroseconds": 45,
+                        "errorMessage": "Cannot access value for name index",
+                        "functionName": "channelIndex",
+                        "line": 118
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 52,
+                        "durationMicroseconds": 379,
+                        "errorMessage": "Cannot access value for name object",
+                        "functionName": "model",
+                        "line": 120
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 65,
+                        "durationMicroseconds": 469,
+                        "errorMessage": "Cannot access value for name object",
+                        "functionName": "fact",
+                        "line": 123
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 65,
+                        "durationMicroseconds": 411,
+                        "errorMessage": "Cannot access value for name object",
+                        "functionName": "visible",
+                        "line": 126
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 65,
+                        "durationMicroseconds": 393,
+                        "errorMessage": "Cannot access value for name object",
+                        "functionName": "enabled",
+                        "line": 127
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 65,
+                        "durationMicroseconds": 86,
+                        "errorMessage": "Cannot access value for name channelIndex",
+                        "functionName": "row",
+                        "line": 124
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 65,
+                        "durationMicroseconds": 44,
+                        "errorMessage": "Cannot access value for name index",
+                        "functionName": "column",
+                        "line": 125
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 44,
+                        "durationMicroseconds": 54,
+                        "errorMessage": "Cannot access value for name mixerGroup",
+                        "functionName": "model",
+                        "line": 135
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 54,
+                        "durationMicroseconds": 232,
+                        "errorMessage": "",
+                        "functionName": "spacing",
+                        "line": 138
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 54,
+                        "durationMicroseconds": 12788,
+                        "errorMessage": "Cannot access value for name object",
+                        "functionName": "text",
+                        "line": 140
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 54,
+                        "durationMicroseconds": 207,
+                        "errorMessage": "Cannot access value for name _showAdvanced",
+                        "functionName": "visible",
+                        "line": 141
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 51,
+                        "durationMicroseconds": 1056,
+                        "errorMessage": "Cannot access value for name object",
+                        "functionName": "fact",
+                        "line": 144
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 54,
+                        "durationMicroseconds": 116,
+                        "errorMessage": "Cannot access value for name _showAdvanced",
+                        "functionName": "visible",
+                        "line": 145
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 392,
+                        "errorMessage": "",
+                        "functionName": "source",
+                        "line": 157
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 144,
+                        "errorMessage": "Cannot access value for name actuators",
+                        "functionName": "visible",
+                        "line": 163
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 55,
+                        "durationMicroseconds": 65,
+                        "errorMessage": "Cannot access value for name actuators",
+                        "functionName": "refreshFlag",
+                        "line": 166
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 55,
+                        "durationMicroseconds": 357,
+                        "errorMessage": "",
+                        "functionName": "imageSize",
+                        "line": 167
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 153,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 158
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 135,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 159
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 143,
+                        "errorMessage": "",
+                        "functionName": "preferredWidth",
+                        "line": 160
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 121,
+                        "errorMessage": "",
+                        "functionName": "preferredHeight",
+                        "line": 161
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 196,
+                        "errorMessage": "",
+                        "functionName": "alignment",
+                        "line": 162
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 366,
+                        "errorMessage": "Cannot access value for name actuators",
+                        "functionName": "onClicked",
+                        "line": 171
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 117,
+                        "errorMessage": "",
+                        "functionName": "onClicked",
+                        "line": 171
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 40,
+                        "durationMicroseconds": 137,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 170
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 191,
+                        "errorMessage": "",
+                        "functionName": "pointSize",
+                        "line": 182
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 47,
+                        "durationMicroseconds": 61,
+                        "errorMessage": "Cannot access value for name _leftColumnWidth",
+                        "functionName": "implicitWidth",
+                        "line": 186
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 47,
+                        "durationMicroseconds": 102,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "implicitHeight",
+                        "line": 187
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 47,
+                        "durationMicroseconds": 416,
+                        "errorMessage": "Cannot access value for name qgcPal",
+                        "functionName": "color",
+                        "line": 188
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 47,
+                        "durationMicroseconds": 64,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "spacing",
+                        "line": 192
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 47,
+                        "durationMicroseconds": 314,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 194
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 47,
+                        "durationMicroseconds": 63,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "leftMargin",
+                        "line": 195
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 47,
+                        "durationMicroseconds": 261,
+                        "errorMessage": "",
+                        "functionName": "verticalCenter",
+                        "line": 196
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 38,
+                        "durationMicroseconds": 88,
+                        "errorMessage": "Cannot access value for name actuators",
+                        "functionName": "visible",
+                        "line": 201
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 38,
+                        "durationMicroseconds": 183,
+                        "errorMessage": "",
+                        "functionName": "spacing",
+                        "line": 205
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 38,
+                        "durationMicroseconds": 67,
+                        "errorMessage": "Cannot access value for name actuators",
+                        "functionName": "visible",
+                        "line": 206
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 42,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"enabled\".",
+                        "functionName": "enabled",
+                        "line": 210
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 44,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"clicked\".",
+                        "functionName": "onClicked",
+                        "line": 220
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 108,
+                        "errorMessage": "Cannot access value for name checked",
+                        "functionName": "switchUpdated",
+                        "line": 223
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 62,
+                        "errorMessage": "Cannot access value for name actuators",
+                        "functionName": "target",
+                        "line": 212
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 58,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"hadFailureChanged\".",
+                        "functionName": "onHadFailureChanged",
+                        "line": 213
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 663,
+                        "errorMessage": "Cannot access value for name qgcPal",
+                        "functionName": "color",
+                        "line": 236
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 39,
+                        "durationMicroseconds": 120,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: safetySwitch",
+                        "functionName": "text",
+                        "line": 237
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 38,
+                        "durationMicroseconds": 398,
+                        "errorMessage": "",
+                        "functionName": "spacing",
+                        "line": 242
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 38,
+                        "durationMicroseconds": 54,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: safetySwitch",
+                        "functionName": "enabled",
+                        "line": 243
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 52,
+                        "durationMicroseconds": 89,
+                        "errorMessage": "Cannot access value for name actuators",
+                        "functionName": "sourceComponent",
+                        "line": 248
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 52,
+                        "durationMicroseconds": 201,
+                        "errorMessage": "",
+                        "functionName": "alignment",
+                        "line": 249
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 52,
+                        "durationMicroseconds": 94,
+                        "errorMessage": "Cannot access value for name actuators",
+                        "functionName": "channel",
+                        "line": 254
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 52,
+                        "durationMicroseconds": 310,
+                        "errorMessage": "",
+                        "functionName": "rightPadding",
+                        "line": 255
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 61,
+                        "durationMicroseconds": 154,
+                        "errorMessage": "Cannot access value for name sliderRepeater",
+                        "functionName": "onActuatorValueChanged",
+                        "line": 256
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 82,
+                        "errorMessage": "Cannot access value for name actuators",
+                        "functionName": "model",
+                        "line": 271
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 46,
+                        "durationMicroseconds": 521,
+                        "errorMessage": "Cannot access value for name object",
+                        "functionName": "channel",
+                        "line": 274
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 62,
+                        "durationMicroseconds": 129,
+                        "errorMessage": "Cannot access value for name actuators",
+                        "functionName": "onActuatorValueChanged",
+                        "line": 275
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 62,
+                        "durationMicroseconds": 142,
+                        "errorMessage": "",
+                        "functionName": "onActuatorValueChanged",
+                        "line": 275
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 38,
+                        "durationMicroseconds": 63,
+                        "errorMessage": "Cannot access value for name actuators",
+                        "functionName": "visible",
+                        "line": 289
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 38,
+                        "durationMicroseconds": 100,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: safetySwitch",
+                        "functionName": "enabled",
+                        "line": 290
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 42,
+                        "durationMicroseconds": 318,
+                        "errorMessage": "",
+                        "functionName": "spacing",
+                        "line": 292
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 44,
+                        "durationMicroseconds": 65,
+                        "errorMessage": "Cannot access value for name actuators",
+                        "functionName": "model",
+                        "line": 294
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 67,
+                        "durationMicroseconds": 157,
+                        "errorMessage": "Cannot access value for name object",
+                        "functionName": "actionGroup",
+                        "line": 297
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 56,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"text\".",
+                        "functionName": "text",
+                        "line": 298
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 56,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"clicked\".",
+                        "functionName": "onClicked",
+                        "line": 299
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 69,
+                        "durationMicroseconds": 89,
+                        "errorMessage": "Cannot access value for name actionGroup",
+                        "functionName": "model",
+                        "line": 304
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 69,
+                        "durationMicroseconds": 82,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: actionMenu",
+                        "functionName": "onObjectAdded",
+                        "line": 309
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 69,
+                        "durationMicroseconds": 58,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: actionMenu",
+                        "functionName": "onObjectRemoved",
+                        "line": 310
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 69,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"text\".",
+                        "functionName": "text",
+                        "line": 306
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 69,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"triggered\".",
+                        "functionName": "onTriggered",
+                        "line": 307
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 195,
+                        "errorMessage": "",
+                        "functionName": "bottomPadding",
+                        "line": 328
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 197,
+                        "errorMessage": "",
+                        "functionName": "pointSize",
+                        "line": 327
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 36,
+                        "durationMicroseconds": 62,
+                        "errorMessage": "Cannot access value for name actuators",
+                        "functionName": "visible",
+                        "line": 332
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 36,
+                        "durationMicroseconds": 689,
+                        "errorMessage": "Cannot access value for name qgcPal",
+                        "functionName": "color",
+                        "line": 333
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 36,
+                        "durationMicroseconds": 217,
+                        "errorMessage": "",
+                        "functionName": "bottomPadding",
+                        "line": 334
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 44,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"currentIndexChanged\".",
+                        "functionName": "onCurrentIndexChanged",
+                        "line": 347
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 32,
+                        "durationMicroseconds": 71,
+                        "errorMessage": "Cannot access value for name actuators",
+                        "functionName": "model",
+                        "line": 341
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 40,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"text\".",
+                        "functionName": "text",
+                        "line": 343
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 40,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"width\".",
+                        "functionName": "width",
+                        "line": 344
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 115,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "implicitWidth",
+                        "line": 355
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 93,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "implicitHeight",
+                        "line": 356
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 435,
+                        "errorMessage": "Cannot access value for name qgcPal",
+                        "functionName": "color",
+                        "line": 357
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 57,
+                        "errorMessage": "Cannot access value for name actuators",
+                        "functionName": "actuatorOutput",
+                        "line": 359
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 43,
+                        "durationMicroseconds": 64,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "spacing",
+                        "line": 363
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 43,
+                        "durationMicroseconds": 167,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 364
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 48,
+                        "durationMicroseconds": 73,
+                        "errorMessage": "Cannot access value for name actuators",
+                        "functionName": "visible",
+                        "line": 368
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 48,
+                        "durationMicroseconds": 56,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: safetySwitch",
+                        "functionName": "enabled",
+                        "line": 369
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 48,
+                        "durationMicroseconds": 60,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "spacing",
+                        "line": 371
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 48,
+                        "durationMicroseconds": 325,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 370
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 48,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"visible\".",
+                        "functionName": "visible",
+                        "line": 374
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 48,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"enabled\".",
+                        "functionName": "enabled",
+                        "line": 375
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 44,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"clicked\".",
+                        "functionName": "onClicked",
+                        "line": 376
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 568,
+                        "errorMessage": "",
+                        "functionName": "buttons",
+                        "line": 388
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 94,
+                        "errorMessage": "Cannot access value for name actuators",
+                        "functionName": "text",
+                        "line": 390
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 54,
+                        "durationMicroseconds": 148,
+                        "errorMessage": "Cannot access value for name actuators",
+                        "functionName": "onButtonClicked",
+                        "line": 391
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 54,
+                        "durationMicroseconds": 142,
+                        "errorMessage": "",
+                        "functionName": "onButtonClicked",
+                        "line": 391
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 231,
+                        "errorMessage": "",
+                        "functionName": "buttons",
+                        "line": 403
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 64,
+                        "errorMessage": "Cannot access value for name actuators",
+                        "functionName": "text",
+                        "line": 405
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 48,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"visible\".",
+                        "functionName": "visible",
+                        "line": 410
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 44,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"clicked\".",
+                        "functionName": "onClicked",
+                        "line": 411
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 48,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"visible\".",
+                        "functionName": "visible",
+                        "line": 417
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 44,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"clicked\".",
+                        "functionName": "onClicked",
+                        "line": 418
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 47,
+                        "durationMicroseconds": 65,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: safetySwitch",
+                        "functionName": "enabled",
+                        "line": 425
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 47,
+                        "durationMicroseconds": 70,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "spacing",
+                        "line": 426
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 63,
+                        "durationMicroseconds": 68,
+                        "errorMessage": "Cannot load property enableParam from (component in C:/Users/User/qgroundcontrol/src/AutoPilotPlugins/PX4/ActuatorComponent.qml)::actuatorOutput with type QVariant.",
+                        "functionName": "enableParam",
+                        "line": 429
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 63,
+                        "durationMicroseconds": 210,
+                        "errorMessage": "Cannot load property enableParam from (component in C:/Users/User/qgroundcontrol/src/AutoPilotPlugins/PX4/ActuatorComponent.qml)::parent with type QQuickItem.",
+                        "functionName": "visible",
+                        "line": 431
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 63,
+                        "durationMicroseconds": 181,
+                        "errorMessage": "Cannot load property enableParam from (component in C:/Users/User/qgroundcontrol/src/AutoPilotPlugins/PX4/ActuatorComponent.qml)::parent with type QQuickItem.",
+                        "functionName": "text",
+                        "line": 432
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 63,
+                        "durationMicroseconds": 265,
+                        "errorMessage": "Cannot load property enableParam from (component in C:/Users/User/qgroundcontrol/src/AutoPilotPlugins/PX4/ActuatorComponent.qml)::parent with type QQuickItem.",
+                        "functionName": "visible",
+                        "line": 435
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 63,
+                        "durationMicroseconds": 177,
+                        "errorMessage": "Cannot load property enableParam from (component in C:/Users/User/qgroundcontrol/src/AutoPilotPlugins/PX4/ActuatorComponent.qml)::parent with type QQuickItem.",
+                        "functionName": "fact",
+                        "line": 436
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 40,
+                        "durationMicroseconds": 56,
+                        "errorMessage": "Cannot load property subgroups from (component in C:/Users/User/qgroundcontrol/src/AutoPilotPlugins/PX4/ActuatorComponent.qml)::actuatorOutput with type QVariant.",
+                        "functionName": "model",
+                        "line": 442
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 60,
+                        "durationMicroseconds": 522,
+                        "errorMessage": "Cannot access value for name object",
+                        "functionName": "subgroup",
+                        "line": 445
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 60,
+                        "durationMicroseconds": 86,
+                        "errorMessage": "Cannot access value for name selActuatorOutput",
+                        "functionName": "visible",
+                        "line": 446
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 50,
+                        "durationMicroseconds": 70,
+                        "errorMessage": "Cannot access value for name subgroup",
+                        "functionName": "visible",
+                        "line": 449
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 70,
+                        "durationMicroseconds": 67,
+                        "errorMessage": "Cannot access value for name subgroup",
+                        "functionName": "text",
+                        "line": 451
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 70,
+                        "durationMicroseconds": 369,
+                        "errorMessage": "",
+                        "functionName": "rightPadding",
+                        "line": 453
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 72,
+                        "durationMicroseconds": 77,
+                        "errorMessage": "Cannot access value for name subgroup",
+                        "functionName": "primaryParam",
+                        "line": 456
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 72,
+                        "durationMicroseconds": 368,
+                        "errorMessage": "Cannot generate efficient code for incomparable types std::nullptr_t and (component in C:/Users/User/qgroundcontrol/src/AutoPilotPlugins/PX4/ActuatorComponent.qml)::primaryParam with type QVariant",
+                        "functionName": "visible",
+                        "line": 457
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 72,
+                        "durationMicroseconds": 70,
+                        "errorMessage": "Cannot load property fact from (component in C:/Users/User/qgroundcontrol/src/AutoPilotPlugins/PX4/ActuatorComponent.qml)::primaryParam with type QVariant.",
+                        "functionName": "fact",
+                        "line": 458
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 52,
+                        "durationMicroseconds": 80,
+                        "errorMessage": "Cannot access value for name subgroup",
+                        "functionName": "rows",
+                        "line": 463
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 52,
+                        "durationMicroseconds": 67,
+                        "errorMessage": "Cannot access value for name subgroup",
+                        "functionName": "columns",
+                        "line": 464
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 52,
+                        "durationMicroseconds": 59,
+                        "errorMessage": "Cannot access value for name subgroup",
+                        "functionName": "model",
+                        "line": 472
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 65,
+                        "durationMicroseconds": 696,
+                        "errorMessage": "Cannot access value for name object",
+                        "functionName": "text",
+                        "line": 474
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 65,
+                        "durationMicroseconds": 595,
+                        "errorMessage": "Cannot access value for name object",
+                        "functionName": "visible",
+                        "line": 475
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 65,
+                        "durationMicroseconds": 55,
+                        "errorMessage": "Cannot access value for name index",
+                        "functionName": "column",
+                        "line": 477
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 52,
+                        "durationMicroseconds": 63,
+                        "errorMessage": "Cannot access value for name subgroup",
+                        "functionName": "model",
+                        "line": 482
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 66,
+                        "durationMicroseconds": 607,
+                        "errorMessage": "Cannot access value for name object",
+                        "functionName": "text",
+                        "line": 484
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 66,
+                        "durationMicroseconds": 79,
+                        "errorMessage": "Cannot access value for name index",
+                        "functionName": "row",
+                        "line": 485
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 52,
+                        "durationMicroseconds": 62,
+                        "errorMessage": "Cannot access value for name subgroup",
+                        "functionName": "model",
+                        "line": 490
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 76,
+                        "durationMicroseconds": 424,
+                        "errorMessage": "Cannot access value for name object",
+                        "functionName": "channel",
+                        "line": 492
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 76,
+                        "durationMicroseconds": 39,
+                        "errorMessage": "Cannot access value for name index",
+                        "functionName": "channelIndex",
+                        "line": 493
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 76,
+                        "durationMicroseconds": 377,
+                        "errorMessage": "Cannot access value for name object",
+                        "functionName": "model",
+                        "line": 494
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 69,
+                        "durationMicroseconds": 436,
+                        "errorMessage": "Cannot access value for name object",
+                        "functionName": "fact",
+                        "line": 496
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 69,
+                        "durationMicroseconds": 398,
+                        "errorMessage": "Cannot access value for name object",
+                        "functionName": "visible",
+                        "line": 499
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 69,
+                        "durationMicroseconds": 79,
+                        "errorMessage": "Cannot access value for name channelIndex",
+                        "functionName": "row",
+                        "line": 497
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 69,
+                        "durationMicroseconds": 46,
+                        "errorMessage": "Cannot access value for name index",
+                        "functionName": "column",
+                        "line": 498
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 48,
+                        "durationMicroseconds": 87,
+                        "errorMessage": "Cannot access value for name subgroup",
+                        "functionName": "model",
+                        "line": 507
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 55,
+                        "durationMicroseconds": 644,
+                        "errorMessage": "Cannot access value for name object",
+                        "functionName": "text",
+                        "line": 511
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 55,
+                        "durationMicroseconds": 416,
+                        "errorMessage": "Cannot access value for name object",
+                        "functionName": "fact",
+                        "line": 514
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 40,
+                        "durationMicroseconds": 69,
+                        "errorMessage": "Cannot load property configParams from (component in C:/Users/User/qgroundcontrol/src/AutoPilotPlugins/PX4/ActuatorComponent.qml)::actuatorOutput with type QVariant.",
+                        "functionName": "model",
+                        "line": 524
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 47,
+                        "durationMicroseconds": 591,
+                        "errorMessage": "Cannot access value for name object",
+                        "functionName": "text",
+                        "line": 528
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 47,
+                        "durationMicroseconds": 392,
+                        "errorMessage": "Cannot access value for name object",
+                        "functionName": "fact",
+                        "line": 531
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 40,
+                        "durationMicroseconds": 75,
+                        "errorMessage": "Cannot load property notes from (component in C:/Users/User/qgroundcontrol/src/AutoPilotPlugins/PX4/ActuatorComponent.qml)::actuatorOutput with type QVariant.",
+                        "functionName": "model",
+                        "line": 538
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 46,
+                        "durationMicroseconds": 231,
+                        "errorMessage": "",
+                        "functionName": "spacing",
+                        "line": 540
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 721,
+                        "errorMessage": "Cannot access value for name modelData",
+                        "functionName": "text",
+                        "line": 542
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 548,
+                        "errorMessage": "Cannot access value for name qgcPal",
+                        "functionName": "color",
+                        "line": 543
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/AutoPilotPlugins/PX4/ActuatorComponent.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.AutoPilotPlugins.PX4(AutoPilotPluginsPX4Module)"
+    }
+]

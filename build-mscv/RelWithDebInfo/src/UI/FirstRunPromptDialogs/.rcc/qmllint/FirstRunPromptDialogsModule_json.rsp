@@ -1,0 +1,15 @@
+--bare
+-I
+C:/Users/User/qgroundcontrol/build-mscv/RelWithDebInfo/qml
+-I
+C:/Users/User/qgroundcontrol/build-mscv/RelWithDebInfo/qml
+-I
+C:/Qt/6.8.3/msvc2022_64/qml
+--resource
+C:/Users/User/qgroundcontrol/build-mscv/RelWithDebInfo/src/UI/FirstRunPromptDialogs/.qt/rcc/qmake_QGroundControl_FirstRunPromptDialogs.qrc
+--resource
+C:/Users/User/qgroundcontrol/build-mscv/RelWithDebInfo/src/UI/FirstRunPromptDialogs/.qt/rcc/FirstRunPromptDialogsModule_raw_qml_0.qrc
+C:/Users/User/qgroundcontrol/src/UI/FirstRunPromptDialogs/OfflineVehicleFirstRunPrompt.qml
+C:/Users/User/qgroundcontrol/src/UI/FirstRunPromptDialogs/UnitsFirstRunPrompt.qml
+--json
+C:/Users/User/qgroundcontrol/build-mscv/RelWithDebInfo/FirstRunPromptDialogsModule_qmllint.json

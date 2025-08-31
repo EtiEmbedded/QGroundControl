@@ -1,0 +1,15 @@
+# This is a generated file and its contents are an internal implementation detail.
+# The download step will be re-executed if anything in this file changes.
+# No other meaning or use of this file is supported.
+
+method=git
+command=C:/Qt/Tools/CMake_64/bin/cmake.exe;-DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE;-P;C:/Users/User/qgroundcontrol/build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/_deps/xz-embedded-subbuild/xz-embedded-populate-prefix/tmp/xz-embedded-populate-gitclone.cmake
+source_dir=C:/Users/User/qgroundcontrol/build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/cpm_modules/xz-embedded/89e65918af62198be203b1131c88f91ffdee79cf
+work_dir=C:/Users/User/qgroundcontrol/build-mscv/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/cpm_modules/xz-embedded
+repository=https://github.com/tukaani-project/xz-embedded.git
+remote=origin
+init_submodules=TRUE
+recurse_submodules=--recursive
+submodules=
+CMP0097=NEW
+      

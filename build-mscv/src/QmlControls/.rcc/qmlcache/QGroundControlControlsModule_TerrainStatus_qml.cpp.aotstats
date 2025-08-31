@@ -1,0 +1,692 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 17,
+                        "durationMicroseconds": 8047,
+                        "errorMessage": "",
+                        "functionName": "radius",
+                        "line": 20
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 17,
+                        "durationMicroseconds": 308,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 21
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 316,
+                        "errorMessage": "",
+                        "functionName": "_margins",
+                        "line": 29
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 38,
+                        "errorMessage": "Cannot load property visualItems from (component in C:/Users/User/qgroundcontrol/src/QmlControls/TerrainStatus.qml)::missionController with type QVariant.",
+                        "functionName": "_visualItems",
+                        "line": 30
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 273,
+                        "errorMessage": "",
+                        "functionName": "_altRange",
+                        "line": 31
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 667,
+                        "errorMessage": "Cannot generate efficient code for call to untyped JavaScript function",
+                        "functionName": "_minAMSLAltitude",
+                        "line": 33
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 568,
+                        "errorMessage": "Cannot generate efficient code for call to untyped JavaScript function",
+                        "functionName": "_maxAMSLAltitude",
+                        "line": 34
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 43,
+                        "errorMessage": "Cannot load property missionTotalDistance from (component in C:/Users/User/qgroundcontrol/src/QmlControls/TerrainStatus.qml)::missionController with type QVariant.",
+                        "functionName": "_missionTotalDistance",
+                        "line": 35
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 43,
+                        "errorMessage": "Cannot load property unitsConversion from QGroundControlQmlGlobal.",
+                        "functionName": "_unitsConversion",
+                        "line": 36
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "applyOpacity",
+                        "line": 208
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 207,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 43
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 119,
+                        "errorMessage": "Cannot access value for name _unitsConversion",
+                        "functionName": "text",
+                        "line": 45
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 179,
+                        "errorMessage": "",
+                        "functionName": "horizontalAlignment",
+                        "line": 46
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 154,
+                        "errorMessage": "",
+                        "functionName": "transformOrigin",
+                        "line": 48
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 274,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 42
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 156,
+                        "errorMessage": "",
+                        "functionName": "pointSize",
+                        "line": 44
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 259,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 53
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 229,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 54
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 179,
+                        "errorMessage": "",
+                        "functionName": "leftMargin",
+                        "line": 55
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 260,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 56
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 377,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 57
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 21,
+                        "durationMicroseconds": 196,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 61
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 21,
+                        "durationMicroseconds": 157,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 62
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 124,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 66
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 85,
+                        "errorMessage": "Cannot access value for name _unitsConversion",
+                        "functionName": "max",
+                        "line": 78
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 324,
+                        "errorMessage": "",
+                        "functionName": "labelsColor",
+                        "line": 82
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 573,
+                        "errorMessage": "method applyOpacity cannot be resolved.",
+                        "functionName": "gridLineColor",
+                        "line": 84
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 188,
+                        "errorMessage": "",
+                        "functionName": "family",
+                        "line": 80
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 148,
+                        "errorMessage": "",
+                        "functionName": "pointSize",
+                        "line": 81
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 80,
+                        "errorMessage": "Cannot access value for name _unitsConversion",
+                        "functionName": "min",
+                        "line": 89
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 54,
+                        "errorMessage": "Cannot access value for name _unitsConversion",
+                        "functionName": "max",
+                        "line": 90
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 251,
+                        "errorMessage": "",
+                        "functionName": "labelsColor",
+                        "line": 94
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 528,
+                        "errorMessage": "method applyOpacity cannot be resolved.",
+                        "functionName": "gridLineColor",
+                        "line": 96
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 209,
+                        "errorMessage": "",
+                        "functionName": "family",
+                        "line": 92
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 147,
+                        "errorMessage": "",
+                        "functionName": "pointSize",
+                        "line": 93
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 151,
+                        "errorMessage": "",
+                        "functionName": "axisX",
+                        "line": 101
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 132,
+                        "errorMessage": "",
+                        "functionName": "axisY",
+                        "line": 102
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 40,
+                        "durationMicroseconds": 88,
+                        "errorMessage": "Cannot access value for name _unitsConversion",
+                        "functionName": "y",
+                        "line": 105
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 34,
+                        "durationMicroseconds": 52,
+                        "errorMessage": "Cannot access value for name _unitsConversion",
+                        "functionName": "x",
+                        "line": 106
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 121,
+                        "durationMicroseconds": 45,
+                        "errorMessage": "Cannot access value for name _unitsConversion",
+                        "functionName": "y",
+                        "line": 106
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 312,
+                        "errorMessage": "",
+                        "functionName": "x",
+                        "line": 112
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 243,
+                        "errorMessage": "",
+                        "functionName": "y",
+                        "line": 113
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 237,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 114
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 273,
+                        "errorMessage": "",
+                        "functionName": "visibleWidth",
+                        "line": 115
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 186,
+                        "errorMessage": "",
+                        "functionName": "missionController",
+                        "line": 116
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 28,
+                        "durationMicroseconds": 73,
+                        "errorMessage": "Cannot access value for name missionController",
+                        "functionName": "model",
+                        "line": 119
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 365,
+                        "errorMessage": "Cannot access value for name object",
+                        "functionName": "visible",
+                        "line": 124
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 163,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 123
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 80,
+                        "errorMessage": "Cannot access value for name terrainProfile",
+                        "functionName": "height",
+                        "line": 128
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 43,
+                        "errorMessage": "Cannot access value for name qgcPal",
+                        "functionName": "color",
+                        "line": 130
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 349,
+                        "errorMessage": "Cannot access value for name object",
+                        "functionName": "x",
+                        "line": 131
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 334,
+                        "errorMessage": "Cannot access value for name object",
+                        "functionName": "visible",
+                        "line": 132
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 61,
+                        "durationMicroseconds": 644,
+                        "errorMessage": "Cannot access value for name object",
+                        "functionName": "checked",
+                        "line": 138
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 61,
+                        "durationMicroseconds": 629,
+                        "errorMessage": "Cannot access value for name object",
+                        "functionName": "label",
+                        "line": 139
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 61,
+                        "durationMicroseconds": 676,
+                        "errorMessage": "Cannot access value for name object",
+                        "functionName": "index",
+                        "line": 140
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 61,
+                        "durationMicroseconds": 81,
+                        "errorMessage": "Cannot access value for name root",
+                        "functionName": "onClicked",
+                        "line": 141
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 61,
+                        "durationMicroseconds": 342,
+                        "errorMessage": "",
+                        "functionName": "horizontalCenter",
+                        "line": 135
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 61,
+                        "durationMicroseconds": 256,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 136
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 78,
+                        "errorMessage": "Cannot access value for name terrainProfile",
+                        "functionName": "height",
+                        "line": 147
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 49,
+                        "errorMessage": "Cannot access value for name qgcPal",
+                        "functionName": "color",
+                        "line": 149
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 410,
+                        "errorMessage": "Cannot access value for name object",
+                        "functionName": "x",
+                        "line": 150
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 212,
+                        "errorMessage": "",
+                        "functionName": "visible",
+                        "line": 151
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 61,
+                        "durationMicroseconds": 665,
+                        "errorMessage": "Cannot access value for name object",
+                        "functionName": "checked",
+                        "line": 157
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 61,
+                        "durationMicroseconds": 659,
+                        "errorMessage": "Cannot access value for name object",
+                        "functionName": "index",
+                        "line": 158
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 61,
+                        "durationMicroseconds": 81,
+                        "errorMessage": "Cannot access value for name root",
+                        "functionName": "onClicked",
+                        "line": 159
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 61,
+                        "durationMicroseconds": 409,
+                        "errorMessage": "",
+                        "functionName": "horizontalCenter",
+                        "line": 154
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 61,
+                        "durationMicroseconds": 283,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 155
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 78,
+                        "errorMessage": "Cannot access value for name terrainProfile",
+                        "functionName": "height",
+                        "line": 165
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 48,
+                        "errorMessage": "Cannot access value for name qgcPal",
+                        "functionName": "color",
+                        "line": 167
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 423,
+                        "errorMessage": "Cannot access value for name object",
+                        "functionName": "x",
+                        "line": 168
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 212,
+                        "errorMessage": "",
+                        "functionName": "visible",
+                        "line": 169
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 61,
+                        "durationMicroseconds": 694,
+                        "errorMessage": "Cannot access value for name object",
+                        "functionName": "checked",
+                        "line": 175
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 61,
+                        "durationMicroseconds": 650,
+                        "errorMessage": "Cannot access value for name object",
+                        "functionName": "index",
+                        "line": 176
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 61,
+                        "durationMicroseconds": 98,
+                        "errorMessage": "Cannot access value for name root",
+                        "functionName": "onClicked",
+                        "line": 177
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 61,
+                        "durationMicroseconds": 294,
+                        "errorMessage": "",
+                        "functionName": "horizontalCenter",
+                        "line": 172
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 61,
+                        "durationMicroseconds": 287,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 173
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 448,
+                        "errorMessage": "Cannot access value for name object",
+                        "functionName": "x",
+                        "line": 184
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 430,
+                        "errorMessage": "Cannot access value for name object",
+                        "functionName": "width",
+                        "line": 185
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 228,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 186
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 366,
+                        "errorMessage": "Cannot access value for name object",
+                        "functionName": "visible",
+                        "line": 189
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 306,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 183
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 79,
+                        "errorMessage": "Cannot access value for name root",
+                        "functionName": "onClicked",
+                        "line": 193
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 130,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 192
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 61,
+                        "durationMicroseconds": 666,
+                        "errorMessage": "Cannot access value for name object",
+                        "functionName": "text",
+                        "line": 199
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 61,
+                        "durationMicroseconds": 280,
+                        "errorMessage": "",
+                        "functionName": "horizontalCenter",
+                        "line": 198
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/QmlControls/TerrainStatus.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.Controls(QGroundControlControlsModule)"
+    }
+]

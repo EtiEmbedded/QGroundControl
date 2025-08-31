@@ -1,0 +1,36 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 34,
+                        "durationMicroseconds": 4547,
+                        "errorMessage": "",
+                        "functionName": "displayStatus",
+                        "line": 4
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 36,
+                        "durationMicroseconds": 146,
+                        "errorMessage": "Cannot generate efficient code for storing an array in a non-sequence type",
+                        "functionName": "indicatorTopText",
+                        "line": 6
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 39,
+                        "durationMicroseconds": 122,
+                        "errorMessage": "Cannot generate efficient code for storing an array in a non-sequence type",
+                        "functionName": "indicatorBottomText",
+                        "line": 7
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/UTMSP/dummy/UTMSPNotificationSlider.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.UTMSP(UTMSPModule)"
+    }
+]

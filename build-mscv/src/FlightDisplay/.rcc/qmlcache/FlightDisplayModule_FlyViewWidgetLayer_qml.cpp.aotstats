@@ -1,0 +1,836 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 427,
+                        "errorMessage": "",
+                        "functionName": "totalToolInsets",
+                        "line": 36
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 472,
+                        "errorMessage": "",
+                        "functionName": "_activeVehicle",
+                        "line": 40
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 592,
+                        "errorMessage": "Cannot access value for name globals",
+                        "functionName": "_planMasterController",
+                        "line": 41
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 13139,
+                        "errorMessage": "Cannot load property missionController from (component in C:/Users/User/qgroundcontrol/src/FlightDisplay/FlyViewWidgetLayer.qml)::_planMasterController with type QVariant.",
+                        "functionName": "_missionController",
+                        "line": 42
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 62,
+                        "errorMessage": "Cannot load property geoFenceController from (component in C:/Users/User/qgroundcontrol/src/FlightDisplay/FlyViewWidgetLayer.qml)::_planMasterController with type QVariant.",
+                        "functionName": "_geoFenceController",
+                        "line": 43
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 23,
+                        "errorMessage": "Cannot load property rallyPointController from (component in C:/Users/User/qgroundcontrol/src/FlightDisplay/FlyViewWidgetLayer.qml)::_planMasterController with type QVariant.",
+                        "functionName": "_rallyPointController",
+                        "line": 44
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 580,
+                        "errorMessage": "Cannot access value for name globals",
+                        "functionName": "_guidedController",
+                        "line": 45
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 9763,
+                        "errorMessage": "",
+                        "functionName": "_margins",
+                        "line": 46
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 447,
+                        "errorMessage": "",
+                        "functionName": "_toolsMargin",
+                        "line": 47
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 880,
+                        "errorMessage": "",
+                        "functionName": "_centerViewport",
+                        "line": 48
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 374,
+                        "errorMessage": "",
+                        "functionName": "_rightPanelWidth",
+                        "line": 49
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 296,
+                        "errorMessage": "",
+                        "functionName": "_layoutMargin",
+                        "line": 51
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 222,
+                        "errorMessage": "",
+                        "functionName": "_layoutSpacing",
+                        "line": 52
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 218,
+                        "errorMessage": "",
+                        "functionName": "leftEdgeTopInset",
+                        "line": 59
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 197,
+                        "errorMessage": "",
+                        "functionName": "leftEdgeCenterInset",
+                        "line": 60
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 160,
+                        "errorMessage": "Cannot access value for name parentToolInsets",
+                        "functionName": "leftEdgeBottomInset",
+                        "line": 61
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 175,
+                        "errorMessage": "",
+                        "functionName": "rightEdgeTopInset",
+                        "line": 62
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 188,
+                        "errorMessage": "",
+                        "functionName": "rightEdgeCenterInset",
+                        "line": 63
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 175,
+                        "errorMessage": "",
+                        "functionName": "rightEdgeBottomInset",
+                        "line": 64
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 157,
+                        "errorMessage": "",
+                        "functionName": "topEdgeLeftInset",
+                        "line": 65
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 158,
+                        "errorMessage": "",
+                        "functionName": "topEdgeCenterInset",
+                        "line": 66
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 179,
+                        "errorMessage": "",
+                        "functionName": "topEdgeRightInset",
+                        "line": 67
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 253,
+                        "errorMessage": "Cannot access value for name parentToolInsets",
+                        "functionName": "bottomEdgeLeftInset",
+                        "line": 68
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 250,
+                        "errorMessage": "",
+                        "functionName": "bottomEdgeCenterInset",
+                        "line": 69
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 543,
+                        "errorMessage": "",
+                        "functionName": "bottomEdgeRightInset",
+                        "line": 70
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 166,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "maximumHeight",
+                        "line": 79
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 70,
+                        "errorMessage": "Cannot access value for name _layoutMargin",
+                        "functionName": "topEdgeRightInset",
+                        "line": 81
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 62,
+                        "errorMessage": "Cannot access value for name _layoutMargin",
+                        "functionName": "rightEdgeTopInset",
+                        "line": 82
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 127,
+                        "errorMessage": "",
+                        "functionName": "rightEdgeCenterInset",
+                        "line": 83
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 281,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 75
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 287,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 76
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 51,
+                        "errorMessage": "Cannot access value for name _layoutMargin",
+                        "functionName": "topMargin",
+                        "line": 77
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 40,
+                        "errorMessage": "Cannot access value for name _layoutMargin",
+                        "functionName": "rightMargin",
+                        "line": 78
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 54,
+                        "errorMessage": "Cannot access value for name _layoutSpacing",
+                        "functionName": "spacing",
+                        "line": 92
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 28,
+                        "durationMicroseconds": 229,
+                        "errorMessage": "",
+                        "functionName": "visible",
+                        "line": 93
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 95,
+                        "errorMessage": "Cannot access value for name _layoutMargin",
+                        "functionName": "topEdgeRightInset",
+                        "line": 95
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 70,
+                        "errorMessage": "Cannot access value for name _layoutMargin",
+                        "functionName": "rightEdgeTopInset",
+                        "line": 96
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 136,
+                        "errorMessage": "",
+                        "functionName": "rightEdgeCenterInset",
+                        "line": 97
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 54,
+                        "errorMessage": "Cannot access value for name _layoutMargin",
+                        "functionName": "margins",
+                        "line": 88
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 342,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 89
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 617,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 90
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 425,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 91
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 73,
+                        "errorMessage": "Cannot access value for name _layoutSpacing",
+                        "functionName": "spacing",
+                        "line": 105
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 81,
+                        "errorMessage": "Cannot access value for name _layoutMargin",
+                        "functionName": "bottomEdgeRightInset",
+                        "line": 107
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 137,
+                        "errorMessage": "",
+                        "functionName": "bottomEdgeCenterInset",
+                        "line": 108
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 79,
+                        "errorMessage": "Cannot access value for name _layoutMargin",
+                        "functionName": "rightEdgeBottomInset",
+                        "line": 109
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 196,
+                        "errorMessage": "Cannot access value for name _layoutMargin",
+                        "functionName": "margins",
+                        "line": 102
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 290,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 103
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 296,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 104
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 54,
+                        "errorMessage": "Cannot access value for name _missionController",
+                        "functionName": "missionController",
+                        "line": 113
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 37,
+                        "errorMessage": "Cannot access value for name _geoFenceController",
+                        "functionName": "geoFenceController",
+                        "line": 114
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 35,
+                        "errorMessage": "Cannot access value for name _rallyPointController",
+                        "functionName": "rallyPointController",
+                        "line": 115
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 228,
+                        "errorMessage": "",
+                        "functionName": "z",
+                        "line": 122
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 53,
+                        "errorMessage": "Cannot access value for name _guidedController",
+                        "functionName": "guidedController",
+                        "line": 123
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 1034,
+                        "errorMessage": "Cannot access value for name _guidedValueSlider",
+                        "functionName": "guidedValueSlider",
+                        "line": 124
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 48,
+                        "errorMessage": "Cannot access value for name utmspActTrigger",
+                        "functionName": "utmspSliderTrigger",
+                        "line": 125
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 45,
+                        "errorMessage": "Cannot access value for name _toolsMargin",
+                        "functionName": "margins",
+                        "line": 119
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 479,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 120
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 279,
+                        "errorMessage": "",
+                        "functionName": "horizontalCenter",
+                        "line": 121
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 395,
+                        "errorMessage": "",
+                        "functionName": "z",
+                        "line": 131
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 903,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 134
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 256,
+                        "errorMessage": "Cannot access value for name _activeVehicle",
+                        "functionName": "visible",
+                        "line": 135
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 108,
+                        "errorMessage": "Cannot access value for name _activeVehicle",
+                        "functionName": "active",
+                        "line": 141
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 48,
+                        "durationMicroseconds": 376,
+                        "errorMessage": "",
+                        "functionName": "bottomEdgeLeftInset",
+                        "line": 143
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 48,
+                        "durationMicroseconds": 114,
+                        "errorMessage": "Cannot load property virtualJoystickAutoCenterThrottle from SettingsManager::appSettings with type QObject.",
+                        "functionName": "autoCenterThrottle",
+                        "line": 144
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 48,
+                        "durationMicroseconds": 197,
+                        "errorMessage": "Cannot load property virtualJoystickLeftHandedMode from SettingsManager::appSettings with type QObject.",
+                        "functionName": "leftHandedMode",
+                        "line": 145
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 48,
+                        "durationMicroseconds": 77,
+                        "errorMessage": "Cannot load property virtualJoystick from SettingsManager::appSettings with type QObject.",
+                        "functionName": "_virtualJoystickEnabled",
+                        "line": 146
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 48,
+                        "durationMicroseconds": 336,
+                        "errorMessage": "",
+                        "functionName": "bottomEdgeRightInset",
+                        "line": 147
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 48,
+                        "durationMicroseconds": 640,
+                        "errorMessage": "Cannot access value for name _pipView",
+                        "functionName": "_pipViewMargin",
+                        "line": 148
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 48,
+                        "durationMicroseconds": 1961,
+                        "errorMessage": "",
+                        "functionName": "bottomLoaderMargin",
+                        "line": 151
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 1086,
+                        "errorMessage": "",
+                        "functionName": "leftEdgeBottomInset",
+                        "line": 154
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 984,
+                        "errorMessage": "",
+                        "functionName": "rightEdgeBottomInset",
+                        "line": 155
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 198,
+                        "errorMessage": "",
+                        "functionName": "rootWidth",
+                        "line": 156
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 275,
+                        "errorMessage": "",
+                        "functionName": "itemX",
+                        "line": 157
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 209,
+                        "errorMessage": "Type QQuickLoader::item with type QObject does not have a property uiTotalWidth for writing",
+                        "functionName": "onRootWidthChanged",
+                        "line": 159
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 167,
+                        "errorMessage": "Type QQuickLoader::item with type QObject does not have a property uiRealX for writing",
+                        "functionName": "onItemXChanged",
+                        "line": 160
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 19,
+                        "durationMicroseconds": 115,
+                        "errorMessage": "Type QQuickLoader::item with type QObject does not have a property calibration for writing",
+                        "functionName": "onLoaded",
+                        "line": 163
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 334,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 132
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 198,
+                        "errorMessage": "",
+                        "functionName": "rightMargin",
+                        "line": 133
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 255,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 136
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 260,
+                        "errorMessage": "",
+                        "functionName": "bottomMargin",
+                        "line": 137
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 269,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 138
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 1527,
+                        "errorMessage": "",
+                        "functionName": "leftMargin",
+                        "line": 139
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 198,
+                        "errorMessage": "",
+                        "functionName": "z",
+                        "line": 180
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 240,
+                        "errorMessage": "Cannot access value for name parentToolInsets",
+                        "functionName": "maxHeight",
+                        "line": 181
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 319,
+                        "errorMessage": "",
+                        "functionName": "visible",
+                        "line": 182
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 38,
+                        "durationMicroseconds": 480,
+                        "errorMessage": "Type QQuickLoader::item with type QObject does not have a property open for calling",
+                        "functionName": "onDisplayPreFlightChecklist",
+                        "line": 184
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 506,
+                        "errorMessage": "",
+                        "functionName": "topEdgeLeftInset",
+                        "line": 191
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 437,
+                        "errorMessage": "",
+                        "functionName": "leftEdgeTopInset",
+                        "line": 192
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 117,
+                        "errorMessage": "",
+                        "functionName": "leftEdgeCenterInset",
+                        "line": 193
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 74,
+                        "errorMessage": "Cannot access value for name _toolsMargin",
+                        "functionName": "leftMargin",
+                        "line": 176
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 52,
+                        "errorMessage": "Cannot access value for name _toolsMargin",
+                        "functionName": "topMargin",
+                        "line": 177
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 288,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 178
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 264,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 179
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 169,
+                        "errorMessage": "",
+                        "functionName": "z",
+                        "line": 202
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 143,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 201
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 651,
+                        "errorMessage": "Cannot access value for name _mapControl",
+                        "functionName": "mapControl",
+                        "line": 210
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 100,
+                        "errorMessage": "Cannot load property corePlugin from QGroundControlQmlGlobal.",
+                        "functionName": "visible",
+                        "line": 212
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 43,
+                        "durationMicroseconds": 486,
+                        "errorMessage": "",
+                        "functionName": "topEdgeCenterInset",
+                        "line": 214
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 57,
+                        "errorMessage": "Cannot access value for name _toolsMargin",
+                        "functionName": "margins",
+                        "line": 207
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 281,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 208
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 250,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 209
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 26,
+                        "durationMicroseconds": 410,
+                        "errorMessage": "",
+                        "functionName": "sourceComponent",
+                        "line": 219
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/FlightDisplay/FlyViewWidgetLayer.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.FlightDisplay(FlightDisplayModule)"
+    }
+]

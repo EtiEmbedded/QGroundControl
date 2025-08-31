@@ -1,0 +1,236 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 17,
+                        "durationMicroseconds": 162,
+                        "errorMessage": "Cannot load property corePlugin from QGroundControlQmlGlobal.",
+                        "functionName": "promptId",
+                        "line": 22
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 9146,
+                        "errorMessage": "",
+                        "functionName": "_margins",
+                        "line": 24
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 347,
+                        "errorMessage": "",
+                        "functionName": "_unitsSettings",
+                        "line": 25
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 51,
+                        "errorMessage": "Cannot load property horizontalDistanceUnits from (component in C:/Users/User/qgroundcontrol/src/UI/FirstRunPromptDialogs/UnitsFirstRunPrompt.qml)::_unitsSettings with type QVariant.",
+                        "functionName": "_rgFacts",
+                        "line": 26
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 1136,
+                        "errorMessage": "Cannot generate efficient code for storing an array in a non-sequence type",
+                        "functionName": "_rgLabels",
+                        "line": 27
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "changeSystemOfUnits",
+                        "line": 40
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 28,
+                        "durationMicroseconds": 88,
+                        "errorMessage": "Cannot load property length from (component in C:/Users/User/qgroundcontrol/src/UI/FirstRunPromptDialogs/UnitsFirstRunPrompt.qml)::_rgFacts with type QVariant.",
+                        "functionName": "onCompleted",
+                        "line": 30
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 21,
+                        "durationMicroseconds": 233,
+                        "errorMessage": "",
+                        "functionName": "spacing",
+                        "line": 64
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 23,
+                        "durationMicroseconds": 224,
+                        "errorMessage": "",
+                        "functionName": "wrapMode",
+                        "line": 71
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 36,
+                        "durationMicroseconds": 218,
+                        "errorMessage": "",
+                        "functionName": "preferredWidth",
+                        "line": 70
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 400,
+                        "errorMessage": "Cannot access value for name qgcPal",
+                        "functionName": "color",
+                        "line": 77
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 136,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "preferredHeight",
+                        "line": 75
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 83,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "preferredWidth",
+                        "line": 76
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 58,
+                        "errorMessage": "Cannot access value for name _cVisibleFacts",
+                        "functionName": "rows",
+                        "line": 85
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 217,
+                        "errorMessage": "",
+                        "functionName": "flow",
+                        "line": 86
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 86,
+                        "errorMessage": "Cannot access value for name _margins",
+                        "functionName": "margins",
+                        "line": 82
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 322,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 83
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 262,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 84
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 28,
+                        "durationMicroseconds": 71,
+                        "errorMessage": "Cannot access value for name _rgFacts",
+                        "functionName": "model",
+                        "line": 91
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 60,
+                        "errorMessage": "Cannot access value for name _rgLabels",
+                        "functionName": "text",
+                        "line": 93
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 49,
+                        "errorMessage": "Cannot access value for name _rgFacts",
+                        "functionName": "visible",
+                        "line": 94
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 556,
+                        "errorMessage": "Cannot generate efficient code for storing an array in a non-sequence type",
+                        "functionName": "model",
+                        "line": 101
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 81,
+                        "errorMessage": "Cannot access value for name _unitsSettings",
+                        "functionName": "currentIndex",
+                        "line": 102
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 35,
+                        "durationMicroseconds": 1760,
+                        "errorMessage": "method changeSystemOfUnits cannot be resolved.",
+                        "functionName": "onActivated",
+                        "line": 103
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 35,
+                        "durationMicroseconds": 170,
+                        "errorMessage": "",
+                        "functionName": "onActivated",
+                        "line": 103
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 28,
+                        "durationMicroseconds": 72,
+                        "errorMessage": "Cannot access value for name _rgFacts",
+                        "functionName": "model",
+                        "line": 108
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 70,
+                        "errorMessage": "Cannot access value for name _rgFacts",
+                        "functionName": "fact",
+                        "line": 112
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 50,
+                        "errorMessage": "Cannot access value for name _rgFacts",
+                        "functionName": "visible",
+                        "line": 114
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/UI/FirstRunPromptDialogs/UnitsFirstRunPrompt.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.FirstRunPromptDialogs(FirstRunPromptDialogsModule)"
+    }
+]

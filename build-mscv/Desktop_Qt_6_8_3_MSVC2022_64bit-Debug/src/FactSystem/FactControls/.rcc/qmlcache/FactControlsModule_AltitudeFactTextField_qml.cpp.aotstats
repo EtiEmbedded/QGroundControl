@@ -1,0 +1,52 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 106,
+                        "errorMessage": "Cannot access value for name fact",
+                        "functionName": "unitsLabel",
+                        "line": 19
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 17,
+                        "errorMessage": "Cannot access value for name fact",
+                        "functionName": "extraUnitsLabel",
+                        "line": 20
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 32,
+                        "durationMicroseconds": 172,
+                        "errorMessage": "Cannot access value for name QGroundControl",
+                        "functionName": "altitudeMode",
+                        "line": 24
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 28,
+                        "durationMicroseconds": 211,
+                        "errorMessage": "",
+                        "functionName": "onAltitudeModeChanged",
+                        "line": 28
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 140,
+                        "errorMessage": "Cannot access value for name QGroundControl",
+                        "functionName": "updateAltitudeModeExtraUnits",
+                        "line": 30
+                    }
+                ],
+                "filepath": "C:/Users/User/qgroundcontrol/src/FactSystem/FactControls/AltitudeFactTextField.qml"
+            }
+        ],
+        "moduleId": "QGroundControl.FactControls(FactControlsModule)"
+    }
+]

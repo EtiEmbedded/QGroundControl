@@ -13,7 +13,11 @@
 #define MAX_ZOOM_LEVEL      23
 #define MAX_LATITUDE       85.05112878
 
-enum RequestStat{
+#ifdef ERROR
+#  undef ERROR
+#endif
+
+enum RequestStat {
     STARTED,
     IN_PROGRESS,
     FINISHED,
