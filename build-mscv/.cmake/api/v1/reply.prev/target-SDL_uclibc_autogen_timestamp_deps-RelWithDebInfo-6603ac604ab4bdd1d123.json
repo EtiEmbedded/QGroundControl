@@ -1,0 +1,31 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"build-mscv/cpm_modules/sdl3/1b4d4ec3ea2cbc7e0b1fc1a622265bc9bc82df8a/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"folder" : 
+	{
+		"name" : "QtInternalTargets"
+	},
+	"id" : "SDL_uclibc_autogen_timestamp_deps::@405c074760d2f6728126",
+	"isGeneratorProvided" : true,
+	"name" : "SDL_uclibc_autogen_timestamp_deps",
+	"paths" : 
+	{
+		"build" : "_deps/sdl3-build",
+		"source" : "build-mscv/cpm_modules/sdl3/1b4d4ec3ea2cbc7e0b1fc1a622265bc9bc82df8a"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

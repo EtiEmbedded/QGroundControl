@@ -46,7 +46,8 @@ Rectangle {
         radius: 5
         border.width: 0.5; border.color: "#9D9D9D"
 
-    Text { text:"Single Battery Configuration";
+    Text {
+        text:"Single Battery Configuration";
         color: "#FFFAFA";
         x: 617; y: 14.5;
         font.pixelSize: 18;font.bold: true }

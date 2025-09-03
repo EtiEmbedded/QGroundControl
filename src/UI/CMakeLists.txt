@@ -34,4 +34,8 @@ qt_add_qml_module(MainWindowModule
     QML_FILES SideMenu_Tehlukesizlik.qml
     QML_FILES
     QML_FILES Side_Parameter.qml
+    QML_FILES Side_Proqram_Teminati.qml
+    QML_FILES
+    QML_FILES SideMenu_Cercive.qml
+    QML_FILES SideMenu_Xulase.qml
 )

@@ -153,31 +153,45 @@ Rectangle {
                         regenerateIcons()
 
                         // Yalnız sağ paneli dəyiş
-                        if (${index} === 2) {
-                            // Radio → ikinci fayl
-                            rightPanelLoader.setSource(Qt.resolvedUrl("SideMenu_Radio.qml"))
-                        } else if(${index} === 3){
-                                  rightPanelLoader.setSource(Qt.resolvedUrl("SideMenu_FlightMode.qml"))
-                        } else if(${index} === 4){
-                                  rightPanelLoader.setSource(Qt.resolvedUrl("SideMenu_Sensors.qml"))
-                        }
+
+                                if (${index} === 2) {
+                                    // Radio → ikinci fayl
+                                    rightPanelLoader.setSource(Qt.resolvedUrl("SideMenu_Radio.qml"))}
+
+                                  else if(${index} === 0){
+                                    rightPanelLoader.setSource(Qt.resolvedUrl("SideMenu_Summary.qml"))}
+
+                                  else if(${index} === 1){
+                                    rightPanelLoader.setSource(Qt.resolvedUrl("SideMenu_Cercive.qml"))}
+
+                                  else if(${index} === 3){
+                                    rightPanelLoader.setSource(Qt.resolvedUrl("SideMenu_FlightMode.qml"))}
+
+                                  else if(${index} === 4){
+                                     rightPanelLoader.setSource(Qt.resolvedUrl("SideMenu_Sensors.qml"))}
+
 
                                   else if(${index} === 5){
-                                  rightPanelLoader.setSource(Qt.resolvedUrl("SideMenu_Enerji.qml"))
-                        }
+                                    rightPanelLoader.setSource(Qt.resolvedUrl("SideMenu_Enerji.qml"))}
+
                                   else if(${index} === 6){
-                                  rightPanelLoader.setSource(Qt.resolvedUrl("SideMenu_Motors.qml"))
-                        }
+                                     rightPanelLoader.setSource(Qt.resolvedUrl("SideMenu_Motors.qml"))}
+
                                   else if(${index} === 7){
-                                  rightPanelLoader.setSource(Qt.resolvedUrl("SideMenu_Tehlukesizlik.qml"))
-                        }
-                        //           else if(${index} === 8){
-                        //           rightPanelLoader.setSource(Qt.resolvedUrl("Side_Parameter.qml"))
-                        // }
+                                    rightPanelLoader.setSource(Qt.resolvedUrl("SideMenu_Tehlukesizlik.qml"))}
+
+                                  else if(${index} === 8){
+                                  rightPanelLoader.setSource(Qt.resolvedUrl("Side_Parameter.qml"))}
+
+                                  else if(${index} === 9){
+                                    rightPanelLoader.setSource(Qt.resolvedUrl("Side_Proqram_Teminati.qml"))}
 
                                   else {
+
                             // Digərləri üçün hazırda boş saxlayırıq
+
                             rightPanelLoader.source = ""
+
                             // istəsən switch ilə digər səhifələri də yükləyə bilərsən
                             // məsələn: if (${index} === 0) rightPanelLoader.setSource(Qt.resolvedUrl("SideMenu_Summary.qml"))
                         }

@@ -145,6 +145,27 @@ namespace _qml_QGroundControl_MainWindow_Side_Parameter_qml {
         reinterpret_cast<const QV4::CompiledData::Unit*>(&qmlData), &aotBuiltFunctions[0], nullptr
     };
 }
+namespace _qml_QGroundControl_MainWindow_Side_Proqram_Teminati_qml { 
+    extern const unsigned char qmlData[];
+    extern const QQmlPrivate::AOTCompiledFunction aotBuiltFunctions[];
+    const QQmlPrivate::CachedQmlUnit unit = {
+        reinterpret_cast<const QV4::CompiledData::Unit*>(&qmlData), &aotBuiltFunctions[0], nullptr
+    };
+}
+namespace _qml_QGroundControl_MainWindow_SideMenu_Cercive_qml { 
+    extern const unsigned char qmlData[];
+    extern const QQmlPrivate::AOTCompiledFunction aotBuiltFunctions[];
+    const QQmlPrivate::CachedQmlUnit unit = {
+        reinterpret_cast<const QV4::CompiledData::Unit*>(&qmlData), &aotBuiltFunctions[0], nullptr
+    };
+}
+namespace _qml_QGroundControl_MainWindow_SideMenu_Xulase_qml { 
+    extern const unsigned char qmlData[];
+    extern const QQmlPrivate::AOTCompiledFunction aotBuiltFunctions[];
+    const QQmlPrivate::CachedQmlUnit unit = {
+        reinterpret_cast<const QV4::CompiledData::Unit*>(&qmlData), &aotBuiltFunctions[0], nullptr
+    };
+}
 
 }
 namespace {
@@ -179,6 +200,9 @@ Registry::Registry() {
     resourcePathToCachedUnit.insert(QStringLiteral("/qml/QGroundControl/MainWindow/SideMenu_Motors.qml"), &QmlCacheGeneratedCode::_qml_QGroundControl_MainWindow_SideMenu_Motors_qml::unit);
     resourcePathToCachedUnit.insert(QStringLiteral("/qml/QGroundControl/MainWindow/SideMenu_Tehlukesizlik.qml"), &QmlCacheGeneratedCode::_qml_QGroundControl_MainWindow_SideMenu_Tehlukesizlik_qml::unit);
     resourcePathToCachedUnit.insert(QStringLiteral("/qml/QGroundControl/MainWindow/Side_Parameter.qml"), &QmlCacheGeneratedCode::_qml_QGroundControl_MainWindow_Side_Parameter_qml::unit);
+    resourcePathToCachedUnit.insert(QStringLiteral("/qml/QGroundControl/MainWindow/Side_Proqram_Teminati.qml"), &QmlCacheGeneratedCode::_qml_QGroundControl_MainWindow_Side_Proqram_Teminati_qml::unit);
+    resourcePathToCachedUnit.insert(QStringLiteral("/qml/QGroundControl/MainWindow/SideMenu_Cercive.qml"), &QmlCacheGeneratedCode::_qml_QGroundControl_MainWindow_SideMenu_Cercive_qml::unit);
+    resourcePathToCachedUnit.insert(QStringLiteral("/qml/QGroundControl/MainWindow/SideMenu_Xulase.qml"), &QmlCacheGeneratedCode::_qml_QGroundControl_MainWindow_SideMenu_Xulase_qml::unit);
     QQmlPrivate::RegisterQmlUnitCacheHook registration;
     registration.structVersion = 0;
     registration.lookupCachedQmlUnit = &lookupCachedUnit;

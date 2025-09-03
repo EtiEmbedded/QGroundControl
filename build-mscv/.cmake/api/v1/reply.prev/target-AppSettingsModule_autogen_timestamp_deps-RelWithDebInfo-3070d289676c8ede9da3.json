@@ -1,0 +1,96 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_dependencies",
+			"_qt_internal_qml_copy_files_to_build_dir",
+			"qt6_target_qml_sources",
+			"qt6_add_qml_module",
+			"qt_add_qml_module"
+		],
+		"files" : 
+		[
+			"src/UI/AppSettings/CMakeLists.txt",
+			"C:/Qt/6.8.3/msvc2022_64/lib/cmake/Qt6Qml/Qt6QmlMacros.cmake"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 4,
+				"file" : 0,
+				"line" : 3,
+				"parent" : 0
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 1254,
+				"parent" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 916,
+				"parent" : 2
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 3482,
+				"parent" : 3
+			},
+			{
+				"command" : 0,
+				"file" : 1,
+				"line" : 2887,
+				"parent" : 4
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 3488,
+				"parent" : 3
+			},
+			{
+				"command" : 0,
+				"file" : 1,
+				"line" : 2887,
+				"parent" : 6
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 5,
+			"id" : "AppSettingsModule_copy_qml::@f2c0e2401d98c699e098"
+		},
+		{
+			"backtrace" : 7,
+			"id" : "AppSettingsModule_copy_res::@f2c0e2401d98c699e098"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "AppSettingsModule_generate_qmlls_ini_file::@f2c0e2401d98c699e098"
+		}
+	],
+	"folder" : 
+	{
+		"name" : "QtInternalTargets"
+	},
+	"id" : "AppSettingsModule_autogen_timestamp_deps::@f2c0e2401d98c699e098",
+	"isGeneratorProvided" : true,
+	"name" : "AppSettingsModule_autogen_timestamp_deps",
+	"paths" : 
+	{
+		"build" : "src/UI/AppSettings",
+		"source" : "src/UI/AppSettings"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

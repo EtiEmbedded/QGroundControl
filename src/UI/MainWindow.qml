@@ -29,71 +29,71 @@ ApplicationWindow {
     width: Screen.width
     height: Screen.height
 
-    // --- SPLASH SCREEN KODU BAŞLANĞICI ---
-    Rectangle {
-        id: splashScreen
-        anchors.fill: parent
-        color: "black" // Qara fon
-        z: 9999 // Digər hər şeyin üstündə görünməsini təmin edir
+    // // --- SPLASH SCREEN KODU BAŞLANĞICI ---
+    // Rectangle {
+    //     id: splashScreen
+    //     anchors.fill: parent
+    //     color: "black" // Qara fon
+    //     z: 9999 // Digər hər şeyin üstündə görünməsini təmin edir
 
-        Image {
-            id: splashImage
-            // Şəkilinizin yolunu buraya daxil edin.
-            // Nümunə: "qrc:/qmlimages/MyCustomLogo.png"
-            // Əgər öz şəkliniz varsa, onu layihənin resurslarına əlavə etdiyinizə əmin olun.
-            source: "file:///C:/Users/user/qgroundcontrol/resources/AZSHIELD_ICON/main_logo.svg" // QGroundControl-un öz loqosunu nümunə kimi istifadə edirəm.
-            anchors.centerIn: parent // Mərkəzdə yerləşdirmək
-            width: 0 // Başlanğıc eni (animasiya ilə böyüyəcək)
-            height: 0 // Başlanğıc hündürlüyü (animasiya ilə böyüyəcək)
-            fillMode: Image.PreserveAspectFit // Şəkilin nisbətini qoruyur
-            opacity: 0 // Başlanğıc şəffaflıq (animasiya ilə görünəcək)
-            visible: true
-        }
+    //     Image {
+    //         id: splashImage
+    //         // Şəkilinizin yolunu buraya daxil edin.
+    //         // Nümunə: "qrc:/qmlimages/MyCustomLogo.png"
+    //         // Əgər öz şəkliniz varsa, onu layihənin resurslarına əlavə etdiyinizə əmin olun.
+    //         source: "file:///C:/Users/user/qgroundcontrol/resources/AZSHIELD_ICON/main_logo.svg" // QGroundControl-un öz loqosunu nümunə kimi istifadə edirəm.
+    //         anchors.centerIn: parent // Mərkəzdə yerləşdirmək
+    //         width: 0 // Başlanğıc eni (animasiya ilə böyüyəcək)
+    //         height: 0 // Başlanğıc hündürlüyü (animasiya ilə böyüyəcək)
+    //         fillMode: Image.PreserveAspectFit // Şəkilin nisbətini qoruyur
+    //         opacity: 0 // Başlanğıc şəffaflıq (animasiya ilə görünəcək)
+    //         visible: true
+    //     }
 
-        SequentialAnimation {
-            id: splashAnimation
-            // Animasiya başladığında şəkilin görünməsini təmin edək
-            ScriptAction { script: splashImage.opacity = 1 }
+    //     SequentialAnimation {
+    //         id: splashAnimation
+    //         // Animasiya başladığında şəkilin görünməsini təmin edək
+    //         ScriptAction { script: splashImage.opacity = 1 }
 
-            ParallelAnimation { // Həm ölçünü, həm də şəffaflığı eyni vaxtda dəyişsin
-                PropertyAnimation {
-                    target: splashImage
-                    property: "width"
-                    to: Screen.width * 0.5 // Ekranın yarısı qədər böyüsün
-                    duration: 2500 // 2.5 saniyə ərzində böyüsün
-                    easing.type: Easing.OutCubic // Hamar animasiya
-                }
-                PropertyAnimation {
-                    target: splashImage
-                    property: "height"
-                    to: Screen.height * 0.5 // Ekranın yarısı qədər böyüsün
-                    duration: 2500 // 2.5 saniyə ərzində böyüsün
-                    easing.type: Easing.OutCubic // Hamar animasiya
-                }
-            }
+    //         ParallelAnimation { // Həm ölçünü, həm də şəffaflığı eyni vaxtda dəyişsin
+    //             PropertyAnimation {
+    //                 target: splashImage
+    //                 property: "width"
+    //                 to: Screen.width * 0.5 // Ekranın yarısı qədər böyüsün
+    //                 duration: 2500 // 2.5 saniyə ərzində böyüsün
+    //                 easing.type: Easing.OutCubic // Hamar animasiya
+    //             }
+    //             PropertyAnimation {
+    //                 target: splashImage
+    //                 property: "height"
+    //                 to: Screen.height * 0.5 // Ekranın yarısı qədər böyüsün
+    //                 duration: 2500 // 2.5 saniyə ərzində böyüsün
+    //                 easing.type: Easing.OutCubic // Hamar animasiya
+    //             }
+    //         }
 
-            // Şəkil böyüdükdən sonra qısa bir gözləmə (0.5 saniyə)
-            // Bu, ümumi 3 saniyəni tamamlayır (2.5 saniyə animasiya + 0.5 saniyə gözləmə)
-            PauseAnimation { duration: 500 }
+    //         // Şəkil böyüdükdən sonra qısa bir gözləmə (0.5 saniyə)
+    //         // Bu, ümumi 3 saniyəni tamamlayır (2.5 saniyə animasiya + 0.5 saniyə gözləmə)
+    //         PauseAnimation { duration: 500 }
 
-            ScriptAction {
-                script: {
-                    splashScreen.visible = false // Qara paneli gizlət
-                    // Əsas ApplicationWindow-un normal açılış funksionallığını işə salırıq
-                    Qt.callLater(function() {
-                        mainWindow.showFullScreen()
-                        mainWindow.visible = true
-                    })
-                    firstRunPromptManager.nextPrompt()
-                }
-            }
-        }
+    //         ScriptAction {
+    //             script: {
+    //                 splashScreen.visible = false // Qara paneli gizlət
+    //                 // Əsas ApplicationWindow-un normal açılış funksionallığını işə salırıq
+    //                 Qt.callLater(function() {
+    //                     mainWindow.showFullScreen()
+    //                     mainWindow.visible = true
+    //                 })
+    //                 firstRunPromptManager.nextPrompt()
+    //             }
+    //         }
+    //     }
 
-        // SplashScreen komponenti yükləndikdən sonra animasiyanı başlat
-        Component.onCompleted: {
-            splashAnimation.start()
-        }
-    }
+    //     // SplashScreen komponenti yükləndikdən sonra animasiyanı başlat
+    //     Component.onCompleted: {
+    //         splashAnimation.start()
+    //     }
+    // }
     // --- SPLASH SCREEN KODU SONU ---
 
 

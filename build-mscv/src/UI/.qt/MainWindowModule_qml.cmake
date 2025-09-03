@@ -42,6 +42,12 @@ set(src_and_dest_list
     "C:/Users/User/qgroundcontrol/build-mscv/qml/QGroundControl/MainWindow/SideMenu_Tehlukesizlik.qml"
     "C:/Users/User/qgroundcontrol/src/UI/Side_Parameter.qml"
     "C:/Users/User/qgroundcontrol/build-mscv/qml/QGroundControl/MainWindow/Side_Parameter.qml"
+    "C:/Users/User/qgroundcontrol/src/UI/Side_Proqram_Teminati.qml"
+    "C:/Users/User/qgroundcontrol/build-mscv/qml/QGroundControl/MainWindow/Side_Proqram_Teminati.qml"
+    "C:/Users/User/qgroundcontrol/src/UI/SideMenu_Cercive.qml"
+    "C:/Users/User/qgroundcontrol/build-mscv/qml/QGroundControl/MainWindow/SideMenu_Cercive.qml"
+    "C:/Users/User/qgroundcontrol/src/UI/SideMenu_Xulase.qml"
+    "C:/Users/User/qgroundcontrol/build-mscv/qml/QGroundControl/MainWindow/SideMenu_Xulase.qml"
 
 )
 set(timestamp_file "C:/Users/User/qgroundcontrol/build-mscv/src/UI/.qt/MainWindowModule_qml.txt")

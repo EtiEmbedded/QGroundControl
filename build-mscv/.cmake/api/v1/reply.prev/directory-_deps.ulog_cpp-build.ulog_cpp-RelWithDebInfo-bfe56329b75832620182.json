@@ -1,0 +1,88 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"build-mscv/cpm_modules/ulog_cpp/7a69708ff89747582667f268eeaee7cd22ba9f41/ulog_cpp/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 17,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 24,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 29,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"RelWithDebInfo/lib/ulog_cpp.lib"
+			],
+			"targetId" : "ulog_cpp::@83f35c707b92fa6c70db",
+			"targetIndex" : 269,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "include/ulog_cpp",
+			"paths" : 
+			[
+				{
+					"from" : "build-mscv/cpm_modules/ulog_cpp/7a69708ff89747582667f268eeaee7cd22ba9f41/ulog_cpp",
+					"to" : "."
+				}
+			],
+			"type" : "directory"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"destination" : "lib/cmake/ulog_cpp",
+			"exportName" : "ulog_cppTargets",
+			"exportTargets" : 
+			[
+				{
+					"id" : "ulog_cpp::@83f35c707b92fa6c70db",
+					"index" : 269
+				}
+			],
+			"paths" : 
+			[
+				"_deps/ulog_cpp-build/ulog_cpp/CMakeFiles/Export/70f01ec067a39269b5740615a3c659e4/ulog_cppTargets.cmake"
+			],
+			"type" : "export"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "_deps/ulog_cpp-build/ulog_cpp",
+		"source" : "build-mscv/cpm_modules/ulog_cpp/7a69708ff89747582667f268eeaee7cd22ba9f41/ulog_cpp"
+	}
+}

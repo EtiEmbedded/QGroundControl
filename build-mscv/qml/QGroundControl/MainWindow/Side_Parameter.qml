@@ -6,5 +6,11 @@ import QtQuick.Controls
 Rectangle {
     width: 1560
     height: 1080
-    color: "red"
-}
+    color: "lightblue"
+
+
+
+
+
+
+}  ////////////////////////////

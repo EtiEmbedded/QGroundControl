@@ -1,0 +1,5770 @@
+{
+	"archive" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "/machine:x64",
+				"role" : "flags"
+			}
+		]
+	},
+	"artifacts" : 
+	[
+		{
+			"path" : "RelWithDebInfo/lib/QGroundControlControlsModule.lib"
+		}
+	],
+	"backtrace" : 4,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"_qt_internal_add_library",
+			"qt6_add_library",
+			"qt_add_library",
+			"add_dependencies",
+			"_qt_internal_qml_copy_files_to_build_dir",
+			"qt6_target_qml_sources",
+			"qt6_add_qml_module",
+			"qt_add_qml_module",
+			"_populate_qmlls_ini_file",
+			"_qt_internal_write_deferred_qmlls_ini_file",
+			"target_link_libraries",
+			"target_include_directories",
+			"_qt_internal_qml_type_registration",
+			"target_sources",
+			"qt6_extract_metatypes",
+			"set_source_files_properties",
+			"__qt_propagate_generated_resource",
+			"_qt_internal_process_resource",
+			"qt6_add_resources",
+			"_qt_internal_target_enable_qmlcachegen",
+			"_qt_internal_expose_deferred_files_to_ide",
+			"qt6_finalize_target"
+		],
+		"files" : 
+		[
+			"C:/Qt/6.8.3/msvc2022_64/lib/cmake/Qt6Core/Qt6CoreMacros.cmake",
+			"src/QmlControls/CMakeLists.txt",
+			"C:/Qt/6.8.3/msvc2022_64/lib/cmake/Qt6Qml/Qt6QmlMacros.cmake",
+			"C:/Qt/6.8.3/msvc2022_64/lib/cmake/Qt6Qml/Qt6QmlMacros.cmake:1019:EVAL",
+			"C:/Qt/6.8.3/msvc2022_64/lib/cmake/Qt6Core/Qt6CoreMacros.cmake:792:EVAL"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 62,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 2823,
+				"parent" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 2711,
+				"parent" : 2
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 2798,
+				"parent" : 3
+			},
+			{
+				"command" : 8,
+				"file" : 1,
+				"line" : 64,
+				"parent" : 0
+			},
+			{
+				"command" : 7,
+				"file" : 2,
+				"line" : 1254,
+				"parent" : 5
+			},
+			{
+				"command" : 6,
+				"file" : 2,
+				"line" : 916,
+				"parent" : 6
+			},
+			{
+				"command" : 5,
+				"file" : 2,
+				"line" : 3482,
+				"parent" : 7
+			},
+			{
+				"command" : 4,
+				"file" : 2,
+				"line" : 2887,
+				"parent" : 8
+			},
+			{
+				"command" : 5,
+				"file" : 2,
+				"line" : 3488,
+				"parent" : 7
+			},
+			{
+				"command" : 4,
+				"file" : 2,
+				"line" : 2887,
+				"parent" : 10
+			},
+			{
+				"file" : 1,
+				"line" : -1,
+				"parent" : 0
+			},
+			{
+				"command" : 10,
+				"file" : 3,
+				"line" : 1,
+				"parent" : 12
+			},
+			{
+				"command" : 9,
+				"file" : 2,
+				"line" : 1245,
+				"parent" : 13
+			},
+			{
+				"command" : 4,
+				"file" : 2,
+				"line" : 1288,
+				"parent" : 14
+			},
+			{
+				"command" : 11,
+				"file" : 2,
+				"line" : 596,
+				"parent" : 6
+			},
+			{
+				"command" : 13,
+				"file" : 2,
+				"line" : 796,
+				"parent" : 6
+			},
+			{
+				"command" : 12,
+				"file" : 2,
+				"line" : 3889,
+				"parent" : 17
+			},
+			{
+				"command" : 15,
+				"file" : 2,
+				"line" : 3689,
+				"parent" : 17
+			},
+			{
+				"command" : 14,
+				"file" : 0,
+				"line" : 1500,
+				"parent" : 19
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3855,
+				"parent" : 17
+			},
+			{
+				"command" : 16,
+				"file" : 2,
+				"line" : 3879,
+				"parent" : 17
+			},
+			{
+				"command" : 19,
+				"file" : 2,
+				"line" : 850,
+				"parent" : 6
+			},
+			{
+				"command" : 18,
+				"file" : 0,
+				"line" : 406,
+				"parent" : 23
+			},
+			{
+				"command" : 17,
+				"file" : 0,
+				"line" : 2547,
+				"parent" : 24
+			},
+			{
+				"command" : 14,
+				"file" : 0,
+				"line" : 2089,
+				"parent" : 25
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 20,
+				"file" : 2,
+				"line" : 3346,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 1723,
+				"parent" : 28
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3209,
+				"parent" : 7
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3402,
+				"parent" : 7
+			},
+			{
+				"command" : 19,
+				"file" : 2,
+				"line" : 3504,
+				"parent" : 7
+			},
+			{
+				"command" : 18,
+				"file" : 0,
+				"line" : 406,
+				"parent" : 323
+			},
+			{
+				"command" : 17,
+				"file" : 0,
+				"line" : 2547,
+				"parent" : 324
+			},
+			{
+				"command" : 14,
+				"file" : 0,
+				"line" : 2089,
+				"parent" : 325
+			},
+			{
+				"command" : 22,
+				"file" : 4,
+				"line" : 1,
+				"parent" : 12
+			},
+			{
+				"command" : 21,
+				"file" : 0,
+				"line" : 817,
+				"parent" : 327
+			},
+			{
+				"command" : 14,
+				"file" : 0,
+				"line" : 2212,
+				"parent" : 328
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-DQT_QML_DEBUG /DWIN32 /D_WINDOWS /EHsc /O2 /Ob1 /DNDEBUG -std:c++20 -MD"
+				},
+				{
+					"backtrace" : 16,
+					"fragment" : "-Zc:__cplusplus"
+				},
+				{
+					"backtrace" : 16,
+					"fragment" : "-permissive-"
+				},
+				{
+					"backtrace" : 16,
+					"fragment" : "-utf-8"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 16,
+					"define" : "QT_CORE_LIB"
+				},
+				{
+					"backtrace" : 16,
+					"define" : "QT_NETWORK_LIB"
+				},
+				{
+					"backtrace" : 16,
+					"define" : "QT_NO_DEBUG"
+				},
+				{
+					"backtrace" : 16,
+					"define" : "QT_QMLINTEGRATION_LIB"
+				},
+				{
+					"backtrace" : 16,
+					"define" : "QT_QML_LIB"
+				},
+				{
+					"backtrace" : 16,
+					"define" : "UNICODE"
+				},
+				{
+					"backtrace" : 16,
+					"define" : "WIN32"
+				},
+				{
+					"backtrace" : 16,
+					"define" : "WIN64"
+				},
+				{
+					"backtrace" : 16,
+					"define" : "_ENABLE_EXTENDED_ALIGNED_STORAGE"
+				},
+				{
+					"backtrace" : 16,
+					"define" : "_UNICODE"
+				},
+				{
+					"backtrace" : 16,
+					"define" : "_WIN64"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"path" : "C:/Users/User/qgroundcontrol/build-mscv/src/QmlControls"
+				},
+				{
+					"path" : "C:/Users/User/qgroundcontrol/src/QmlControls"
+				},
+				{
+					"backtrace" : 0,
+					"path" : "C:/Users/User/qgroundcontrol/build-mscv/src/QmlControls/QGroundControlControlsModule_autogen/include"
+				},
+				{
+					"backtrace" : 18,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.8.3/msvc2022_64/include/QtQml/6.8.3"
+				},
+				{
+					"backtrace" : 18,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.8.3/msvc2022_64/include/QtQml/6.8.3/QtQml"
+				},
+				{
+					"backtrace" : 18,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.8.3/msvc2022_64/include/QtCore/6.8.3"
+				},
+				{
+					"backtrace" : 18,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.8.3/msvc2022_64/include/QtCore/6.8.3/QtCore"
+				},
+				{
+					"backtrace" : 18,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.8.3/msvc2022_64/include/QtCore"
+				},
+				{
+					"backtrace" : 18,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.8.3/msvc2022_64/include"
+				},
+				{
+					"backtrace" : 18,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.8.3/msvc2022_64/mkspecs/win32-msvc"
+				},
+				{
+					"backtrace" : 18,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.8.3/msvc2022_64/include/QtQml"
+				},
+				{
+					"backtrace" : 18,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.8.3/msvc2022_64/include/QtQmlIntegration"
+				},
+				{
+					"backtrace" : 18,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.8.3/msvc2022_64/include/QtNetwork"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					16,
+					16
+				],
+				"standard" : "20"
+			},
+			"sourceIndexes" : 
+			[
+				0,
+				3,
+				5,
+				6,
+				8,
+				10,
+				12,
+				14,
+				16,
+				18,
+				20,
+				22,
+				24,
+				26,
+				28,
+				30,
+				32,
+				34,
+				36,
+				38,
+				40,
+				42,
+				44,
+				46,
+				48,
+				50,
+				52,
+				54,
+				56,
+				58,
+				60,
+				62,
+				64,
+				66,
+				68,
+				70,
+				72,
+				74,
+				76,
+				78,
+				80,
+				82,
+				84,
+				86,
+				88,
+				90,
+				92,
+				94,
+				96,
+				98,
+				100,
+				102,
+				104,
+				106,
+				108,
+				110,
+				112,
+				114,
+				116,
+				118,
+				120,
+				122,
+				124,
+				126,
+				128,
+				130,
+				132,
+				134,
+				136,
+				138,
+				140,
+				142,
+				144,
+				146,
+				148,
+				150,
+				152,
+				154,
+				156,
+				158,
+				160,
+				162,
+				164,
+				166,
+				168,
+				170,
+				172,
+				174,
+				176,
+				178,
+				180,
+				182,
+				184,
+				186,
+				188,
+				190,
+				192,
+				194,
+				196,
+				198,
+				200,
+				202,
+				204,
+				206,
+				208,
+				210,
+				212,
+				214,
+				216,
+				218,
+				220,
+				222,
+				224,
+				226,
+				228,
+				230,
+				232,
+				234,
+				236,
+				238,
+				240,
+				242,
+				244,
+				246,
+				248,
+				250,
+				252,
+				254,
+				256,
+				258,
+				260,
+				262,
+				264,
+				266,
+				268,
+				270,
+				272,
+				274,
+				276,
+				278,
+				280,
+				282,
+				284,
+				286,
+				288,
+				290,
+				292,
+				294,
+				296,
+				298,
+				299
+			]
+		},
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-DQT_QML_DEBUG /DWIN32 /D_WINDOWS /EHsc /O2 /Ob1 /DNDEBUG -std:c++20 -MD"
+				},
+				{
+					"backtrace" : 16,
+					"fragment" : "-Zc:__cplusplus"
+				},
+				{
+					"backtrace" : 16,
+					"fragment" : "-permissive-"
+				},
+				{
+					"backtrace" : 16,
+					"fragment" : "-utf-8"
+				},
+				{
+					"backtrace" : 22,
+					"fragment" : "/bigobj"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 16,
+					"define" : "QT_CORE_LIB"
+				},
+				{
+					"backtrace" : 16,
+					"define" : "QT_NETWORK_LIB"
+				},
+				{
+					"backtrace" : 16,
+					"define" : "QT_NO_DEBUG"
+				},
+				{
+					"backtrace" : 16,
+					"define" : "QT_QMLINTEGRATION_LIB"
+				},
+				{
+					"backtrace" : 16,
+					"define" : "QT_QML_LIB"
+				},
+				{
+					"backtrace" : 16,
+					"define" : "UNICODE"
+				},
+				{
+					"backtrace" : 16,
+					"define" : "WIN32"
+				},
+				{
+					"backtrace" : 16,
+					"define" : "WIN64"
+				},
+				{
+					"backtrace" : 16,
+					"define" : "_ENABLE_EXTENDED_ALIGNED_STORAGE"
+				},
+				{
+					"backtrace" : 16,
+					"define" : "_UNICODE"
+				},
+				{
+					"backtrace" : 16,
+					"define" : "_WIN64"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"path" : "C:/Users/User/qgroundcontrol/build-mscv/src/QmlControls"
+				},
+				{
+					"path" : "C:/Users/User/qgroundcontrol/src/QmlControls"
+				},
+				{
+					"backtrace" : 0,
+					"path" : "C:/Users/User/qgroundcontrol/build-mscv/src/QmlControls/QGroundControlControlsModule_autogen/include"
+				},
+				{
+					"backtrace" : 18,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.8.3/msvc2022_64/include/QtQml/6.8.3"
+				},
+				{
+					"backtrace" : 18,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.8.3/msvc2022_64/include/QtQml/6.8.3/QtQml"
+				},
+				{
+					"backtrace" : 18,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.8.3/msvc2022_64/include/QtCore/6.8.3"
+				},
+				{
+					"backtrace" : 18,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.8.3/msvc2022_64/include/QtCore/6.8.3/QtCore"
+				},
+				{
+					"backtrace" : 18,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.8.3/msvc2022_64/include/QtCore"
+				},
+				{
+					"backtrace" : 18,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.8.3/msvc2022_64/include"
+				},
+				{
+					"backtrace" : 18,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.8.3/msvc2022_64/mkspecs/win32-msvc"
+				},
+				{
+					"backtrace" : 18,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.8.3/msvc2022_64/include/QtQml"
+				},
+				{
+					"backtrace" : 18,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.8.3/msvc2022_64/include/QtQmlIntegration"
+				},
+				{
+					"backtrace" : 18,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.8.3/msvc2022_64/include/QtNetwork"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					16,
+					16
+				],
+				"standard" : "20"
+			},
+			"sourceIndexes" : 
+			[
+				2
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 9,
+			"id" : "QGroundControlControlsModule_copy_qml::@d5dd82b0e56b2219c454"
+		},
+		{
+			"backtrace" : 11,
+			"id" : "QGroundControlControlsModule_copy_res::@d5dd82b0e56b2219c454"
+		},
+		{
+			"backtrace" : 15,
+			"id" : "QGroundControlControlsModule_generate_qmlls_ini_file::@d5dd82b0e56b2219c454"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "QGroundControlControlsModule_autogen::@d5dd82b0e56b2219c454"
+		},
+		{
+			"id" : "QGroundControlControlsModule_autogen_timestamp_deps::@d5dd82b0e56b2219c454"
+		}
+	],
+	"id" : "QGroundControlControlsModule::@d5dd82b0e56b2219c454",
+	"name" : "QGroundControlControlsModule",
+	"nameOnDisk" : "QGroundControlControlsModule.lib",
+	"paths" : 
+	{
+		"build" : "src/QmlControls",
+		"source" : "src/QmlControls"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files\\Generated",
+			"sourceIndexes" : 
+			[
+				0,
+				303
+			]
+		},
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				1,
+				4,
+				7,
+				9,
+				11,
+				13,
+				15,
+				17,
+				19,
+				21,
+				23,
+				25,
+				27,
+				29,
+				31,
+				33,
+				35,
+				37,
+				39,
+				41,
+				43,
+				45,
+				47,
+				49,
+				51,
+				53,
+				55,
+				57,
+				59,
+				61,
+				63,
+				65,
+				67,
+				69,
+				71,
+				73,
+				75,
+				77,
+				79,
+				81,
+				83,
+				85,
+				87,
+				89,
+				91,
+				93,
+				95,
+				97,
+				99,
+				101,
+				103,
+				105,
+				107,
+				109,
+				111,
+				113,
+				115,
+				117,
+				119,
+				121,
+				123,
+				125,
+				127,
+				129,
+				131,
+				133,
+				135,
+				137,
+				139,
+				141,
+				143,
+				145,
+				147,
+				149,
+				151,
+				153,
+				155,
+				157,
+				159,
+				161,
+				163,
+				165,
+				167,
+				169,
+				171,
+				173,
+				175,
+				177,
+				179,
+				181,
+				183,
+				185,
+				187,
+				189,
+				191,
+				193,
+				195,
+				197,
+				199,
+				201,
+				203,
+				205,
+				207,
+				209,
+				211,
+				213,
+				215,
+				217,
+				219,
+				221,
+				223,
+				225,
+				227,
+				229,
+				231,
+				233,
+				235,
+				237,
+				239,
+				241,
+				243,
+				245,
+				247,
+				249,
+				251,
+				253,
+				255,
+				257,
+				259,
+				261,
+				263,
+				265,
+				267,
+				269,
+				271,
+				273,
+				275,
+				277,
+				279,
+				281,
+				283,
+				285,
+				287,
+				289,
+				291,
+				293,
+				295,
+				297,
+				300,
+				301,
+				302,
+				458,
+				459,
+				460
+			]
+		},
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				2,
+				3,
+				5,
+				6,
+				8,
+				10,
+				12,
+				14,
+				16,
+				18,
+				20,
+				22,
+				24,
+				26,
+				28,
+				30,
+				32,
+				34,
+				36,
+				38,
+				40,
+				42,
+				44,
+				46,
+				48,
+				50,
+				52,
+				54,
+				56,
+				58,
+				60,
+				62,
+				64,
+				66,
+				68,
+				70,
+				72,
+				74,
+				76,
+				78,
+				80,
+				82,
+				84,
+				86,
+				88,
+				90,
+				92,
+				94,
+				96,
+				98,
+				100,
+				102,
+				104,
+				106,
+				108,
+				110,
+				112,
+				114,
+				116,
+				118,
+				120,
+				122,
+				124,
+				126,
+				128,
+				130,
+				132,
+				134,
+				136,
+				138,
+				140,
+				142,
+				144,
+				146,
+				148,
+				150,
+				152,
+				154,
+				156,
+				158,
+				160,
+				162,
+				164,
+				166,
+				168,
+				170,
+				172,
+				174,
+				176,
+				178,
+				180,
+				182,
+				184,
+				186,
+				188,
+				190,
+				192,
+				194,
+				196,
+				198,
+				200,
+				202,
+				204,
+				206,
+				208,
+				210,
+				212,
+				214,
+				216,
+				218,
+				220,
+				222,
+				224,
+				226,
+				228,
+				230,
+				232,
+				234,
+				236,
+				238,
+				240,
+				242,
+				244,
+				246,
+				248,
+				250,
+				252,
+				254,
+				256,
+				258,
+				260,
+				262,
+				264,
+				266,
+				268,
+				270,
+				272,
+				274,
+				276,
+				278,
+				280,
+				282,
+				284,
+				286,
+				288,
+				290,
+				292,
+				294,
+				296,
+				298,
+				299
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				304,
+				305,
+				306,
+				307,
+				308,
+				309,
+				310,
+				311,
+				312,
+				313,
+				314,
+				315,
+				316,
+				317,
+				318,
+				319,
+				320,
+				321,
+				322,
+				323,
+				324,
+				325,
+				326,
+				327,
+				328,
+				329,
+				330,
+				331,
+				332,
+				333,
+				334,
+				335,
+				336,
+				337,
+				338,
+				339,
+				340,
+				341,
+				342,
+				343,
+				344,
+				345,
+				346,
+				347,
+				348,
+				349,
+				350,
+				351,
+				352,
+				353,
+				354,
+				355,
+				356,
+				357,
+				358,
+				359,
+				360,
+				361,
+				362,
+				363,
+				364,
+				365,
+				366,
+				367,
+				368,
+				369,
+				370,
+				371,
+				372,
+				373,
+				374,
+				375,
+				376,
+				377,
+				378,
+				379,
+				380,
+				381,
+				382,
+				383,
+				384,
+				385,
+				386,
+				387,
+				388,
+				389,
+				390,
+				391,
+				392,
+				393,
+				394,
+				395,
+				396,
+				397,
+				398,
+				399,
+				400,
+				401,
+				402,
+				403,
+				404,
+				405,
+				406,
+				407,
+				408,
+				409,
+				410,
+				411,
+				412,
+				413,
+				414,
+				415,
+				416,
+				417,
+				418,
+				419,
+				420,
+				421,
+				422,
+				423,
+				424,
+				425,
+				426,
+				427,
+				428,
+				429,
+				430,
+				431,
+				432,
+				433,
+				434,
+				435,
+				436,
+				437,
+				438,
+				439,
+				440,
+				441,
+				442,
+				443,
+				444,
+				445,
+				446,
+				447,
+				448,
+				449,
+				450,
+				451,
+				452,
+				453,
+				454,
+				455,
+				456,
+				457
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/QGroundControlControlsModule_autogen/mocs_compilation.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 20,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/meta_types/qt6qgroundcontrolcontrolsmodule_relwithdebinfo_metatypes.json.gen",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 21,
+			"compileGroupIndex" : 1,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/qgroundcontrolcontrolsmodule_qmltyperegistrations.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 26,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.qt/rcc/qrc_qmake_QGroundControl_Controls.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 27,
+			"path" : "src/QmlControls/AltModeDialog.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 29,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_qmlcache_loader.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 30,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_AltModeDialog_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 31,
+			"path" : "src/QmlControls/AppSettings.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 32,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_AppSettings_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 33,
+			"path" : "src/QmlControls/APMSubMotorDisplay.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 34,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_APMSubMotorDisplay_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 35,
+			"path" : "src/QmlControls/AppMessages.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 36,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_AppMessages_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 37,
+			"path" : "src/QmlControls/AutotuneUI.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 38,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_AutotuneUI_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 39,
+			"path" : "src/QmlControls/AxisMonitor.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 40,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_AxisMonitor_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 41,
+			"path" : "src/QmlControls/ClickableColor.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 42,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_ClickableColor_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 43,
+			"path" : "src/QmlControls/ConfigButton.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 44,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_ConfigButton_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 45,
+			"path" : "src/QmlControls/DeadMouseArea.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 46,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_DeadMouseArea_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 47,
+			"path" : "src/QmlControls/DropButton.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 48,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_DropButton_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 49,
+			"path" : "src/QmlControls/DropPanel.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 50,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_DropPanel_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 51,
+			"path" : "src/QmlControls/EditPositionDialog.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 52,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_EditPositionDialog_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 53,
+			"path" : "src/QmlControls/ExclusiveGroupItem.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 54,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_ExclusiveGroupItem_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 55,
+			"path" : "src/QmlControls/FactSlider.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 56,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_FactSlider_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 57,
+			"path" : "src/QmlControls/FactSliderPanel.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_FactSliderPanel_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 59,
+			"path" : "src/QmlControls/FileButton.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 60,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_FileButton_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 61,
+			"path" : "src/QmlControls/FlightModeMenu.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 62,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_FlightModeMenu_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 63,
+			"path" : "src/QmlControls/HeightIndicator.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 64,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_HeightIndicator_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 65,
+			"path" : "src/QmlControls/HorizontalFactValueGrid.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 66,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_HorizontalFactValueGrid_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 67,
+			"path" : "src/QmlControls/IndicatorButton.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 68,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_IndicatorButton_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 69,
+			"path" : "src/QmlControls/InstrumentValueEditDialog.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 70,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_InstrumentValueEditDialog_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 71,
+			"path" : "src/QmlControls/InstrumentValueLabel.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_InstrumentValueLabel_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 73,
+			"path" : "src/QmlControls/InstrumentValueValue.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 74,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_InstrumentValueValue_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 75,
+			"path" : "src/QmlControls/JoystickThumbPad.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 76,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_JoystickThumbPad_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 77,
+			"path" : "src/QmlControls/KMLOrSHPFileDialog.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 78,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_KMLOrSHPFileDialog_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 79,
+			"path" : "src/QmlControls/LabelledButton.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 80,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_LabelledButton_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 81,
+			"path" : "src/QmlControls/LabelledComboBox.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 82,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_LabelledComboBox_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 83,
+			"path" : "src/QmlControls/LabelledLabel.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 84,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_LabelledLabel_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 85,
+			"path" : "src/QmlControls/LogReplayStatusBar.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 86,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_LogReplayStatusBar_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 87,
+			"path" : "src/QmlControls/MainWindowSavedState.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 88,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_MainWindowSavedState_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 89,
+			"path" : "src/QmlControls/MAVLinkChart.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 90,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_MAVLinkChart_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 91,
+			"path" : "src/QmlControls/MAVLinkMessageButton.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 92,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_MAVLinkMessageButton_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 93,
+			"path" : "src/QmlControls/MissionCommandDialog.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 94,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_MissionCommandDialog_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 95,
+			"path" : "src/QmlControls/MissionItemIndexLabel.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 96,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_MissionItemIndexLabel_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 97,
+			"path" : "src/QmlControls/MvPanelPage.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 98,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_MvPanelPage_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 99,
+			"path" : "src/QmlControls/OfflineMapButton.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 100,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_OfflineMapButton_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 101,
+			"path" : "src/QmlControls/ParameterDiffDialog.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 102,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_ParameterDiffDialog_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 103,
+			"path" : "src/QmlControls/ParameterEditor.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 104,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_ParameterEditor_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 105,
+			"path" : "src/QmlControls/ParameterEditorDialog.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 106,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_ParameterEditorDialog_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 107,
+			"path" : "src/QmlControls/PIDTuning.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 108,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_PIDTuning_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 109,
+			"path" : "src/QmlControls/PipState.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 110,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_PipState_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 111,
+			"path" : "src/QmlControls/PipView.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 112,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_PipView_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 113,
+			"path" : "src/QmlControls/PreFlightCheckButton.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 114,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_PreFlightCheckButton_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 115,
+			"path" : "src/QmlControls/PreFlightCheckGroup.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 116,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_PreFlightCheckGroup_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 117,
+			"path" : "src/QmlControls/PreFlightCheckModel.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 118,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_PreFlightCheckModel_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 119,
+			"path" : "src/QmlControls/QGCButton.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 120,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_QGCButton_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 121,
+			"path" : "src/QmlControls/QGCCheckBox.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 122,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_QGCCheckBox_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 123,
+			"path" : "src/QmlControls/QGCCheckBoxSlider.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 124,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_QGCCheckBoxSlider_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 125,
+			"path" : "src/QmlControls/QGCColoredImage.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 126,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_QGCColoredImage_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 127,
+			"path" : "src/QmlControls/QGCColumnButton.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 128,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_QGCColumnButton_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 129,
+			"path" : "src/QmlControls/QGCComboBox.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 130,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_QGCComboBox_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 131,
+			"path" : "src/QmlControls/QGCDynamicObjectManager.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 132,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_QGCDynamicObjectManager_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 133,
+			"path" : "src/QmlControls/QGCFileDialog.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 134,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_QGCFileDialog_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 135,
+			"path" : "src/QmlControls/QGCFlickable.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 136,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_QGCFlickable_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 137,
+			"path" : "src/QmlControls/QGCFlickableScrollIndicator.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 138,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_QGCFlickableScrollIndicator_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 139,
+			"path" : "src/QmlControls/QGCGroupBox.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 140,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_QGCGroupBox_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 141,
+			"path" : "src/QmlControls/QGCLabel.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 142,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_QGCLabel_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 143,
+			"path" : "src/QmlControls/QGCListView.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 144,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_QGCListView_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 145,
+			"path" : "src/QmlControls/QGCMapLabel.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 146,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_QGCMapLabel_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 147,
+			"path" : "src/QmlControls/QGCMarqueeLabel.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 148,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_QGCMarqueeLabel_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 149,
+			"path" : "src/QmlControls/QGCMenu.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 150,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_QGCMenu_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 151,
+			"path" : "src/QmlControls/QGCMenuItem.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 152,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_QGCMenuItem_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 153,
+			"path" : "src/QmlControls/QGCMenuSeparator.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 154,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_QGCMenuSeparator_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 155,
+			"path" : "src/QmlControls/QGCMouseArea.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 156,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_QGCMouseArea_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 157,
+			"path" : "src/QmlControls/QGCMovableItem.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 158,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_QGCMovableItem_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 159,
+			"path" : "src/QmlControls/QGCOptionsComboBox.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 160,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_QGCOptionsComboBox_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 161,
+			"path" : "src/QmlControls/QGCPageIndicator.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 162,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_QGCPageIndicator_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 163,
+			"path" : "src/QmlControls/QGCPopupDialog.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 164,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_QGCPopupDialog_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 165,
+			"path" : "src/QmlControls/QGCRadioButton.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 166,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_QGCRadioButton_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 167,
+			"path" : "src/QmlControls/QGCRoundButton.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 168,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_QGCRoundButton_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 169,
+			"path" : "src/QmlControls/QGCSimpleMessageDialog.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 170,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_QGCSimpleMessageDialog_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 171,
+			"path" : "src/QmlControls/QGCSlider.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 172,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_QGCSlider_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 173,
+			"path" : "src/QmlControls/QGCSwipeView.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 174,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_QGCSwipeView_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 175,
+			"path" : "src/QmlControls/QGCSwitch.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 176,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_QGCSwitch_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 177,
+			"path" : "src/QmlControls/QGCTabBar.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 178,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_QGCTabBar_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 179,
+			"path" : "src/QmlControls/QGCTabButton.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 180,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_QGCTabButton_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 181,
+			"path" : "src/QmlControls/QGCTextField.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 182,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_QGCTextField_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 183,
+			"path" : "src/QmlControls/QGCToolBarButton.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 184,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_QGCToolBarButton_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 185,
+			"path" : "src/QmlControls/QGCToolInsets.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 186,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_QGCToolInsets_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 187,
+			"path" : "src/QmlControls/RCChannelMonitor.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 188,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_RCChannelMonitor_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 189,
+			"path" : "src/QmlControls/RCToParamDialog.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 190,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_RCToParamDialog_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 191,
+			"path" : "src/QmlControls/SectionHeader.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 192,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_SectionHeader_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 193,
+			"path" : "src/QmlControls/SelectableControl.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 194,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_SelectableControl_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 195,
+			"path" : "src/QmlControls/SettingsButton.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 196,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_SettingsButton_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 197,
+			"path" : "src/QmlControls/SettingsGroupLayout.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 198,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_SettingsGroupLayout_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 199,
+			"path" : "src/QmlControls/SetupPage.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 200,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_SetupPage_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 201,
+			"path" : "src/QmlControls/SliderSwitch.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 202,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_SliderSwitch_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 203,
+			"path" : "src/QmlControls/SubMenuButton.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 204,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_SubMenuButton_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 205,
+			"path" : "src/QmlControls/TimedProgressTracker.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 206,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_TimedProgressTracker_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 207,
+			"path" : "src/QmlControls/ToolIndicatorPage.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 208,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_ToolIndicatorPage_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 209,
+			"path" : "src/QmlControls/ToolStrip.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 210,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_ToolStrip_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 211,
+			"path" : "src/QmlControls/ToolStripDropPanel.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 212,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_ToolStripDropPanel_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 213,
+			"path" : "src/QmlControls/ToolStripHoverButton.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 214,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_ToolStripHoverButton_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 215,
+			"path" : "src/QmlControls/ValueSlider.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 216,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_ValueSlider_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 217,
+			"path" : "src/QmlControls/VehicleRotationCal.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 218,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_VehicleRotationCal_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 219,
+			"path" : "src/QmlControls/VehicleSummaryRow.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 220,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_VehicleSummaryRow_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 221,
+			"path" : "src/QmlControls/AnalyzePage.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 222,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_AnalyzePage_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 223,
+			"path" : "src/QmlControls/FirstRunPrompt.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 224,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_FirstRunPrompt_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 225,
+			"path" : "src/QmlControls/CameraCalcCamera.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 226,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_CameraCalcCamera_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 227,
+			"path" : "src/QmlControls/CameraCalcGrid.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 228,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_CameraCalcGrid_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 229,
+			"path" : "src/QmlControls/CameraSection.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 230,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_CameraSection_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 231,
+			"path" : "src/QmlControls/CorridorScanEditor.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 232,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_CorridorScanEditor_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 233,
+			"path" : "src/QmlControls/CorridorScanMapVisual.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 234,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_CorridorScanMapVisual_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 235,
+			"path" : "src/QmlControls/FWLandingPatternEditor.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 236,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_FWLandingPatternEditor_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 237,
+			"path" : "src/QmlControls/FWLandingPatternMapVisual.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 238,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_FWLandingPatternMapVisual_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 239,
+			"path" : "src/QmlControls/GeoFenceEditor.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 240,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_GeoFenceEditor_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 241,
+			"path" : "src/QmlControls/GeoFenceMapVisuals.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 242,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_GeoFenceMapVisuals_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 243,
+			"path" : "src/QmlControls/MissionItemEditor.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 244,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_MissionItemEditor_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 245,
+			"path" : "src/QmlControls/MissionItemMapVisual.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 246,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_MissionItemMapVisual_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 247,
+			"path" : "src/QmlControls/MissionItemStatus.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 248,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_MissionItemStatus_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 249,
+			"path" : "src/QmlControls/MissionSettingsEditor.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 250,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_MissionSettingsEditor_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 251,
+			"path" : "src/QmlControls/PlanEditToolbar.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 252,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_PlanEditToolbar_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 253,
+			"path" : "src/QmlControls/PlanToolBarIndicators.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 254,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_PlanToolBarIndicators_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 255,
+			"path" : "src/QmlControls/PlanView.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 256,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_PlanView_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 257,
+			"path" : "src/QmlControls/RallyPointEditorHeader.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 258,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_RallyPointEditorHeader_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 259,
+			"path" : "src/QmlControls/RallyPointItemEditor.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 260,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_RallyPointItemEditor_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 261,
+			"path" : "src/QmlControls/RallyPointMapVisuals.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 262,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_RallyPointMapVisuals_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 263,
+			"path" : "src/QmlControls/SimpleItemEditor.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 264,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_SimpleItemEditor_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 265,
+			"path" : "src/QmlControls/SimpleItemMapVisual.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 266,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_SimpleItemMapVisual_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 267,
+			"path" : "src/QmlControls/StructureScanEditor.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 268,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_StructureScanEditor_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 269,
+			"path" : "src/QmlControls/StructureScanMapVisual.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 270,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_StructureScanMapVisual_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 271,
+			"path" : "src/QmlControls/SurveyItemEditor.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 272,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_SurveyItemEditor_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 273,
+			"path" : "src/QmlControls/SurveyMapVisual.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 274,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_SurveyMapVisual_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 275,
+			"path" : "src/QmlControls/TakeoffItemMapVisual.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 276,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_TakeoffItemMapVisual_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 277,
+			"path" : "src/QmlControls/TerrainStatus.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 278,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_TerrainStatus_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 279,
+			"path" : "src/QmlControls/TransectStyleComplexItemEditor.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 280,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_TransectStyleComplexItemEditor_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 281,
+			"path" : "src/QmlControls/TransectStyleComplexItemStats.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 282,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_TransectStyleComplexItemStats_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 283,
+			"path" : "src/QmlControls/TransectStyleComplexItemTabBar.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 284,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_TransectStyleComplexItemTabBar_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 285,
+			"path" : "src/QmlControls/TransectStyleComplexItemTerrainFollow.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 286,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_TransectStyleComplexItemTerrainFollow_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 287,
+			"path" : "src/QmlControls/TransectStyleMapVisuals.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 288,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_TransectStyleMapVisuals_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 289,
+			"path" : "src/QmlControls/VTOLLandingPatternEditor.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 290,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_VTOLLandingPatternEditor_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 291,
+			"path" : "src/QmlControls/VTOLLandingPatternMapVisual.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 292,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_VTOLLandingPatternMapVisual_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 293,
+			"path" : "src/QmlControls/OfflineMapInfo.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 294,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_OfflineMapInfo_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 295,
+			"path" : "src/QmlControls/BatteryIndicator.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 296,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_BatteryIndicator_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 297,
+			"path" : "src/QmlControls/FlightModeIndicator.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 298,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_FlightModeIndicator_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 299,
+			"path" : "src/QmlControls/FlightModeMenuIndicator.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 300,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_FlightModeMenuIndicator_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 301,
+			"path" : "src/QmlControls/FlyViewToolBar.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 302,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_FlyViewToolBar_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 303,
+			"path" : "src/QmlControls/FlyViewToolBarIndicators.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 304,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_FlyViewToolBarIndicators_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 305,
+			"path" : "src/QmlControls/GPSIndicator.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 306,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_GPSIndicator_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 307,
+			"path" : "src/QmlControls/GPSIndicatorPage.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 308,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_GPSIndicatorPage_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 309,
+			"path" : "src/QmlControls/MainStatusIndicator.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 310,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_MainStatusIndicator_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 311,
+			"path" : "src/QmlControls/MainStatusIndicatorOfflinePage.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 312,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_MainStatusIndicatorOfflinePage_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 313,
+			"path" : "src/QmlControls/PlanViewToolBar.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 314,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_PlanViewToolBar_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 315,
+			"path" : "src/QmlControls/RemoteIDIndicatorPage.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 316,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_RemoteIDIndicatorPage_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 317,
+			"path" : "src/QmlControls/SignalStrength.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 318,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_SignalStrength_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 319,
+			"path" : "src/QmlControls/VehicleMessageList.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 320,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_VehicleMessageList_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 321,
+			"path" : "src/QmlControls/OfflineMapEditor.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 322,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_OfflineMapEditor_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 326,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.qt/rcc/qrc_QGroundControlControlsModule_raw_qml_0.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 329,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.qt/rcc/qmake_QGroundControl_Controls.qrc",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 329,
+			"isGenerated" : true,
+			"path" : "build-mscv/qml/QGroundControl/Controls/qmldir",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 329,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.qt/rcc/QGroundControlControlsModule_raw_qml_0.qrc",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/QGroundControlControlsModule_autogen/timestamp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/meta_types/qt6qgroundcontrolcontrolsmodule_relwithdebinfo_metatypes.json.gen.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/qgroundcontrolcontrolsmodule_qmltyperegistrations.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.qt/rcc/qrc_qmake_QGroundControl_Controls.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_qmlcache_loader.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_AltModeDialog_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_AppSettings_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_APMSubMotorDisplay_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_AppMessages_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_AutotuneUI_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_AxisMonitor_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_ClickableColor_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_ConfigButton_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_DeadMouseArea_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_DropButton_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_DropPanel_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_EditPositionDialog_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_ExclusiveGroupItem_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_FactSlider_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_FactSliderPanel_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_FileButton_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_FlightModeMenu_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_HeightIndicator_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_HorizontalFactValueGrid_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_IndicatorButton_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_InstrumentValueEditDialog_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_InstrumentValueLabel_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_InstrumentValueValue_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_JoystickThumbPad_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_KMLOrSHPFileDialog_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_LabelledButton_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_LabelledComboBox_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_LabelledLabel_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_LogReplayStatusBar_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_MainWindowSavedState_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_MAVLinkChart_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_MAVLinkMessageButton_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_MissionCommandDialog_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_MissionItemIndexLabel_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_MvPanelPage_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_OfflineMapButton_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_ParameterDiffDialog_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_ParameterEditor_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_ParameterEditorDialog_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_PIDTuning_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_PipState_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_PipView_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_PreFlightCheckButton_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_PreFlightCheckGroup_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_PreFlightCheckModel_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_QGCButton_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_QGCCheckBox_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_QGCCheckBoxSlider_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_QGCColoredImage_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_QGCColumnButton_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_QGCComboBox_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_QGCDynamicObjectManager_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_QGCFileDialog_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_QGCFlickable_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_QGCFlickableScrollIndicator_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_QGCGroupBox_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_QGCLabel_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_QGCListView_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_QGCMapLabel_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_QGCMarqueeLabel_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_QGCMenu_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_QGCMenuItem_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_QGCMenuSeparator_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_QGCMouseArea_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_QGCMovableItem_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_QGCOptionsComboBox_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_QGCPageIndicator_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_QGCPopupDialog_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_QGCRadioButton_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_QGCRoundButton_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_QGCSimpleMessageDialog_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_QGCSlider_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_QGCSwipeView_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_QGCSwitch_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_QGCTabBar_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_QGCTabButton_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_QGCTextField_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_QGCToolBarButton_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_QGCToolInsets_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_RCChannelMonitor_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_RCToParamDialog_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_SectionHeader_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_SelectableControl_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_SettingsButton_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_SettingsGroupLayout_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_SetupPage_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_SliderSwitch_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_SubMenuButton_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_TimedProgressTracker_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_ToolIndicatorPage_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_ToolStrip_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_ToolStripDropPanel_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_ToolStripHoverButton_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_ValueSlider_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_VehicleRotationCal_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_VehicleSummaryRow_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_AnalyzePage_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_FirstRunPrompt_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_CameraCalcCamera_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_CameraCalcGrid_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_CameraSection_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_CorridorScanEditor_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_CorridorScanMapVisual_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_FWLandingPatternEditor_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_FWLandingPatternMapVisual_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_GeoFenceEditor_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_GeoFenceMapVisuals_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_MissionItemEditor_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_MissionItemMapVisual_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_MissionItemStatus_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_MissionSettingsEditor_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_PlanEditToolbar_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_PlanToolBarIndicators_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_PlanView_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_RallyPointEditorHeader_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_RallyPointItemEditor_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_RallyPointMapVisuals_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_SimpleItemEditor_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_SimpleItemMapVisual_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_StructureScanEditor_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_StructureScanMapVisual_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_SurveyItemEditor_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_SurveyMapVisual_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_TakeoffItemMapVisual_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_TerrainStatus_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_TransectStyleComplexItemEditor_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_TransectStyleComplexItemStats_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_TransectStyleComplexItemTabBar_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_TransectStyleComplexItemTerrainFollow_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_TransectStyleMapVisuals_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_VTOLLandingPatternEditor_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_VTOLLandingPatternMapVisual_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_OfflineMapInfo_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_BatteryIndicator_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_FlightModeIndicator_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_FlightModeMenuIndicator_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_FlyViewToolBar_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_FlyViewToolBarIndicators_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_GPSIndicator_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_GPSIndicatorPage_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_MainStatusIndicator_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_MainStatusIndicatorOfflinePage_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_PlanViewToolBar_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_RemoteIDIndicatorPage_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_SignalStrength_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_VehicleMessageList_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.rcc/qmlcache/QGroundControlControlsModule_OfflineMapEditor_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/.qt/rcc/qrc_QGroundControlControlsModule_raw_qml_0.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/QGroundControlControlsModule_autogen/timestamp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mscv/src/QmlControls/meta_types/QGroundControlControlsModule_json_file_list.txt.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 16,
+			"path" : "C:/Qt/6.8.3/msvc2022_64/metatypes/qt6qml_metatypes.json",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 16,
+			"path" : "C:/Qt/6.8.3/msvc2022_64/metatypes/qt6core_metatypes.json",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 16,
+			"path" : "C:/Qt/6.8.3/msvc2022_64/metatypes/qt6network_metatypes.json",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "STATIC_LIBRARY"
+}
